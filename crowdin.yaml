@@ -34,3 +34,4 @@ files:
         ur-PK: ur-rPK
         pt-PT: pt-rPT
         pt-BR: pt-rBR
+    content_segmentation: '0'
