@@ -28,16 +28,12 @@
   <string name="battery_bar_style_center_mirrored">Centrada-reflejada</string>
   <string name="battery_bar_style_reversed">Invertida</string>
   <!-- Brightness slider -->
-  <string name="qs_brightness_slider_title">Brightness slider</string>
   <string name="qs_brightness_slider_enabled">Habilitado</string>
   <string name="qs_brightness_slider_disabled">Deshabilitado</string>
-  <string name="brightness_icon_title">Brightness icon </string>
-  <string name="brightness_icon_summary">Show a brightness icon to the left of the brighness slider to adjust auto-brightness</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">Selección de color</string>
   <string name="press_color_to_apply">Pulse color de debajo para aplicar</string>
   <string name="hex">Hex:</string>
-  <string name="hex_hint">#ff000000</string>
   <string name="set">Establecer</string>
   <string name="color_default">Por defecto</string>
   <!-- Network traffic -->
