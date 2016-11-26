@@ -1,4 +1,3 @@
 files:
   - source: /frameworks/base/packages/SystemUI/res/values/xenonhd_strings.xml
-    translation: >-
-
+    translation: /%original_path%-%two_letters_code%/%original_file_name%
