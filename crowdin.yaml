@@ -1,0 +1,36 @@
+files:
+  - source: /**/*.xml
+    translation: /%original_path%-%android_code%/%original_file_name%
+    languages_mapping:
+      android_code:
+        ar: ar
+        bg: bg
+        hr: hr
+        cs: cs
+        da: da
+        nl: nl
+        et: et
+        fi: fi
+        fr: fr
+        de: de
+        el: el
+        hi: hi
+        hu: hu
+        it: it
+        ja: ja
+        ko: ko
+        pl: pl
+        ro: ro
+        ru: ru
+        sk: sk
+        sl: sl
+        es-ES: es
+        sv-SE: sv
+        tr: tr
+        uk: uk
+        vi: vi
+        zh-CN: zh-rCN
+        zh-TW: zh-rTW
+        ur-PK: ur-rPK
+        pt-PT: pt-rPT
+        pt-BR: pt-rBR
