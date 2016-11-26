@@ -33,4 +33,5 @@
   <string name="local_backup_password_title">Masaüstü Şifresini Yedekle</string>
   <!-- Double tap to sleep on lockscreen -->
   <!-- Notification sound timeout -->
+  <!-- Randomize MAC addresses -->
 </resources>
