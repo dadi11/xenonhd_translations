@@ -37,7 +37,6 @@
   <string name="dialog_color_picker">Выбор цвета</string>
   <string name="press_color_to_apply">Нажмите на цвет снизу, чтобы применить</string>
   <string name="hex">Hex код:</string>
-  <string name="hex_hint">#ff000000</string>
   <string name="set">Применить</string>
   <string name="color_default">По умолчанию</string>
   <!-- Network traffic -->
