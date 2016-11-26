@@ -28,16 +28,11 @@
   <string name="battery_bar_style_center_mirrored">中心镜像</string>
   <string name="battery_bar_style_reversed">反转</string>
   <!-- Brightness slider -->
-  <string name="qs_brightness_slider_title">Brightness slider</string>
-  <string name="qs_brightness_slider_enabled">Enabled</string>
   <string name="qs_brightness_slider_disabled">已禁用</string>
-  <string name="brightness_icon_title">Brightness icon </string>
-  <string name="brightness_icon_summary">Show a brightness icon to the left of the brighness slider to adjust auto-brightness</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">颜色选择</string>
   <string name="press_color_to_apply">按选颜色以应用</string>
   <string name="hex">十六进制：</string>
-  <string name="hex_hint">#ff000000</string>
   <string name="set">应用</string>
   <string name="color_default">默认</string>
   <!-- Network traffic -->
