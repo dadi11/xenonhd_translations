@@ -37,7 +37,6 @@
   <string name="dialog_color_picker">Scelta del colore</string>
   <string name="press_color_to_apply">Seleziona il colore per applicarlo</string>
   <string name="hex">Hex:</string>
-  <string name="hex_hint">#ff000000</string>
   <string name="set">Applica</string>
   <string name="color_default">Predefinito</string>
   <!-- Network traffic -->
