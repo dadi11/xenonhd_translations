@@ -37,7 +37,6 @@
   <string name="dialog_color_picker">Wybór koloru</string>
   <string name="press_color_to_apply">Naciśnij na kolor, aby go użyć</string>
   <string name="hex">Wartość szesnastkowa:</string>
-  <string name="hex_hint">#ff000000</string>
   <string name="set">Ustaw</string>
   <string name="color_default">Domyślny</string>
   <!-- Network traffic -->
