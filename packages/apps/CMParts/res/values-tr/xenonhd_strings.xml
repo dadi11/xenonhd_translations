@@ -28,16 +28,11 @@
   <string name="battery_bar_style_center_mirrored">Merkez Ayna Yansıması</string>
   <string name="battery_bar_style_reversed">Zıt</string>
   <!-- Brightness slider -->
-  <string name="qs_brightness_slider_title">Brightness slider</string>
-  <string name="qs_brightness_slider_enabled">Enabled</string>
   <string name="qs_brightness_slider_disabled">Devre Dışı</string>
-  <string name="brightness_icon_title">Brightness icon </string>
-  <string name="brightness_icon_summary">Show a brightness icon to the left of the brighness slider to adjust auto-brightness</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">Renk Seçici</string>
   <string name="press_color_to_apply">Uygulamak İstediğiniz Yere Basın</string>
   <string name="hex">Hex:</string>
-  <string name="hex_hint">#ff000000</string>
   <string name="set">Ayarla</string>
   <string name="color_default">Varsayılan</string>
   <!-- Network traffic -->
