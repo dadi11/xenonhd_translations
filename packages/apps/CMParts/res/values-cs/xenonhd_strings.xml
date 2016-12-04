@@ -15,6 +15,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Battery Bar -->
   <!-- Brightness slider -->
+  <string name="qs_brightness_slider_enabled">Zapnuto</string>
   <!-- Color Picker -->
   <!-- Network traffic -->
   <!-- Superuser indicator on status bar -->
