@@ -64,4 +64,7 @@
   <string name="su_indicator">Indicateur de super-utilisateur</string>
   <string name="su_indicator_summary_on">L\'indicateur super-utilisateur est visible lorsqu’une session est active</string>
   <string name="su_indicator_summary_off">Activer / Désactiver pour afficher l\'indicateur de super-utilisateur lorsqu\'une session est active</string>
+  <!--Status bar date -->
+  <string name="status_bar_date_normal">Standard</string>
+  <string name="status_bar_date_style_normal">Standard</string>
 </resources>
