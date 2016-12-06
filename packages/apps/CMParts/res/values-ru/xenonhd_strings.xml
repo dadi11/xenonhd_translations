@@ -64,7 +64,4 @@
   <string name="su_indicator">Индикатор суперпользователя</string>
   <string name="su_indicator_summary_on">Индикатор суперпользователя отображается, когда сессия активна</string>
   <string name="su_indicator_summary_off">Включите, чтобы отображать индикатор суперпользователя когда сессия активна</string>
-  <!--Status bar date -->
-  <string name="status_bar_date_normal">Обычный</string>
-  <string name="status_bar_date_style_normal">Обычный</string>
 </resources>
