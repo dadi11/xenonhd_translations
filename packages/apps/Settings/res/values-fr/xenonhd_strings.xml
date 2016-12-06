@@ -51,4 +51,5 @@
   <string name="tethering_no_sim_card_text">S’il vous plaît, installer une carte SIM afin de partager votre connexion de données avec d’autres appareils.</string>
   <string name="tether_settings_launch_title">Point d’accès mobile</string>
   <string name="wifi_tether_first_use_message">Mettre en place un hotspot mobile lors de la première utilisation</string>
+  <!-- Volume Steps -->
 </resources>
