@@ -19,4 +19,7 @@
   <!-- Color Picker -->
   <!-- Network traffic -->
   <!-- Superuser indicator on status bar -->
+  <!--Status bar date -->
+  <string name="status_bar_date_normal">Normální</string>
+  <string name="status_bar_date_style_normal">Normální</string>
 </resources>
