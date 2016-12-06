@@ -55,8 +55,13 @@
   <string name="show_network_traffic_1000">1000 ms</string>
   <string name="show_network_traffic_1500">1500 ms</string>
   <string name="show_network_traffic_2000">2000 ms</string>
+  <string name="network_traffic_autohide">Masquer automatiquement</string>
+  <string name="network_traffic_autohide_summary">Masquer le moniteur de trafic lorsqu\'il n\'y a aucune activité</string>
+  <string name="network_traffic_autohide_threshold">Seuil d\'inactivité</string>
+  <string name="network_traffic_hidearrow">Masquer les flèches</string>
+  <string name="network_traffic_hidearrow_summary">Masquer les flèches de l\'indicateur de trafic</string>
   <!-- Superuser indicator on status bar -->
-  <!--Status bar date -->
-  <string name="status_bar_date_normal">Standard</string>
-  <string name="status_bar_date_style_normal">Standard</string>
+  <string name="su_indicator">Indicateur de super-utilisateur</string>
+  <string name="su_indicator_summary_on">L\'indicateur super-utilisateur est visible lorsqu’une session est active</string>
+  <string name="su_indicator_summary_off">Activer / Désactiver pour afficher l\'indicateur de super-utilisateur lorsqu\'une session est active</string>
 </resources>
