@@ -28,12 +28,12 @@
   <string name="system_uptodate">Twój system jest aktualny</string>
   <!-- Check update -->
   <string name="check_update_title">Sprawdź czy jest nowa wersja</string>
-  <string name="last_check_summary">Ostatnio sprawdzane: %1$s</string>
+  <string name="last_check_summary">Ostatnio sprawdzono: %1$s</string>
   <string name="last_check_never">Nigdy</string>
   <string name="check_update_failed">Nie można sprawdzić dostępności aktualizacji, upewnij się, że urządzenie jest obsługiwane przez XenonHD</string>
   <string name="no_update_available">Brak dostępnych aktualizacji</string>
   <!-- Update interval -->
-  <string name="interval_title">Interwał aktualizacji automatycznych</string>
+  <string name="interval_title">Częstotliwość sprawdzania aktualizacji</string>
   <string name="autoupdate_enabled">Aktualizacje automatyczne są włączone</string>
   <string name="autoupdate_disabled">Aktualizacje automatyczne są wyłączone</string>
   <!-- Notification -->
