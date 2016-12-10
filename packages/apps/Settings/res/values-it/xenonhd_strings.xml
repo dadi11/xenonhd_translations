@@ -48,4 +48,5 @@
   <string name="tethering_no_sim_alert_title">Nessuna scheda SIM</string>
   <string name="tethering_no_sim_card_text">Inserisci la tua scheda SIM per condividere la tua connessione ad internet con altri dispositivi usando hotspot o USB tethering.</string>
   <!-- Volume Steps -->
+  <!-- DayNight Theme -->
 </resources>
