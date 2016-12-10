@@ -62,4 +62,7 @@
   <string name="volume_steps_voice_call_title">Rozmowa</string>
   <string name="volume_steps_reset">Resetuj</string>
   <!-- DayNight Theme -->
+  <string name="night_mode_title">Motyw</string>
+  <string name="night_mode_no">Jasny</string>
+  <string name="night_mode_yes">Ciemny</string>
 </resources>
