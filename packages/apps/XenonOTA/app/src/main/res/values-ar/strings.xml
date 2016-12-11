@@ -17,6 +17,8 @@
   -->
 <resources>
   <!-- App -->
+  <string name="app_name">تحديثات XenonHD</string>
+  <string name="app_title">تحديثات XenonHD</string>
   <!-- Categories -->
   <!-- ROM info -->
   <!-- Check update -->
