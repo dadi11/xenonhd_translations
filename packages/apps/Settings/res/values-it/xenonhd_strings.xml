@@ -47,6 +47,9 @@
   <!-- Randomize MAC addresses -->
   <string name="tethering_no_sim_alert_title">Nessuna scheda SIM</string>
   <string name="tethering_no_sim_card_text">Inserisci la tua scheda SIM per condividere la tua connessione ad internet con altri dispositivi usando hotspot o USB tethering.</string>
+  <string name="tether_settings_launch_title">Hotspot</string>
+  <string name="wifi_tether_first_use_message">Configurare hotspot al primo utilizzo</string>
   <!-- Volume Steps -->
+  <string name="volume_steps_title">Livelli volume</string>
   <!-- DayNight Theme -->
 </resources>
