@@ -26,7 +26,9 @@
   <string name="xenonota_title">تحديثات XenonHD</string>
   <string name="xenonota_summary">التحقق من وجود تحديثات ROM</string>
   <!-- Dev Options Enabled by Default -->
+  <string name="show_dev_already_enabled">لا حاجة، إعدادات البرمجة مفعلة بشكل افتراضي.</string>
   <!-- Phone info shortcut -->
+  <string name="device_info_title">معلومات الهاتف</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
   <!-- Double tap to sleep on lockscreen -->
   <!-- Notification sound timeout -->
