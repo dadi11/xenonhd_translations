@@ -52,5 +52,17 @@
   <string name="tether_settings_launch_title">Point d’accès mobile</string>
   <string name="wifi_tether_first_use_message">Mettre en place un hotspot mobile lors de la première utilisation</string>
   <!-- Volume Steps -->
+  <string name="volume_steps_title">Niveaux du volume</string>
+  <string name="volume_steps_alarm_title">Niveaux du volume: Alarme</string>
+  <string name="volume_steps_dtmf_title">Niveaux du volume : DTMF</string>
+  <string name="volume_steps_music_title">Niveaux du volume : Musique</string>
+  <string name="volume_steps_notification_title">Niveaux du volume : Notification</string>
+  <string name="volume_steps_ring_title">Niveaux du volume : Sonnerie</string>
+  <string name="volume_steps_system_title">Niveaux du volume : Système</string>
+  <string name="volume_steps_voice_call_title">Niveaux du volume : Appel Vocal</string>
+  <string name="volume_steps_reset">Réinitialiser</string>
   <!-- DayNight Theme -->
+  <string name="night_mode_title">Thème</string>
+  <string name="night_mode_no">Clair</string>
+  <string name="night_mode_yes">Sombre</string>
 </resources>
