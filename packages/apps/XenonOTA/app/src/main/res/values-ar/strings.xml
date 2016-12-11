@@ -29,6 +29,8 @@
   <!-- Check update -->
   <string name="check_update_title">تحقق من وجود تحديثات</string>
   <string name="last_check_summary">آخر فحص: %1$s</string>
+  <string name="last_check_never">أبداً</string>
+  <string name="check_update_failed">لا يمكن التحقق من وجود تحديثات، تأكد من أن الجهاز مؤيد من قبل XenonHD</string>
   <!-- Update interval -->
   <!-- Notification -->
   <!-- Dialog -->
