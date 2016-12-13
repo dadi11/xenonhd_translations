@@ -65,4 +65,6 @@
   <string name="night_mode_title">Motyw</string>
   <string name="night_mode_no">Jasny</string>
   <string name="night_mode_yes">Ciemny</string>
+  <!-- Screenshot sound -->
+  <string name="screenshot_sound_title">Dźwięk zrzutu ekranu</string>
 </resources>
