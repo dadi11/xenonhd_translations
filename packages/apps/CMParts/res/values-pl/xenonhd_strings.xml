@@ -64,4 +64,7 @@
   <string name="su_indicator">Ikona Superuser</string>
   <string name="su_indicator_summary_on">Ikona Superuser jest widoczna, gdy sesja su jest aktywna</string>
   <string name="su_indicator_summary_off">Pokaż ikonę Superuser, kiedy sesja su jest aktywna</string>
+  <!--Status bar date -->
+  <string name="status_bar_date_normal">Normalny</string>
+  <string name="status_bar_date_style_normal">Normalny</string>
 </resources>
