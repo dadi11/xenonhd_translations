@@ -51,4 +51,7 @@
   <string name="tethering_no_sim_card_text">Proszę włożyć kartę SIM, aby udostępnić połączenie danych innym urządzeniom, za pomocą mobilnego punktu dostępu lub tetheringu przez USB.</string>
   <string name="tether_settings_launch_title">Przenośny punkt dostępu</string>
   <string name="wifi_tether_first_use_message">Skonfiguruj przenośny punk dostępu przy pierwszym użyciu</string>
+  <!-- Volume Steps -->
+  <!-- DayNight Theme -->
+  <!-- Screenshot sound -->
 </resources>
