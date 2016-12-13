@@ -51,4 +51,7 @@
   <string name="tethering_no_sim_card_text">請裝上 SIM 卡，以便使用行動熱點或 USB 網路共用存取網際網路，與其他裝置共用您的數據連線。</string>
   <string name="tether_settings_launch_title">行動熱點</string>
   <string name="wifi_tether_first_use_message">首次使用時設定行動熱點</string>
+  <!-- Volume Steps -->
+  <!-- DayNight Theme -->
+  <!-- Screenshot sound -->
 </resources>
