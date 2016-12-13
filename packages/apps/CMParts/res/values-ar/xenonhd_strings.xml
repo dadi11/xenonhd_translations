@@ -28,4 +28,7 @@
   <!-- Color Picker -->
   <!-- Network traffic -->
   <!-- Superuser indicator on status bar -->
+  <!--Status bar date -->
+  <string name="status_bar_date_normal">عادي</string>
+  <string name="status_bar_date_style_normal">عادي</string>
 </resources>
