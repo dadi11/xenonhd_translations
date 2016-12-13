@@ -19,7 +19,7 @@
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">更新日誌</string>
   <string name="changelog_xenonhd_error">無法讀取更新日誌</string>
-  <string name="changelog_xenonhd_summary">檢查當前版本中的更改</string>
+  <string name="changelog_xenonhd_summary">檢查目前版本中的更改</string>
   <!-- Density category -->
   <string name="density_category">密度選項</string>
   <!-- XenonOTA -->
@@ -44,4 +44,14 @@
   <string name="app_notification_sound_timeout_value_5_minutes">5 分鐘</string>
   <string name="app_notification_sound_timeout_value_15_minutes">10 分鐘</string>
   <string name="app_notification_sound_timeout_value_30_minutes">30 分鐘</string>
+  <!-- Randomize MAC addresses -->
+  <string name="randomize_mac_title">隨機的 MAC 位址</string>
+  <string name="randomize_mac_summary">啟用網路裝置時分配隨機 MAC 位址。 在掃描期間使用 MAC 隨機化，無論是否啟用。</string>
+  <string name="tethering_no_sim_alert_title">沒有 SIM 卡</string>
+  <string name="tethering_no_sim_card_text">請裝上 SIM 卡，以便使用行動熱點或 USB 網路共用存取網際網路，與其他裝置共用您的數據連線。</string>
+  <string name="tether_settings_launch_title">行動熱點</string>
+  <string name="wifi_tether_first_use_message">首次使用時設定行動熱點</string>
+  <!-- Volume Steps -->
+  <!-- DayNight Theme -->
+  <!-- Screenshot sound -->
 </resources>

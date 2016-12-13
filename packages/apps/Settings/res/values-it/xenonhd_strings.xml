@@ -44,4 +44,14 @@
   <string name="app_notification_sound_timeout_value_5_minutes">5 minuti</string>
   <string name="app_notification_sound_timeout_value_15_minutes">10 minuti</string>
   <string name="app_notification_sound_timeout_value_30_minutes">30 minuti</string>
+  <!-- Randomize MAC addresses -->
+  <string name="randomize_mac_title">Indirizzo MAC casuale</string>
+  <string name="randomize_mac_summary">Assegna indirizzi MAC casuali quando i dispositivi di rete sono abilitati. Gli indirizzi MAC casuali sono utilizzati durante la scansione anche se non è abilitato.</string>
+  <string name="tethering_no_sim_alert_title">Nessuna scheda SIM</string>
+  <string name="tethering_no_sim_card_text">Inserisci la tua scheda SIM per condividere la tua connessione ad internet con altri dispositivi usando hotspot o USB tethering.</string>
+  <string name="tether_settings_launch_title">Hotspot</string>
+  <string name="wifi_tether_first_use_message">Configura hotspot al primo utilizzo</string>
+  <!-- Volume Steps -->
+  <!-- DayNight Theme -->
+  <!-- Screenshot sound -->
 </resources>
