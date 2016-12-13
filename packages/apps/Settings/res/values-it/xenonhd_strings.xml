@@ -65,4 +65,5 @@
   <string name="night_mode_title">Tema</string>
   <string name="night_mode_no">Chiaro</string>
   <string name="night_mode_yes">Scuro</string>
+  <!-- Screenshot sound -->
 </resources>
