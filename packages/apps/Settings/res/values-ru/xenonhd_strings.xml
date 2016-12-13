@@ -65,4 +65,5 @@
   <string name="night_mode_title">Тема</string>
   <string name="night_mode_no">Светлая</string>
   <string name="night_mode_yes">Тёмная</string>
+  <!-- Screenshot sound -->
 </resources>
