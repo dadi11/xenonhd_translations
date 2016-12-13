@@ -51,4 +51,7 @@
   <string name="tethering_no_sim_card_text">Inserisci la tua scheda SIM per condividere la tua connessione ad internet con altri dispositivi usando hotspot o USB tethering.</string>
   <string name="tether_settings_launch_title">Hotspot</string>
   <string name="wifi_tether_first_use_message">Configura hotspot al primo utilizzo</string>
+  <!-- Volume Steps -->
+  <!-- DayNight Theme -->
+  <!-- Screenshot sound -->
 </resources>
