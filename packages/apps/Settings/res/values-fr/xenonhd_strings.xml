@@ -68,4 +68,5 @@
   <!-- Screenshot sound -->
   <string name="screenshot_sound_title">Capture d\'écran supprimée</string>
   <string name="screenshot_sound_summary">Émettre un son lors de la capture d\'écran</string>
+
 </resources>
