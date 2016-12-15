@@ -59,10 +59,19 @@
   <string name="network_traffic_autohide_summary">Traffic-Monitor ausblenden, wenn keine Aktivität vorhanden</string>
   <string name="network_traffic_autohide_threshold">Inaktivitätsschwelle</string>
   <string name="network_traffic_hidearrow">Pfeile ausblenden</string>
+  <string name="network_traffic_hidearrow_summary">Versteckt die Pfeile neben den Aktivitätsangaben</string>
   <!-- Superuser indicator on status bar -->
+  <string name="su_indicator">Superuser Anzeige</string>
+  <string name="su_indicator_summary_on">Superuser-Indikator anzeigen, wenn eine Root-Session aktiv ist</string>
+  <string name="su_indicator_summary_off">Superuser-Indikator anzeigen, wenn eine Root-Session aktiv ist</string>
   <!--Status bar date -->
+  <string name="status_bar_clock_category">Uhr</string>
+  <string name="status_bar_date_title">Datum</string>
+  <string name="status_bar_date_none">Ausgeblendet (Standard)</string>
+  <string name="status_bar_date_small">Klein</string>
   <string name="status_bar_date_normal">Normal</string>
-  <string name="status_bar_date_style">Datumsformat</string>
+  <string name="status_bar_date_format_title">Datumsformat</string>
+  <string name="status_bar_date_style">Datumsstil</string>
   <string name="status_bar_date_style_normal">Normal</string>
   <string name="status_bar_date_style_lowercase">Kleinbuchstaben</string>
   <string name="status_bar_date_style_uppercase">Großbuchstaben</string>
