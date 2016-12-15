@@ -14,12 +14,38 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Battery Bar -->
+  <string name="battery_bar_title">Akkuleiste</string>
+  <string name="battery_bar">Position der Akkuleiste</string>
+  <string name="battery_bar_no_navbar">Position der Akkuleiste</string>
+  <string name="battery_bar_color">Farbe der Akkuleiste</string>
+  <string name="battery_bar_charging_color">Farbe beim Ladevorgang</string>
+  <string name="battery_bar_battery_low_color">Farbe bei niedrigem Akkustand</string>
+  <string name="battery_bar_cat">Stil der Akkuleiste</string>
+  <string name="battery_bar_style_title">Ausrichtung der Akkuleiste</string>
+  <string name="battery_bar_thickness_title">Dicke der Akkuleiste</string>
+  <string name="battery_bar_animate_title">Ladeanimation</string>
+  <string name="battery_bar_style_regular">Normal</string>
+  <string name="battery_bar_style_center_mirrored">Mittig gespiegelt</string>
+  <string name="battery_bar_style_reversed">Umgekehrt</string>
   <!-- Brightness slider -->
+  <string name="qs_brightness_slider_title">Helligkeitsregler</string>
   <string name="qs_brightness_slider_enabled">Aktiviert</string>
+  <string name="qs_brightness_slider_disabled">Deaktiviert</string>
+  <string name="brightness_icon_title">Helligkeitssymbol </string>
+  <string name="brightness_icon_summary">Zeigt ein Symbol für die Helligkeit auf der linken Seite des Helligkeitsreglers, um die Auto-Helligkeit anzupassen</string>
   <!-- Color Picker -->
+  <string name="dialog_color_picker">Farbauswahl</string>
   <!-- Network traffic -->
   <!-- Superuser indicator on status bar -->
   <!--Status bar date -->
   <string name="status_bar_date_normal">Normal</string>
+  <string name="status_bar_date_style">Datumsformat</string>
   <string name="status_bar_date_style_normal">Normal</string>
+  <string name="status_bar_date_style_lowercase">Kleinbuchstaben</string>
+  <string name="status_bar_date_style_uppercase">Großbuchstaben</string>
+  <string name="status_bar_date_format_custom">Benutzerdefiniertes Java-Format</string>
+  <string name="status_bar_date_string_edittext_title">Muss ein Datumsformat sein z.B. MM/TT/JJ</string>
+  <string name="status_bar_date_string_edittext_summary">Zeichenfolge eingeben</string>
+  <string name="menu_save">Speichern</string>
+  <string name="menu_cancel">Verwerfen</string>
 </resources>
