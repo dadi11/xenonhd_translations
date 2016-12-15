@@ -46,6 +46,7 @@
   <string name="app_notification_sound_timeout_value_30_minutes">30 Minuten</string>
   <!-- Randomize MAC addresses -->
   <string name="randomize_mac_title">Autorisierte MAC-Adressen</string>
+  <string name="randomize_mac_summary">Weisen Sie zufällige MAC-Adressen zu, wenn Netzwerkgeräte aktiviert sind. MAC-Randomisierung wird während des Scannens verwendet, ob dieses aktiviert ist oder nicht.</string>
   <string name="tethering_no_sim_alert_title">Keine SIM-Karte</string>
   <string name="tethering_no_sim_card_text">Bitte installieren Sie die SIM-Karte, um Ihre Datenverbindung mit anderen Geräten mit einem mobilen Hotspot oder USB-Tethering für den Internetzugang zu teilen.</string>
   <string name="tether_settings_launch_title">Mobiler Hotspot</string>
