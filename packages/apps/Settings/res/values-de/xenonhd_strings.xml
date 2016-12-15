@@ -55,5 +55,10 @@
   <string name="volume_steps_voice_call_title">Lautstärkestufen: Sprachanruf</string>
   <string name="volume_steps_reset">Zurücksetzen</string>
   <!-- DayNight Theme -->
+  <string name="night_mode_title">Thema</string>
+  <string name="night_mode_no">Hell</string>
+  <string name="night_mode_yes">Dunkel</string>
   <!-- Screenshot sound -->
+  <string name="screenshot_sound_title">Bildschirmfoto-Ton</string>
+  <string name="screenshot_sound_summary">Spielt einen Ton ab, wenn ein Screenshot aufgenommen wird</string>
 </resources>
