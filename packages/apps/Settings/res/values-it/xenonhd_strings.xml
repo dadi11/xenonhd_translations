@@ -67,4 +67,5 @@
   <string name="night_mode_yes">Scuro</string>
   <!-- Screenshot sound -->
   <string name="screenshot_sound_title">Suono screenshot</string>
+  <string name="screenshot_sound_summary">Riproduci suono quando si effettua uno screenshot</string>
 </resources>
