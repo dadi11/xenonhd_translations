@@ -34,6 +34,15 @@
   <string name="no_update_available">Geen update beschikbaar</string>
   <!-- Update interval -->
   <string name="interval_title">Automatische update interval</string>
+  <string name="autoupdate_enabled">Automatische updates is ingeschakeld</string>
+  <string name="autoupdate_disabled">Automatische updates is uitgeschakeld</string>
+  <string name="disabled">Uitschakelen</string>
+  <string name="hour">Elk uur</string>
+  <string name="twelve_hours">Iedere 12 uur</string>
+  <string name="twentyfour_hours">Iedere 24 uur</string>
   <!-- Notification -->
+  <string name="notification_title">XenonHD Update</string>
+  <string name="notification_message">Er is een nieuwe versie beschikbaar!</string>
   <!-- Dialog -->
+  <string name="dialog_message">Controleren op updates, moment geduld a.u.b&#8230;</string>
 </resources>
