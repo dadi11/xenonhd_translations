@@ -14,14 +14,32 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
+  <string name="xenonhd_version">XenonHD versie</string>
+  <string name="xenonhd_version_default">Onbekend</string>
   <!-- Changelog -->
+  <string name="changelog_xenonhd_title">Changelog</string>
+  <string name="changelog_xenonhd_error">Kan changelog niet laden</string>
+  <string name="changelog_xenonhd_summary">Controleer wijzigingen in huidige versie</string>
   <!-- Density category -->
+  <string name="density_category">Dichtheid opties</string>
   <!-- XenonOTA -->
+  <string name="xenonota_title">XenonHD Updates</string>
+  <string name="xenonota_summary">Controleren op ROM updates</string>
   <!-- Dev Options Enabled by Default -->
+  <string name="show_dev_already_enabled">Niet nodig, Ontwikkelaars-instellingen staan standaard aan.</string>
   <!-- Phone info shortcut -->
+  <string name="device_info_title">Telefoon info</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+  <string name="local_backup_password_title">Wachtwoord desktopback-up</string>
   <!-- Double tap to sleep on lockscreen -->
+  <string name="double_tap_sleep_anywhere_title">DT2S op vergrendelscherm</string>
+  <string name="double_tap_sleep_anywhere_summary">Dubbeltik op het vergrendelscherm om uit te schakelen</string>
   <!-- Notification sound timeout -->
+  <string name="app_notification_sound_timeout_title">Minimuminterval tussen meldings-geluiden</string>
+  <string name="app_notification_sound_timeout_summary_template">Toestaan dat geluiden of trillingen niet meer dan eenmaal per <xliff:g id="duration">%1$s </xliff:g></string>
+  <string name="app_notification_sound_timeout_value_none">Geen beperkingen</string>
+  <string name="app_notification_sound_timeout_value_10_seconds">10 seconden</string>
+  <string name="app_notification_sound_timeout_value_30_seconds">30 seconden</string>
   <!-- Randomize MAC addresses -->
   <!-- Volume Steps -->
   <!-- DayNight Theme -->
