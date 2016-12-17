@@ -17,7 +17,6 @@
   -->
 <resources>
   <!-- App -->
-  <string name="app_name">Mises à jour XenonHD</string>
   <string name="app_title">Mises à jour XenonHD</string>
   <!-- Categories -->
   <string name="ota_category">Infos sur la mise à jour</string>
