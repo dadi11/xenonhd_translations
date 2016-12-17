@@ -71,5 +71,13 @@
   <string name="status_bar_date_small">Klein</string>
   <string name="status_bar_date_normal">Standaard</string>
   <string name="status_bar_date_format_title">Datum formaat</string>
+  <string name="status_bar_date_style">Datumformaat</string>
   <string name="status_bar_date_style_normal">Standaard</string>
+  <string name="status_bar_date_style_lowercase">Kleine letters</string>
+  <string name="status_bar_date_style_uppercase">Hoofdletters</string>
+  <string name="status_bar_date_format_custom">Aangepast java formaat</string>
+  <string name="status_bar_date_string_edittext_title">Moet in DateFormat bijv. MM/dd/jj</string>
+  <string name="status_bar_date_string_edittext_summary">Voer tekenreeks in</string>
+  <string name="menu_save">Opslaan</string>
+  <string name="menu_cancel">Negeer</string>
 </resources>
