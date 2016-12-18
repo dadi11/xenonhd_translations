@@ -17,7 +17,6 @@
   -->
 <resources>
   <!-- App -->
-  <string name="app_name">XenonHD Güncelleştirmeleri</string>
   <string name="app_title">XenonHD Güncelleştirmeleri</string>
   <!-- Categories -->
   <string name="ota_category">Güncelleme bilgisi</string>
