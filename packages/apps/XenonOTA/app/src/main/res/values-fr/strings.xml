@@ -30,7 +30,7 @@
   <string name="check_update_title">Vérification des mises a jour</string>
   <string name="last_check_summary">Dernière vérification : %1$s</string>
   <string name="last_check_never">Jamais</string>
-  <string name="check_update_failed">Impossible de vérifier les mises à jour, assurez-vous que votre appareil est pris en charge par XenonHD</string>
+  <string name="check_update_failed">Impossible de vérifier les mises à jour, assurez-vous que votre appareil soit pris en charge par XenonHD</string>
   <string name="no_update_available">Aucune mise à jour n’est actuellement disponible</string>
   <!-- Update interval -->
   <string name="interval_title">Intervalle de mise à jour automatique</string>
