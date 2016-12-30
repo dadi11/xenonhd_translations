@@ -59,7 +59,7 @@
   <string name="volume_steps_notification_title">Niveaux du volume: Notifcation</string>
   <string name="volume_steps_ring_title">Niveaux du volume: Sonnerie</string>
   <string name="volume_steps_system_title">Niveaux du volume: Système</string>
-  <string name="volume_steps_voice_call_title">Incrémentation du volume: Appel Vocal</string>
+  <string name="volume_steps_voice_call_title">Niveaux du volume: Appel Vocal</string>
   <string name="volume_steps_reset">Remise à zéro</string>
   <!-- DayNight Theme -->
   <string name="night_mode_title">Thème</string>
