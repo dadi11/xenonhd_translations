@@ -40,8 +40,32 @@
   <string name="app_notification_sound_timeout_value_none">Bez omezení</string>
   <string name="app_notification_sound_timeout_value_10_seconds">10 sekund</string>
   <string name="app_notification_sound_timeout_value_30_seconds">30 sekund</string>
+  <string name="app_notification_sound_timeout_value_1_minute">1 minuta</string>
+  <string name="app_notification_sound_timeout_value_5_minutes">5 minut</string>
+  <string name="app_notification_sound_timeout_value_15_minutes">10 minut</string>
+  <string name="app_notification_sound_timeout_value_30_minutes">30 Minut</string>
   <!-- Randomize MAC addresses -->
+  <string name="randomize_mac_title">Náhodné adresy MAC</string>
+  <string name="randomize_mac_summary">Přiřadí náhodné MAC adresy, pokud jsou síťová zařízení zapnuta. Randomizace MAC je použita během kontroly, bez ohledu na povolení.</string>
+  <string name="tethering_no_sim_alert_title">Není vložena SIM karta</string>
+  <string name="tethering_no_sim_card_text">Prosím vložte SIM kartu a sdílejte datové připojení s dalšími zařízeními pomocí mobilního přístupového bodu nebo USB tethering.</string>
+  <string name="tether_settings_launch_title">Mobilní hotspoty</string>
+  <string name="wifi_tether_first_use_message">Nastavení mobilního hotspotu při prvním použití</string>
   <!-- Volume Steps -->
+  <string name="volume_steps_title">Kroky hlasitosti</string>
+  <string name="volume_steps_alarm_title">Kroky hlasitosti: Budík</string>
+  <string name="volume_steps_dtmf_title">Kroky hlasitosti: DTMF</string>
+  <string name="volume_steps_music_title">Kroky hlasitosti: Hudba</string>
+  <string name="volume_steps_notification_title">Kroky hlasitosti: Upozornění</string>
+  <string name="volume_steps_ring_title">Kroky hlasitosti: Vyzvánění</string>
+  <string name="volume_steps_system_title">Kroky hlasitosti: Systém</string>
+  <string name="volume_steps_voice_call_title">Kroky hlasitosti: Hlasové hovory</string>
+  <string name="volume_steps_reset">Resetovat</string>
   <!-- DayNight Theme -->
+  <string name="night_mode_title">Téma</string>
+  <string name="night_mode_no">Světlé</string>
+  <string name="night_mode_yes">Tmavé</string>
   <!-- Screenshot sound -->
+  <string name="screenshot_sound_title">Zvuk při snímku obrazovky</string>
+  <string name="screenshot_sound_summary">Přehraje zvukový efekt při snímku obrazovky</string>
 </resources>
