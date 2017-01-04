@@ -20,7 +20,7 @@
   <string name="app_name">XenonOTA</string>
   <string name="app_title">XenonHD Updates</string>
   <!-- Categories -->
-  <string name="ota_category">Update info</string>
+  <string name="ota_category">Informatie bijwerken</string>
   <string name="links_category">Download Links</string>
   <!-- ROM info -->
   <string name="latest_version">Nieuwste versie: %1$s</string>
