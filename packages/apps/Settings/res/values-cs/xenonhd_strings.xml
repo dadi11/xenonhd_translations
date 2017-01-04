@@ -14,14 +14,32 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
+  <string name="xenonhd_version">Verze XenonHD</string>
+  <string name="xenonhd_version_default">Neznámá</string>
   <!-- Changelog -->
+  <string name="changelog_xenonhd_title">Protokol změn</string>
+  <string name="changelog_xenonhd_error">Chyba při načítání seznamu změn</string>
+  <string name="changelog_xenonhd_summary">Zkontrolujte změny v aktuálním sestavení</string>
   <!-- Density category -->
+  <string name="density_category">Možnosti hustoty zobrazení</string>
   <!-- XenonOTA -->
+  <string name="xenonota_title">Aktualizace XenonHD</string>
+  <string name="xenonota_summary">Zkontrolovat aktualizace ROM</string>
   <!-- Dev Options Enabled by Default -->
+  <string name="show_dev_already_enabled">Není třeba, možnosti vývojáře jsou ve výchozím nastavení povolena.</string>
   <!-- Phone info shortcut -->
+  <string name="device_info_title">Informace o telefonu</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+  <string name="local_backup_password_title">Heslo pro zálohy v počítači</string>
   <!-- Double tap to sleep on lockscreen -->
+  <string name="double_tap_sleep_anywhere_title">Dvojí poklepání na uzamčenou obrazovku</string>
+  <string name="double_tap_sleep_anywhere_summary">Dvojitým poklepáním na zamykací obrazovku uvést zařízení do režimu spánku</string>
   <!-- Notification sound timeout -->
+  <string name="app_notification_sound_timeout_title">Minimální doba mezi zvuky upozornění</string>
+  <string name="app_notification_sound_timeout_summary_template">Povolit zvuky nebo vibrace ne více než jednou každých <xliff:g id="duration">%1$s </xliff:g></string>
+  <string name="app_notification_sound_timeout_value_none">Bez omezení</string>
+  <string name="app_notification_sound_timeout_value_10_seconds">10 sekund</string>
+  <string name="app_notification_sound_timeout_value_30_seconds">30 sekund</string>
   <!-- Randomize MAC addresses -->
   <!-- Volume Steps -->
   <!-- DayNight Theme -->
