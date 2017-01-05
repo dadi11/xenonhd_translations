@@ -45,7 +45,6 @@
   <string name="accessibility_quick_settings_caffeine_on">Заборона сну увімк</string>
   <string name="quick_settings_nfc_label">NFC</string>
   <string name="accessibility_quick_settings_nfc_off">NFC вимк.</string>
-  <string name="accessibility_quick_settings_nfc_on">NFC увімк.</string>
   <string name="accessibility_quick_settings_nfc_changed_off">NFC вимкнено</string>
   <string name="accessibility_quick_settings_nfc_changed_on">NFC увімкнуто</string>
   <string name="quick_settings_heads_up_label">Спливаючі сповіщення</string>

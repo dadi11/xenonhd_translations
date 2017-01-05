@@ -47,7 +47,6 @@
   <string name="quick_settings_expanded_statusbar_off">Ocultar barra de status</string>
   <string name="quick_settings_nfc_label">Pareamento NFC</string>
   <string name="accessibility_quick_settings_nfc_off">NFC desligado</string>
-  <string name="accessibility_quick_settings_nfc_on">NFC ligado</string>
   <string name="accessibility_quick_settings_nfc_changed_off">NFC desligado.</string>
   <string name="accessibility_quick_settings_nfc_changed_on">NFC ligado.</string>
   <string name="quick_settings_heads_up_label">Notificações pop-up</string>
