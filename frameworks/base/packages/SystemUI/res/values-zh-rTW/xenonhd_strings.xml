@@ -47,7 +47,6 @@
   <string name="quick_settings_expanded_statusbar_off">隱藏狀態列</string>
   <string name="quick_settings_nfc_label">NFC</string>
   <string name="accessibility_quick_settings_nfc_off">關閉 NFC。</string>
-  <string name="accessibility_quick_settings_nfc_on">開啟 NFC。</string>
   <string name="accessibility_quick_settings_nfc_changed_off">NFC 已關閉。</string>
   <string name="accessibility_quick_settings_nfc_changed_on">NFC 已開啟。</string>
   <string name="quick_settings_heads_up_label">浮動通知</string>
