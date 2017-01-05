@@ -18,7 +18,7 @@
 <resources>
   <!-- App -->
   <string name="app_name">XenonOTA</string>
-  <string name="app_title">Mises à jour XenonHD</string>
+  <string name="app_title">Mises à jour de XenonHD</string>
   <!-- Categories -->
   <string name="ota_category">Infos sur la mise à jour</string>
   <string name="links_category">Liens de téléchargement</string>
@@ -37,7 +37,7 @@
   <string name="autoupdate_enabled">La mise à jour automatique est activée</string>
   <string name="autoupdate_disabled">La mise à jour automatique est désactivée</string>
   <string name="disabled">Désactiver</string>
-  <string name="hour">Tous les heures</string>
+  <string name="hour">Toutes les heures</string>
   <string name="twelve_hours">Toutes les 12 heures</string>
   <string name="twentyfour_hours">Toutes les 24 heures</string>
   <!-- Notification -->
