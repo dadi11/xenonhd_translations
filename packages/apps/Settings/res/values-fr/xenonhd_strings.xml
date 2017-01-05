@@ -68,4 +68,9 @@
   <!-- Screenshot sound -->
   <string name="screenshot_sound_title">Son de capture d\'écran</string>
   <string name="screenshot_sound_summary">Émettre un son lors de la capture d\'écran</string>
+  <!-- Manage applications: show substratum overlays -->
+  <!-- Manage applications: show substratum icon overlays -->
+  <!-- XenonHD Configurations-->
+  <!-- Selinux Switch -->
+  <!-- Recents Membar -->
 </resources>
