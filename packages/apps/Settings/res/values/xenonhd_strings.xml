@@ -113,6 +113,6 @@
 
     <!-- Recents Membar -->
     <string name="systemui_recents_mem_display_title">Show Memory Bar</string>
-    <string name="systemui_recents_mem_display_summary">Enable/Disable RAM bar in recent apps view</string>
+    <string name="systemui_recents_mem_display_summary">Show free RAM bar in recent apps view</string>
 
 </resources>
