@@ -69,9 +69,11 @@
   <string name="screenshot_sound_title">Suono screenshot</string>
   <string name="screenshot_sound_summary">Riproduci suono quando si effettua uno screenshot</string>
   <!-- Manage applications: show substratum overlays -->
-  <string name="menu_show_substratum">Mostra overlays</string>
+  <string name="filter_substratum_apps">Overlay di Substratum</string>
+  <string name="menu_show_substratum">Mostra overlay</string>
   <string name="menu_hide_substratum">Nascondi overlay</string>
   <!-- Manage applications: show substratum icon overlays -->
+  <string name="filter_substratum_icons">Icona overlay di Substratum</string>
   <string name="menu_show_substratum_icons">Mostra icone overlay</string>
   <string name="menu_hide_substratum_icons">Nascondi icone overlay</string>
   <!-- XenonHD Configurations-->
