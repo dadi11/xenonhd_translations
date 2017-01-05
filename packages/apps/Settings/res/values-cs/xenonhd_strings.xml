@@ -68,4 +68,9 @@
   <!-- Screenshot sound -->
   <string name="screenshot_sound_title">Zvuk při snímku obrazovky</string>
   <string name="screenshot_sound_summary">Přehraje zvukový efekt při snímku obrazovky</string>
+  <!-- Manage applications: show substratum overlays -->
+  <!-- Manage applications: show substratum icon overlays -->
+  <!-- XenonHD Configurations-->
+  <!-- Selinux Switch -->
+  <!-- Recents Membar -->
 </resources>
