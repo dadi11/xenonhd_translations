@@ -69,8 +69,23 @@
   <string name="screenshot_sound_title">Son de capture d\'écran</string>
   <string name="screenshot_sound_summary">Émettre un son lors de la capture d\'écran</string>
   <!-- Manage applications: show substratum overlays -->
+  <string name="filter_substratum_apps">Surcouches Substratum</string>
+  <string name="menu_show_substratum">Afficher les surcouches</string>
+  <string name="menu_hide_substratum">Masquer les surcouches</string>
   <!-- Manage applications: show substratum icon overlays -->
+  <string name="filter_substratum_icons">Icône surcouches Substratum</string>
+  <string name="menu_show_substratum_icons">Afficher les icônes de surcouches</string>
+  <string name="menu_hide_substratum_icons">Masquer les icônes de surcouches</string>
   <!-- XenonHD Configurations-->
+  <string name="xenonhd_title">Configurations</string>
+  <string name="xenonhd_misc_title">Réglages divers</string>
   <!-- Selinux Switch -->
+  <string name="selinux_switch_title">Option de changement d\'état de Selinux</string>
+  <string name="selinux_switch_summary">SELinux est un ensemble de modifications du noyau et d\'outils espace utilisateur. Le changement de mode peut provoquer des effets indésirables. Utiliser à vos risques et périls</string>
+  <string name="selinux_title">Mode de Selinux</string>
+  <string name="selinux_permissive_title">Permissif</string>
+  <string name="selinux_enforcing_title">Appliqué</string>
   <!-- Recents Membar -->
+  <string name="systemui_recents_mem_display_title">Afficher la barre de mémoire</string>
+  <string name="systemui_recents_mem_display_summary">Afficher la barre de RAM libre dans le multitâche</string>
 </resources>
