@@ -14,7 +14,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
-  <string name="xenonhd_version">XenonHD Versiyon</string>
+  <string name="xenonhd_version">XenonHD Versiyonu</string>
   <string name="xenonhd_version_default">Bilinmeyen</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Değişikliklers</string>
@@ -36,6 +36,7 @@
   <string name="double_tap_sleep_anywhere_summary">Kilit ekranında herhangi bir yere iki kez dokunarak cihazı uyku moduna alabilirsiniz</string>
   <!-- Notification sound timeout -->
   <string name="app_notification_sound_timeout_title">Bildirim sesleri arasında en az zaman</string>
+  <string name="app_notification_sound_timeout_summary_template">Bir defadan fazla olmayacak şekilde her <xliff:g id="duration">%1$s</xliff:g>\'da bir titreme veya sese izin ver</string>
   <string name="app_notification_sound_timeout_value_none">Kısıtlama yok</string>
   <string name="app_notification_sound_timeout_value_10_seconds">10 Saniye</string>
   <string name="app_notification_sound_timeout_value_30_seconds">30 Saniye</string>
@@ -45,6 +46,7 @@
   <string name="app_notification_sound_timeout_value_30_minutes">30 dakika</string>
   <!-- Randomize MAC addresses -->
   <string name="randomize_mac_title">Rastgele MAC adresleri</string>
+  <string name="randomize_mac_summary">Cihaz bağlantısı sağlandığında rastgele MAC adresi ata. Rastgele MAC adresi ataması tarama aktif olsa da olmasa da yapılacaktır.</string>
   <string name="tethering_no_sim_alert_title">SIM kart yok</string>
   <string name="tethering_no_sim_card_text">Lütfen diğer cihazlarla USB ile ya da kablosuz ağ paylaşımı yapmak için SIM kartınızı takın.</string>
   <string name="tether_settings_launch_title">Kablosuz Ağ Paylaşımı</string>
@@ -72,10 +74,12 @@
   <string name="xenonhd_title">Yapılandır</string>
   <string name="xenonhd_misc_title">Çeşitler</string>
   <!-- Selinux Switch -->
+  <string name="selinux_switch_title">Selinux\'a geçme ayarları</string>
   <string name="selinux_switch_summary">SELinux kernel modifikasyonları içerir. Bu ayarları değiştirmek istenmeyen sonuçlara yol açabilir. Sorumluluk size aittir</string>
   <string name="selinux_title">SELinux modu</string>
   <string name="selinux_permissive_title">İzinler</string>
   <string name="selinux_enforcing_title">Zorunlu</string>
   <!-- Recents Membar -->
   <string name="systemui_recents_mem_display_title">Bellek çubuğunu göster</string>
+  <string name="systemui_recents_mem_display_summary">Son uygulamalar ekranında boşta RAM miktarını göster</string>
 </resources>
