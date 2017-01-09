@@ -71,5 +71,13 @@
   <string name="status_bar_date_small">Küçük</string>
   <string name="status_bar_date_normal">Normal</string>
   <string name="status_bar_date_format_title">Tarih biçimi</string>
+  <string name="status_bar_date_style">Tarih stili</string>
   <string name="status_bar_date_style_normal">Normal</string>
+  <string name="status_bar_date_style_lowercase">Küçük harf</string>
+  <string name="status_bar_date_style_uppercase">Büyük harf</string>
+  <string name="status_bar_date_format_custom">Özel java formatı</string>
+  <string name="status_bar_date_string_edittext_title">Tarih formatı AA/gg/yy vb. olmalı</string>
+  <string name="status_bar_date_string_edittext_summary">Değer girin</string>
+  <string name="menu_save">Kaydet</string>
+  <string name="menu_cancel">Yoksay</string>
 </resources>
