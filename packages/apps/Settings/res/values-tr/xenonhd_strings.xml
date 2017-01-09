@@ -61,10 +61,21 @@
   <string name="volume_steps_reset">Sıfırla</string>
   <!-- DayNight Theme -->
   <string name="night_mode_title">Tema</string>
+  <string name="night_mode_no">Parlak</string>
+  <string name="night_mode_yes">Koyu</string>
   <!-- Screenshot sound -->
+  <string name="screenshot_sound_title">Ekran Görüntüsü Sesi</string>
+  <string name="screenshot_sound_summary">Ekran görüntüsü alındığında bildirim çal</string>
   <!-- Manage applications: show substratum overlays -->
   <!-- Manage applications: show substratum icon overlays -->
   <!-- XenonHD Configurations-->
+  <string name="xenonhd_title">Yapılandır</string>
+  <string name="xenonhd_misc_title">Çeşitler</string>
   <!-- Selinux Switch -->
+  <string name="selinux_switch_summary">SELinux kernel modifikasyonları içerir. Bu ayarları değiştirmek istenmeyen sonuçlara yol açabilir. Sorumluluk size aittir</string>
+  <string name="selinux_title">SELinux modu</string>
+  <string name="selinux_permissive_title">İzinler</string>
+  <string name="selinux_enforcing_title">Zorunlu</string>
   <!-- Recents Membar -->
+  <string name="systemui_recents_mem_display_title">Bellek çubuğunu göster</string>
 </resources>
