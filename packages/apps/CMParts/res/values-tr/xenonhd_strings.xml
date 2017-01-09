@@ -28,6 +28,7 @@
   <string name="battery_bar_style_center_mirrored">Merkez Ayna Yansıması</string>
   <string name="battery_bar_style_reversed">Zıt</string>
   <!-- Brightness slider -->
+  <string name="qs_brightness_slider_enabled">Etkin</string>
   <string name="qs_brightness_slider_disabled">Devre Dışı</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">Renk Seçici</string>
@@ -61,4 +62,6 @@
   <string name="su_indicator_summary_on">Bir oturum etkin olduğunda superuser göstergesi görünür</string>
   <string name="su_indicator_summary_off">Bir oturumu etkin olduğunda yetkili kullanıcı göstergesi göstermek için Değiştir</string>
   <!--Status bar date -->
+  <string name="status_bar_date_normal">Normal</string>
+  <string name="status_bar_date_style_normal">Normal</string>
 </resources>
