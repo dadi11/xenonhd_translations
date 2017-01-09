@@ -32,6 +32,7 @@
   <string name="qs_brightness_slider_enabled">Engedélyezve</string>
   <string name="qs_brightness_slider_disabled">Kikapcsolva</string>
   <string name="brightness_icon_title">Fényerő ikon </string>
+  <string name="brightness_icon_summary">Fényerő ikon megjelenítése a fényerőcsúszka bal oldalán az automatikus fényerő beállításához</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">Színválasztó</string>
   <string name="press_color_to_apply">Érintse meg a színt az alkalmazáshoz</string>
@@ -39,6 +40,7 @@
   <string name="set">Beállít</string>
   <string name="color_default">Alapértelmezett</string>
   <!-- Network traffic -->
+  <string name="traffic_category">Forgalom jelzők</string>
   <string name="network_traffic_title">Hálózati forgalom</string>
   <string name="show_network_traffic_state">Állapotsori forgalom kijelzés</string>
   <string name="show_network_traffic_unit">Kijelző egység</string>
