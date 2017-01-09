@@ -32,8 +32,19 @@
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
   <string name="local_backup_password_title">Masaüstü Şifresini Yedekle</string>
   <!-- Double tap to sleep on lockscreen -->
+  <string name="double_tap_sleep_anywhere_title">Kilit ekranında DT2S</string>
+  <string name="double_tap_sleep_anywhere_summary">Kilit ekranında herhangi bir yere iki kez dokunarak cihazı uyku moduna alabilirsiniz</string>
   <!-- Notification sound timeout -->
+  <string name="app_notification_sound_timeout_title">Bildirim sesleri arasında en az zaman</string>
+  <string name="app_notification_sound_timeout_value_none">Kısıtlama yok</string>
+  <string name="app_notification_sound_timeout_value_10_seconds">10 Saniye</string>
+  <string name="app_notification_sound_timeout_value_30_seconds">30 Saniye</string>
+  <string name="app_notification_sound_timeout_value_1_minute">1 Dakika</string>
+  <string name="app_notification_sound_timeout_value_5_minutes">5 Dakika</string>
+  <string name="app_notification_sound_timeout_value_15_minutes">10 Dakika</string>
+  <string name="app_notification_sound_timeout_value_30_minutes">30 dakika</string>
   <!-- Randomize MAC addresses -->
+  <string name="randomize_mac_title">Rastgele MAC adresleri</string>
   <!-- Volume Steps -->
   <!-- DayNight Theme -->
   <!-- Screenshot sound -->
