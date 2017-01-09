@@ -51,11 +51,26 @@
   <string name="volume_steps_alarm_title">Hangerő lépések: Ébresztő</string>
   <string name="volume_steps_dtmf_title">Hangerő lépések: DTMF</string>
   <string name="volume_steps_music_title">Hangerő lépések: Zene</string>
+  <string name="volume_steps_notification_title">Hangerő lépések: Értesítés</string>
+  <string name="volume_steps_ring_title">Hangerő lépések: Csengés</string>
+  <string name="volume_steps_system_title">Hangerő lépések: Rendszer</string>
+  <string name="volume_steps_voice_call_title">Hangerő lépések: Hanghívás</string>
+  <string name="volume_steps_reset">Visszaállitás</string>
   <!-- DayNight Theme -->
+  <string name="night_mode_title">Téma</string>
+  <string name="night_mode_no">Világos</string>
+  <string name="night_mode_yes">Sötét</string>
   <!-- Screenshot sound -->
+  <string name="screenshot_sound_title">Képernyőmentési hang</string>
   <!-- Manage applications: show substratum overlays -->
   <!-- Manage applications: show substratum icon overlays -->
   <!-- XenonHD Configurations-->
+  <string name="xenonhd_title">Konfigurációk</string>
   <!-- Selinux Switch -->
+  <string name="selinux_title">Selinux mód</string>
+  <string name="selinux_permissive_title">Engedélyező</string>
+  <string name="selinux_enforcing_title">Kényszerítés</string>
   <!-- Recents Membar -->
+  <string name="systemui_recents_mem_display_title">Memória sáv megjelenítése</string>
+  <string name="systemui_recents_mem_display_summary">Szabad RAM sáv megjelenítése a legújabb alkalmazások nézetben</string>
 </resources>
