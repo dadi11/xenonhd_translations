@@ -15,6 +15,11 @@
   <!-- Screenshot Delete Toast -->
   <!-- Status bar items tuner -->
   <!-- Quick Settings tiles -->
+  <string name="quick_settings_network_adb_enabled_label">Aktiverad</string>
+  <string name="quick_settings_reboot_label">Starta om</string>
+  <string name="quick_settings_music_label">Musik</string>
+  <string name="quick_settings_nfc_label">NFC</string>
+  <string name="accessibility_quick_settings_nfc_on">NFC på</string>
   <!-- Text to use when the number in a notification info is too large
          (greater than status_bar_notification_info_maxnum, defined in
          values/config.xml) and must be truncated. [CHAR LIMIT=4] -->
