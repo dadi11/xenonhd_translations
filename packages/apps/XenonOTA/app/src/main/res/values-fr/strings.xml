@@ -27,7 +27,7 @@
   <string name="unknown">Inconnu</string>
   <string name="system_uptodate">Votre système est à jour</string>
   <!-- Check update -->
-  <string name="check_update_title">Vérification des mises a jour</string>
+  <string name="check_update_title">Vérification des mises à jour</string>
   <string name="last_check_summary">Dernière vérification : %1$s</string>
   <string name="last_check_never">Jamais</string>
   <string name="check_update_failed">Impossible de vérifier les mises à jour, assurez-vous que votre appareil soit pris en charge par XenonHD</string>
