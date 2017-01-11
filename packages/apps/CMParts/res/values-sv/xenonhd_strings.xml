@@ -14,9 +14,21 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Battery Bar -->
+  <string name="battery_bar_style_regular">Vanlig</string>
   <!-- Brightness slider -->
+  <string name="qs_brightness_slider_enabled">Aktiverad</string>
   <!-- Color Picker -->
+  <string name="hex">Hex:</string>
+  <string name="color_default">Förvalt</string>
   <!-- Network traffic -->
+  <string name="show_network_traffic_500">500 ms</string>
+  <string name="show_network_traffic_1000">1000 ms</string>
+  <string name="show_network_traffic_1500">1500 ms</string>
+  <string name="show_network_traffic_2000">2000 ms</string>
   <!-- Superuser indicator on status bar -->
   <!--Status bar date -->
+  <string name="status_bar_clock_category">Klocka</string>
+  <string name="status_bar_date_title">Datum</string>
+  <string name="status_bar_date_small">Liten</string>
+  <string name="menu_save">Spara</string>
 </resources>
