@@ -31,7 +31,9 @@
   <!-- Notification sound timeout -->
   <!-- Randomize MAC addresses -->
   <!-- Volume Steps -->
+  <string name="volume_steps_reset">Återställ</string>
   <!-- DayNight Theme -->
+  <string name="night_mode_title">Tema</string>
   <!-- Screenshot sound -->
   <!-- Manage applications: show substratum overlays -->
   <!-- Manage applications: show substratum icon overlays -->
