@@ -16,6 +16,7 @@
   <!-- Status bar items tuner -->
   <!-- Quick Settings tiles -->
   <string name="quick_settings_network_adb_enabled_label">Aktiverad</string>
+  <string name="accessibility_quick_settings_sync_on">Synk på</string>
   <string name="quick_settings_reboot_label">Starta om</string>
   <string name="quick_settings_music_label">Musik</string>
   <string name="quick_settings_nfc_label">NFC</string>
