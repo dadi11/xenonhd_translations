@@ -31,6 +31,7 @@
   <!-- Double tap to sleep on lockscreen -->
   <string name="double_tap_sleep_anywhere_title">DT2S på låsskärmen</string>
   <!-- Notification sound timeout -->
+  <string name="app_notification_sound_timeout_value_none">Ingen begränsning</string>
   <string name="app_notification_sound_timeout_value_10_seconds">10 sekunder</string>
   <string name="app_notification_sound_timeout_value_30_seconds">30 sekunder</string>
   <string name="app_notification_sound_timeout_value_1_minute">1 minut</string>
@@ -54,10 +55,13 @@
   <string name="night_mode_no">Ljus</string>
   <string name="night_mode_yes">Mörk</string>
   <!-- Screenshot sound -->
+  <string name="screenshot_sound_title">Skärmdumpsljud</string>
   <!-- Manage applications: show substratum overlays -->
   <!-- Manage applications: show substratum icon overlays -->
   <!-- XenonHD Configurations-->
+  <string name="xenonhd_title">Konfigurationer</string>
   <!-- Selinux Switch -->
+  <string name="selinux_title">Selinux-läge</string>
   <string name="selinux_permissive_title">Tillåtande</string>
   <!-- Recents Membar -->
 </resources>
