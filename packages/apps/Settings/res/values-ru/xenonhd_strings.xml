@@ -16,6 +16,7 @@
   <!-- About phone screen, XenonHD version -->
   <string name="xenonhd_version">Версия XenonHD</string>
   <string name="xenonhd_version_default">Неизвестно</string>
+  <string name="xenonhd_maintainer_default">Неизвестно</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Список изменений</string>
   <string name="changelog_xenonhd_error">Невозможно загрузить список изменений</string>
@@ -88,4 +89,7 @@
   <!-- Recents Membar -->
   <string name="systemui_recents_mem_display_title">Показывать панель использования ОЗУ</string>
   <string name="systemui_recents_mem_display_summary">Показывать панель свободной ОЗУ в меню недавних приложений</string>
+  <!-- Quick settings tiles columns and rows config -->
+  <!-- Media art -->
+  <!-- Quick unlock -->
 </resources>
