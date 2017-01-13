@@ -14,7 +14,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
-  <string name="xenonhd_version">XenonHD-version</string>
   <string name="xenonhd_version_default">Okänd</string>
   <string name="xenonhd_maintainer_default">Okänd</string>
   <!-- Changelog -->
@@ -44,12 +43,7 @@
   <string name="tethering_no_sim_alert_title">Inget SIM-kort</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">Volymsteg</string>
-  <string name="volume_steps_alarm_title">Volymsteg: Alarm</string>
-  <string name="volume_steps_dtmf_title">Volymsteg: DTMF</string>
-  <string name="volume_steps_music_title">Volymsteg: Musik</string>
-  <string name="volume_steps_ring_title">Volym steg: Ringsignal</string>
-  <string name="volume_steps_system_title">Volymsteg: System</string>
-  <string name="volume_steps_voice_call_title">Volymsteg: Röstsamtal</string>
+  <string name="volume_steps_music_title">Musik</string>
   <string name="volume_steps_reset">Återställ</string>
   <!-- DayNight Theme -->
   <string name="night_mode_title">Tema</string>
@@ -68,4 +62,5 @@
   <!-- Quick settings tiles columns and rows config -->
   <!-- Media art -->
   <!-- Quick unlock -->
+  <!-- Three-fingers-swipe to screenshot -->
 </resources>
