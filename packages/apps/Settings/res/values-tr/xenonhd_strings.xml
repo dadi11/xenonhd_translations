@@ -21,7 +21,7 @@
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Değişiklikler</string>
   <string name="changelog_xenonhd_error">Değişiklik kaydı yüklenemedi</string>
-  <string name="changelog_xenonhd_summary">Değişiklikleri Kontrol Et Ve Geçerli Yap</string>
+  <string name="changelog_xenonhd_summary">Geçerli yapıdaki değişiklikleri kontrol et</string>
   <!-- Density category -->
   <string name="density_category">Yoğunluk Ayarları</string>
   <!-- XenonOTA -->
@@ -102,6 +102,7 @@
   <string name="media_art_summary">Kilit ekranında medya albüm kapağını etkinleştir</string>
   <!-- Quick unlock -->
   <string name="quick_unlock_warning">UYARI</string>
+  <string name="quick_unlock_warning_summary">bu özellik hemen hemen birden fazla kullanıcı tarafından kötü kullanılır ve önemli güvenlik mekanizmalarını atlar. Risk size aittir.</string>
   <string name="unlock_quick_unlock_control_title">Hızlı kilit aç</string>
   <string name="unlock_quick_unlock_control_summary">Doğru PIN/Şifre girildiğinde otomatik olarak kilidi aç</string>
 </resources>
