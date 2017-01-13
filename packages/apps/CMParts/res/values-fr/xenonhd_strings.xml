@@ -80,4 +80,5 @@
   <string name="status_bar_date_string_edittext_summary">Entrer la valeur</string>
   <string name="menu_save">Enregistrer</string>
   <string name="menu_cancel">Annuler</string>
+  <!-- Navbar Animation -->
 </resources>
