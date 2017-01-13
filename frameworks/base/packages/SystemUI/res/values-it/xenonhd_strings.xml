@@ -46,15 +46,8 @@
   <string name="quick_settings_expanded_navigation_off">Nascondi barra di navigazione</string>
   <string name="quick_settings_expanded_statusbar_off">Nascondi barra di stato</string>
   <string name="quick_settings_nfc_label">NFC</string>
-  <string name="accessibility_quick_settings_nfc_off">NFC non attivo</string>
   <string name="accessibility_quick_settings_nfc_on">NFC attivo</string>
-  <string name="accessibility_quick_settings_nfc_changed_off">NFC disabilitato</string>
-  <string name="accessibility_quick_settings_nfc_changed_on">NFC abilitato</string>
   <string name="quick_settings_heads_up_label">Notifiche a comparsa</string>
-  <string name="accessibility_quick_settings_heads_up_off">Notifiche a comparsa non attive</string>
-  <string name="accessibility_quick_settings_heads_up_on">Notifiche a comparsa attivate</string>
-  <string name="accessibility_quick_settings_heads_up_changed_off">Notifiche a comparsa disattivate</string>
-  <string name="accessibility_quick_settings_heads_up_changed_on">Notifiche a comparsa attivate</string>
   <string name="quick_settings_ambient_display_label">Ambient display</string>
   <string name="accessibility_quick_settings_ambient_display_off">Ambient dsplay non attivo</string>
   <string name="accessibility_quick_settings_ambient_display_on">Ambient display attivo</string>
@@ -64,5 +57,5 @@
          (greater than status_bar_notification_info_maxnum, defined in
          values/config.xml) and must be truncated. [CHAR LIMIT=4] -->
   <!-- Free RAM -->
-  <string name="free_ram">RAM disponibile: </string>
+  <!-- Path data for Solid battery -->
 </resources>

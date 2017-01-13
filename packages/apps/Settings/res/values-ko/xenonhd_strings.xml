@@ -14,7 +14,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
-  <string name="xenonhd_version">XenonHD 버전</string>
   <string name="xenonhd_version_default">알 수 없는</string>
   <string name="xenonhd_maintainer_default">알 수 없는</string>
   <!-- Changelog -->
@@ -40,4 +39,5 @@
   <!-- Quick settings tiles columns and rows config -->
   <!-- Media art -->
   <!-- Quick unlock -->
+  <!-- Three-fingers-swipe to screenshot -->
 </resources>

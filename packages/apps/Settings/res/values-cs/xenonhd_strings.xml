@@ -14,7 +14,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
-  <string name="xenonhd_version">Verze XenonHD</string>
   <string name="xenonhd_version_default">Neznámá</string>
   <string name="xenonhd_maintainer_default">Neznámá</string>
   <!-- Changelog -->
@@ -27,7 +26,6 @@
   <string name="xenonota_title">Aktualizace XenonHD</string>
   <string name="xenonota_summary">Zkontrolovat aktualizace ROM</string>
   <!-- Dev Options Enabled by Default -->
-  <string name="show_dev_already_enabled">Není třeba, možnosti vývojáře jsou ve výchozím nastavení povolena.</string>
   <!-- Phone info shortcut -->
   <string name="device_info_title">Informace o telefonu</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
@@ -47,20 +45,12 @@
   <string name="app_notification_sound_timeout_value_30_minutes">30 Minut</string>
   <!-- Randomize MAC addresses -->
   <string name="randomize_mac_title">Náhodné adresy MAC</string>
-  <string name="randomize_mac_summary">Přiřadí náhodné MAC adresy, pokud jsou síťová zařízení zapnuta. Randomizace MAC je použita během kontroly, bez ohledu na povolení.</string>
   <string name="tethering_no_sim_alert_title">Není vložena SIM karta</string>
-  <string name="tethering_no_sim_card_text">Prosím vložte SIM kartu a sdílejte datové připojení s dalšími zařízeními pomocí mobilního přístupového bodu nebo USB tethering.</string>
   <string name="tether_settings_launch_title">Mobilní hotspoty</string>
   <string name="wifi_tether_first_use_message">Nastavení mobilního hotspotu při prvním použití</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">Kroky hlasitosti</string>
-  <string name="volume_steps_alarm_title">Kroky hlasitosti: Budík</string>
-  <string name="volume_steps_dtmf_title">Kroky hlasitosti: DTMF</string>
-  <string name="volume_steps_music_title">Kroky hlasitosti: Hudba</string>
-  <string name="volume_steps_notification_title">Kroky hlasitosti: Upozornění</string>
-  <string name="volume_steps_ring_title">Kroky hlasitosti: Vyzvánění</string>
-  <string name="volume_steps_system_title">Kroky hlasitosti: Systém</string>
-  <string name="volume_steps_voice_call_title">Kroky hlasitosti: Hlasové hovory</string>
+  <string name="volume_steps_music_title">Hudba</string>
   <string name="volume_steps_reset">Resetovat</string>
   <!-- DayNight Theme -->
   <string name="night_mode_title">Téma</string>
@@ -81,12 +71,14 @@
   <string name="xenonhd_title">Nastavení</string>
   <string name="xenonhd_misc_title">Různé</string>
   <!-- Selinux Switch -->
-  <string name="selinux_switch_title">Možnosti přepínače SELinux</string>
-  <string name="selinux_switch_summary">SELinux je soubor změn na linuxovém jádře a způsob přidělování zdrojů pro danou aplikaci. Změna režimu může způsobit nežádoucí chování. Použití je na vlastní nebezpečí</string>
   <string name="selinux_title">Selinux režim</string>
   <string name="selinux_permissive_title">Mírné</string>
   <string name="selinux_enforcing_title">Vynucené</string>
   <!-- Recents Membar -->
   <string name="systemui_recents_mem_display_title">Zobrazit ukazatel paměti</string>
   <string name="systemui_recents_mem_display_summary">Zobrazit ukazatel volné RAM v zobrazení nedávných aplikací</string>
+  <!-- Quick settings tiles columns and rows config -->
+  <!-- Media art -->
+  <!-- Quick unlock -->
+  <!-- Three-fingers-swipe to screenshot -->
 </resources>
