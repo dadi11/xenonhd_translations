@@ -30,6 +30,7 @@
   <!-- Notification sound timeout -->
   <!-- Randomize MAC addresses -->
   <!-- Volume Steps -->
+  <string name="volume_steps_music_title">Музика</string>
   <!-- DayNight Theme -->
   <!-- Screenshot sound -->
   <!-- Manage applications: show substratum overlays -->
@@ -40,4 +41,5 @@
   <!-- Quick settings tiles columns and rows config -->
   <!-- Media art -->
   <!-- Quick unlock -->
+  <!-- Three-fingers-swipe to screenshot -->
 </resources>
