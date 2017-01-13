@@ -82,5 +82,4 @@
   <string name="menu_cancel">Yoksay</string>
   <!-- Navbar Animation -->
   <string name="pixel_navbar_anim_title">Gezinti çubuğu animasyonu</string>
-  <string name="pixel_navbar_anim_summary">temalar üzerine yapılan bir değişiklik (ekran boyutu, gezinti çubuğu konumu, yeniden başlatma) bir yapılandırma gerektirir.</string>
 </resources>
