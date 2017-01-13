@@ -81,4 +81,5 @@
   <string name="menu_save">Zapisz</string>
   <string name="menu_cancel">Odrzuć</string>
   <!-- Navbar Animation -->
+  <string name="pixel_navbar_anim_title">Animacja paska nawigacji</string>
 </resources>
