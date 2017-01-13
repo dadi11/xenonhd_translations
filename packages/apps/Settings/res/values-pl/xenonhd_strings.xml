@@ -14,7 +14,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
-  <string name="xenonhd_version">Wersja XenonHD</string>
   <string name="xenonhd_version_default">Nieznana</string>
   <string name="xenonhd_maintainer">Opiekun</string>
   <string name="xenonhd_maintainer_default">Nieznana</string>
@@ -100,7 +99,6 @@
   <string name="qs_columns_title">Kolumny</string>
   <!-- Media art -->
   <string name="media_art_title">Okładka albumu</string>
-  <string name="media_art_summary">Wyświetlaj okładkę odtwarzanego albumu na ekranie blokady</string>
   <!-- Quick unlock -->
   <string name="quick_unlock_warning">Uwagi do szybkiego odblokowywania</string>
   <string name="quick_unlock_warning_summary">Ta funkcja omija ważne mechanizmy zabezpieczeń i prawie na pewno psuje obsługę wielu użytkowników. Używasz tylko na własne ryzyko</string>
