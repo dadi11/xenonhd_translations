@@ -16,6 +16,7 @@
   <!-- About phone screen, XenonHD version -->
   <string name="xenonhd_version">Verze XenonHD</string>
   <string name="xenonhd_version_default">Neznámá</string>
+  <string name="xenonhd_maintainer_default">Neznámá</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Protokol změn</string>
   <string name="changelog_xenonhd_error">Chyba při načítání seznamu změn</string>
@@ -88,5 +89,4 @@
   <!-- Recents Membar -->
   <string name="systemui_recents_mem_display_title">Zobrazit ukazatel paměti</string>
   <string name="systemui_recents_mem_display_summary">Zobrazit ukazatel volné RAM v zobrazení nedávných aplikací</string>
-
 </resources>

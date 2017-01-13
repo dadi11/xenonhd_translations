@@ -80,4 +80,5 @@
   <string name="status_bar_date_string_edittext_summary">Voer tekenreeks in</string>
   <string name="menu_save">Opslaan</string>
   <string name="menu_cancel">Negeer</string>
+  <!-- Navbar Animation -->
 </resources>

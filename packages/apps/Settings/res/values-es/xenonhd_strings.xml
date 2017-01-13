@@ -16,6 +16,7 @@
   <!-- About phone screen, XenonHD version -->
   <string name="xenonhd_version">Versión XenonHD</string>
   <string name="xenonhd_version_default">Desconocido</string>
+  <string name="xenonhd_maintainer_default">Desconocido</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Lista de cambios</string>
   <string name="changelog_xenonhd_error">No es posible mostrar la lista de cambios</string>
@@ -73,4 +74,7 @@
   <!-- XenonHD Configurations-->
   <!-- Selinux Switch -->
   <!-- Recents Membar -->
+  <!-- Quick settings tiles columns and rows config -->
+  <!-- Media art -->
+  <!-- Quick unlock -->
 </resources>

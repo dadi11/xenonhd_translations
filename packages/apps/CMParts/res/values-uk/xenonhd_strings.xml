@@ -22,4 +22,5 @@
   <!--Status bar date -->
   <string name="status_bar_date_normal">Звичайний</string>
   <string name="status_bar_date_style_normal">Звичайний</string>
+  <!-- Navbar Animation -->
 </resources>

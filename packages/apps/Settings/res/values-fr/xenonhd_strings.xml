@@ -16,6 +16,7 @@
   <!-- About phone screen, XenonHD version -->
   <string name="xenonhd_version">Version de XenonHD</string>
   <string name="xenonhd_version_default">Inconnu</string>
+  <string name="xenonhd_maintainer_default">Inconnu</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Note de version</string>
   <string name="changelog_xenonhd_error">Impossible de charger le journal des changements</string>

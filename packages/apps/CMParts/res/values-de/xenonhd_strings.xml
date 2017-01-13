@@ -81,4 +81,5 @@
   <string name="status_bar_date_string_edittext_summary">Zeichenfolge eingeben</string>
   <string name="menu_save">Speichern</string>
   <string name="menu_cancel">Verwerfen</string>
+  <!-- Navbar Animation -->
 </resources>

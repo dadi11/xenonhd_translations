@@ -16,6 +16,7 @@
   <!-- About phone screen, XenonHD version -->
   <string name="xenonhd_version">XenonHD Versiyonu</string>
   <string name="xenonhd_version_default">Bilinmeyen</string>
+  <string name="xenonhd_maintainer_default">Bilinmeyen</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Değişiklikler</string>
   <string name="changelog_xenonhd_error">Değişiklik kaydı yüklenemedi</string>
