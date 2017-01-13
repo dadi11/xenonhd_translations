@@ -16,6 +16,7 @@
   <!-- About phone screen, XenonHD version -->
   <string name="xenonhd_version">XenonHD Version</string>
   <string name="xenonhd_version_default">Unbekannt</string>
+  <string name="xenonhd_maintainer_default">Unbekannt</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Änderungsprotokoll</string>
   <string name="changelog_xenonhd_error">Änderungsprotokoll konnte nicht geladen werden</string>
@@ -88,4 +89,7 @@
   <!-- Recents Membar -->
   <string name="systemui_recents_mem_display_title">Arbeitsspeicher anzeigen</string>
   <string name="systemui_recents_mem_display_summary">Freier RAM-Speicher in den letzten Apps Ansicht anzeigen</string>
+  <!-- Quick settings tiles columns and rows config -->
+  <!-- Media art -->
+  <!-- Quick unlock -->
 </resources>
