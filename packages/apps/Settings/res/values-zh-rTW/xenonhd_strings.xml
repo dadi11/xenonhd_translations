@@ -16,6 +16,7 @@
   <!-- About phone screen, XenonHD version -->
   <string name="xenonhd_version">XenonHD 版本</string>
   <string name="xenonhd_version_default">未知</string>
+  <string name="xenonhd_maintainer_default">不明</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">更新日誌</string>
   <string name="changelog_xenonhd_error">無法讀取更新日誌</string>
@@ -88,4 +89,7 @@
   <!-- Recents Membar -->
   <string name="systemui_recents_mem_display_title">顯示記憶體列</string>
   <string name="systemui_recents_mem_display_summary">在最近的應用程式中顯示可用記憶體列</string>
+  <!-- Quick settings tiles columns and rows config -->
+  <!-- Media art -->
+  <!-- Quick unlock -->
 </resources>
