@@ -16,6 +16,7 @@
   <!-- About phone screen, XenonHD version -->
   <string name="xenonhd_version">الإصدار XenonHD</string>
   <string name="xenonhd_version_default">مجهول</string>
+  <string name="xenonhd_maintainer_default">مجهول</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">سجل التغيرات</string>
   <string name="changelog_xenonhd_error">غير قادر على تحميل سجل التغييرات</string>
@@ -41,4 +42,7 @@
   <!-- XenonHD Configurations-->
   <!-- Selinux Switch -->
   <!-- Recents Membar -->
+  <!-- Quick settings tiles columns and rows config -->
+  <!-- Media art -->
+  <!-- Quick unlock -->
 </resources>
