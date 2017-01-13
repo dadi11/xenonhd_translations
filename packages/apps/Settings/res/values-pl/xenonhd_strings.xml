@@ -102,7 +102,7 @@
   <string name="media_art_summary">Wyświetlaj okładkę odtwarzanego albumu na ekranie blokady</string>
   <!-- Quick unlock -->
   <string name="quick_unlock_warning">Ostrzeżenie</string>
-  <string name="quick_unlock_warning_summary">Funkcja ta prawie na pewno psuje funkcje wielu użytkowników i omija ważne mechanizmy zabezpieczeń. Używać na własne ryzyko</string>
+  <string name="quick_unlock_warning_summary">Funkcja ta omija ważne mechanizmy zabezpieczeń i prawdopodobnie popsuje obsługę wielu użytkowników. Używać na własne ryzyko</string>
   <string name="unlock_quick_unlock_control_title">Szybkie odblokowywanie</string>
   <string name="unlock_quick_unlock_control_summary">Odblokuj automatycznie, gdy wprowadzony zostanie poprawny PIN/hasło</string>
 </resources>
