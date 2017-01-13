@@ -57,4 +57,5 @@
   <string name="status_bar_date_format_custom">Anpassat java-format</string>
   <string name="status_bar_date_string_edittext_summary">Ange sträng</string>
   <string name="menu_save">Spara</string>
+  <!-- Navbar Animation -->
 </resources>
