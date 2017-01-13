@@ -89,7 +89,4 @@
   <!-- Recents Membar -->
   <string name="systemui_recents_mem_display_title">Zobrazit ukazatel paměti</string>
   <string name="systemui_recents_mem_display_summary">Zobrazit ukazatel volné RAM v zobrazení nedávných aplikací</string>
-  <!-- Quick settings tiles columns and rows config -->
-  <!-- Media art -->
-  <!-- Quick unlock -->
 </resources>

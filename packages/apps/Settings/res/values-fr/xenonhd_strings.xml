@@ -89,7 +89,4 @@
   <!-- Recents Membar -->
   <string name="systemui_recents_mem_display_title">Afficher la barre de mémoire</string>
   <string name="systemui_recents_mem_display_summary">Afficher la barre de RAM libre dans le multitâche</string>
-  <!-- Quick settings tiles columns and rows config -->
-  <!-- Media art -->
-  <!-- Quick unlock -->
 </resources>

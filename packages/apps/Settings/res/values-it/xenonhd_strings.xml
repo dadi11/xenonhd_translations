@@ -89,7 +89,4 @@
   <!-- Recents Membar -->
   <string name="systemui_recents_mem_display_title">Mostra utilizzo memoria</string>
   <string name="systemui_recents_mem_display_summary">Mostra la RAM disponibile nelle app recenti</string>
-  <!-- Quick settings tiles columns and rows config -->
-  <!-- Media art -->
-  <!-- Quick unlock -->
 </resources>

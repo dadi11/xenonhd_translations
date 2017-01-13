@@ -17,6 +17,8 @@
     <!-- About phone screen, XenonHD version -->
     <string name="xenonhd_version">XenonHD version</string>
     <string name="xenonhd_version_default">Unknown</string>
+    <string name="xenonhd_maintainer">Maintainer</string>
+    <string name="xenonhd_maintainer_default">Unknown</string>
 
     <!-- Changelog -->
     <string name="changelog_xenonhd_title">Changelog</string>
@@ -105,6 +107,7 @@
     <string name="xenonhd_misc_title">Miscellaneous</string>
 
     <!-- Selinux Switch -->
+    <string name="selinux_category">SELinux</string>
     <string name="selinux_switch_title">Selinux Switch options</string>
     <string name="selinux_switch_summary">SELinux is a set of kernel modifications and user-space tools. Changing modes can cause unwanted effects. Use at your own risk</string>
     <string name="selinux_title">Selinux Mode</string>
@@ -112,7 +115,24 @@
     <string name="selinux_enforcing_title">Enforcing</string>
 
     <!-- Recents Membar -->
+    <string name="recents_membar">Memory Bar</string>
     <string name="systemui_recents_mem_display_title">Show Memory Bar</string>
     <string name="systemui_recents_mem_display_summary">Show free RAM bar in recent apps view</string>
+
+    <!-- Quick settings tiles columns and rows config -->
+    <string name="qs_layout_category">QS Rows and columns</string>
+    <string name="qs_rows_portrait_title">Rows (portrait)</string>
+    <string name="qs_rows_landscape_title">Rows (landscape)</string>
+    <string name="qs_columns_title">Columns</string>
+
+    <!-- Media art -->
+    <string name="media_art_title">Media cover art</string>
+    <string name="media_art_summary">Enable media cover art on the lockscreen</string>
+
+    <!-- Quick unlock -->
+    <string name="quick_unlock_warning">Warning</string>
+    <string name="quick_unlock_warning_summary">This feature almost certainly mishandles multiple users and bypasses important security mechanisms. Use at your own risk</string>
+    <string name="unlock_quick_unlock_control_title">Quick unlock</string>
+    <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered</string>
 
 </resources>

@@ -89,7 +89,4 @@
   <!-- Recents Membar -->
   <string name="systemui_recents_mem_display_title">Bellek çubuğunu göster</string>
   <string name="systemui_recents_mem_display_summary">Son uygulamalar ekranında boşta RAM miktarını göster</string>
-  <!-- Quick settings tiles columns and rows config -->
-  <!-- Media art -->
-  <!-- Quick unlock -->
 </resources>

@@ -89,7 +89,4 @@
   <!-- Recents Membar -->
   <string name="systemui_recents_mem_display_title">Arbeitsspeicher anzeigen</string>
   <string name="systemui_recents_mem_display_summary">Freier RAM-Speicher in den letzten Apps Ansicht anzeigen</string>
-  <!-- Quick settings tiles columns and rows config -->
-  <!-- Media art -->
-  <!-- Quick unlock -->
 </resources>

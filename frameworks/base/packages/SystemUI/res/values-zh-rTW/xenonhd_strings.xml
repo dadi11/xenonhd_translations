@@ -65,5 +65,4 @@
          values/config.xml) and must be truncated. [CHAR LIMIT=4] -->
   <!-- Free RAM -->
   <string name="free_ram">可用記憶體：</string>
-  <!-- Path data for Solid battery -->
 </resources>
