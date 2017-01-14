@@ -103,7 +103,7 @@
   <string name="media_art_summary">在鎖定畫面上顯示媒體封面</string>
   <!-- Quick unlock -->
   <string name="quick_unlock_warning">快速解鎖警告</string>
-  <string name="quick_unlock_warning_summary">此功能繞過重要的安全機制，幾乎肯定會誤操作多使用者支援。 使用風險自負</string>
+  <string name="quick_unlock_warning_summary">此功能繞過重要的安全機制，幾乎肯定會誤操作多使用者支援。使用時自擔風險</string>
   <string name="unlock_quick_unlock_control_title">快速解鎖</string>
   <string name="unlock_quick_unlock_control_summary">當正確輸入 PIN 碼/密碼時自動解鎖</string>
   <!-- Three-fingers-swipe to screenshot -->
