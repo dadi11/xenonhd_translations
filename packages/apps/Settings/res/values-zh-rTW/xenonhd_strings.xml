@@ -100,6 +100,13 @@
   <string name="qs_columns_title">列</string>
   <!-- Media art -->
   <string name="media_art_title">媒體封面</string>
+  <string name="media_art_summary">在鎖定畫面上顯示媒體封面</string>
   <!-- Quick unlock -->
+  <string name="quick_unlock_warning">快速解鎖警告</string>
+  <string name="quick_unlock_warning_summary">此功能繞過重要的安全機制，幾乎肯定會誤操作多使用者支援。 使用風險自負</string>
+  <string name="unlock_quick_unlock_control_title">快速解鎖</string>
+  <string name="unlock_quick_unlock_control_summary">當正確輸入 PIN 碼/密碼時自動解鎖</string>
   <!-- Three-fingers-swipe to screenshot -->
+  <string name="three_finger_gesture">滑動以螢幕擷取</string>
+  <string name="three_finger_gesture_summary">同時滑動三支指頭以擷取螢幕畫面</string>
 </resources>
