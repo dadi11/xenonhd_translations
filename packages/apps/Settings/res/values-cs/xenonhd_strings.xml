@@ -94,11 +94,19 @@
   <string name="systemui_recents_mem_display_title">Zobrazit ukazatel paměti</string>
   <string name="systemui_recents_mem_display_summary">Zobrazit ukazatel volné RAM v zobrazení nedávných aplikací</string>
   <!-- Quick settings tiles columns and rows config -->
+  <string name="qs_layout_category">Rozložení rychlého nastavení dlaždic</string>
   <string name="qs_rows_portrait_title">Řádky (na výšku)</string>
   <string name="qs_rows_landscape_title">Řádky (na šířku)</string>
   <string name="qs_columns_title">Sloupce</string>
   <!-- Media art -->
   <string name="media_art_title">Obal alba</string>
+  <string name="media_art_summary">Zobrazit obal alba na zamčené obrazovce</string>
   <!-- Quick unlock -->
+  <string name="quick_unlock_warning">Upozornění rychlého odemknutí</string>
+  <string name="quick_unlock_warning_summary">Tato funkce obchází důležité bezpečnostní mechanismy a nepodporuje režim více uživatelů. Používáte na vlastní nebezpečí</string>
+  <string name="unlock_quick_unlock_control_title">Rychlé odemknutí</string>
+  <string name="unlock_quick_unlock_control_summary">Automatické odemknutí, pokud je zadán správný PIN/heslo</string>
   <!-- Three-fingers-swipe to screenshot -->
+  <string name="three_finger_gesture">Přejetím pořídit snímek obrazovky</string>
+  <string name="three_finger_gesture_summary">Snímek obrazovky přejetím tří prstů</string>
 </resources>
