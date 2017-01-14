@@ -14,6 +14,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
+  <string name="xenonhd_version">XenonHD Versiyonu</string>
   <string name="xenonhd_version_default">Bilinmeyen</string>
   <string name="xenonhd_maintainer">Sorumlu</string>
   <string name="xenonhd_maintainer_default">Bilinmeyen</string>
@@ -27,6 +28,7 @@
   <string name="xenonota_title">XenonHD Güncelleştirmeleri</string>
   <string name="xenonota_summary">ROM Güncellemelerini kontrol et</string>
   <!-- Dev Options Enabled by Default -->
+  <string name="show_dev_already_enabled">Gerek yok, Geliştirme ayarları varsayılan olarak etkindir</string>
   <!-- Phone info shortcut -->
   <string name="device_info_title">Telefon Bilgileri</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
