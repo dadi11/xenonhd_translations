@@ -81,4 +81,6 @@
   <string name="menu_save">Enregistrer</string>
   <string name="menu_cancel">Annuler</string>
   <!-- Navbar Animation -->
+  <string name="pixel_navbar_anim_title">Animation de la barre de navigation</string>
+  <string name="pixel_navbar_anim_summary">Réactiver la barre de navigation ou redémarrer pour appliquer. Les thèmes peuvent remplacer ces paramètres</string>
 </resources>
