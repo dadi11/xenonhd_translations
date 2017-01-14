@@ -84,6 +84,7 @@
   <string name="xenonhd_lockscreen_title">Écran de verrouillage</string>
   <string name="xenonhd_ui_title">Interface utilisateur</string>
   <!-- Selinux Switch -->
+  <string name="selinux_switch_title">Attention changement de Selinux</string>
   <string name="selinux_switch_summary">SELinux est un ensemble de modifications de noyau et d’outils de l’espace utilisateur. Changer de mode peut provoquer des effets indésirables. Permissif recommandé. A Utiliser à vos risques et périls</string>
   <string name="selinux_title">Mode de Selinux</string>
   <string name="selinux_permissive_title">Permissif</string>
