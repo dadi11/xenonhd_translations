@@ -77,8 +77,10 @@
   <string name="status_bar_date_style_uppercase">Maiúsculas</string>
   <string name="status_bar_date_format_custom">Formato java personalizado</string>
   <string name="status_bar_date_string_edittext_title">Deve estar em formato de data, por exemplo: MM/dd/yy</string>
+  <string name="status_bar_date_string_edittext_summary">Digite o texto</string>
   <string name="menu_save">Salvar</string>
   <string name="menu_cancel">Não Salvar</string>
   <!-- Navbar Animation -->
   <string name="pixel_navbar_anim_title">Animação da barra de navegação</string>
+  <string name="pixel_navbar_anim_summary">Re-ativar a barra de navegação ou reiniciar para aplicar. Temas podem substituir essa configuração</string>
 </resources>
