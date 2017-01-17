@@ -56,6 +56,7 @@
   <!-- Volume Steps -->
   <string name="volume_steps_title">Livelli volume</string>
   <string name="volume_steps_alarm_title">Sveglia</string>
+  <string name="volume_steps_dtmf_title">DTMF (Composizione)</string>
   <string name="volume_steps_music_title">Musica</string>
   <string name="volume_steps_notification_title">Notifiche</string>
   <string name="volume_steps_ring_title">Suoneria</string>
@@ -83,6 +84,8 @@
   <string name="xenonhd_lockscreen_title">Schermata di blocco</string>
   <string name="xenonhd_ui_title">UI</string>
   <!-- Selinux Switch -->
+  <string name="selinux_switch_title">Attenzione cambio Selinux</string>
+  <string name="selinux_switch_summary">SELinux è un insieme di modifiche del kernel. La modifica della modalità può causare effetti indesiderati. Permissivo raccomandato. Utilizzare a proprio rischio</string>
   <string name="selinux_title">Modalità Selinux</string>
   <string name="selinux_permissive_title">Permissive</string>
   <string name="selinux_enforcing_title">Enforcing</string>
