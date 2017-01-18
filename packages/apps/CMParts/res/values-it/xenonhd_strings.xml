@@ -28,7 +28,7 @@
   <string name="battery_bar_style_center_mirrored">Centrato speculare</string>
   <string name="battery_bar_style_reversed">Invertito</string>
   <!-- Brightness slider -->
-  <string name="qs_brightness_slider_title">Slider per la luminosità</string>
+  <string name="qs_brightness_slider_title">Cursore luminosità</string>
   <string name="qs_brightness_slider_enabled">Attivo</string>
   <string name="qs_brightness_slider_disabled">Disabilitato</string>
   <string name="brightness_icon_title">Icona luminosità </string>
