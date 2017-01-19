@@ -81,4 +81,6 @@
   <string name="menu_save">Uložit</string>
   <string name="menu_cancel">Odstranit</string>
   <!-- Navbar Animation -->
+  <string name="pixel_navbar_anim_title">Animace navigační lišty</string>
+  <string name="pixel_navbar_anim_summary">Chcete-li použít, restartujte zařízení nebo navigační lištu. Motivy mohou přepsat toto nastavení</string>
 </resources>

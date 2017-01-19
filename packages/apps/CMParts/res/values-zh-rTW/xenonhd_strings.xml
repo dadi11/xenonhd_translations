@@ -81,4 +81,6 @@
   <string name="menu_save">儲存</string>
   <string name="menu_cancel">捨棄</string>
   <!-- Navbar Animation -->
+  <string name="pixel_navbar_anim_title">導覽列動畫</string>
+  <string name="pixel_navbar_anim_summary">重新啟用導覽列或重新啟動以套用。 主題可能會覆蓋此設定</string>
 </resources>

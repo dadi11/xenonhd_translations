@@ -65,7 +65,22 @@
   <string name="su_indicator_summary_on">Indicador de superusuário fica visível quando uma sessão está ativa</string>
   <string name="su_indicator_summary_off">Alterne para mostrar indicador de superusuário quando a sessão estiver ativa</string>
   <!--Status bar date -->
+  <string name="status_bar_clock_category">Relógio</string>
+  <string name="status_bar_date_title">Data</string>
+  <string name="status_bar_date_none">Oculto (padrão)</string>
+  <string name="status_bar_date_small">Pequeno</string>
   <string name="status_bar_date_normal">Normal</string>
+  <string name="status_bar_date_format_title">Formato da data</string>
+  <string name="status_bar_date_style">Estilo da data</string>
   <string name="status_bar_date_style_normal">Normal</string>
+  <string name="status_bar_date_style_lowercase">Minúsculas</string>
+  <string name="status_bar_date_style_uppercase">Maiúsculas</string>
+  <string name="status_bar_date_format_custom">Formato java personalizado</string>
+  <string name="status_bar_date_string_edittext_title">Deve estar em formato de data, por exemplo: MM/dd/yy</string>
+  <string name="status_bar_date_string_edittext_summary">Digite o texto</string>
+  <string name="menu_save">Salvar</string>
+  <string name="menu_cancel">Não Salvar</string>
   <!-- Navbar Animation -->
+  <string name="pixel_navbar_anim_title">Animação da barra de navegação</string>
+  <string name="pixel_navbar_anim_summary">Re-ativar a barra de navegação ou reiniciar para aplicar. Temas podem substituir essa configuração</string>
 </resources>
