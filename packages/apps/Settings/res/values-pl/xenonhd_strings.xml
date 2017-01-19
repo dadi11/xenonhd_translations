@@ -109,4 +109,24 @@
   <!-- Three-fingers-swipe to screenshot -->
   <string name="three_finger_gesture">Gest zrzutu ekranu</string>
   <string name="three_finger_gesture_summary">Przeciągnij trzema palcami w dół, aby wykonać zrzut ekranu</string>
+  <!-- Long press back to kill configurable timeout -->
+  <string name="kill_app_longpress_timeout_title">Czas przytrzymania klawisza wstecz</string>
+  <string name="timeout_2000">2 sekundy (domyślnie)</string>
+  <string name="timeout_1500">1,5 sekundy</string>
+  <string name="timeout_1000">1 sekunda</string>
+  <string name="timeout_500">0,5 sekundy</string>
+  <!-- Doze pulse options -->
+  <string name="summary_doze_enabled">Włączone</string>
+  <string name="summary_doze_disabled">Wyłączone</string>
+  <string name="doze_overwrite_value_title">Własne ustawienia</string>
+  <string name="doze_overwrite_value_summary">Pozwól nadpisać domyślną wartość konfiguracją użytkownika</string>
+  <string name="doze_pulse_title">Ustawienia konfigurowalne przez użytkownika</string>
+  <string name="doze_pulse_duration_in_title">Stopniowe rozjaśnianie</string>
+  <string name="doze_pulse_duration_in_summary"></string>
+  <string name="doze_pulse_duration_visible_title">Czas widoczności</string>
+  <string name="doze_pulse_duration_visible_summary"></string>
+  <string name="doze_pulse_duration_out_title">Stopniowe przyciemnianie</string>
+  <string name="doze_pulse_duration_out_summary"></string>
+  <string name="doze_trigger_pickup_title">Aktywacja przy podniesieniu urządzenia</string>
+  <!-- Recents panel settings -->
 </resources>
