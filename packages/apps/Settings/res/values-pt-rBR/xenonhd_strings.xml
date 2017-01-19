@@ -109,4 +109,13 @@
   <!-- Three-fingers-swipe to screenshot -->
   <string name="three_finger_gesture">Deslizar para a captura de tela</string>
   <string name="three_finger_gesture_summary">Deslizar 3 dedos para capturar tela</string>
+  <!-- Long press back to kill configurable timeout -->
+  <!-- Doze pulse options -->
+  <string name="summary_doze_enabled">Ativado</string>
+  <string name="summary_doze_disabled">Desativado</string>
+  <string name="doze_pulse_duration_in_summary"></string>
+  <string name="doze_pulse_duration_visible_summary"></string>
+  <string name="doze_pulse_duration_out_summary"></string>
+  <!-- Recents panel settings -->
+
 </resources>

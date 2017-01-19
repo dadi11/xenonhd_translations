@@ -58,7 +58,6 @@
   <!-- XenonHD Configurations-->
   <string name="xenonhd_title">Konfigurációk</string>
   <!-- Selinux Switch -->
-  <string name="selinux_title">Selinux mód</string>
   <string name="selinux_permissive_title">Engedélyező</string>
   <string name="selinux_enforcing_title">Kényszerítés</string>
   <!-- Recents Membar -->
@@ -68,4 +67,12 @@
   <!-- Media art -->
   <!-- Quick unlock -->
   <!-- Three-fingers-swipe to screenshot -->
+  <!-- Long press back to kill configurable timeout -->
+  <!-- Doze pulse options -->
+  <string name="summary_doze_enabled">Engedélyezve</string>
+  <string name="summary_doze_disabled">Kikapcsolva</string>
+  <string name="doze_pulse_duration_in_summary"></string>
+  <string name="doze_pulse_duration_visible_summary"></string>
+  <string name="doze_pulse_duration_out_summary"></string>
+  <!-- Recents panel settings -->
 </resources>

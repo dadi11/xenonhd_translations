@@ -109,4 +109,12 @@
   <!-- Three-fingers-swipe to screenshot -->
   <string name="three_finger_gesture">Ekran görüntüsü almak için kaydırın</string>
   <string name="three_finger_gesture_summary">Ekran görüntüsü almak için üç parmağınızı kaydırın</string>
+  <!-- Long press back to kill configurable timeout -->
+  <!-- Doze pulse options -->
+  <string name="summary_doze_enabled">Etkin</string>
+  <string name="summary_doze_disabled">Devre Dışı</string>
+  <string name="doze_pulse_duration_in_summary"></string>
+  <string name="doze_pulse_duration_visible_summary"></string>
+  <string name="doze_pulse_duration_out_summary"></string>
+  <!-- Recents panel settings -->
 </resources>

@@ -109,4 +109,13 @@
   <!-- Three-fingers-swipe to screenshot -->
   <string name="three_finger_gesture">滑動以螢幕擷取</string>
   <string name="three_finger_gesture_summary">同時滑動三支指頭以擷取螢幕畫面</string>
+  <!-- Long press back to kill configurable timeout -->
+  <!-- Doze pulse options -->
+  <string name="summary_doze_enabled">已啟用</string>
+  <string name="summary_doze_disabled">停用</string>
+  <string name="doze_pulse_duration_in_summary"></string>
+  <string name="doze_pulse_duration_visible_summary"></string>
+  <string name="doze_pulse_duration_out_summary"></string>
+  <!-- Recents panel settings -->
+
 </resources>

@@ -71,7 +71,6 @@
   <string name="xenonhd_title">Расширенные настройки</string>
   <string name="xenonhd_misc_title">Разное</string>
   <!-- Selinux Switch -->
-  <string name="selinux_title">Режим SELinux</string>
   <string name="selinux_permissive_title">Только предупреждение</string>
   <string name="selinux_enforcing_title">Блокировка</string>
   <!-- Recents Membar -->
@@ -81,4 +80,12 @@
   <!-- Media art -->
   <!-- Quick unlock -->
   <!-- Three-fingers-swipe to screenshot -->
+  <!-- Long press back to kill configurable timeout -->
+  <!-- Doze pulse options -->
+  <string name="summary_doze_enabled">Включено</string>
+  <string name="summary_doze_disabled">Отключено</string>
+  <string name="doze_pulse_duration_in_summary"></string>
+  <string name="doze_pulse_duration_visible_summary"></string>
+  <string name="doze_pulse_duration_out_summary"></string>
+  <!-- Recents panel settings -->
 </resources>

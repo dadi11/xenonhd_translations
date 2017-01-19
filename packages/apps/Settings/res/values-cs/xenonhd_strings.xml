@@ -109,4 +109,14 @@
   <!-- Three-fingers-swipe to screenshot -->
   <string name="three_finger_gesture">Přejetím pořídit snímek obrazovky</string>
   <string name="three_finger_gesture_summary">Snímek obrazovky přejetím tří prstů</string>
+
+  <!-- Long press back to kill configurable timeout -->
+  <!-- Doze pulse options -->
+  <string name="summary_doze_enabled">Zapnuto</string>
+  <string name="summary_doze_disabled">Vypnuto</string>
+  <string name="doze_pulse_duration_in_summary"></string>
+  <string name="doze_pulse_duration_visible_summary"></string>
+  <string name="doze_pulse_duration_out_summary"></string>
+  <!-- Recents panel settings -->
+
 </resources>

@@ -104,4 +104,12 @@
   <string name="unlock_quick_unlock_control_title">Sblocco rapido</string>
   <string name="unlock_quick_unlock_control_summary">Sblocca automaticamente quando vengono inseriti il PIN o la password corretti</string>
   <!-- Three-fingers-swipe to screenshot -->
+  <!-- Long press back to kill configurable timeout -->
+  <!-- Doze pulse options -->
+  <string name="summary_doze_enabled">Attivato</string>
+  <string name="summary_doze_disabled">Disabilitato</string>
+  <string name="doze_pulse_duration_in_summary"></string>
+  <string name="doze_pulse_duration_visible_summary"></string>
+  <string name="doze_pulse_duration_out_summary"></string>
+  <!-- Recents panel settings -->
 </resources>
