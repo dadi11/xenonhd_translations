@@ -84,9 +84,7 @@
   <string name="xenonhd_lockscreen_title">Tela de bloqueio</string>
   <string name="xenonhd_ui_title">Interface</string>
   <!-- Selinux Switch -->
-  <string name="selinux_switch_title">Cuidado do Selinux Switch</string>
   <string name="selinux_switch_summary">SELinux é um conjunto de modificações do kernel e ferramentas de espaço de usuário. Alterando modos pode causar efeitos indesejados. Permissivo recomendado. Use a seu próprio risco</string>
-  <string name="selinux_title">Modo do SElinux</string>
   <string name="selinux_permissive_title">Permissivo</string>
   <string name="selinux_enforcing_title">Impondo</string>
   <!-- Recents Membar -->
@@ -109,4 +107,12 @@
   <!-- Three-fingers-swipe to screenshot -->
   <string name="three_finger_gesture">Deslizar para a captura de tela</string>
   <string name="three_finger_gesture_summary">Deslizar 3 dedos para capturar tela</string>
+  <!-- Long press back to kill configurable timeout -->
+  <!-- Doze pulse options -->
+  <string name="summary_doze_enabled">Ativado</string>
+  <string name="summary_doze_disabled">Desativado</string>
+  <string name="doze_pulse_duration_in_summary"></string>
+  <string name="doze_pulse_duration_visible_summary"></string>
+  <string name="doze_pulse_duration_out_summary"></string>
+  <!-- Recents panel settings -->
 </resources>
