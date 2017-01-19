@@ -16,7 +16,7 @@
   <!-- About phone screen, XenonHD version -->
   <string name="xenonhd_version">Versão XenonHD</string>
   <string name="xenonhd_version_default">Desconhecido</string>
-  <string name="xenonhd_maintainer">Mantenedor</string>
+  <string name="xenonhd_maintainer">Mantedor</string>
   <string name="xenonhd_maintainer_default">Desconhecido</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Registro de Alterações</string>
@@ -84,7 +84,6 @@
   <string name="xenonhd_lockscreen_title">Tela de bloqueio</string>
   <string name="xenonhd_ui_title">Interface</string>
   <!-- Selinux Switch -->
-  <string name="selinux_switch_title">Cuidado do Selinux Switch</string>
   <string name="selinux_switch_summary">SELinux é um conjunto de modificações do kernel e ferramentas de espaço de usuário. Alterando modos pode causar efeitos indesejados. Permissivo recomendado. Use a seu próprio risco</string>
   <string name="selinux_title">Modo do SElinux</string>
   <string name="selinux_permissive_title">Permissivo</string>
@@ -110,6 +109,7 @@
   <string name="three_finger_gesture">Deslizar para a captura de tela</string>
   <string name="three_finger_gesture_summary">Deslizar 3 dedos para capturar tela</string>
   <!-- Long press back to kill configurable timeout -->
+  <string name="timeout_2000">2 segundos (padrão)</string>
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">Ativado</string>
   <string name="summary_doze_disabled">Desativado</string>
@@ -117,5 +117,10 @@
   <string name="doze_pulse_duration_visible_summary"></string>
   <string name="doze_pulse_duration_out_summary"></string>
   <!-- Recents panel settings -->
-
+  <string name="recents_clear_all_location_top_right">Superior Direito</string>
+  <string name="recents_clear_all_location_top_left">Superior esquerdo</string>
+  <string name="recents_clear_all_location_top_center">Centro superior</string>
+  <string name="recents_clear_all_location_bottom_right">Inferior direito</string>
+  <string name="recents_clear_all_location_bottom_left">Inferior esquerdo</string>
+  <string name="recents_clear_all_location_bottom_center">Centro inferior</string>
 </resources>
