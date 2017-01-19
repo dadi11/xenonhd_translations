@@ -148,6 +148,8 @@
   <string name="fourhalf_second">4.5 s</string>
   <string name="five_second">5 s</string>
   <string name="doze_notification_color_invert_title">Kolor powiadomień</string>
+  <string name="doze_notification_color_invert_summary_off">Jasne powiadomienia dla ciemnych motywów</string>
+  <string name="doze_notification_color_invert_summary_on">Ciemne powiadomienia dla jasnych motywów</string>
   <string name="ambient_display_show_battery_title">Stan baterii</string>
   <string name="ambient_display_show_battery_summary">Pokaż wskaźnik baterii podczas aktywnego ekranu</string>
   <!-- Recents panel settings -->
