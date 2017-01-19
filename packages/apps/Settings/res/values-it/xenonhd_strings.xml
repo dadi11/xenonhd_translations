@@ -84,9 +84,7 @@
   <string name="xenonhd_lockscreen_title">Schermata di blocco</string>
   <string name="xenonhd_ui_title">UI</string>
   <!-- Selinux Switch -->
-  <string name="selinux_switch_title">Attenzione cambio Selinux</string>
   <string name="selinux_switch_summary">SELinux è un insieme di modifiche del kernel. La modifica della modalità può causare effetti indesiderati. Permissivo raccomandato. Utilizzare a proprio rischio</string>
-  <string name="selinux_title">Modalità Selinux</string>
   <string name="selinux_permissive_title">Permissive</string>
   <string name="selinux_enforcing_title">Enforcing</string>
   <!-- Recents Membar -->
@@ -104,4 +102,12 @@
   <string name="unlock_quick_unlock_control_title">Sblocco rapido</string>
   <string name="unlock_quick_unlock_control_summary">Sblocca automaticamente quando vengono inseriti il PIN o la password corretti</string>
   <!-- Three-fingers-swipe to screenshot -->
+  <!-- Long press back to kill configurable timeout -->
+  <!-- Doze pulse options -->
+  <string name="summary_doze_enabled">Attivato</string>
+  <string name="summary_doze_disabled">Disabilitato</string>
+  <string name="doze_pulse_duration_in_summary"></string>
+  <string name="doze_pulse_duration_visible_summary"></string>
+  <string name="doze_pulse_duration_out_summary"></string>
+  <!-- Recents panel settings -->
 </resources>
