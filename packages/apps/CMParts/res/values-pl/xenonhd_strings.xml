@@ -28,6 +28,7 @@
   <string name="battery_bar_style_center_mirrored">Wyśrodkowany</string>
   <string name="battery_bar_style_reversed">Odwrócony</string>
   <!-- Battery icon -->
+  <string name="status_bar_battery_style_solid">Koło</string>
   <!-- Brightness slider -->
   <string name="qs_brightness_slider_title">Pasek jasności</string>
   <string name="qs_brightness_slider_enabled">Włączony</string>
@@ -85,4 +86,6 @@
   <string name="pixel_navbar_anim_title">Animacja paska nawigacji</string>
   <string name="pixel_navbar_anim_summary">Aby zastosować, uruchom ponownie urządzenie lub pasek nawigacji. Motywy mogą zastąpić to ustawienie</string>
   <!-- Torch -->
+  <string name="torch_long_press_power_gesture_title">Naciśnij i przytrzymaj przycisk zasilania, aby włączyć latarkę</string>
+  <string name="torch_long_press_power_gesture_desc">Włączanie latarki przez naciśnięcie przycisku zasilania przy wyłączonym ekranie</string>
 </resources>
