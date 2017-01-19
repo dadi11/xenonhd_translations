@@ -84,9 +84,7 @@
   <string name="xenonhd_lockscreen_title">Kilit Ekranı</string>
   <string name="xenonhd_ui_title">Arayüz</string>
   <!-- Selinux Switch -->
-  <string name="selinux_switch_title">Selinux\'a geçme uyarısı</string>
   <string name="selinux_switch_summary">SELinux kernel modifikasyonları içerir. Bu ayarları değiştirmek istenmeyen sonuçlara yol açabilir. Sorumluluk size aittir</string>
-  <string name="selinux_title">SELinux modu</string>
   <string name="selinux_permissive_title">İzinler</string>
   <string name="selinux_enforcing_title">Zorunlu</string>
   <!-- Recents Membar -->
@@ -109,4 +107,12 @@
   <!-- Three-fingers-swipe to screenshot -->
   <string name="three_finger_gesture">Ekran görüntüsü almak için kaydırın</string>
   <string name="three_finger_gesture_summary">Ekran görüntüsü almak için üç parmağınızı kaydırın</string>
+  <!-- Long press back to kill configurable timeout -->
+  <!-- Doze pulse options -->
+  <string name="summary_doze_enabled">Etkin</string>
+  <string name="summary_doze_disabled">Devre Dışı</string>
+  <string name="doze_pulse_duration_in_summary"></string>
+  <string name="doze_pulse_duration_visible_summary"></string>
+  <string name="doze_pulse_duration_out_summary"></string>
+  <!-- Recents panel settings -->
 </resources>
