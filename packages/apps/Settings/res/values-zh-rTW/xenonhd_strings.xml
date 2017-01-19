@@ -84,9 +84,7 @@
   <string name="xenonhd_lockscreen_title">鎖定畫面</string>
   <string name="xenonhd_ui_title">使用者介面</string>
   <!-- Selinux Switch -->
-  <string name="selinux_switch_title">Selinux 切換警告</string>
   <string name="selinux_switch_summary">SELinux 是修改內核和使用者空間的工具。變更模式會導致不必要的影響。使用時自擔風險</string>
-  <string name="selinux_title">Selinux 模式</string>
   <string name="selinux_permissive_title">許可</string>
   <string name="selinux_enforcing_title">執行中</string>
   <!-- Recents Membar -->
@@ -109,4 +107,12 @@
   <!-- Three-fingers-swipe to screenshot -->
   <string name="three_finger_gesture">滑動以螢幕擷取</string>
   <string name="three_finger_gesture_summary">同時滑動三支指頭以擷取螢幕畫面</string>
+  <!-- Long press back to kill configurable timeout -->
+  <!-- Doze pulse options -->
+  <string name="summary_doze_enabled">已啟用</string>
+  <string name="summary_doze_disabled">停用</string>
+  <string name="doze_pulse_duration_in_summary"></string>
+  <string name="doze_pulse_duration_visible_summary"></string>
+  <string name="doze_pulse_duration_out_summary"></string>
+  <!-- Recents panel settings -->
 </resources>
