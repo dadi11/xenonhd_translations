@@ -129,6 +129,8 @@
   <string name="doze_trigger_pickup_summary_on">Impuls inteligentnego ekranu zareaguje na podniesienie urządzenia</string>
   <string name="doze_trigger_pickup_summary_off">Podnoszenie urządzenia nie będzie wykorzystywane do uruchamiania</string>
   <string name="doze_trigger_notification_title">Uruchamianie przez powiadomienia</string>
+  <string name="doze_trigger_notification_summary_on">Aktywny wyświetlacz zostanie wywołany przez powiadomienia</string>
+  <string name="doze_trigger_notification_summary_off">Powiadomienia nie będą wykorzystywane do uruchamiania</string>
   <string name="doze_brightness_level_title">Poziom jasności</string>
   <string name="onehundred_ms">100 ms</string>
   <string name="twofifty_ms">250 ms</string>
@@ -143,7 +145,13 @@
   <string name="four_second">4 s</string>
   <string name="fourhalf_second">4.5 s</string>
   <string name="five_second">5 s</string>
+  <string name="doze_notification_color_invert_title">Inwersja koloru powiadomień</string>
+  <string name="doze_notification_color_invert_summary_off">Jasne powiadomienia. Używaj dla ciemnych motywów.</string>
+  <string name="ambient_display_show_battery_title">Stan baterii</string>
   <!-- Recents panel settings -->
+  <string name="show_clear_all_recents_button_title">Włącz przycisk \"Wyczyść wszystko\"</string>
+  <string name="show_clear_all_recents_button_summary">Pokaż przycisk czyszczenia wszystkich ostatnio używanych aplikacji</string>
+  <string name="recents_clear_all_location_title">Pozycja przycisku czyszczenia ostatnich aplikacji</string>
   <string name="recents_clear_all_location_top_right">Prawy górny róg</string>
   <string name="recents_clear_all_location_top_left">Lewy górny róg</string>
   <string name="recents_clear_all_location_top_center">Wyśrodkowany na górze</string>
