@@ -28,6 +28,7 @@
   <string name="battery_bar_style_center_mirrored">Centro-espelhado</string>
   <string name="battery_bar_style_reversed">Invertido</string>
   <!-- Battery icon -->
+  <string name="status_bar_battery_style_solid">Sólido</string>
   <!-- Brightness slider -->
   <string name="qs_brightness_slider_title">Controle de brilho</string>
   <string name="qs_brightness_slider_enabled">Ativado</string>
@@ -85,5 +86,6 @@
   <string name="pixel_navbar_anim_title">Animação da barra de navegação</string>
   <string name="pixel_navbar_anim_summary">Re-ativar a barra de navegação ou reiniciar para aplicar. Temas podem substituir essa configuração</string>
   <!-- Torch -->
-
+  <string name="torch_long_press_power_gesture_title">Manter pressionado o botão liga/desliga para ativar a lanterna</string>
+  <string name="torch_long_press_power_gesture_desc">Ativar a lanterna mantendo pressionando o botão liga/desliga enquanto a tela estiver desligada</string>
 </resources>
