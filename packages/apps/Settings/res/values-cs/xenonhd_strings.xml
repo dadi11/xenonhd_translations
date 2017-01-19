@@ -84,7 +84,9 @@
   <string name="xenonhd_lockscreen_title">Zamykací obrazovka</string>
   <string name="xenonhd_ui_title">Uživatelské rozhraní</string>
   <!-- Selinux Switch -->
+  <string name="selinux_switch_title">Upozornění přepnutí SELinux</string>
   <string name="selinux_switch_summary">SELinux je soubor změn na linuxovém jádře a způsob přidělování zdrojů pro danou aplikaci. Změna režimu může způsobit nežádoucí chování. Je doporučeno mírné nastavení. Použití je na vlastní nebezpečí</string>
+  <string name="selinux_title">Selinux režim</string>
   <string name="selinux_permissive_title">Mírné</string>
   <string name="selinux_enforcing_title">Vynucené</string>
   <!-- Recents Membar -->
@@ -107,6 +109,7 @@
   <!-- Three-fingers-swipe to screenshot -->
   <string name="three_finger_gesture">Přejetím pořídit snímek obrazovky</string>
   <string name="three_finger_gesture_summary">Snímek obrazovky přejetím tří prstů</string>
+
   <!-- Long press back to kill configurable timeout -->
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">Zapnuto</string>
@@ -115,4 +118,5 @@
   <string name="doze_pulse_duration_visible_summary"></string>
   <string name="doze_pulse_duration_out_summary"></string>
   <!-- Recents panel settings -->
+
 </resources>

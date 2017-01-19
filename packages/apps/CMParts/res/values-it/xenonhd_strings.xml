@@ -85,4 +85,5 @@
   <string name="pixel_navbar_anim_title">Animazione barra navigazione</string>
   <string name="pixel_navbar_anim_summary">Riabilita la barra navigazione o riavvia per applicare. I temi potrebbero sovrascrivere questa impostazione</string>
   <!-- Torch -->
+
 </resources>
