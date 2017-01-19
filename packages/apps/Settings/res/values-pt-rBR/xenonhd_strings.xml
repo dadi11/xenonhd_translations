@@ -14,7 +14,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
-  <string name="xenonhd_version">Versão XenonHD</string>
+  <string name="xenonhd_version">Versão Da Rom XenonHD</string>
   <string name="xenonhd_version_default">Desconhecido</string>
   <string name="xenonhd_maintainer">Mantedor</string>
   <string name="xenonhd_maintainer_default">Desconhecido</string>
@@ -127,6 +127,13 @@
   <string name="doze_pulse_duration_visible_summary"></string>
   <string name="doze_pulse_duration_out_title">Desaparecer</string>
   <string name="doze_pulse_duration_out_summary"></string>
+  <string name="doze_trigger_pickup_title">Ativação do gesto de pegar o dispositivo</string>
+  <string name="doze_trigger_pickup_summary_on">Pulso será acionado pelo sensor de movimento</string>
+  <string name="doze_trigger_pickup_summary_off">O gesto de pegar o dispositivo não será utilizado como mecanismo de ativação</string>
+  <string name="doze_trigger_notification_title">Acionar com notificações</string>
+  <string name="doze_trigger_notification_summary_on">Pulso será acionado por notificações</string>
+  <string name="doze_trigger_notification_summary_off">Notificações não serão utilizadas como um gatilho para o Doze</string>
+  <string name="doze_brightness_level_title">Nível de brilho</string>
   <string name="onehundred_ms">100 ms</string>
   <string name="twofifty_ms">250 ms</string>
   <string name="fivehundred_ms_default">500 ms (padrão)</string>
