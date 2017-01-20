@@ -110,10 +110,19 @@
   <string name="three_finger_gesture">Ekran görüntüsü almak için kaydırın</string>
   <string name="three_finger_gesture_summary">Ekran görüntüsü almak için üç parmağınızı kaydırın</string>
   <!-- Long press back to kill configurable timeout -->
+  <string name="kill_app_longpress_timeout_title">Geri tuşuna uzun basma gecikmesi</string>
+  <string name="timeout_2000">2 saniye (varsayılan)</string>
+  <string name="timeout_1500">1.5 saniye</string>
+  <string name="timeout_1000">1 saniye</string>
+  <string name="timeout_500">0.5 saniye</string>
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">Etkin</string>
   <string name="summary_doze_disabled">Devre Dışı</string>
+  <string name="doze_overwrite_value_title">Varsayılanların üzerine yaz</string>
+  <string name="doze_overwrite_value_summary">Varsayılan değerleri kullanıcı yapılandırması ile geçersiz kılmaya izin ver</string>
+  <string name="doze_pulse_title">Kullanıcı yapılandırılabilir ayarları</string>
   <string name="doze_pulse_duration_in_summary"></string>
+  <string name="doze_pulse_duration_visible_title">Görünürlük süresi</string>
   <string name="doze_pulse_duration_visible_summary"></string>
   <string name="doze_pulse_duration_out_summary"></string>
   <!-- Recents panel settings -->
