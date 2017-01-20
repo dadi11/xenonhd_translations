@@ -110,12 +110,57 @@
   <string name="three_finger_gesture">滑動以螢幕擷取</string>
   <string name="three_finger_gesture_summary">同時滑動三支指頭以擷取螢幕畫面</string>
   <!-- Long press back to kill configurable timeout -->
+  <string name="kill_app_longpress_timeout_title">長按返回鍵逾時</string>
+  <string name="timeout_2000">2 秒 (預設)</string>
+  <string name="timeout_1500">1.5 秒</string>
+  <string name="timeout_1000">1 秒</string>
+  <string name="timeout_500">0.5 秒</string>
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">已啟用</string>
   <string name="summary_doze_disabled">停用</string>
+  <string name="doze_overwrite_value_title">覆蓋預設值</string>
+  <string name="doze_overwrite_value_summary">允許使用者覆蓋預設值</string>
+  <string name="doze_pulse_title">使用者可配置的設定</string>
+  <string name="doze_pulse_duration_in_title">淡入</string>
   <string name="doze_pulse_duration_in_summary"></string>
+  <string name="doze_pulse_duration_visible_title">可見的持續時間</string>
   <string name="doze_pulse_duration_visible_summary"></string>
+  <string name="doze_pulse_duration_out_title">淡出</string>
   <string name="doze_pulse_duration_out_summary"></string>
+  <string name="doze_trigger_pickup_title">拿起感應器觸發</string>
+  <string name="doze_trigger_pickup_summary_on">自動顯示將由拿起感應器觸發</string>
+  <string name="doze_trigger_pickup_summary_off">拿起感應器不會用做觸發</string>
+  <string name="doze_trigger_notification_title">通知觸發</string>
+  <string name="doze_trigger_notification_summary_on">自動顯示將被通知觸發</string>
+  <string name="doze_trigger_notification_summary_off">通知不會被用作觸發</string>
+  <string name="doze_brightness_level_title">亮度級別</string>
+  <string name="onehundred_ms">100 毫秒</string>
+  <string name="twofifty_ms">250 毫秒</string>
+  <string name="fivehundred_ms_default">500 毫秒 (預設)</string>
+  <string name="sevenfifty_ms">750 毫秒</string>
+  <string name="one_second">1 秒</string>
+  <string name="onehalf_second">1.5 秒</string>
+  <string name="two_second">2 秒</string>
+  <string name="twohalf_second">2.5秒</string>
+  <string name="three_second_default">3 秒 (預設)</string>
+  <string name="threehalf_second">3.5 秒</string>
+  <string name="four_second">4 秒</string>
+  <string name="fourhalf_second">4.5 秒</string>
+  <string name="five_second">5 秒</string>
+  <string name="doze_notification_color_invert_title">通知反轉</string>
+  <string name="doze_notification_color_invert_summary_off">通知不會被反轉。 用於深色的主題</string>
+  <string name="doze_notification_color_invert_summary_on">通知將反轉。 用於淡色/原始主題</string>
+  <string name="ambient_display_show_battery_title">電池狀態</string>
+  <string name="ambient_display_show_battery_summary">在充電時顯示電池電量指示器</string>
   <!-- Recents panel settings -->
+  <string name="show_clear_all_recents_button_title">開啟全部清除按鈕</string>
+  <string name="show_clear_all_recents_button_summary">清除所有按鈕使用時都顯示紀錄</string>
+  <string name="recents_clear_all_location_title">全部清除按鈕位置</string>
+  <string name="recents_clear_all_location_top_right">右上</string>
+  <string name="recents_clear_all_location_top_left">左上</string>
+  <string name="recents_clear_all_location_top_center">頂部置中</string>
+  <string name="recents_clear_all_location_bottom_right">右下</string>
+  <string name="recents_clear_all_location_bottom_left">左下</string>
+  <string name="recents_clear_all_location_bottom_center">底部置中</string>
 
 </resources>

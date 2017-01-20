@@ -28,6 +28,7 @@
   <string name="battery_bar_style_center_mirrored">Centrée et reflétée</string>
   <string name="battery_bar_style_reversed">Inversée</string>
   <!-- Battery icon -->
+  <string name="status_bar_battery_style_solid">Solide</string>
   <!-- Brightness slider -->
   <string name="qs_brightness_slider_title">Curseur de luminosité</string>
   <string name="qs_brightness_slider_enabled">Activé</string>
@@ -85,5 +86,7 @@
   <string name="pixel_navbar_anim_title">Animation de la barre de navigation</string>
   <string name="pixel_navbar_anim_summary">Réactiver la barre de navigation ou redémarrer pour appliquer. Les thèmes peuvent remplacer ces paramètres</string>
   <!-- Torch -->
+  <string name="torch_long_press_power_gesture_title">Appui long sur le bouton d\'alimentation pour la lampe de poche</string>
+  <string name="torch_long_press_power_gesture_desc">Activer la lampe de poche par un appui long sur le bouton d\'alimentation lorsque l\'écran est éteint</string>
 
 </resources>
