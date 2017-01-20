@@ -110,6 +110,7 @@
   <string name="three_finger_gesture">Glisser pour prendre une capture d\'écran</string>
   <string name="three_finger_gesture_summary">Faites glisser trois doigts pour prendre une capture d’écran</string>
   <!-- Long press back to kill configurable timeout -->
+  <string name="kill_app_longpress_timeout_title">Délai du retour avec le bouton retour</string>
   <string name="timeout_2000">2 secondes (par défaut)</string>
   <string name="timeout_1500">1.5 secondes</string>
   <string name="timeout_1000">1 seconde</string>
@@ -120,11 +121,18 @@
   <string name="doze_overwrite_value_title">Écraser les valeurs par défaut</string>
   <string name="doze_overwrite_value_summary">Permettre de remplacer la valeur par défaut par la configuration de l\'utilisateur</string>
   <string name="doze_pulse_title">Paramètres configurables de l’utilisateur</string>
+  <string name="doze_pulse_duration_in_title">Délai d\'ouverture</string>
   <string name="doze_pulse_duration_in_summary"></string>
   <string name="doze_pulse_duration_visible_title">Durée visible</string>
   <string name="doze_pulse_duration_visible_summary"></string>
+  <string name="doze_pulse_duration_out_title">Délai de fermeture</string>
   <string name="doze_pulse_duration_out_summary"></string>
+  <string name="doze_trigger_pickup_title">Déclenchement par détection de geste</string>
+  <string name="doze_trigger_pickup_summary_on">Activer l\'écran lors de la prise en main de l\'appareil</string>
+  <string name="doze_trigger_pickup_summary_off">Ne pas activer l\'écran lors de la prise en main de l\'appareil</string>
   <string name="doze_trigger_notification_title">Déclenchement des notifications</string>
+  <string name="doze_trigger_notification_summary_on">Activer l\'écran lors de la réception de notifications</string>
+  <string name="doze_trigger_notification_summary_off">Ne pas activer l\'écran lors de la réception de notifications</string>
   <string name="doze_brightness_level_title">Niveau de luminosité</string>
   <string name="onehundred_ms">100 ms</string>
   <string name="twofifty_ms">250 ms</string>
