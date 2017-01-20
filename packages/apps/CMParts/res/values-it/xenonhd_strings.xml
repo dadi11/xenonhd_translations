@@ -28,6 +28,7 @@
   <string name="battery_bar_style_center_mirrored">Centrato speculare</string>
   <string name="battery_bar_style_reversed">Invertito</string>
   <!-- Battery icon -->
+  <string name="status_bar_battery_style_solid">Solido</string>
   <!-- Brightness slider -->
   <string name="qs_brightness_slider_title">Cursore luminosità</string>
   <string name="qs_brightness_slider_enabled">Attivo</string>
@@ -85,5 +86,6 @@
   <string name="pixel_navbar_anim_title">Animazione barra navigazione</string>
   <string name="pixel_navbar_anim_summary">Riabilita la barra navigazione o riavvia per applicare. I temi potrebbero sovrascrivere questa impostazione</string>
   <!-- Torch -->
-
+  <string name="torch_long_press_power_gesture_title">Premi a lungo il pulsante menù per attivare la torcia</string>
+  <string name="torch_long_press_power_gesture_desc">Attiva la torcia premendo a lungo il pulsante menù quando lo schermo è spento</string>
 </resources>
