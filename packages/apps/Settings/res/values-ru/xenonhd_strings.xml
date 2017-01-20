@@ -148,5 +148,9 @@
   <string name="five_second">5 с</string>
   <string name="doze_notification_color_invert_title">Инвертирование уведомлений</string>
   <string name="doze_notification_color_invert_summary_off">Уведомления не будут инвертированы. Используйте для темных тем</string>
+  <string name="doze_notification_color_invert_summary_on">Уведомления будут инвертированы. Используйте для светлых/стоковых тем</string>
+  <string name="ambient_display_show_battery_title">Статус батареи</string>
+  <string name="ambient_display_show_battery_summary">Показывать значок батареи во время пульсации</string>
   <!-- Recents panel settings -->
+  <string name="show_clear_all_recents_button_title">Включить кнопку \"Очистить всё\"</string>
 </resources>
