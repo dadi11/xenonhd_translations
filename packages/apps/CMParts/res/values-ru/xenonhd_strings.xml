@@ -28,6 +28,7 @@
   <string name="battery_bar_style_center_mirrored">По центру (зеркально)</string>
   <string name="battery_bar_style_reversed">Наоборот</string>
   <!-- Battery icon -->
+  <string name="status_bar_battery_style_solid">Сплошной</string>
   <!-- Brightness slider -->
   <string name="qs_brightness_slider_title">Слайдер яркости</string>
   <string name="qs_brightness_slider_enabled">Включено</string>
