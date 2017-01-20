@@ -107,6 +107,7 @@
   <string name="unlock_quick_unlock_control_title">Sblocco rapido</string>
   <string name="unlock_quick_unlock_control_summary">Sblocca automaticamente quando vengono inseriti il PIN o la password corretti</string>
   <!-- Three-fingers-swipe to screenshot -->
+  <string name="three_finger_gesture">Striscia per uno screenshot</string>
   <string name="three_finger_gesture_summary">Striscia tre dita per uno screenshot</string>
   <!-- Long press back to kill configurable timeout -->
   <string name="kill_app_longpress_timeout_title">Pressione prolungata sul tasto Indietro</string>
@@ -153,9 +154,12 @@
   <string name="ambient_display_show_battery_summary">Mostra l\'indicatore della batteria durante l\'impulso</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Mostra il pulsante cancella tutto</string>
+  <string name="show_clear_all_recents_button_summary">Visualizza il pulsante cancella tutto quando si utilizzano i recenti</string>
   <string name="recents_clear_all_location_title">Posizione del pulsante cancella tutto</string>
   <string name="recents_clear_all_location_top_right">In alto a destra</string>
   <string name="recents_clear_all_location_top_left">In alto a sinistra</string>
   <string name="recents_clear_all_location_top_center">In alto al centro</string>
   <string name="recents_clear_all_location_bottom_right">In basso a destra</string>
+  <string name="recents_clear_all_location_bottom_left">In basso a sinistra</string>
+  <string name="recents_clear_all_location_bottom_center">In basso al centro</string>
 </resources>
