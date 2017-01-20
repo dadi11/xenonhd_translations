@@ -124,6 +124,7 @@
   <string name="doze_pulse_duration_visible_title">Durée visible</string>
   <string name="doze_pulse_duration_visible_summary"></string>
   <string name="doze_pulse_duration_out_summary"></string>
+  <string name="doze_trigger_notification_title">Déclenchement des notifications</string>
   <string name="doze_brightness_level_title">Niveau de luminosité</string>
   <string name="onehundred_ms">100 ms</string>
   <string name="twofifty_ms">250 ms</string>
