@@ -127,6 +127,12 @@
   <string name="doze_pulse_duration_visible_summary"></string>
   <string name="doze_pulse_duration_out_title">淡出</string>
   <string name="doze_pulse_duration_out_summary"></string>
+  <string name="doze_trigger_pickup_title">拿起感應器觸發</string>
+  <string name="doze_trigger_pickup_summary_on">自動顯示將由拿起感應器觸發</string>
+  <string name="doze_trigger_pickup_summary_off">拿起感應器不會用做觸發</string>
+  <string name="doze_trigger_notification_title">通知觸發</string>
+  <string name="doze_trigger_notification_summary_on">自動顯示將被通知觸發</string>
+  <string name="doze_trigger_notification_summary_off">通知不會被用作觸發</string>
   <string name="doze_brightness_level_title">亮度級別</string>
   <string name="onehundred_ms">100 毫秒</string>
   <string name="twofifty_ms">250 毫秒</string>
