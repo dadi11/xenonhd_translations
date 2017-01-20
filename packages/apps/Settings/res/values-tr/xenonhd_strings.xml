@@ -121,12 +121,18 @@
   <string name="doze_overwrite_value_title">Varsayılanların üzerine yaz</string>
   <string name="doze_overwrite_value_summary">Varsayılan değerleri kullanıcı yapılandırması ile geçersiz kılmaya izin ver</string>
   <string name="doze_pulse_title">Kullanıcı yapılandırılabilir ayarları</string>
+  <string name="doze_pulse_duration_in_title">Aydınlat</string>
   <string name="doze_pulse_duration_in_summary"></string>
   <string name="doze_pulse_duration_visible_title">Görünürlük süresi</string>
   <string name="doze_pulse_duration_visible_summary"></string>
+  <string name="doze_pulse_duration_out_title">Karart</string>
   <string name="doze_pulse_duration_out_summary"></string>
+  <string name="doze_trigger_pickup_title">Hareket sensörü tetikleyici</string>
+  <string name="doze_trigger_pickup_summary_on">Yanıp sönme, hareket sensörleri tarafından tetiklenecek</string>
+  <string name="doze_trigger_pickup_summary_off">Hareket sensörü tetikleyici olarak kullanılmayacak</string>
   <string name="doze_trigger_notification_title">Bildirim tetikleyici</string>
   <string name="doze_trigger_notification_summary_on">Pulse bildirimler tarafından tetiklenir</string>
+  <string name="doze_trigger_notification_summary_off">Bildirimler tetikleyici olarak kullanılmayacak</string>
   <string name="doze_brightness_level_title">Parlaklık Seviyesi</string>
   <string name="onehundred_ms">100 ms</string>
   <string name="twofifty_ms">250 ms</string>
@@ -142,10 +148,14 @@
   <string name="fourhalf_second">4.5 s</string>
   <string name="five_second">5 s</string>
   <string name="doze_notification_color_invert_title">Bildirim rengini tersine döndür</string>
+  <string name="doze_notification_color_invert_summary_off">Bildirim renkleri tersine çevrilecek. Koyu temalar için kullanın</string>
+  <string name="doze_notification_color_invert_summary_on">Bildirim renkleri tersine çevrilmeyek. Açık temalar için kullanın</string>
   <string name="ambient_display_show_battery_title">Pil Durumu</string>
+  <string name="ambient_display_show_battery_summary">Yanıp sönme sırasında pil göstergesini göster</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Tümünü temizle düğmesini etkinleştir</string>
   <string name="show_clear_all_recents_button_summary">Tümünü temizle düğmesini göster</string>
+  <string name="recents_clear_all_location_title">Tümünü temizle butonu konumu</string>
   <string name="recents_clear_all_location_top_right">Sağ üst</string>
   <string name="recents_clear_all_location_top_left">Sol üst</string>
   <string name="recents_clear_all_location_top_center">Üst orta</string>
