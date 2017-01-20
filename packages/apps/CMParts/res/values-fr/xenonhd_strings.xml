@@ -88,4 +88,5 @@
   <!-- Torch -->
   <string name="torch_long_press_power_gesture_title">Appui long sur le bouton d\'alimentation pour la lampe de poche</string>
   <string name="torch_long_press_power_gesture_desc">Activer la lampe de poche par un appui long sur le bouton d\'alimentation lorsque l\'écran est éteint</string>
+
 </resources>

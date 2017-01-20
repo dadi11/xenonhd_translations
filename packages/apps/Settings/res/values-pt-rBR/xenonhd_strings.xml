@@ -162,4 +162,5 @@
   <string name="recents_clear_all_location_bottom_right">Inferior direito</string>
   <string name="recents_clear_all_location_bottom_left">Inferior esquerdo</string>
   <string name="recents_clear_all_location_bottom_center">Centro inferior</string>
+
 </resources>
