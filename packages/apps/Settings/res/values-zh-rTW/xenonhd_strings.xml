@@ -84,9 +84,7 @@
   <string name="xenonhd_lockscreen_title">鎖定畫面</string>
   <string name="xenonhd_ui_title">使用者介面</string>
   <!-- Selinux Switch -->
-  <string name="selinux_switch_title">Selinux 切換警告</string>
   <string name="selinux_switch_summary">SELinux 是修改內核和使用者空間的工具。變更模式會導致不必要的影響。使用時自擔風險</string>
-  <string name="selinux_title">Selinux 模式</string>
   <string name="selinux_permissive_title">許可</string>
   <string name="selinux_enforcing_title">執行中</string>
   <!-- Recents Membar -->
@@ -116,6 +114,21 @@
   <string name="doze_pulse_duration_in_summary"></string>
   <string name="doze_pulse_duration_visible_summary"></string>
   <string name="doze_pulse_duration_out_summary"></string>
+  <string name="two_second">2 秒</string>
+  <string name="twohalf_second">2.5秒</string>
+  <string name="three_second_default">3 秒 (預設)</string>
+  <string name="threehalf_second">3.5 秒</string>
+  <string name="four_second">4 秒</string>
+  <string name="fourhalf_second">4.5 秒</string>
+  <string name="five_second">5 秒</string>
+  <string name="ambient_display_show_battery_title">電池狀態</string>
   <!-- Recents panel settings -->
-
+  <string name="show_clear_all_recents_button_title">開啟全部清除按鈕</string>
+  <string name="recents_clear_all_location_title">全部清除按鈕位置</string>
+  <string name="recents_clear_all_location_top_right">右上</string>
+  <string name="recents_clear_all_location_top_left">左上</string>
+  <string name="recents_clear_all_location_top_center">頂部置中</string>
+  <string name="recents_clear_all_location_bottom_right">右下</string>
+  <string name="recents_clear_all_location_bottom_left">左下</string>
+  <string name="recents_clear_all_location_bottom_center">底部置中</string>
 </resources>
