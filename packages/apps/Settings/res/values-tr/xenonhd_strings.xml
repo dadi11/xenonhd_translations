@@ -131,7 +131,7 @@
   <string name="doze_trigger_pickup_summary_on">Yanıp sönme, hareket sensörleri tarafından tetiklenecek</string>
   <string name="doze_trigger_pickup_summary_off">Hareket sensörü tetikleyici olarak kullanılmayacak</string>
   <string name="doze_trigger_notification_title">Bildirim tetikleyici</string>
-  <string name="doze_trigger_notification_summary_on">Pulse bildirimler tarafından tetiklenir</string>
+  <string name="doze_trigger_notification_summary_on">Yanıp sönme bildirimler tarafından tetiklenecek</string>
   <string name="doze_trigger_notification_summary_off">Bildirimler tetikleyici olarak kullanılmayacak</string>
   <string name="doze_brightness_level_title">Parlaklık Seviyesi</string>
   <string name="onehundred_ms">100 ms</string>
