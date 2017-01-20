@@ -124,6 +124,25 @@
   <string name="doze_pulse_duration_visible_title">Durée visible</string>
   <string name="doze_pulse_duration_visible_summary"></string>
   <string name="doze_pulse_duration_out_summary"></string>
+  <string name="doze_brightness_level_title">Niveau de luminosité</string>
+  <string name="onehundred_ms">100 ms</string>
+  <string name="twofifty_ms">250 ms</string>
+  <string name="fivehundred_ms_default">500 ms (Par défaut)</string>
+  <string name="sevenfifty_ms">750 ms</string>
+  <string name="one_second">1 sec</string>
+  <string name="onehalf_second">1,5 sec</string>
+  <string name="two_second">2 sec</string>
+  <string name="twohalf_second">2. 5 sec</string>
+  <string name="three_second_default">3 sec (Par défaut)</string>
+  <string name="threehalf_second">3.5 sec</string>
+  <string name="four_second">4 sec</string>
+  <string name="fourhalf_second">4. 5 sec</string>
+  <string name="five_second">5 sec</string>
+  <string name="doze_notification_color_invert_title">Inversion de notification</string>
+  <string name="doze_notification_color_invert_summary_off">Les notifications du mode Veille ne seront pas inversées. À utiliser avec des thèmes sombres</string>
+  <string name="doze_notification_color_invert_summary_on">Les notifications du mode Veille seront inversées. À utiliser avec des thèmes sombres ou d\'usine (par défaut)</string>
+  <string name="ambient_display_show_battery_title">État de la batterie</string>
+  <string name="ambient_display_show_battery_summary">Afficher l\'icône de la batterie pendant la pulsation</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Activer le bouton \"tout effacer\"</string>
   <string name="show_clear_all_recents_button_summary">Afficher le tout effacer lorsque vous utilisez le multitâche</string>
