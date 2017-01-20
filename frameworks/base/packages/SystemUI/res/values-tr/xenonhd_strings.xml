@@ -64,7 +64,7 @@
          (greater than status_bar_notification_info_maxnum, defined in
          values/config.xml) and must be truncated. [CHAR LIMIT=4] -->
   <!-- Free RAM -->
-  <string name="free_ram">Boş Hafıza:\u0020</string>
+  <string name="free_ram">Boş Bellek:\u0020</string>
   <!-- Path data for Solid battery -->
   <!-- Floating action button -->
 </resources>
