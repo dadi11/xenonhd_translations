@@ -119,7 +119,7 @@
   <string name="summary_doze_enabled">Attivato</string>
   <string name="summary_doze_disabled">Disabilitato</string>
   <string name="doze_overwrite_value_title">Sovrascrivi impostazioni predefinite</string>
-  <string name="doze_overwrite_value_summary">Consentire sostituzione dei valori predefiniti con quelli dell\'utente</string>
+  <string name="doze_overwrite_value_summary">Consenti la sostituzione dei valori predefiniti con quelli dell\'utente</string>
   <string name="doze_pulse_title">Impostazioni configurabili dall\'utente</string>
   <string name="doze_pulse_duration_in_title">Dissolvenza in entrata</string>
   <string name="doze_pulse_duration_in_summary"></string>
@@ -132,7 +132,7 @@
   <string name="doze_trigger_pickup_summary_off">Il sensore di sollevamento non sarà utilizzato come un meccanismo di attivazione</string>
   <string name="doze_trigger_notification_title">Trigger di notifica</string>
   <string name="doze_trigger_notification_summary_on">Pulse sarà attivato dalle notifiche</string>
-  <string name="doze_trigger_notification_summary_off">Le notifiche non saranno utilizzate come attivazione</string>
+  <string name="doze_trigger_notification_summary_off">Le notifiche non saranno utilizzate come un meccanismo di attivazione</string>
   <string name="doze_brightness_level_title">Livello luminosità</string>
   <string name="onehundred_ms">100 ms</string>
   <string name="twofifty_ms">250 ms</string>
@@ -147,9 +147,9 @@
   <string name="four_second">4 s</string>
   <string name="fourhalf_second">4.5 s</string>
   <string name="five_second">5 s</string>
-  <string name="doze_notification_color_invert_title">Inversione di notifica</string>
-  <string name="doze_notification_color_invert_summary_off">Le notifiche non saranno invertite. Usa per temi scuri</string>
-  <string name="doze_notification_color_invert_summary_on">Le notifiche saranno invertite. Uso per temi luminosi/Stock</string>
+  <string name="doze_notification_color_invert_title">Inversione notifiche</string>
+  <string name="doze_notification_color_invert_summary_off">Le notifiche non saranno invertite. Utilizzalo per temi scuri</string>
+  <string name="doze_notification_color_invert_summary_on">Le notifiche saranno invertite. Utilizzalo per temi chiari/stock</string>
   <string name="ambient_display_show_battery_title">Stato batteria</string>
   <string name="ambient_display_show_battery_summary">Mostra l\'indicatore della batteria durante l\'impulso</string>
   <!-- Recents panel settings -->
