@@ -127,6 +127,7 @@
   <string name="doze_trigger_pickup_title">Auslöser durch Aufhebesensor</string>
   <string name="doze_trigger_pickup_summary_on">Pulse wird durch den Hochhebe-Sensor ausgelöst</string>
   <string name="doze_trigger_pickup_summary_off">Hochhebe-Sensor wird nicht als Auslöser benutzt</string>
+  <string name="doze_trigger_notification_title">Auslöser für Benachrichtigungen</string>
   <string name="doze_trigger_notification_summary_on">Pulse wird durch Benachrichtigungen ausgelöst</string>
   <string name="doze_trigger_notification_summary_off">Benachrichtigungen werden nicht als Auslöser verwendet</string>
   <string name="doze_brightness_level_title">Helligkeitsstufe</string>
