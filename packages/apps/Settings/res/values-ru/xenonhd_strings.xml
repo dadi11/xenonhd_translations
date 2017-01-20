@@ -84,14 +84,27 @@
   <string name="xenonhd_lockscreen_title">Экран блокировки</string>
   <string name="xenonhd_ui_title">Пользовательский интерфейс</string>
   <!-- Selinux Switch -->
+  <string name="selinux_switch_title">Предупреждение</string>
+  <string name="selinux_switch_summary">SELinux - это набор модификаций ядра и инструментов пользовательского пространства. Изменение режимов может привести к нежелательным последствиям. Рекомендуется режим \"Только предупреждение\". Используйте на свой риск</string>
+  <string name="selinux_title">Режим SELinux</string>
   <string name="selinux_permissive_title">Только предупреждение</string>
   <string name="selinux_enforcing_title">Блокировка</string>
   <!-- Recents Membar -->
+  <string name="recents_membar">Панель ОЗУ</string>
   <string name="systemui_recents_mem_display_title">Показывать панель использования ОЗУ</string>
   <string name="systemui_recents_mem_display_summary">Показывать панель свободной ОЗУ в меню недавних приложений</string>
   <!-- Quick settings tiles columns and rows config -->
+  <string name="qs_layout_category">Расположение плиток быстрых настроек</string>
+  <string name="qs_rows_portrait_title">Строки (портрет)</string>
+  <string name="qs_rows_landscape_title">Строки (ландшафт)</string>
   <!-- Media art -->
+  <string name="media_art_title">Обложка альбома</string>
+  <string name="media_art_summary">Показывать обложку альбома на экране блокировки</string>
   <!-- Quick unlock -->
+  <string name="quick_unlock_warning">Предупреждение</string>
+  <string name="quick_unlock_warning_summary">Данная возможность обходит важный защитный механизм и плохо влияет на поддержку нескольких пользователей на устройстве. Используйте на свой риск</string>
+  <string name="unlock_quick_unlock_control_title">Быстрая разблокировка</string>
+  <string name="unlock_quick_unlock_control_summary">Автоматическая разблокировка при вводе правильного пароля или PIN-кода</string>
   <!-- Three-fingers-swipe to screenshot -->
   <!-- Long press back to kill configurable timeout -->
   <!-- Doze pulse options -->
