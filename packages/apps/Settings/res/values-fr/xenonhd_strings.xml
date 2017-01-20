@@ -84,7 +84,7 @@
   <string name="xenonhd_lockscreen_title">Écran de verrouillage</string>
   <string name="xenonhd_ui_title">Interface utilisateur</string>
   <!-- Selinux Switch -->
-  <string name="selinux_switch_title">Attention changement de Selinux</string>
+  <string name="selinux_switch_title">Attention changement d\'état Selinux</string>
   <string name="selinux_switch_summary">SELinux est un ensemble de modifications de noyau et d’outils de l’espace utilisateur. Changer de mode peut provoquer des effets indésirables. Permissif recommandé. A Utiliser à vos risques et périls</string>
   <string name="selinux_title">Mode de Selinux</string>
   <string name="selinux_permissive_title">Permissif</string>
@@ -110,12 +110,28 @@
   <string name="three_finger_gesture">Glisser pour prendre une capture d\'écran</string>
   <string name="three_finger_gesture_summary">Faites glisser trois doigts pour prendre une capture d’écran</string>
   <!-- Long press back to kill configurable timeout -->
+  <string name="timeout_2000">2 secondes (par défaut)</string>
+  <string name="timeout_1500">1.5 secondes</string>
+  <string name="timeout_1000">1 seconde</string>
+  <string name="timeout_500">0.5 seconde</string>
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">Activé</string>
   <string name="summary_doze_disabled">Désactivé</string>
+  <string name="doze_overwrite_value_title">Écraser les valeurs par défaut</string>
+  <string name="doze_overwrite_value_summary">Permettre de remplacer la valeur par défaut par la configuration de l\'utilisateur</string>
+  <string name="doze_pulse_title">Paramètres configurables de l’utilisateur</string>
   <string name="doze_pulse_duration_in_summary"></string>
+  <string name="doze_pulse_duration_visible_title">Durée visible</string>
   <string name="doze_pulse_duration_visible_summary"></string>
   <string name="doze_pulse_duration_out_summary"></string>
   <!-- Recents panel settings -->
-
+  <string name="show_clear_all_recents_button_title">Activer le bouton \"tout effacer\"</string>
+  <string name="show_clear_all_recents_button_summary">Afficher le tout effacer lorsque vous utilisez le multitâche</string>
+  <string name="recents_clear_all_location_title">Position du bouton \"tout effacer\"</string>
+  <string name="recents_clear_all_location_top_right">En haut à droite</string>
+  <string name="recents_clear_all_location_top_left">En haut à gauche</string>
+  <string name="recents_clear_all_location_top_center">En haut au centre</string>
+  <string name="recents_clear_all_location_bottom_right">En bas à droite</string>
+  <string name="recents_clear_all_location_bottom_left">En bas à gauche</string>
+  <string name="recents_clear_all_location_bottom_center">En bas au centre</string>
 </resources>
