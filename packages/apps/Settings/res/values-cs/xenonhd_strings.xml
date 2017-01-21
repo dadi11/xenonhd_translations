@@ -110,6 +110,7 @@
   <string name="three_finger_gesture">Přejetím pořídit snímek obrazovky</string>
   <string name="three_finger_gesture_summary">Snímek obrazovky přejetím tří prstů</string>
   <!-- Long press back to kill configurable timeout -->
+  <string name="kill_app_longpress_timeout_title">Časový limit dlouhého stisku tlačítka Zpět</string>
   <string name="timeout_2000">2 sekundy (výchozí)</string>
   <string name="timeout_1500">1,5 sekundy</string>
   <string name="timeout_1000">1 sekunda</string>
@@ -160,5 +161,4 @@
   <string name="recents_clear_all_location_bottom_right">Vpravo dole</string>
   <string name="recents_clear_all_location_bottom_left">Vlevo dole</string>
   <string name="recents_clear_all_location_bottom_center">Dole uprostřed</string>
-
 </resources>
