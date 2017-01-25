@@ -19,7 +19,7 @@
   <string name="quick_settings_expanded_desktop_label">拡張デスクトップ</string>
   <string name="quick_settings_expanded_desktop">拡張</string>
   <string name="quick_settings_expanded_desktop_off">普通</string>
-  <string name="quick_settings_screenshot_label">ス クリーンショット</string>
+  <string name="quick_settings_screenshot_label">スクリーンショット</string>
   <string name="quick_settings_adb_network">ADBネットワーク</string>
   <string name="quick_settings_network_adb_disabled_label">無効</string>
   <string name="quick_settings_reboot_label">再起動</string>
