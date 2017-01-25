@@ -14,7 +14,16 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Screenshot Delete Toast -->
   <!-- Status bar items tuner -->
+  <string name="statusbar_icons_blacklist">ステータスバーのアイコン</string>
   <!-- Quick Settings tiles -->
+  <string name="quick_settings_expanded_desktop_label">拡張デスクトップ</string>
+  <string name="quick_settings_expanded_desktop">拡張</string>
+  <string name="quick_settings_expanded_desktop_off">普通</string>
+  <string name="quick_settings_screenshot_label">ス クリーンショット</string>
+  <string name="quick_settings_adb_network">ADBネットワーク</string>
+  <string name="quick_settings_network_adb_disabled_label">無効</string>
+  <string name="quick_settings_reboot_label">再起動</string>
+  <string name="quick_settings_reboot_recovery_label">リカバリー</string>
   <!-- Text to use when the number in a notification info is too large
          (greater than status_bar_notification_info_maxnum, defined in
          values/config.xml) and must be truncated. [CHAR LIMIT=4] -->
