@@ -14,12 +14,37 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Battery Bar -->
+  <string name="battery_bar_title">バッテリーバー</string>
+  <string name="battery_bar_color">バッテリーバーの色</string>
+  <string name="battery_bar_cat">バッテリーバーのスタイル</string>
   <!-- Battery icon -->
   <!-- Brightness slider -->
+  <string name="qs_brightness_slider_disabled">無効</string>
   <!-- Color Picker -->
   <!-- Network traffic -->
+  <string name="network_traffic_title">ネットワークトラフィック</string>
+  <string name="show_network_traffic_state">ステータスバー上のトラフィックモニター</string>
+  <string name="show_network_traffic_unit">表示単位</string>
+  <string name="show_network_traffic_frequency">更新間隔</string>
+  <string name="show_network_traffic_disable">無効</string>
+  <string name="show_network_traffic_up">送信</string>
+  <string name="show_network_traffic_down">受信</string>
+  <string name="show_network_traffic_all">送信と受信</string>
+  <string name="show_network_traffic_bit">ビット毎秒</string>
+  <string name="show_network_traffic_byte">バイト毎秒</string>
+  <string name="show_network_traffic_500">500ミリ秒</string>
+  <string name="show_network_traffic_1000">1000ミリ秒</string>
+  <string name="show_network_traffic_1500">1500ミリ秒</string>
+  <string name="show_network_traffic_2000">2000ミリ秒</string>
+  <string name="network_traffic_autohide">自動的に隠す</string>
+  <string name="network_traffic_autohide_summary">非アクティブ時にトラフィックモニターを非表示にする</string>
+  <string name="network_traffic_autohide_threshold">非アクティブ判定のしきい値</string>
+  <string name="network_traffic_hidearrow">矢印を非表示</string>
+  <string name="network_traffic_hidearrow_summary">トラフィックモニターの矢印を隠す</string>
   <!-- Superuser indicator on status bar -->
   <!--Status bar date -->
+  <string name="status_bar_date_normal">普通</string>
+  <string name="status_bar_date_style_normal">普通</string>
   <!-- Navbar Animation -->
   <!-- Torch -->
 </resources>
