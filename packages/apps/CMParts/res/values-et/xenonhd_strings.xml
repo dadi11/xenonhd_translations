@@ -40,6 +40,7 @@
   <string name="press_color_to_apply">Värvi rakendamiseks vajutage värvi peale</string>
   <string name="hex">Hex:</string>
   <string name="set">Määra</string>
+  <string name="color_default">Vaikimisi</string>
   <!-- Network traffic -->
   <!-- Superuser indicator on status bar -->
   <string name="su_indicator_summary_off">Näita superuser ikooni kui sessioon on aktiivne</string>
