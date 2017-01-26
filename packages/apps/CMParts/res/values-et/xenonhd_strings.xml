@@ -16,10 +16,13 @@
   <!-- Battery Bar -->
   <!-- Battery icon -->
   <!-- Brightness slider -->
+  <string name="qs_brightness_slider_enabled">Lubatud</string>
   <!-- Color Picker -->
   <!-- Network traffic -->
   <!-- Superuser indicator on status bar -->
   <!--Status bar date -->
+  <string name="status_bar_date_normal">Tavaline</string>
+  <string name="status_bar_date_style_normal">Tavaline</string>
   <!-- Navbar Animation -->
   <!-- Torch -->
 </resources>
