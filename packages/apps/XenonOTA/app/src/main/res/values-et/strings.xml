@@ -33,6 +33,14 @@
   <string name="check_update_failed">Uuenduste otsimine polnud võimalik, veenduge et teie seade toetab XenonHD</string>
   <string name="no_update_available">Uuendusi ei leitud</string>
   <!-- Update interval -->
+  <string name="interval_title">Automaatsete uuenduste sagedus</string>
+  <string name="autoupdate_enabled">Automaatne uuendamine on lubatud</string>
+  <string name="autoupdate_disabled">Automaatne uuendamine on keelatud</string>
+  <string name="disabled">Keela</string>
+  <string name="hour">Iga tund</string>
+  <string name="twelve_hours">Iga 12 tunni järel</string>
+  <string name="twentyfour_hours">Iga 24 tunni järelt</string>
   <!-- Notification -->
+  <string name="notification_title">XenonHD Uuendused</string>
   <!-- Dialog -->
 </resources>
