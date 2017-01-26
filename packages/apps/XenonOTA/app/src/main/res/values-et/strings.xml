@@ -25,7 +25,13 @@
   <!-- ROM info -->
   <string name="latest_version">Uusim versioon: %1$s</string>
   <string name="unknown">Tundmatu</string>
+  <string name="system_uptodate">Teie süsteem on kõige uuemal versioonil</string>
   <!-- Check update -->
+  <string name="check_update_title">Otsi värskendusi</string>
+  <string name="last_check_summary">Viimati kontrollitud: %1$s</string>
+  <string name="last_check_never">Mitte kunagi</string>
+  <string name="check_update_failed">Uuenduste otsimine polnud võimalik, veenduge et teie seade toetab XenonHD</string>
+  <string name="no_update_available">Uuendusi ei leitud</string>
   <!-- Update interval -->
   <!-- Notification -->
   <!-- Dialog -->
