@@ -14,13 +14,20 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
+  <string name="xenonhd_version">XenonHDバージョン</string>
+  <string name="xenonhd_maintainer">メンテナ</string>
   <!-- Changelog -->
+  <string name="changelog_xenonhd_title">更新履歴</string>
+  <string name="changelog_xenonhd_error">更新履歴を読み込めませんでした</string>
   <!-- Density category -->
   <!-- XenonOTA -->
   <!-- Dev Options Enabled by Default -->
   <!-- Phone info shortcut -->
+  <string name="device_info_title">携帯電話情報</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+  <string name="local_backup_password_title">PCバックアップパスワード</string>
   <!-- Double tap to sleep on lockscreen -->
+  <string name="double_tap_sleep_anywhere_title">ロック画面をダブルタップしてスリープ</string>
   <!-- Notification sound timeout -->
   <!-- Randomize MAC addresses -->
   <!-- Volume Steps -->
@@ -37,8 +44,6 @@
   <!-- Three-fingers-swipe to screenshot -->
   <!-- Long press back to kill configurable timeout -->
   <!-- Doze pulse options -->
-  <string name="doze_pulse_duration_in_summary"></string>
-  <string name="doze_pulse_duration_visible_summary"></string>
-  <string name="doze_pulse_duration_out_summary"></string>
+  <string name="summary_doze_disabled">無効</string>
   <!-- Recents panel settings -->
 </resources>

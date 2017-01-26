@@ -110,6 +110,7 @@
   <string name="three_finger_gesture">Přejetím pořídit snímek obrazovky</string>
   <string name="three_finger_gesture_summary">Snímek obrazovky přejetím tří prstů</string>
   <!-- Long press back to kill configurable timeout -->
+  <string name="kill_app_longpress_timeout_title">Časový limit dlouhého stisku tlačítka Zpět</string>
   <string name="timeout_2000">2 sekundy (výchozí)</string>
   <string name="timeout_1500">1,5 sekundy</string>
   <string name="timeout_1000">1 sekunda</string>
@@ -153,6 +154,7 @@
   <string name="ambient_display_show_battery_summary">Zobrazit indikátor baterie během pulsování</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Povolit tlačítko \"Vyčistit vše\"</string>
+  <string name="show_clear_all_recents_button_summary">Zobrazit tlačítko \"Vyčistit vše\" v zobrazení nedávných aplikací</string>
   <string name="recents_clear_all_location_title">Pozice tlačítka \"Vyčistit vše\"</string>
   <string name="recents_clear_all_location_top_right">Vpravo nahoře</string>
   <string name="recents_clear_all_location_top_left">Vlevo nahoře</string>
