@@ -15,6 +15,11 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Battery Bar -->
   <string name="battery_bar_title">Aku riba</string>
+  <string name="battery_bar">Aku riba asukoht</string>
+  <string name="battery_bar_no_navbar">Aku riba asukoht</string>
+  <string name="battery_bar_color">Aku riba värv</string>
+  <string name="battery_bar_charging_color">Aku riba laadimise värv</string>
+  <string name="battery_bar_battery_low_color">Aku riba tühja aku värv</string>
   <!-- Battery icon -->
   <!-- Brightness slider -->
   <string name="qs_brightness_slider_enabled">Lubatud</string>
