@@ -65,6 +65,8 @@
   <string name="volume_steps_reset">Lähtesta</string>
   <!-- DayNight Theme -->
   <string name="night_mode_title">Teema</string>
+  <string name="night_mode_no">Valgus</string>
+  <string name="night_mode_yes">Tume</string>
   <!-- Screenshot sound -->
   <string name="screenshot_sound_title">Kuvatõmmise heli</string>
   <string name="screenshot_sound_summary">Esitab heli, kui kuvatõmmis on võetud</string>
