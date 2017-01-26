@@ -14,9 +14,16 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
+  <string name="xenonhd_version">XenonHD versioon</string>
+  <string name="xenonhd_version_default">Tundmatu</string>
+  <string name="xenonhd_maintainer">Hooldaja</string>
+  <string name="xenonhd_maintainer_default">Tundmatu</string>
   <!-- Changelog -->
+  <string name="changelog_xenonhd_title">Muudatuste logi</string>
+  <string name="changelog_xenonhd_error">Muudatuste logi ei saanud laadida</string>
   <!-- Density category -->
   <!-- XenonOTA -->
+  <string name="xenonota_title">XenonHD Uuendused</string>
   <!-- Dev Options Enabled by Default -->
   <!-- Phone info shortcut -->
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
