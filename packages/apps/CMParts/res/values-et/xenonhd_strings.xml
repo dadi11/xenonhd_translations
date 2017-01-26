@@ -37,11 +37,26 @@
   <string name="brightness_icon_summary">Kuva heleduse ikoon vasakul pool heleduse liugurit, et muuta heleduse automaatset reguleerimist</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">Värvi valija</string>
+  <string name="press_color_to_apply">Värvi rakendamiseks vajutage värvi peale</string>
+  <string name="hex">Hex:</string>
+  <string name="set">Määra</string>
   <!-- Network traffic -->
   <!-- Superuser indicator on status bar -->
+  <string name="su_indicator_summary_off">Näita superuser ikooni kui sessioon on aktiivne</string>
   <!--Status bar date -->
+  <string name="status_bar_clock_category">Kell</string>
+  <string name="status_bar_date_title">Kuupäev</string>
+  <string name="status_bar_date_none">Peidetud (vaikimisi)</string>
+  <string name="status_bar_date_small">Väike</string>
   <string name="status_bar_date_normal">Tavaline</string>
+  <string name="status_bar_date_format_title">Kauplevad formaat</string>
+  <string name="status_bar_date_style">Kuupäeva stiil</string>
   <string name="status_bar_date_style_normal">Tavaline</string>
+  <string name="status_bar_date_style_lowercase">Väiketähed</string>
+  <string name="status_bar_date_style_uppercase">Suurtähed</string>
+  <string name="status_bar_date_format_custom">Kohandatud java formaat</string>
+  <string name="status_bar_date_string_edittext_title">Peab olema KuupäevFormaat nt. KK/pp/aa</string>
+  <string name="status_bar_date_string_edittext_summary">Sisestage string</string>
   <!-- Navbar Animation -->
   <!-- Torch -->
 </resources>
