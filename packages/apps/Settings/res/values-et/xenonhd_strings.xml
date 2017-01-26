@@ -32,8 +32,16 @@
   <!-- Phone info shortcut -->
   <string name="device_info_title">Telefoni teave</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+  <string name="local_backup_password_title">Töölaua varandus parool</string>
   <!-- Double tap to sleep on lockscreen -->
+  <string name="double_tap_sleep_anywhere_title">DT2S lukuekraanil</string>
+  <string name="double_tap_sleep_anywhere_summary">Koputage kaks korda ekraanile, et seade unerežiimi panna</string>
   <!-- Notification sound timeout -->
+  <string name="app_notification_sound_timeout_title">Väikseim aeg teavitushelide vahel</string>
+  <string name="app_notification_sound_timeout_summary_template">Ära luba heli või vibratsiooni rohkem kui üks kord iga <xliff:g id="duration">%1$s </xliff:g></string>
+  <string name="app_notification_sound_timeout_value_none">Piiranguta</string>
+  <string name="app_notification_sound_timeout_value_10_seconds">10 sekundit</string>
+  <string name="app_notification_sound_timeout_value_30_seconds">30 sekundit</string>
   <!-- Randomize MAC addresses -->
   <!-- Volume Steps -->
   <string name="volume_steps_music_title">Muusika</string>
