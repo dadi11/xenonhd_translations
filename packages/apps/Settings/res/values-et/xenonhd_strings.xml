@@ -42,15 +42,33 @@
   <string name="app_notification_sound_timeout_value_none">Piiranguta</string>
   <string name="app_notification_sound_timeout_value_10_seconds">10 sekundit</string>
   <string name="app_notification_sound_timeout_value_30_seconds">30 sekundit</string>
+  <string name="app_notification_sound_timeout_value_1_minute">1 minut</string>
+  <string name="app_notification_sound_timeout_value_5_minutes">5 minutit</string>
+  <string name="app_notification_sound_timeout_value_15_minutes">10 minutit</string>
+  <string name="app_notification_sound_timeout_value_30_minutes">30 minutit</string>
   <!-- Randomize MAC addresses -->
+  <string name="randomize_mac_title">Ebakorrapärastage MAC aadressid</string>
   <!-- Volume Steps -->
   <string name="volume_steps_music_title">Muusika</string>
   <!-- DayNight Theme -->
   <!-- Screenshot sound -->
+  <string name="screenshot_sound_title">Kuvatõmmise heli</string>
+  <string name="screenshot_sound_summary">Esitab heli, kui kuvatõmmis on võetud</string>
   <!-- Manage applications: show substratum overlays -->
+  <string name="filter_substratum_apps">Substratumi ülekatted</string>
+  <string name="menu_show_substratum">Näita ülekatteid</string>
+  <string name="menu_hide_substratum">Peida ülekatted</string>
   <!-- Manage applications: show substratum icon overlays -->
+  <string name="filter_substratum_icons">Substratumi ikooni ülekatted</string>
+  <string name="menu_show_substratum_icons">Näita ikooni ülekatteid</string>
+  <string name="menu_hide_substratum_icons">Peida ikooni ülekatted</string>
   <!-- XenonHD Configurations-->
+  <string name="xenonhd_title">Konfiguratioonid</string>
+  <string name="xenonhd_misc_title">Varia</string>
+  <string name="xenonhd_lockscreen_title">Lukustusekraan</string>
+  <string name="xenonhd_ui_title">UI</string>
   <!-- Selinux Switch -->
+  <string name="selinux_switch_title">SELinux lüliti hoiatus</string>
   <!-- Recents Membar -->
   <!-- Quick settings tiles columns and rows config -->
   <!-- Media art -->
