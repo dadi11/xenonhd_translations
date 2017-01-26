@@ -49,9 +49,22 @@
   <!-- Randomize MAC addresses -->
   <string name="randomize_mac_title">Ebakorrapärastage MAC aadressid</string>
   <string name="randomize_mac_summary">Määra suvalised MAC aadressid kui võrguseadmed on sisse lülitatud. MAC ebakorrapärastamist kasutatakse skaneerimise ajal, olenemata sellest kas see seadistus on sisse lülitatud või mitte</string>
+  <string name="tethering_no_sim_alert_title">SIM kaarti pole sisestatud</string>
+  <string name="tethering_no_sim_card_text">Palun paigaldage SIM kaart, et saaksite oma andmesideühendust jagada teiste seadmetega mobiilse kuumkoha või USB interneti jagamise kaudu</string>
+  <string name="tether_settings_launch_title">Mobiilne kuumkoht</string>
+  <string name="wifi_tether_first_use_message">Sea ülesse mobiilne kuumkoht esimesel kasutusel</string>
   <!-- Volume Steps -->
+  <string name="volume_steps_title">Heli astmed</string>
+  <string name="volume_steps_alarm_title">Äratus</string>
+  <string name="volume_steps_dtmf_title">DTMF (helistamine)</string>
   <string name="volume_steps_music_title">Muusika</string>
+  <string name="volume_steps_notification_title">Teavitus</string>
+  <string name="volume_steps_ring_title">Kõlisti</string>
+  <string name="volume_steps_system_title">Süsteem</string>
+  <string name="volume_steps_voice_call_title">Helikõne</string>
+  <string name="volume_steps_reset">Lähtesta</string>
   <!-- DayNight Theme -->
+  <string name="night_mode_title">Teema</string>
   <!-- Screenshot sound -->
   <string name="screenshot_sound_title">Kuvatõmmise heli</string>
   <string name="screenshot_sound_summary">Esitab heli, kui kuvatõmmis on võetud</string>
@@ -97,5 +110,6 @@
   <!-- Long press back to kill configurable timeout -->
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">Lubatud</string>
+  <string name="summary_doze_disabled">Keelatud</string>
   <!-- Recents panel settings -->
 </resources>
