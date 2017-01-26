@@ -69,9 +69,22 @@
   <string name="xenonhd_ui_title">UI</string>
   <!-- Selinux Switch -->
   <string name="selinux_switch_title">SELinux lüliti hoiatus</string>
+  <string name="selinux_switch_summary">SELinux on kerneli muudatuste ja kasutajaruumi komplekt. Selle režiimi vahetamine võib põhjustada soovimatuid tagajärgi. Lubav režiim on soovitatud. Vahetage omal vastutusel</string>
+  <string name="selinux_title">SELinux režiim</string>
+  <string name="selinux_permissive_title">Lubav</string>
+  <string name="selinux_enforcing_title">Sundiv</string>
   <!-- Recents Membar -->
+  <string name="recents_membar">Mälu riba</string>
+  <string name="systemui_recents_mem_display_title">Näita Mälu riba</string>
+  <string name="systemui_recents_mem_display_summary">Näita vaba RAM-i hulka hiljutiste rakenduste vaates</string>
   <!-- Quick settings tiles columns and rows config -->
+  <string name="qs_layout_category">Kiirseadete plaatide paigutus</string>
+  <string name="qs_rows_portrait_title">Read (vertikaalpaigutus)</string>
+  <string name="qs_rows_landscape_title">Read (diagonaalpaigutus)</string>
+  <string name="qs_columns_title">Veerud</string>
   <!-- Media art -->
+  <string name="media_art_title">Meedia kaane pilt</string>
+  <string name="media_art_summary">Kuva meediumi kaanepilt lukustusekraanil</string>
   <!-- Quick unlock -->
   <!-- Three-fingers-swipe to screenshot -->
   <!-- Long press back to kill configurable timeout -->
