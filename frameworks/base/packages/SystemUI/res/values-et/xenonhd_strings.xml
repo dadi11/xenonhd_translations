@@ -50,11 +50,11 @@
   <string name="accessibility_quick_settings_nfc_on">NFC sees</string>
   <string name="accessibility_quick_settings_nfc_changed_off">NFC sisselülitatud</string>
   <string name="accessibility_quick_settings_nfc_changed_on">NFC sisselülitatud</string>
-  <string name="quick_settings_heads_up_label">Teavitused</string>
-  <string name="accessibility_quick_settings_heads_up_off">Teavitused välja</string>
-  <string name="accessibility_quick_settings_heads_up_on">Teavitused sees</string>
-  <string name="accessibility_quick_settings_heads_up_changed_off">Teavitused välja lülitatud</string>
-  <string name="accessibility_quick_settings_heads_up_changed_on">Teavitused sisse lülitatud</string>
+  <string name="quick_settings_heads_up_label">Heads up</string>
+  <string name="accessibility_quick_settings_heads_up_off">Heads up väljas</string>
+  <string name="accessibility_quick_settings_heads_up_on">Heads up sees</string>
+  <string name="accessibility_quick_settings_heads_up_changed_off">Heads up välja lülitatud</string>
+  <string name="accessibility_quick_settings_heads_up_changed_on">Heads up sisse lülitatud</string>
   <string name="quick_settings_ambient_display_label">Ambientne ekraan</string>
   <string name="accessibility_quick_settings_ambient_display_off">Ambientne ekraan väljas</string>
   <string name="accessibility_quick_settings_ambient_display_on">Ambientne ekraan sees</string>
