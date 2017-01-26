@@ -63,6 +63,8 @@
   <string name="network_traffic_hidearrow">Peida nooled</string>
   <string name="network_traffic_hidearrow_summary">Peida võrguliikluse näitaja nooled</string>
   <!-- Superuser indicator on status bar -->
+  <string name="su_indicator">Superuser näitaja</string>
+  <string name="su_indicator_summary_on">Superuser näitaja on nähtav kui seanss on aktiivne</string>
   <string name="su_indicator_summary_off">Näita superuser ikooni kui sessioon on aktiivne</string>
   <!--Status bar date -->
   <string name="status_bar_clock_category">Kell</string>
