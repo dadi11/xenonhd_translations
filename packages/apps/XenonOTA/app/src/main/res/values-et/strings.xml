@@ -42,5 +42,7 @@
   <string name="twentyfour_hours">Iga 24 tunni järelt</string>
   <!-- Notification -->
   <string name="notification_title">XenonHD Uuendused</string>
+  <string name="notification_message">Uuem versioon on saadaval!</string>
   <!-- Dialog -->
+  <string name="dialog_message">Uuenduste kontrollimine, palun oodake&#8230;</string>
 </resources>
