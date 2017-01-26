@@ -146,5 +146,17 @@
   <string name="five_second">5 s</string>
   <string name="doze_notification_color_invert_title">Teate inversioon</string>
   <string name="doze_notification_color_invert_summary_off">Teateid ei pöörata. Kasutada tumedate teemade puhul</string>
+  <string name="doze_notification_color_invert_summary_on">Teateid pööratakse. Kasutada heledate teemade puhul</string>
+  <string name="ambient_display_show_battery_title">Aku olek</string>
+  <string name="ambient_display_show_battery_summary">Näita aku indikaatorit pulsi ajal</string>
   <!-- Recents panel settings -->
+  <string name="show_clear_all_recents_button_title">Luba tühjenda kõik nupp</string>
+  <string name="show_clear_all_recents_button_summary">Näita tühjenda kõik nuppu hiljutiste rakenduste akna kasutamisel</string>
+  <string name="recents_clear_all_location_title">Tühjenda kõik nupu asukoht</string>
+  <string name="recents_clear_all_location_top_right">Paremal ülanurgas</string>
+  <string name="recents_clear_all_location_top_left">Vasakul ülanurgas</string>
+  <string name="recents_clear_all_location_top_center">Ülal keskel</string>
+  <string name="recents_clear_all_location_bottom_right">All paremnurgas</string>
+  <string name="recents_clear_all_location_bottom_left">All vasaknurgas</string>
+  <string name="recents_clear_all_location_bottom_center">All keskel</string>
 </resources>
