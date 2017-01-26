@@ -20,10 +20,23 @@
   <string name="battery_bar_color">Aku riba värv</string>
   <string name="battery_bar_charging_color">Aku riba laadimise värv</string>
   <string name="battery_bar_battery_low_color">Aku riba tühja aku värv</string>
+  <string name="battery_bar_cat">Aku riba stiil</string>
+  <string name="battery_bar_style_title">Aku riba joonendamine</string>
+  <string name="battery_bar_thickness_title">Aku riba paksus</string>
+  <string name="battery_bar_animate_title">Laadimise animatsioon</string>
+  <string name="battery_bar_style_regular">Tavaline</string>
+  <string name="battery_bar_style_center_mirrored">Keskpeegeldatud</string>
+  <string name="battery_bar_style_reversed">Ümber pööratud</string>
   <!-- Battery icon -->
+  <string name="status_bar_battery_style_solid">Tahke</string>
   <!-- Brightness slider -->
+  <string name="qs_brightness_slider_title">Ereduse liugur</string>
   <string name="qs_brightness_slider_enabled">Lubatud</string>
+  <string name="qs_brightness_slider_disabled">Keelatud</string>
+  <string name="brightness_icon_title">Heleduse ikoon </string>
+  <string name="brightness_icon_summary">Kuva heleduse ikoon vasakul pool heleduse liugurit, et muuta heleduse automaatset reguleerimist</string>
   <!-- Color Picker -->
+  <string name="dialog_color_picker">Värvi valija</string>
   <!-- Network traffic -->
   <!-- Superuser indicator on status bar -->
   <!--Status bar date -->
