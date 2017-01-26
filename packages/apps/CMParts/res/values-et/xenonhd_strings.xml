@@ -42,6 +42,26 @@
   <string name="set">Määra</string>
   <string name="color_default">Vaikimisi</string>
   <!-- Network traffic -->
+  <string name="traffic_category">Võrguliikluse indikaatorid</string>
+  <string name="network_traffic_title">Võrguliiklus</string>
+  <string name="show_network_traffic_state">Olekuriba võrguliikluse monitor</string>
+  <string name="show_network_traffic_unit">Kuvamis ühikud</string>
+  <string name="show_network_traffic_frequency">Uuenduse sagedus</string>
+  <string name="show_network_traffic_disable">Keelatud</string>
+  <string name="show_network_traffic_up">Väljaminev</string>
+  <string name="show_network_traffic_down">Sissetulev</string>
+  <string name="show_network_traffic_all">Sissetulev ja väljaminev</string>
+  <string name="show_network_traffic_bit">Bitti sekundis</string>
+  <string name="show_network_traffic_byte">Baiti sekundis</string>
+  <string name="show_network_traffic_500">500 ms</string>
+  <string name="show_network_traffic_1000">1000 ms</string>
+  <string name="show_network_traffic_1500">1500 ms</string>
+  <string name="show_network_traffic_2000">2000 ms</string>
+  <string name="network_traffic_autohide">Peida automaatselt</string>
+  <string name="network_traffic_autohide_summary">Peida võrguliikluse monitor, kui tegevus puudub</string>
+  <string name="network_traffic_autohide_threshold">Tegevusetuse künnis</string>
+  <string name="network_traffic_hidearrow">Peida nooled</string>
+  <string name="network_traffic_hidearrow_summary">Peida võrguliikluse näitaja nooled</string>
   <!-- Superuser indicator on status bar -->
   <string name="su_indicator_summary_off">Näita superuser ikooni kui sessioon on aktiivne</string>
   <!--Status bar date -->
