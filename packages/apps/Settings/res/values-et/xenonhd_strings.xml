@@ -48,6 +48,7 @@
   <string name="app_notification_sound_timeout_value_30_minutes">30 minutit</string>
   <!-- Randomize MAC addresses -->
   <string name="randomize_mac_title">Ebakorrapärastage MAC aadressid</string>
+  <string name="randomize_mac_summary">Määra suvalised MAC aadressid kui võrguseadmed on sisse lülitatud. MAC ebakorrapärastamist kasutatakse skaneerimise ajal, olenemata sellest kas see seadistus on sisse lülitatud või mitte</string>
   <!-- Volume Steps -->
   <string name="volume_steps_music_title">Muusika</string>
   <!-- DayNight Theme -->
@@ -86,7 +87,13 @@
   <string name="media_art_title">Meedia kaane pilt</string>
   <string name="media_art_summary">Kuva meediumi kaanepilt lukustusekraanil</string>
   <!-- Quick unlock -->
+  <string name="quick_unlock_warning">Kiiravamise hoiatus</string>
+  <string name="quick_unlock_warning_summary">See funktsioon eirab olulisi kaitsemehhanisme ja peaaegu kindlasti häirib mitmik-kasutaja tuge. Kasutage omal vastutusel</string>
+  <string name="unlock_quick_unlock_control_title">Kiiravamine</string>
+  <string name="unlock_quick_unlock_control_summary">Ava automaatselt kui õige PIN/parool on sisestatud</string>
   <!-- Three-fingers-swipe to screenshot -->
+  <string name="three_finger_gesture">Libistage et teha kuvatõmmis</string>
+  <string name="three_finger_gesture_summary">Libistage kolme sõrmega et teha kuvatõmmis</string>
   <!-- Long press back to kill configurable timeout -->
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">Lubatud</string>
