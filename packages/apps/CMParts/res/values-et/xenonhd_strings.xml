@@ -57,6 +57,12 @@
   <string name="status_bar_date_format_custom">Kohandatud java formaat</string>
   <string name="status_bar_date_string_edittext_title">Peab olema KuupäevFormaat nt. KK/pp/aa</string>
   <string name="status_bar_date_string_edittext_summary">Sisestage string</string>
+  <string name="menu_save">Salvesta</string>
+  <string name="menu_cancel">Loobu muudatustest</string>
   <!-- Navbar Animation -->
+  <string name="pixel_navbar_anim_title">Navigeerimisriba animatsioon</string>
+  <string name="pixel_navbar_anim_summary">Lubage navigeerimisriba uuesti või taaskäivitage et muudatusi rakendada. Teemad võivad selle sätte üle kirjutada</string>
   <!-- Torch -->
+  <string name="torch_long_press_power_gesture_title">Vajutage pikalt toitenupule et lubada taskulamp</string>
+  <string name="torch_long_press_power_gesture_desc">Aktiveeri taskulamp pikalt vajutades toitenupule, kui ekraan on välja lülitatud</string>
 </resources>
