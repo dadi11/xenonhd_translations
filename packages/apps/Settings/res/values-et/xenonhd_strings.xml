@@ -21,11 +21,16 @@
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Muudatuste logi</string>
   <string name="changelog_xenonhd_error">Muudatuste logi ei saanud laadida</string>
+  <string name="changelog_xenonhd_summary">Muudatusi näete praeguses ehituses</string>
   <!-- Density category -->
+  <string name="density_category">Ekraanitiheduse valikud</string>
   <!-- XenonOTA -->
   <string name="xenonota_title">XenonHD Uuendused</string>
+  <string name="xenonota_summary">Tarkvara uuenduste otsimine</string>
   <!-- Dev Options Enabled by Default -->
+  <string name="show_dev_already_enabled">Pole vaja, arendaja seaded on juba vaikimisi lubatud</string>
   <!-- Phone info shortcut -->
+  <string name="device_info_title">Telefoni teave</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
   <!-- Double tap to sleep on lockscreen -->
   <!-- Notification sound timeout -->
