@@ -34,7 +34,7 @@
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
   <string name="local_backup_password_title">Töölaua varandus parool</string>
   <!-- Double tap to sleep on lockscreen -->
-  <string name="double_tap_sleep_anywhere_title">DT2S lukuekraanil</string>
+  <string name="double_tap_sleep_anywhere_title">DT2S lukustusekraanil</string>
   <string name="double_tap_sleep_anywhere_summary">Koputage kaks korda ekraanile, et seade unerežiimi panna</string>
   <!-- Notification sound timeout -->
   <string name="app_notification_sound_timeout_title">Väikseim aeg teavitushelide vahel</string>
