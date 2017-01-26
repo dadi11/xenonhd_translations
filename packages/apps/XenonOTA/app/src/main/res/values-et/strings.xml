@@ -17,8 +17,14 @@
   -->
 <resources>
   <!-- App -->
+  <string name="app_name">XenonOTA</string>
+  <string name="app_title">XenonHD Uuendused</string>
   <!-- Categories -->
+  <string name="ota_category">Uuenduse teave</string>
+  <string name="links_category">Allalaadimise lingid</string>
   <!-- ROM info -->
+  <string name="latest_version">Uusim versioon: %1$s</string>
+  <string name="unknown">Tundmatu</string>
   <!-- Check update -->
   <!-- Update interval -->
   <!-- Notification -->
