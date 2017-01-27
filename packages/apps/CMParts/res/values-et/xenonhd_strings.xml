@@ -20,9 +20,9 @@
   <string name="battery_bar_color">Akuriba värv</string>
   <string name="battery_bar_charging_color">Akuriba laadimise värv</string>
   <string name="battery_bar_battery_low_color">Akuriba tühja aku värv</string>
-  <string name="battery_bar_cat">Aku riba stiil</string>
-  <string name="battery_bar_style_title">Aku riba joonendamine</string>
-  <string name="battery_bar_thickness_title">Aku riba paksus</string>
+  <string name="battery_bar_cat">Akuriba stiil</string>
+  <string name="battery_bar_style_title">Akuriba joonendamine</string>
+  <string name="battery_bar_thickness_title">Akuriba paksus</string>
   <string name="battery_bar_animate_title">Laadimise animatsioon</string>
   <string name="battery_bar_style_regular">Tavaline</string>
   <string name="battery_bar_style_center_mirrored">Keskpeegeldatud</string>
