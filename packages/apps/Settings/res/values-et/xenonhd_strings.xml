@@ -48,7 +48,7 @@
   <string name="app_notification_sound_timeout_value_30_minutes">30 minutit</string>
   <!-- Randomize MAC addresses -->
   <string name="randomize_mac_title">Ebakorrapärastage MAC aadressid</string>
-  <string name="randomize_mac_summary">Määra suvalised MAC aadressid kui võrguseadmed on sisse lülitatud. MAC ebakorrapärastamist kasutatakse skaneerimise ajal, olenemata sellest kas see seadistus on sisse lülitatud või mitte</string>
+  <string name="randomize_mac_summary">Määra suvalised MAC aadressid kui võrguseadmed on sisse lülitatud. MAC-i ebakorrapärastamist kasutatakse skaneerimise ajal, olenemata sellest kas see seadistus on sisse lülitatud või mitte</string>
   <string name="tethering_no_sim_alert_title">SIM kaarti pole sisestatud</string>
   <string name="tethering_no_sim_card_text">Palun paigaldage SIM kaart, et saaksite oma andmesideühendust jagada teiste seadmetega mobiilse kuumkoha või USB interneti jagamise kaudu</string>
   <string name="tether_settings_launch_title">Mobiilne kuumkoht</string>
