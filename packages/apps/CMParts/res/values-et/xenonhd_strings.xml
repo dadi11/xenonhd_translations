@@ -45,7 +45,7 @@
   <string name="traffic_category">Võrguliikluse indikaatorid</string>
   <string name="network_traffic_title">Võrguliiklus</string>
   <string name="show_network_traffic_state">Olekuriba võrguliikluse monitor</string>
-  <string name="show_network_traffic_unit">Kuvamis ühikud</string>
+  <string name="show_network_traffic_unit">Kuvaühik</string>
   <string name="show_network_traffic_frequency">Uuenduste sagedus</string>
   <string name="show_network_traffic_disable">Keelatud</string>
   <string name="show_network_traffic_up">Väljaminev</string>
@@ -72,7 +72,7 @@
   <string name="status_bar_date_none">Peidetud (vaikimisi)</string>
   <string name="status_bar_date_small">Väike</string>
   <string name="status_bar_date_normal">Tavaline</string>
-  <string name="status_bar_date_format_title">Kauplevad formaat</string>
+  <string name="status_bar_date_format_title">Kuupäeva formaat</string>
   <string name="status_bar_date_style">Kuupäeva stiil</string>
   <string name="status_bar_date_style_normal">Tavaline</string>
   <string name="status_bar_date_style_lowercase">Väiketähed</string>
