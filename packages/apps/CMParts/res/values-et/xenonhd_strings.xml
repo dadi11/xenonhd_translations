@@ -14,15 +14,15 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Battery Bar -->
-  <string name="battery_bar_title">Akuriba</string>
-  <string name="battery_bar">Akuriba asukoht</string>
-  <string name="battery_bar_no_navbar">Akuriba asukoht</string>
-  <string name="battery_bar_color">Akuriba värv</string>
-  <string name="battery_bar_charging_color">Akuriba laadimise värv</string>
-  <string name="battery_bar_battery_low_color">Akuriba tühja aku värv</string>
-  <string name="battery_bar_cat">Akuriba stiil</string>
-  <string name="battery_bar_style_title">Akuriba joonendamine</string>
-  <string name="battery_bar_thickness_title">Akuriba paksus</string>
+  <string name="battery_bar_title">Aku riba</string>
+  <string name="battery_bar">Aku riba asukoht</string>
+  <string name="battery_bar_no_navbar">Aku riba asukoht</string>
+  <string name="battery_bar_color">Aku riba värv</string>
+  <string name="battery_bar_charging_color">Aku riba laadimise värv</string>
+  <string name="battery_bar_battery_low_color">Aku riba tühja aku värv</string>
+  <string name="battery_bar_cat">Aku riba stiil</string>
+  <string name="battery_bar_style_title">Aku riba joonendamine</string>
+  <string name="battery_bar_thickness_title">Aku riba paksus</string>
   <string name="battery_bar_animate_title">Laadimise animatsioon</string>
   <string name="battery_bar_style_regular">Tavaline</string>
   <string name="battery_bar_style_center_mirrored">Keskpeegeldatud</string>
@@ -34,7 +34,7 @@
   <string name="qs_brightness_slider_enabled">Lubatud</string>
   <string name="qs_brightness_slider_disabled">Keelatud</string>
   <string name="brightness_icon_title">Heleduse ikoon </string>
-  <string name="brightness_icon_summary">Kuva ikoon vasakul pool heleduse liugurit, et muuta heleduse automaatset reguleerimist</string>
+  <string name="brightness_icon_summary">Kuva heleduse ikoon vasakul pool heleduse liugurit, et muuta heleduse automaatset reguleerimist</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">Värvi valija</string>
   <string name="press_color_to_apply">Värvi rakendamiseks vajutage värvi peale</string>
@@ -45,8 +45,8 @@
   <string name="traffic_category">Võrguliikluse indikaatorid</string>
   <string name="network_traffic_title">Võrguliiklus</string>
   <string name="show_network_traffic_state">Olekuriba võrguliikluse monitor</string>
-  <string name="show_network_traffic_unit">Kuvaühik</string>
-  <string name="show_network_traffic_frequency">Uuenduste sagedus</string>
+  <string name="show_network_traffic_unit">Kuvamis ühikud</string>
+  <string name="show_network_traffic_frequency">Uuenduse sagedus</string>
   <string name="show_network_traffic_disable">Keelatud</string>
   <string name="show_network_traffic_up">Väljaminev</string>
   <string name="show_network_traffic_down">Sissetulev</string>
@@ -63,8 +63,8 @@
   <string name="network_traffic_hidearrow">Peida nooled</string>
   <string name="network_traffic_hidearrow_summary">Peida võrguliikluse näitaja nooled</string>
   <!-- Superuser indicator on status bar -->
-  <string name="su_indicator">Superuser indikaator</string>
-  <string name="su_indicator_summary_on">Superuser indikaator on nähtav kui seanss on aktiivne</string>
+  <string name="su_indicator">Superuser näitaja</string>
+  <string name="su_indicator_summary_on">Superuser näitaja on nähtav kui seanss on aktiivne</string>
   <string name="su_indicator_summary_off">Näita superuser ikooni kui sessioon on aktiivne</string>
   <!--Status bar date -->
   <string name="status_bar_clock_category">Kell</string>
@@ -72,7 +72,7 @@
   <string name="status_bar_date_none">Peidetud (vaikimisi)</string>
   <string name="status_bar_date_small">Väike</string>
   <string name="status_bar_date_normal">Tavaline</string>
-  <string name="status_bar_date_format_title">Kuupäeva formaat</string>
+  <string name="status_bar_date_format_title">Kauplevad formaat</string>
   <string name="status_bar_date_style">Kuupäeva stiil</string>
   <string name="status_bar_date_style_normal">Tavaline</string>
   <string name="status_bar_date_style_lowercase">Väiketähed</string>
