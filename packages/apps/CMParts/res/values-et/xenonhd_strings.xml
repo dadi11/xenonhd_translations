@@ -34,7 +34,7 @@
   <string name="qs_brightness_slider_enabled">Lubatud</string>
   <string name="qs_brightness_slider_disabled">Keelatud</string>
   <string name="brightness_icon_title">Heleduse ikoon </string>
-  <string name="brightness_icon_summary">Kuva heleduse ikoon vasakul pool heleduse liugurit, et muuta heleduse automaatset reguleerimist</string>
+  <string name="brightness_icon_summary">Kuva ikoon vasakul pool heleduse liugurit, et muuta heleduse automaatset reguleerimist</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">Värvi valija</string>
   <string name="press_color_to_apply">Värvi rakendamiseks vajutage värvi peale</string>
