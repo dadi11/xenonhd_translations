@@ -55,6 +55,7 @@
   <!-- Three-fingers-swipe to screenshot -->
   <!-- Long press back to kill configurable timeout -->
   <!-- Doze pulse options -->
+  <string name="summary_doze_enabled">有効</string>
   <string name="summary_doze_disabled">無効</string>
   <string name="doze_overwrite_value_title">既定値を上書き</string>
   <string name="doze_overwrite_value_summary">ユーザーの設定を既定値に上書きする</string>
