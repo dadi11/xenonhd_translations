@@ -17,8 +17,10 @@
   -->
 <resources>
   <!-- App -->
+  <string name="app_name">XenonOTA</string>
   <!-- Categories -->
   <!-- ROM info -->
+  <string name="system_uptodate">システムは最新の状態です</string>
   <!-- Check update -->
   <!-- Update interval -->
   <!-- Notification -->
