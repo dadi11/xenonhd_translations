@@ -14,12 +14,12 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Battery Bar -->
-  <string name="battery_bar_title">Aku riba</string>
-  <string name="battery_bar">Aku riba asukoht</string>
-  <string name="battery_bar_no_navbar">Aku riba asukoht</string>
-  <string name="battery_bar_color">Aku riba värv</string>
-  <string name="battery_bar_charging_color">Aku riba laadimise värv</string>
-  <string name="battery_bar_battery_low_color">Aku riba tühja aku värv</string>
+  <string name="battery_bar_title">Akuriba</string>
+  <string name="battery_bar">Akuriba asukoht</string>
+  <string name="battery_bar_no_navbar">Akuriba asukoht</string>
+  <string name="battery_bar_color">Akuriba värv</string>
+  <string name="battery_bar_charging_color">Akuriba laadimise värv</string>
+  <string name="battery_bar_battery_low_color">Akuriba tühja aku värv</string>
   <string name="battery_bar_cat">Aku riba stiil</string>
   <string name="battery_bar_style_title">Aku riba joonendamine</string>
   <string name="battery_bar_thickness_title">Aku riba paksus</string>
