@@ -18,9 +18,12 @@
   <string name="battery_bar_color">バッテリーバーの色</string>
   <string name="battery_bar_cat">バッテリーバーのスタイル</string>
   <!-- Battery icon -->
+  <string name="status_bar_battery_style_solid">ソリッド</string>
   <!-- Brightness slider -->
   <string name="qs_brightness_slider_disabled">無効</string>
   <!-- Color Picker -->
+  <string name="dialog_color_picker">色の選択</string>
+  <string name="press_color_to_apply">色を選択して適用</string>
   <!-- Network traffic -->
   <string name="network_traffic_title">ネットワークトラフィック</string>
   <string name="show_network_traffic_state">ステータスバー上のトラフィックモニター</string>
@@ -46,5 +49,6 @@
   <string name="status_bar_date_normal">普通</string>
   <string name="status_bar_date_style_normal">普通</string>
   <!-- Navbar Animation -->
+  <string name="pixel_navbar_anim_title">ナビバーのアニメーション</string>
   <!-- Torch -->
 </resources>

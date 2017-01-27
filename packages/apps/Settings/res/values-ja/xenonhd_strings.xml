@@ -29,14 +29,25 @@
   <!-- Double tap to sleep on lockscreen -->
   <string name="double_tap_sleep_anywhere_title">ロック画面をダブルタップしてスリープ</string>
   <!-- Notification sound timeout -->
+  <string name="app_notification_sound_timeout_value_10_seconds">10秒</string>
+  <string name="app_notification_sound_timeout_value_30_seconds">30秒</string>
+  <string name="app_notification_sound_timeout_value_1_minute">1分</string>
+  <string name="app_notification_sound_timeout_value_5_minutes">5分</string>
+  <string name="app_notification_sound_timeout_value_15_minutes">10分</string>
+  <string name="app_notification_sound_timeout_value_30_minutes">30分</string>
   <!-- Randomize MAC addresses -->
   <!-- Volume Steps -->
   <!-- DayNight Theme -->
+  <string name="night_mode_title">テーマ</string>
   <!-- Screenshot sound -->
+  <string name="screenshot_sound_title">スクリーンショットの音</string>
+  <string name="screenshot_sound_summary">スクリーンショットを取得した際に効果音を鳴らす</string>
   <!-- Manage applications: show substratum overlays -->
   <!-- Manage applications: show substratum icon overlays -->
   <!-- XenonHD Configurations-->
   <!-- Selinux Switch -->
+  <string name="selinux_permissive_title">Permissive</string>
+  <string name="selinux_enforcing_title">Enforcing</string>
   <!-- Recents Membar -->
   <!-- Quick settings tiles columns and rows config -->
   <!-- Media art -->
@@ -46,4 +57,10 @@
   <!-- Doze pulse options -->
   <string name="summary_doze_disabled">無効</string>
   <!-- Recents panel settings -->
+  <string name="recents_clear_all_location_top_right">右上</string>
+  <string name="recents_clear_all_location_top_left">左上</string>
+  <string name="recents_clear_all_location_top_center">中央上</string>
+  <string name="recents_clear_all_location_bottom_right">右下</string>
+  <string name="recents_clear_all_location_bottom_left">左下</string>
+  <string name="recents_clear_all_location_bottom_center">中央下</string>
 </resources>
