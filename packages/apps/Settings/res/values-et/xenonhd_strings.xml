@@ -84,7 +84,7 @@
   <string name="xenonhd_lockscreen_title">Lukustusekraan</string>
   <string name="xenonhd_ui_title">UI</string>
   <!-- Selinux Switch -->
-  <string name="selinux_switch_title">SELinux lüliti hoiatus</string>
+  <string name="selinux_switch_title">SELinux muutmise hoiatus</string>
   <string name="selinux_switch_summary">SELinux on kerneli muudatuste ja kasutajaruumi komplekt. Selle režiimi vahetamine võib põhjustada soovimatuid tagajärgi. Lubav režiim on soovitatud. Vahetage omal vastutusel</string>
   <string name="selinux_title">SELinux režiim</string>
   <string name="selinux_permissive_title">Lubav</string>
