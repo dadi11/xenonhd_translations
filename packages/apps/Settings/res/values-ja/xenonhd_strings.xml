@@ -40,6 +40,7 @@
   <string name="app_notification_sound_timeout_value_30_minutes">30分</string>
   <!-- Randomize MAC addresses -->
   <!-- Volume Steps -->
+  <string name="volume_steps_music_title">音楽</string>
   <!-- DayNight Theme -->
   <string name="night_mode_title">テーマ</string>
   <!-- Screenshot sound -->
