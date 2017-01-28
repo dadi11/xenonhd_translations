@@ -84,6 +84,7 @@
   <string name="menu_cancel">破棄</string>
   <!-- Navbar Animation -->
   <string name="pixel_navbar_anim_title">ナビバーのアニメーション</string>
+  <string name="pixel_navbar_anim_summary">ナビバーの再有効後または端末の再起動後に反映します。テーマがこの設定を上書きする可能性があります</string>
   <!-- Torch -->
   <string name="torch_long_press_power_gesture_title">電源ボタンを長押しでトーチ点灯</string>
   <string name="torch_long_press_power_gesture_desc">画面オフ時に電源ボタンを長押しでトーチを点灯する</string>
