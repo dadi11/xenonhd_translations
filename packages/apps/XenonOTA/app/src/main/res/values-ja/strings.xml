@@ -20,8 +20,10 @@
   <string name="app_name">XenonOTA</string>
   <!-- Categories -->
   <!-- ROM info -->
+  <string name="unknown">不明</string>
   <string name="system_uptodate">システムは最新の状態です</string>
   <!-- Check update -->
+  <string name="check_update_title">更新の確認</string>
   <!-- Update interval -->
   <!-- Notification -->
   <!-- Dialog -->
