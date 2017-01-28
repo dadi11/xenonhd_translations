@@ -36,6 +36,7 @@
   <string name="accessibility_quick_settings_usb_tether_changed_off">USBテザリングをOFFにしました</string>
   <string name="accessibility_quick_settings_usb_tether_changed_on">USBテザリングをONにしました</string>
   <string name="quick_settings_usb_tether_label">USBテザリング</string>
+  <string name="quick_settings_music_label">音楽</string>
   <string name="quick_settings_music_play">再生</string>
   <string name="quick_settings_music_pause">停止</string>
   <string name="quick_settings_ime_tile_label">入力方法</string>
@@ -49,6 +50,9 @@
   <string name="accessibility_quick_settings_nfc_on">NFC オン</string>
   <string name="accessibility_quick_settings_nfc_changed_off">NFCをOFFにしました</string>
   <string name="accessibility_quick_settings_nfc_changed_on">NFCをONにしました</string>
+  <string name="quick_settings_heads_up_label">ヘッドアップ通知</string>
+  <string name="accessibility_quick_settings_heads_up_off">ヘッドアップ オフ</string>
+  <string name="accessibility_quick_settings_heads_up_on">ヘッドアップ オン</string>
   <string name="accessibility_quick_settings_heads_up_changed_off">ヘッドアップ通知は無効になりました</string>
   <string name="accessibility_quick_settings_heads_up_changed_on">ヘッドアップ通知が有効になりました</string>
   <!-- Text to use when the number in a notification info is too large
