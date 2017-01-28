@@ -15,7 +15,9 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
   <string name="xenonhd_version">XenonHDバージョン</string>
+  <string name="xenonhd_version_default">不明</string>
   <string name="xenonhd_maintainer">メンテナ</string>
+  <string name="xenonhd_maintainer_default">不明</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">更新履歴</string>
   <string name="changelog_xenonhd_error">更新履歴を読み込めませんでした</string>
@@ -55,7 +57,13 @@
   <!-- Three-fingers-swipe to screenshot -->
   <!-- Long press back to kill configurable timeout -->
   <!-- Doze pulse options -->
+  <string name="summary_doze_enabled">有効</string>
   <string name="summary_doze_disabled">無効</string>
+  <string name="doze_overwrite_value_title">既定値を上書き</string>
+  <string name="doze_overwrite_value_summary">ユーザーの設定を既定値に上書きする</string>
+  <string name="doze_pulse_duration_in_title">フェードイン</string>
+  <string name="doze_pulse_duration_visible_title">表示時間を指定</string>
+  <string name="doze_pulse_duration_out_title">フェードアウト</string>
   <!-- Recents panel settings -->
   <string name="recents_clear_all_location_top_right">右上</string>
   <string name="recents_clear_all_location_top_left">左上</string>
