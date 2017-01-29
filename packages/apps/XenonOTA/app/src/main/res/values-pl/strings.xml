@@ -17,8 +17,10 @@
   -->
 <resources>
   <!-- App -->
+  <string name="app_title">Aktualizacje XenonHD</string>
   <!-- Categories -->
   <!-- ROM info -->
+  <string name="unknown">Nieznana</string>
   <!-- Check update -->
   <!-- Update interval -->
   <!-- Notification -->
