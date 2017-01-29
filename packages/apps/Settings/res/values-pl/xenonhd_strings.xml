@@ -99,6 +99,7 @@
   <string name="qs_rows_landscape_title">Wiersze (poziomo)</string>
   <string name="qs_columns_title">Kolumny</string>
   <string name="qs_easy_toggle_title">Łatwe przełączanie</string>
+  <string name="qs_easy_toggle_summary">Pojedyncze dotknięcie przełącza Wi-Fi, Dane Komórkowe, oraz Bluetooth. Przytrzymaj, aby rozwinąć zaawansowane ustawienia</string>
   <!-- Media art -->
   <string name="media_art_title">Okładka albumu</string>
   <string name="media_art_summary">Wyświetlaj okładkę odtwarzanego albumu na ekranie blokady</string>
