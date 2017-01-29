@@ -85,6 +85,7 @@
   <string name="xenonhd_ui_title">UI</string>
   <!-- Selinux Switch -->
   <string name="selinux_switch_title">Attenzione cambio SELinux</string>
+  <string name="selinux_switch_summary">SELinux è un insieme di modifiche del kernel. La modifica della modalità richiede i permessi di root e può causare effetti indesiderati. Permissivo raccomandato. Utilizzare a proprio rischio</string>
   <string name="selinux_title">Modalità SELinux</string>
   <string name="selinux_permissive_title">Permissive</string>
   <string name="selinux_enforcing_title">Enforcing</string>
@@ -93,6 +94,7 @@
   <string name="systemui_recents_mem_display_title">Mostra utilizzo memoria</string>
   <string name="systemui_recents_mem_display_summary">Mostra la RAM disponibile nelle app recenti</string>
   <!-- Quick settings config -->
+  <string name="qs_layout_category">Opzioni impostazioni rapide</string>
   <string name="qs_rows_portrait_title">Righe (verticale)</string>
   <string name="qs_rows_landscape_title">Righe (orizzontale)</string>
   <string name="qs_columns_title">Colonne</string>
