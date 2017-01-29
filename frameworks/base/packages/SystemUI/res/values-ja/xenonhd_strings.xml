@@ -13,6 +13,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Screenshot Delete Toast -->
+  <string name="delete_screenshot_toast">スクリーンショットは削除されました</string>
   <!-- Status bar items tuner -->
   <string name="statusbar_icons_blacklist">ステータスバーのアイコン</string>
   <!-- Quick Settings tiles -->
@@ -21,7 +22,13 @@
   <string name="quick_settings_expanded_desktop_off">普通</string>
   <string name="quick_settings_screenshot_label">スクリーンショット</string>
   <string name="quick_settings_adb_network">ADBネットワーク</string>
+  <string name="quick_settings_network_adb_enabled_label">有効</string>
   <string name="quick_settings_network_adb_disabled_label">無効</string>
+  <string name="quick_settings_sync_label">同期</string>
+  <string name="accessibility_quick_settings_sync_off">同期がOFFです</string>
+  <string name="accessibility_quick_settings_sync_on">同期がONです</string>
+  <string name="accessibility_quick_settings_sync_changed_off">同期をOFFにしました</string>
+  <string name="accessibility_quick_settings_sync_changed_on">同期をONにしました</string>
   <string name="quick_settings_reboot_label">再起動</string>
   <string name="quick_settings_reboot_recovery_label">リカバリー</string>
   <string name="quick_settings_nfc_label">NFC</string>
