@@ -85,7 +85,6 @@
   <string name="xenonhd_ui_title">使用者介面</string>
   <!-- Selinux Switch -->
   <string name="selinux_switch_title">Selinux 切換警告</string>
-  <string name="selinux_switch_summary">SELinux 是修改內核和使用者空間的工具。變更模式會導致不必要的影響。使用時自擔風險</string>
   <string name="selinux_title">Selinux 模式</string>
   <string name="selinux_permissive_title">許可</string>
   <string name="selinux_enforcing_title">執行中</string>
@@ -98,6 +97,7 @@
   <string name="qs_rows_portrait_title">行 (縱向)</string>
   <string name="qs_rows_landscape_title">行 (橫向)</string>
   <string name="qs_columns_title">列</string>
+  <!-- QS tiles category -->
   <!-- Media art -->
   <string name="media_art_title">媒體封面</string>
   <string name="media_art_summary">在鎖定畫面上顯示媒體封面</string>
@@ -122,11 +122,8 @@
   <string name="doze_overwrite_value_summary">允許使用者覆蓋預設值</string>
   <string name="doze_pulse_title">使用者可配置的設定</string>
   <string name="doze_pulse_duration_in_title">淡入</string>
-  <string name="doze_pulse_duration_in_summary"></string>
   <string name="doze_pulse_duration_visible_title">可見的持續時間</string>
-  <string name="doze_pulse_duration_visible_summary"></string>
   <string name="doze_pulse_duration_out_title">淡出</string>
-  <string name="doze_pulse_duration_out_summary"></string>
   <string name="doze_trigger_pickup_title">拿起感應器觸發</string>
   <string name="doze_trigger_pickup_summary_on">自動顯示將由拿起感應器觸發</string>
   <string name="doze_trigger_pickup_summary_off">拿起感應器不會用做觸發</string>
@@ -162,5 +159,6 @@
   <string name="recents_clear_all_location_bottom_right">右下</string>
   <string name="recents_clear_all_location_bottom_left">左下</string>
   <string name="recents_clear_all_location_bottom_center">底部置中</string>
-
+  <!-- Dashboard options -->
+  <!-- Dashboard columns -->
 </resources>
