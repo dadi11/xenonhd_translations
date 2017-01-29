@@ -92,12 +92,10 @@
   <string name="recents_membar">記憶體用量列</string>
   <string name="systemui_recents_mem_display_title">顯示記憶體列</string>
   <string name="systemui_recents_mem_display_summary">在最近的應用程式中顯示可用記憶體列</string>
-  <!-- Quick settings tiles columns and rows config -->
-  <string name="qs_layout_category">快速設定圖塊佈局</string>
+  <!-- Quick settings config -->
   <string name="qs_rows_portrait_title">行 (縱向)</string>
   <string name="qs_rows_landscape_title">行 (橫向)</string>
   <string name="qs_columns_title">列</string>
-  <!-- QS tiles category -->
   <!-- Media art -->
   <string name="media_art_title">媒體封面</string>
   <string name="media_art_summary">在鎖定畫面上顯示媒體封面</string>
