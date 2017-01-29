@@ -65,6 +65,7 @@
   <!-- Selinux Switch -->
   <!-- Recents Membar -->
   <!-- Quick settings tiles columns and rows config -->
+  <!-- QS tiles category -->
   <!-- Media art -->
   <!-- Quick unlock -->
   <!-- Three-fingers-swipe to screenshot -->
@@ -72,8 +73,7 @@
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">Ingeschakeld</string>
   <string name="summary_doze_disabled">Uitgeschakeld</string>
-  <string name="doze_pulse_duration_in_summary"></string>
-  <string name="doze_pulse_duration_visible_summary"></string>
-  <string name="doze_pulse_duration_out_summary"></string>
   <!-- Recents panel settings -->
+  <!-- Dashboard options -->
+  <!-- Dashboard columns -->
 </resources>
