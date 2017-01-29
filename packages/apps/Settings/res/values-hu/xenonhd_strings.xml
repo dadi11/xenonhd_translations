@@ -63,8 +63,7 @@
   <!-- Recents Membar -->
   <string name="systemui_recents_mem_display_title">Memória sáv megjelenítése</string>
   <string name="systemui_recents_mem_display_summary">Szabad RAM sáv megjelenítése a legújabb alkalmazások nézetben</string>
-  <!-- Quick settings tiles columns and rows config -->
-  <!-- QS tiles category -->
+  <!-- Quick settings config -->
   <!-- Media art -->
   <!-- Quick unlock -->
   <!-- Three-fingers-swipe to screenshot -->
