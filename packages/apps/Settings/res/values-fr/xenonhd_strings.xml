@@ -85,7 +85,6 @@
   <string name="xenonhd_ui_title">Interface utilisateur</string>
   <!-- Selinux Switch -->
   <string name="selinux_switch_title">Attention changement d\'état Selinux</string>
-  <string name="selinux_switch_summary">SELinux est un ensemble de modifications de noyau et d’outils de l’espace utilisateur. Changer de mode peut provoquer des effets indésirables. Permissif recommandé. A Utiliser à vos risques et périls</string>
   <string name="selinux_title">Mode de Selinux</string>
   <string name="selinux_permissive_title">Permissif</string>
   <string name="selinux_enforcing_title">Appliqué</string>
@@ -98,6 +97,7 @@
   <string name="qs_rows_portrait_title">Lignes (portrait)</string>
   <string name="qs_rows_landscape_title">Lignes (paysage)</string>
   <string name="qs_columns_title">Colonnes</string>
+  <!-- QS tiles category -->
   <!-- Media art -->
   <string name="media_art_title">Pochette de l\'album</string>
   <string name="media_art_summary">Afficher la pochette d\'album sur l\'écran de verrouillage</string>
@@ -122,11 +122,8 @@
   <string name="doze_overwrite_value_summary">Permettre de remplacer la valeur par défaut par la configuration de l\'utilisateur</string>
   <string name="doze_pulse_title">Paramètres configurables de l’utilisateur</string>
   <string name="doze_pulse_duration_in_title">Délai d\'ouverture</string>
-  <string name="doze_pulse_duration_in_summary"></string>
   <string name="doze_pulse_duration_visible_title">Durée visible</string>
-  <string name="doze_pulse_duration_visible_summary"></string>
   <string name="doze_pulse_duration_out_title">Délai de fermeture</string>
-  <string name="doze_pulse_duration_out_summary"></string>
   <string name="doze_trigger_pickup_title">Déclenchement par détection de geste</string>
   <string name="doze_trigger_pickup_summary_on">Activer l\'écran lors de la prise en main de l\'appareil</string>
   <string name="doze_trigger_pickup_summary_off">Ne pas activer l\'écran lors de la prise en main de l\'appareil</string>
@@ -162,4 +159,6 @@
   <string name="recents_clear_all_location_bottom_right">En bas à droite</string>
   <string name="recents_clear_all_location_bottom_left">En bas à gauche</string>
   <string name="recents_clear_all_location_bottom_center">En bas au centre</string>
+  <!-- Dashboard options -->
+  <!-- Dashboard columns -->
 </resources>
