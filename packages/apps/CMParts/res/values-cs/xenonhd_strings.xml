@@ -88,5 +88,5 @@
   <!-- Torch -->
   <string name="torch_long_press_power_gesture_title">Dlouhým stisknutím tlačítka napájení zapnout svítilnu</string>
   <string name="torch_long_press_power_gesture_desc">Dlouhým stiskem tlačítka napájení při vypnuté obrazovce zapnout svítilnu</string>
-
+  <!-- One-handed mode -->
 </resources>
