@@ -14,13 +14,73 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Battery Bar -->
+  <string name="battery_bar_title">Barre de batterie</string>
+  <string name="battery_bar">Emplacement de la barre de batterie</string>
+  <string name="battery_bar_no_navbar">Emplacement de la barre de batterie</string>
+  <string name="battery_bar_color">Couleur de la barre de batterie</string>
+  <string name="battery_bar_charging_color">Couleur de la barre de batterie durant le chargement</string>
+  <string name="battery_bar_battery_low_color">Couleur de la barre en batterie faible</string>
+  <string name="battery_bar_cat">Style de la barre de batterie</string>
+  <string name="battery_bar_style_title">Alignement de la barre de batterie</string>
+  <string name="battery_bar_thickness_title">Épaisseur de la barre de batterie</string>
+  <string name="battery_bar_animate_title">Animation lors de la charge</string>
+  <string name="battery_bar_style_regular">Régulière</string>
+  <string name="battery_bar_style_center_mirrored">Centrée et reflétée</string>
+  <string name="battery_bar_style_reversed">Inversée</string>
   <!-- Battery icon -->
+  <string name="status_bar_battery_style_solid">Solide</string>
   <!-- Brightness slider -->
+  <string name="qs_brightness_slider_title">Curseur de luminosité</string>
+  <string name="qs_brightness_slider_enabled">Activé</string>
+  <string name="qs_brightness_slider_disabled">Désactivé</string>
+  <string name="brightness_icon_title">Icône de luminosité </string>
+  <string name="brightness_icon_summary">Afficher l\'icône de luminosité à gauche du curseur de luminosité permettant d\'ajuster automatiquement la luminosité</string>
   <!-- Color Picker -->
+  <string name="dialog_color_picker">Sélectionneur de couleur</string>
+  <string name="press_color_to_apply">Appuyer sur la couleur ci-dessous pour l\'appliquer</string>
+  <string name="set">Appliquer</string>
+  <string name="color_default">Défaut</string>
   <!-- Network traffic -->
+  <string name="traffic_category">Indicateurs de trafic</string>
+  <string name="network_traffic_title">Trafic du réseau</string>
+  <string name="show_network_traffic_state">Moniteur de trafic dans la barre d\'état</string>
+  <string name="show_network_traffic_unit">Afficher l\'unité</string>
+  <string name="show_network_traffic_frequency">Intervalle d\'actualisation</string>
+  <string name="show_network_traffic_disable">Désactivé</string>
+  <string name="show_network_traffic_up">Sortant</string>
+  <string name="show_network_traffic_down">Entrant</string>
+  <string name="show_network_traffic_all">Sortant et entrant</string>
+  <string name="show_network_traffic_bit">Bits par seconde</string>
+  <string name="show_network_traffic_byte">Bytes par seconde</string>
+  <string name="network_traffic_autohide">Masquer automatiquement</string>
+  <string name="network_traffic_autohide_summary">Masquer le moniteur de trafic lorsqu\'il n\'y a aucune activité</string>
+  <string name="network_traffic_autohide_threshold">Seuil d\'inactivité</string>
+  <string name="network_traffic_hidearrow">Masquer les flèches</string>
+  <string name="network_traffic_hidearrow_summary">Masquer les flèches de l\'indicateur de trafic</string>
   <!-- Superuser indicator on status bar -->
+  <string name="su_indicator">Indicateur de super-utilisateur</string>
+  <string name="su_indicator_summary_on">L\'indicateur super-utilisateur est visible lorsqu’une session est active</string>
+  <string name="su_indicator_summary_off">Activer / Désactiver pour afficher l\'indicateur de super-utilisateur lorsqu\'une session est active</string>
   <!--Status bar date -->
+  <string name="status_bar_clock_category">Horloge</string>
+  <string name="status_bar_date_none">Caché (par défaut)</string>
+  <string name="status_bar_date_small">Petit</string>
+  <string name="status_bar_date_normal">Standard</string>
+  <string name="status_bar_date_format_title">Format de la date</string>
+  <string name="status_bar_date_style">Style de la date</string>
+  <string name="status_bar_date_style_normal">Standard</string>
+  <string name="status_bar_date_style_lowercase">Minuscule</string>
+  <string name="status_bar_date_style_uppercase">Majuscule</string>
+  <string name="status_bar_date_format_custom">Personnalisée (format java)</string>
+  <string name="status_bar_date_string_edittext_title">Doit être en format JJ/MM/AA</string>
+  <string name="status_bar_date_string_edittext_summary">Entrer la valeur</string>
+  <string name="menu_save">Enregistrer</string>
+  <string name="menu_cancel">Annuler</string>
   <!-- Navbar Animation -->
+  <string name="pixel_navbar_anim_title">Animation de la barre de navigation</string>
+  <string name="pixel_navbar_anim_summary">Réactiver la barre de navigation ou redémarrer pour appliquer. Les thèmes peuvent remplacer ces paramètres</string>
   <!-- Torch -->
+  <string name="torch_long_press_power_gesture_title">Appui long sur le bouton d\'alimentation pour la lampe de poche</string>
+  <string name="torch_long_press_power_gesture_desc">Activer la lampe de poche par un appui long sur le bouton d\'alimentation lorsque l\'écran est éteint</string>
   <!-- One-handed mode -->
 </resources>
