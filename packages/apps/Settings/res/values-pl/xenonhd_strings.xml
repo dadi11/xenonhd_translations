@@ -85,7 +85,6 @@
   <string name="xenonhd_ui_title">Interfejs</string>
   <!-- Selinux Switch -->
   <string name="selinux_switch_title">Uwagi do przełącznika SELinux</string>
-  <string name="selinux_switch_summary">SELinux to zestaw modyfikacji jądra i narzędzi przestrzeni użytkownika. Zmiana trybu może spowodować niepożądane działania. Tryb Pobłażliwy rekomendowany. Używasz tylko na własne ryzyko</string>
   <string name="selinux_title">Tryb SELinux</string>
   <string name="selinux_permissive_title">Pobłażliwy</string>
   <string name="selinux_enforcing_title">Restrykcyjny</string>
@@ -98,6 +97,7 @@
   <string name="qs_rows_portrait_title">Wiersze (pionowo)</string>
   <string name="qs_rows_landscape_title">Wiersze (poziomo)</string>
   <string name="qs_columns_title">Kolumny</string>
+  <!-- QS tiles category -->
   <!-- Media art -->
   <string name="media_art_title">Okładka albumu</string>
   <string name="media_art_summary">Wyświetlaj okładkę odtwarzanego albumu na ekranie blokady</string>
@@ -122,11 +122,8 @@
   <string name="doze_overwrite_value_summary">Pozwól nadpisać domyślne wartości konfiguracją użytkownika</string>
   <string name="doze_pulse_title">Ustawienia konfigurowalne przez użytkownika</string>
   <string name="doze_pulse_duration_in_title">Stopniowe rozjaśnianie</string>
-  <string name="doze_pulse_duration_in_summary"></string>
   <string name="doze_pulse_duration_visible_title">Czas widoczności</string>
-  <string name="doze_pulse_duration_visible_summary"></string>
   <string name="doze_pulse_duration_out_title">Stopniowe przyciemnianie</string>
-  <string name="doze_pulse_duration_out_summary"></string>
   <string name="doze_trigger_pickup_title">Aktywacja przy podniesieniu urządzenia</string>
   <string name="doze_trigger_pickup_summary_on">Aktywny ekran po podniesieniu urządzenia</string>
   <string name="doze_trigger_pickup_summary_off">Podnoszenie urządzenia nie będzie wykorzystywane do aktywacji</string>
@@ -162,5 +159,6 @@
   <string name="recents_clear_all_location_bottom_right">Prawy dolny róg</string>
   <string name="recents_clear_all_location_bottom_left">Lewy dolny róg</string>
   <string name="recents_clear_all_location_bottom_center">Wyśrodkowany na dole</string>
-
+  <!-- Dashboard options -->
+  <!-- Dashboard columns -->
 </resources>
