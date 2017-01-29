@@ -163,5 +163,11 @@
   <string name="dashboard_suggestions_title">Sugestie</string>
   <string name="summary_dashboard_suggestions_enabled">Sugestie panelu ustawień są włączone</string>
   <string name="summary_dashboard_suggestions_disabled">Sugestie panelu ustawień są wyłączone</string>
+  <string name="remove_tile_summaries_title">Streszczenia</string>
+  <string name="remove_tile_summaries_summary_enabled">Streszczenia panelu ustawień są włączone</string>
+  <string name="remove_tile_summaries_summary_disabled">Streszczenia panelu ustawień są wyłączone</string>
+  <string name="dashboard_conditions_title">Warunki</string>
+  <string name="summary_dashboard_conditions_enabled">Warunki panelu ustawień są włączone</string>
+  <string name="summary_dashboard_conditions_disabled">Warunki panelu ustawień są wyłączone</string>
   <!-- Dashboard columns -->
 </resources>
