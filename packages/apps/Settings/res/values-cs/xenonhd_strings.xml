@@ -85,6 +85,7 @@
   <string name="xenonhd_ui_title">Uživatelské rozhraní</string>
   <!-- Selinux Switch -->
   <string name="selinux_switch_title">Upozornění přepnutí SELinux</string>
+  <string name="selinux_switch_summary">SELinux je soubor změn na linuxovém jádře a způsob přidělování zdrojů pro danou aplikaci. Změna režimu vyžaduje root přístup a může způsobit nežádoucí chování. Je doporučeno mírné nastavení. Použití je na vlastní nebezpečí</string>
   <string name="selinux_title">SELinux režim</string>
   <string name="selinux_permissive_title">Mírné</string>
   <string name="selinux_enforcing_title">Vynucené</string>
@@ -98,6 +99,9 @@
   <string name="qs_rows_landscape_title">Řádky (na šířku)</string>
   <string name="qs_columns_title">Sloupce</string>
   <!-- QS tiles category -->
+  <string name="qs_tiles_category">Možnosti dlaždic QS</string>
+  <string name="qs_easy_toggle_title">Snadné přepnutí QS dlaždic</string>
+  <string name="qs_easy_toggle_summary">Jedním klepnutím povolit nebo zakázat mobilní data, wifi a bluetooth</string>
   <!-- Media art -->
   <string name="media_art_title">Obal alba</string>
   <string name="media_art_summary">Zobrazit obal alba na zamčené obrazovce</string>
@@ -160,5 +164,23 @@
   <string name="recents_clear_all_location_bottom_left">Vlevo dole</string>
   <string name="recents_clear_all_location_bottom_center">Dole uprostřed</string>
   <!-- Dashboard options -->
+  <string name="dashboard_category">Možnosti hlavního panelu</string>
+  <string name="dashboard_suggestions_title">Návrhy</string>
+  <string name="summary_dashboard_suggestions_enabled">Návrhy hlavního panelu jsou povoleny</string>
+  <string name="summary_dashboard_suggestions_disabled">Návrhy hlavního panelu jsou zakázány</string>
+  <string name="remove_tile_summaries_title">Shrnutí</string>
+  <string name="remove_tile_summaries_summary_enabled">Návrhy hlavního panelu jsou povoleny</string>
+  <string name="remove_tile_summaries_summary_disabled">Návrhy hlavního panelu jsou zakázány</string>
+  <string name="dashboard_conditions_title">Podmínky</string>
+  <string name="summary_dashboard_conditions_enabled">Podmínky hlavního panelu jsou povoleny</string>
+  <string name="summary_dashboard_conditions_disabled">Podmínky hlavního panelu jsou zakázány</string>
+  <string name="dashboard_columns_portrait_title">Sloupce (na výšku)</string>
+  <string name="dashboard_columns_landscape_title">Sloupce (na šířku)</string>
   <!-- Dashboard columns -->
+  <string name="dashboard_columns_title">Sloupce hlavního panelu</string>
+  <string name="dashboard_columns_summary">Změna počtu zobrazených sloupců v nastavení hlavního panelu</string>
+  <string name="dashboard_columns_dialog_title">Vyběr sloupců hlavního panelu</string>
+  <string name="dashboard_columns_default">Jeden (dva na šířku)</string>
+  <string name="dashboard_columns_two">Dva (tři na šířku)</string>
+  <string name="dashboard_columns_three">Tři (čtyři na šířku)</string>
 </resources>
