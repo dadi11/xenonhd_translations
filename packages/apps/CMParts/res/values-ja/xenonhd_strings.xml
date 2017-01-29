@@ -88,5 +88,5 @@
   <!-- Torch -->
   <string name="torch_long_press_power_gesture_title">電源ボタンを長押しでトーチ点灯</string>
   <string name="torch_long_press_power_gesture_desc">画面オフ時に電源ボタンを長押しでトーチを点灯する</string>
-  <!-- One-handed mode -->
+
 </resources>

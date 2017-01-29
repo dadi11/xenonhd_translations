@@ -85,6 +85,7 @@
   <string name="xenonhd_ui_title">UI</string>
   <!-- Selinux Switch -->
   <string name="selinux_switch_title">Attenzione cambio SELinux</string>
+  <string name="selinux_switch_summary">SELinux è un insieme di modifiche del kernel. La modifica della modalità può causare effetti indesiderati. Permissivo raccomandato. Utilizzare a proprio rischio</string>
   <string name="selinux_title">Modalità SELinux</string>
   <string name="selinux_permissive_title">Permissive</string>
   <string name="selinux_enforcing_title">Enforcing</string>
@@ -159,6 +160,5 @@
   <string name="recents_clear_all_location_bottom_right">In basso a destra</string>
   <string name="recents_clear_all_location_bottom_left">In basso a sinistra</string>
   <string name="recents_clear_all_location_bottom_center">In basso al centro</string>
-  <!-- Dashboard options -->
-  <!-- Dashboard columns -->
+
 </resources>
