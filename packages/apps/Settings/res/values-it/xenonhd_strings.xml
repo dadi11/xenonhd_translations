@@ -98,6 +98,7 @@
   <string name="qs_rows_portrait_title">Righe (verticale)</string>
   <string name="qs_rows_landscape_title">Righe (orizzontale)</string>
   <string name="qs_columns_title">Colonne</string>
+  <string name="qs_easy_toggle_title">Attivazione Avanzata Impostazioni Rapide</string>
   <string name="qs_easy_toggle_summary">Attiva o disattiva Wi-Fi, Dati Mobili e Bluetooth con un tocco. Premi a lungo per vedere le impostazioni avanzate</string>
   <!-- Media art -->
   <string name="media_art_title">Copertina media</string>
