@@ -85,7 +85,6 @@
   <string name="xenonhd_ui_title">Uživatelské rozhraní</string>
   <!-- Selinux Switch -->
   <string name="selinux_switch_title">Upozornění přepnutí SELinux</string>
-  <string name="selinux_switch_summary">SELinux je soubor změn na linuxovém jádře a způsob přidělování zdrojů pro danou aplikaci. Změna režimu může způsobit nežádoucí chování. Je doporučeno mírné nastavení. Použití je na vlastní nebezpečí</string>
   <string name="selinux_title">SELinux režim</string>
   <string name="selinux_permissive_title">Mírné</string>
   <string name="selinux_enforcing_title">Vynucené</string>
@@ -98,6 +97,7 @@
   <string name="qs_rows_portrait_title">Řádky (na výšku)</string>
   <string name="qs_rows_landscape_title">Řádky (na šířku)</string>
   <string name="qs_columns_title">Sloupce</string>
+  <!-- QS tiles category -->
   <!-- Media art -->
   <string name="media_art_title">Obal alba</string>
   <string name="media_art_summary">Zobrazit obal alba na zamčené obrazovce</string>
@@ -122,11 +122,8 @@
   <string name="doze_overwrite_value_summary">Povolit přepsat výchozí hodnoty uživatelským nastavením</string>
   <string name="doze_pulse_title">Uživatelsky konfigurovatelné nastavení</string>
   <string name="doze_pulse_duration_in_title">Postupné zesílení</string>
-  <string name="doze_pulse_duration_in_summary"></string>
   <string name="doze_pulse_duration_visible_title">Viditelné trvání</string>
-  <string name="doze_pulse_duration_visible_summary"></string>
   <string name="doze_pulse_duration_out_title">Postupné zeslabení</string>
-  <string name="doze_pulse_duration_out_summary"></string>
   <string name="doze_trigger_pickup_title">Vyberte sensor aktivace</string>
   <string name="doze_trigger_pickup_summary_on">Pulsování se spustí pomocí čidel pohybu</string>
   <string name="doze_trigger_pickup_summary_off">Senzory pohybu nebudou použity ke spuštění</string>
@@ -162,5 +159,6 @@
   <string name="recents_clear_all_location_bottom_right">Vpravo dole</string>
   <string name="recents_clear_all_location_bottom_left">Vlevo dole</string>
   <string name="recents_clear_all_location_bottom_center">Dole uprostřed</string>
-
+  <!-- Dashboard options -->
+  <!-- Dashboard columns -->
 </resources>
