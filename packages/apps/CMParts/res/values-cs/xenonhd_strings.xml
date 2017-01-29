@@ -14,13 +14,77 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Battery Bar -->
+  <string name="battery_bar_title">Pruh baterie</string>
+  <string name="battery_bar">Pozice pruhu baterie</string>
+  <string name="battery_bar_no_navbar">Pozice pruhu baterie</string>
+  <string name="battery_bar_color">Barva pruhu baterie</string>
+  <string name="battery_bar_charging_color">Barva pruhu baterie při nabíjení</string>
+  <string name="battery_bar_battery_low_color">Barva pruhu baterie při vybití</string>
+  <string name="battery_bar_cat">Styl pruhu baterie</string>
+  <string name="battery_bar_style_title">Zarovnání pruhu baterie</string>
+  <string name="battery_bar_thickness_title">Tloušťka pruhu baterie</string>
+  <string name="battery_bar_animate_title">Animace nabíjení</string>
+  <string name="battery_bar_style_regular">Klasické</string>
+  <string name="battery_bar_style_center_mirrored">Zrcadlově na střed</string>
+  <string name="battery_bar_style_reversed">Obrácené</string>
   <!-- Battery icon -->
+  <string name="status_bar_battery_style_solid">Plný</string>
   <!-- Brightness slider -->
+  <string name="qs_brightness_slider_title">Posuvník jasu</string>
+  <string name="qs_brightness_slider_enabled">Zapnuto</string>
+  <string name="qs_brightness_slider_disabled">Vypnuto</string>
+  <string name="brightness_icon_title">Ikona jasu </string>
+  <string name="brightness_icon_summary">Zobrazit ikonu jasu nalevo od posuvníku</string>
   <!-- Color Picker -->
+  <string name="dialog_color_picker">Výběr barvy</string>
+  <string name="press_color_to_apply">Klikněte na barvu pro její výběr</string>
+  <string name="set">Nastavit</string>
+  <string name="color_default">Výchozí</string>
   <!-- Network traffic -->
+  <string name="traffic_category">Indikátor datových přenosů</string>
+  <string name="network_traffic_title">Síťový provoz</string>
+  <string name="show_network_traffic_state">Zobrazení síťového provozu na stavové liště</string>
+  <string name="show_network_traffic_unit">Zobrazovat jednotky</string>
+  <string name="show_network_traffic_frequency">Interval aktualizace</string>
+  <string name="show_network_traffic_disable">Vypnuto</string>
+  <string name="show_network_traffic_up">Odchozí data</string>
+  <string name="show_network_traffic_down">Příchozí data</string>
+  <string name="show_network_traffic_all">Odchozí a příchozí data</string>
+  <string name="show_network_traffic_bit">Bitů za sekundu</string>
+  <string name="show_network_traffic_byte">Bajtů za sekundu</string>
+  <string name="show_network_traffic_1500">1 500 ms</string>
+  <string name="network_traffic_autohide">Automaticky skrývat</string>
+  <string name="network_traffic_autohide_summary">Skrytí nástroje sledování provozu, pokud neprobíhá žádná činnost</string>
+  <string name="network_traffic_autohide_threshold">Práh nečinnosti</string>
+  <string name="network_traffic_hidearrow">Skrýt šipky</string>
+  <string name="network_traffic_hidearrow_summary">Skrýt šipky datového provozu</string>
   <!-- Superuser indicator on status bar -->
+  <string name="su_indicator">Superuser indikátor</string>
+  <string name="su_indicator_summary_on">Superuser ukazatel je zobrazen, pokud je aktivní relace</string>
+  <string name="su_indicator_summary_off">Superuser ukazatel je zobrazen, když je aktivní relace</string>
   <!--Status bar date -->
+  <string name="status_bar_clock_category">Hodiny</string>
+  <string name="status_bar_date_title">Datum</string>
+  <string name="status_bar_date_none">Skryté (výchozí)</string>
+  <string name="status_bar_date_small">Malé</string>
+  <string name="status_bar_date_normal">Normální</string>
+  <string name="status_bar_date_format_title">Formát data</string>
+  <string name="status_bar_date_style">Styl data</string>
+  <string name="status_bar_date_style_normal">Normální</string>
+  <string name="status_bar_date_style_lowercase">Malá písmena</string>
+  <string name="status_bar_date_style_uppercase">Velká písmena</string>
+  <string name="status_bar_date_format_custom">Vlastní formát java</string>
+  <string name="status_bar_date_string_edittext_title">Musí být ve formátu například MM/dd/yy</string>
+  <string name="status_bar_date_string_edittext_summary">Zadejte řetězec</string>
+  <string name="menu_save">Uložit</string>
+  <string name="menu_cancel">Odstranit</string>
   <!-- Navbar Animation -->
+  <string name="pixel_navbar_anim_title">Animace navigační lišty</string>
+  <string name="pixel_navbar_anim_summary">Chcete-li použít, restartujte zařízení nebo navigační lištu. Motivy mohou přepsat toto nastavení</string>
   <!-- Torch -->
+  <string name="torch_long_press_power_gesture_title">Dlouhým stisknutím tlačítka napájení zapnout svítilnu</string>
+  <string name="torch_long_press_power_gesture_desc">Dlouhým stiskem tlačítka napájení při vypnuté obrazovce zapnout svítilnu</string>
   <!-- One-handed mode -->
+  <string name="one_handed_mode_title">Režim jedné ruky</string>
+  <string name="one_handed_mode_summary">Umožnit zapnutí režimu jednou rukou posunutím přes navigační lištu</string>
 </resources>
