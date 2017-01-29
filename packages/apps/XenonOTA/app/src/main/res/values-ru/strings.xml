@@ -17,10 +17,31 @@
   -->
 <resources>
   <!-- App -->
+  <string name="app_title">Обновления XenonHD</string>
   <!-- Categories -->
+  <string name="ota_category">Информация об обновлении</string>
+  <string name="links_category">Ссылки на загрузку</string>
   <!-- ROM info -->
+  <string name="latest_version">Последняя версия: %1$s</string>
+  <string name="unknown">Неизвестно</string>
+  <string name="system_uptodate">Ваша система обновлена до последней версии</string>
   <!-- Check update -->
+  <string name="check_update_title">Проверить наличие обновлений</string>
+  <string name="last_check_summary">Последняя проверка: %1$s</string>
+  <string name="last_check_never">Никогда</string>
+  <string name="check_update_failed">Невозможно проверить наличие обновлений, убедитесь, что ваше устройство поддерживает XenonHD</string>
+  <string name="no_update_available">Нет доступных обновлений</string>
   <!-- Update interval -->
+  <string name="interval_title">Интервал автоматического обновления</string>
+  <string name="autoupdate_enabled">Автоматическое обновление включено</string>
+  <string name="autoupdate_disabled">Автоматическое обновление отключено</string>
+  <string name="disabled">Отключить</string>
+  <string name="hour">Каждый час</string>
+  <string name="twelve_hours">Каждые 12 часов</string>
+  <string name="twentyfour_hours">Каждые 24 часа</string>
   <!-- Notification -->
+  <string name="notification_title">Обновления XenonHD</string>
+  <string name="notification_message">Новая версия доступна!</string>
   <!-- Dialog -->
+  <string name="dialog_message">Проверка наличия обновлений, пожалуйста подождите...</string>
 </resources>
