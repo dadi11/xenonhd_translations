@@ -14,9 +14,15 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
+  <string name="xenonhd_version_default">Neznámy</string>
+  <string name="xenonhd_maintainer_default">Neznámy</string>
   <!-- Changelog -->
+  <string name="changelog_xenonhd_title">Prehľad zmien</string>
+  <string name="changelog_xenonhd_error">Nie je možné načítať zoznam zmien</string>
   <!-- Density category -->
   <!-- XenonOTA -->
+  <string name="xenonota_title">XenonHD Aktualizácie</string>
+  <string name="xenonota_summary">Skontrolovať aktualizácie ROM</string>
   <!-- Dev Options Enabled by Default -->
   <!-- Phone info shortcut -->
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
