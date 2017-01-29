@@ -1,7 +1,7 @@
 files:
   - source: /**/values/*.xml
     translation: /%original_path%-%android_code%/%original_file_name%
-    escape_quotes: 2
+    escape_quotes: '2'
     languages_mapping:
       android_code:
         ar: ar
