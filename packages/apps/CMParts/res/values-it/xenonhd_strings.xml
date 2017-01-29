@@ -88,5 +88,4 @@
   <!-- Torch -->
   <string name="torch_long_press_power_gesture_title">Premi a lungo il pulsante alimentazione per attivare la torcia</string>
   <string name="torch_long_press_power_gesture_desc">Attiva la torcia premendo a lungo il pulsante alimentazione quando lo schermo è spento</string>
-
 </resources>
