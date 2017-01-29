@@ -98,7 +98,6 @@
   <string name="qs_rows_landscape_title">Řádky (na šířku)</string>
   <string name="qs_columns_title">Sloupce</string>
   <string name="qs_easy_toggle_title">Snadné přepnutí QS dlaždic</string>
-  <string name="qs_easy_toggle_summary">Jedním klepnutím povolit nebo zakázat mobilní data, wifi a bluetooth</string>
   <!-- Media art -->
   <string name="media_art_title">Obal alba</string>
   <string name="media_art_summary">Zobrazit obal alba na zamčené obrazovce</string>
