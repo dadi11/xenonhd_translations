@@ -17,8 +17,10 @@
   -->
 <resources>
   <!-- App -->
+  <string name="app_title">XenonHDの更新</string>
   <!-- Categories -->
   <!-- ROM info -->
+  <string name="unknown">不明</string>
   <!-- Check update -->
   <!-- Update interval -->
   <!-- Notification -->
