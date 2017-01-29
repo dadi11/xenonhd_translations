@@ -92,12 +92,10 @@
   <string name="recents_membar">Mäluriba</string>
   <string name="systemui_recents_mem_display_title">Näita Mäluriba</string>
   <string name="systemui_recents_mem_display_summary">Näita vaba RAM hulka hiljutiste rakenduste vaates</string>
-  <!-- Quick settings tiles columns and rows config -->
-  <string name="qs_layout_category">Kiirseadete plaatide paigutus</string>
+  <!-- Quick settings config -->
   <string name="qs_rows_portrait_title">Read (vertikaalpaigutus)</string>
   <string name="qs_rows_landscape_title">Read (diagonaalpaigutus)</string>
   <string name="qs_columns_title">Veerud</string>
-  <!-- QS tiles category -->
   <!-- Media art -->
   <string name="media_art_title">Meedia kaane pilt</string>
   <string name="media_art_summary">Kuva meedia kaanepilt lukustusekraanil</string>
