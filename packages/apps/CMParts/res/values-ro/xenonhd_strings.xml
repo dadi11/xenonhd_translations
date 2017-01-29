@@ -14,6 +14,11 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Battery Bar -->
+  <string name="battery_bar_title">Bară baterie</string>
+  <string name="battery_bar">Locația barei de baterie</string>
+  <string name="battery_bar_no_navbar">Locația barei de baterie</string>
+  <string name="battery_bar_color">Culoarea barei de baterie</string>
+  <string name="battery_bar_charging_color">Culoarea barei de baterie când se încarcă</string>
   <!-- Battery icon -->
   <!-- Brightness slider -->
   <!-- Color Picker -->
