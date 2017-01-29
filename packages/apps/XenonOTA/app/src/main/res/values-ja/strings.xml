@@ -18,10 +18,13 @@
 <resources>
   <!-- App -->
   <string name="app_name">XenonOTA</string>
+  <string name="app_title">XenonHDの更新</string>
   <!-- Categories -->
   <string name="ota_category">更新情報</string>
   <string name="links_category">ダウンロードリンク</string>
   <!-- ROM info -->
+  <string name="latest_version">最新版: %1$s</string>
+  <string name="unknown">不明</string>
   <string name="system_uptodate">システムは最新の状態です</string>
   <!-- Check update -->
   <string name="check_update_title">更新の確認</string>
