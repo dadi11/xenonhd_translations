@@ -64,6 +64,7 @@
   <string name="systemui_recents_mem_display_title">Memória sáv megjelenítése</string>
   <string name="systemui_recents_mem_display_summary">Szabad RAM sáv megjelenítése a legújabb alkalmazások nézetben</string>
   <!-- Quick settings tiles columns and rows config -->
+  <!-- QS tiles category -->
   <!-- Media art -->
   <!-- Quick unlock -->
   <!-- Three-fingers-swipe to screenshot -->
@@ -71,8 +72,7 @@
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">Engedélyezve</string>
   <string name="summary_doze_disabled">Kikapcsolva</string>
-  <string name="doze_pulse_duration_in_summary"></string>
-  <string name="doze_pulse_duration_visible_summary"></string>
-  <string name="doze_pulse_duration_out_summary"></string>
   <!-- Recents panel settings -->
+  <!-- Dashboard options -->
+  <!-- Dashboard columns -->
 </resources>
