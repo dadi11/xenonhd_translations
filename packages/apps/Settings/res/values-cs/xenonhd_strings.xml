@@ -93,13 +93,10 @@
   <string name="recents_membar">Ukazatel paměti</string>
   <string name="systemui_recents_mem_display_title">Zobrazit ukazatel paměti</string>
   <string name="systemui_recents_mem_display_summary">Zobrazit ukazatel volné RAM v zobrazení nedávných aplikací</string>
-  <!-- Quick settings tiles columns and rows config -->
-  <string name="qs_layout_category">Rozložení rychlého nastavení dlaždic</string>
+  <!-- Quick settings config -->
   <string name="qs_rows_portrait_title">Řádky (na výšku)</string>
   <string name="qs_rows_landscape_title">Řádky (na šířku)</string>
   <string name="qs_columns_title">Sloupce</string>
-  <!-- QS tiles category -->
-  <string name="qs_tiles_category">Možnosti dlaždic QS</string>
   <string name="qs_easy_toggle_title">Snadné přepnutí QS dlaždic</string>
   <string name="qs_easy_toggle_summary">Jedním klepnutím povolit nebo zakázat mobilní data, wifi a bluetooth</string>
   <!-- Media art -->
