@@ -58,8 +58,7 @@
   <!-- Selinux Switch -->
   <string name="selinux_permissive_title">Tillåtande</string>
   <!-- Recents Membar -->
-  <!-- Quick settings tiles columns and rows config -->
-  <!-- QS tiles category -->
+  <!-- Quick settings config -->
   <!-- Media art -->
   <!-- Quick unlock -->
   <!-- Three-fingers-swipe to screenshot -->
