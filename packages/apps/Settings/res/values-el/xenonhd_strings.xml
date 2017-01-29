@@ -14,9 +14,15 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
+  <string name="xenonhd_version_default">Άγνωστο</string>
+  <string name="xenonhd_maintainer_default">Άγνωστο</string>
   <!-- Changelog -->
+  <string name="changelog_xenonhd_title">Κατάλογος αλλαγών</string>
+  <string name="changelog_xenonhd_error">Δεν είναι δυνατή η φόρτωση του καταλόγου αλλαγών</string>
   <!-- Density category -->
   <!-- XenonOTA -->
+  <string name="xenonota_title">Ενημερώσεις XenonHD</string>
+  <string name="xenonota_summary">Έλεγχος για ενημερώσεις ROM</string>
   <!-- Dev Options Enabled by Default -->
   <!-- Phone info shortcut -->
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
