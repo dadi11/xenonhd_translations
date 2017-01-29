@@ -38,6 +38,9 @@
   <!-- Color Picker -->
   <string name="dialog_color_picker">色の選択</string>
   <string name="press_color_to_apply">色を選択して適用</string>
+  <string name="hex">16進数:</string>
+  <string name="set">設定</string>
+  <string name="color_default">既定 （デフォルト）</string>
   <!-- Network traffic -->
   <string name="traffic_category">トラフィックインジケータ</string>
   <string name="network_traffic_title">ネットワークトラフィック</string>
@@ -81,7 +84,9 @@
   <string name="menu_cancel">破棄</string>
   <!-- Navbar Animation -->
   <string name="pixel_navbar_anim_title">ナビバーのアニメーション</string>
+  <string name="pixel_navbar_anim_summary">ナビバーの再有効後または端末の再起動後に反映します。テーマがこの設定を上書きする可能性があります</string>
   <!-- Torch -->
   <string name="torch_long_press_power_gesture_title">電源ボタンを長押しでトーチ点灯</string>
   <string name="torch_long_press_power_gesture_desc">画面オフ時に電源ボタンを長押しでトーチを点灯する</string>
+  <!-- One-handed mode -->
 </resources>
