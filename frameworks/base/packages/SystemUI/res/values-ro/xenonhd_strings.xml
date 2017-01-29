@@ -13,6 +13,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Screenshot Delete Toast -->
+  <string name="delete_screenshot_toast">Captură de ecran ștearsă</string>
   <!-- Status bar items tuner -->
   <!-- Quick Settings tiles -->
   <!-- Text to use when the number in a notification info is too large
