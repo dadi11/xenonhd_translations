@@ -14,13 +14,81 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Battery Bar -->
+  <string name="battery_bar_title">Pasek baterii</string>
+  <string name="battery_bar">Lokalizacja paska baterii</string>
+  <string name="battery_bar_no_navbar">Lokalizacja paska baterii</string>
+  <string name="battery_bar_color">Kolor paska baterii</string>
+  <string name="battery_bar_charging_color">Kolor podczas ładowania</string>
+  <string name="battery_bar_battery_low_color">Kolor przy niskim poziomie baterii</string>
+  <string name="battery_bar_cat">Styl paska baterii</string>
+  <string name="battery_bar_style_title">Wyrównanie</string>
+  <string name="battery_bar_thickness_title">Grubość</string>
+  <string name="battery_bar_animate_title">Animacja ładowania</string>
+  <string name="battery_bar_style_regular">Domyślny</string>
+  <string name="battery_bar_style_center_mirrored">Wyśrodkowany</string>
+  <string name="battery_bar_style_reversed">Odwrócony</string>
   <!-- Battery icon -->
+  <string name="status_bar_battery_style_solid">Koło</string>
   <!-- Brightness slider -->
+  <string name="qs_brightness_slider_title">Pasek jasności</string>
+  <string name="qs_brightness_slider_enabled">Włączony</string>
+  <string name="qs_brightness_slider_disabled">Wyłączony</string>
+  <string name="brightness_icon_title">Ikona jasności</string>
+  <string name="brightness_icon_summary">Pokaż ikonę kontroli jasności na lewo od paska, aby dostosować auto jasność</string>
   <!-- Color Picker -->
+  <string name="dialog_color_picker">Wybór koloru</string>
+  <string name="press_color_to_apply">Naciśnij na kolor, aby go użyć</string>
+  <string name="hex">Wartość szesnastkowa:</string>
+  <string name="set">Ustaw</string>
+  <string name="color_default">Domyślny</string>
   <!-- Network traffic -->
+  <string name="traffic_category">Wskaźnik ruchu sieciowego</string>
+  <string name="network_traffic_title">Ruch sieciowy</string>
+  <string name="show_network_traffic_state">Pokaż użycie sieci na pasku stanu</string>
+  <string name="show_network_traffic_unit">Wyświetl jednostkę</string>
+  <string name="show_network_traffic_frequency">Częstotliwość odświeżania</string>
+  <string name="show_network_traffic_disable">Wyłączone</string>
+  <string name="show_network_traffic_up">Wysyłanie</string>
+  <string name="show_network_traffic_down">Pobieranie</string>
+  <string name="show_network_traffic_all">Wysyłanie i pobieranie</string>
+  <string name="show_network_traffic_bit">Bity na sekundę</string>
+  <string name="show_network_traffic_byte">Bajty na sekundę</string>
+  <string name="show_network_traffic_500">500 ms</string>
+  <string name="show_network_traffic_1000">1000 ms</string>
+  <string name="show_network_traffic_1500">1500 ms</string>
+  <string name="show_network_traffic_2000">2000 ms</string>
+  <string name="network_traffic_autohide">Auto-ukrywanie</string>
+  <string name="network_traffic_autohide_summary">Ukryj monitor ruchu, przy braku aktywności</string>
+  <string name="network_traffic_autohide_threshold">Próg bezczynności</string>
+  <string name="network_traffic_hidearrow">Ukryj strzałki</string>
+  <string name="network_traffic_hidearrow_summary">Ukryj strzałki wskaźnika ruchu</string>
   <!-- Superuser indicator on status bar -->
+  <string name="su_indicator">Ikona Superuser</string>
+  <string name="su_indicator_summary_on">Ikona Superuser jest widoczna, gdy sesja su jest aktywna</string>
+  <string name="su_indicator_summary_off">Pokaż ikonę Superuser, kiedy sesja su jest aktywna</string>
   <!--Status bar date -->
+  <string name="status_bar_clock_category">Zegar</string>
+  <string name="status_bar_date_title">Data</string>
+  <string name="status_bar_date_none">Ukryta (domyślne)</string>
+  <string name="status_bar_date_small">Małe</string>
+  <string name="status_bar_date_normal">Normalny</string>
+  <string name="status_bar_date_format_title">Format daty</string>
+  <string name="status_bar_date_style">Wygląd daty</string>
+  <string name="status_bar_date_style_normal">Normalny</string>
+  <string name="status_bar_date_style_lowercase">Mała czcionka</string>
+  <string name="status_bar_date_style_uppercase">Duża czcionka</string>
+  <string name="status_bar_date_format_custom">Własny format (java)</string>
+  <string name="status_bar_date_string_edittext_title">Musi być w formacie MM/dd/rr</string>
+  <string name="status_bar_date_string_edittext_summary">Wprowadź ciąg</string>
+  <string name="menu_save">Zapisz</string>
+  <string name="menu_cancel">Odrzuć</string>
   <!-- Navbar Animation -->
+  <string name="pixel_navbar_anim_title">Animacja paska nawigacji</string>
+  <string name="pixel_navbar_anim_summary">Aby zastosować, uruchom ponownie urządzenie lub pasek nawigacji. Motywy mogą zastąpić to ustawienie</string>
   <!-- Torch -->
+  <string name="torch_long_press_power_gesture_title">Naciśnij i przytrzymaj przycisk zasilania, aby włączyć latarkę</string>
+  <string name="torch_long_press_power_gesture_desc">Włączanie latarki przez naciśnięcie przycisku zasilania przy wyłączonym ekranie</string>
   <!-- One-handed mode -->
+  <string name="one_handed_mode_title">Tryb jednoręczny</string>
+  <string name="one_handed_mode_summary">Przesuń po pasku nawigacji, aby włączyć tryb jednoręczny</string>
 </resources>
