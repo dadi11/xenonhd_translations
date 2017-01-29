@@ -14,6 +14,13 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Battery Bar -->
+  <string name="battery_bar_title">배터리 바</string>
+  <string name="battery_bar">배터리 바 위치</string>
+  <string name="battery_bar_no_navbar">배터리 바 위치</string>
+  <string name="battery_bar_color">배터리 바 색상</string>
+  <string name="battery_bar_charging_color">배터리 바 충전중 색깔</string>
+  <string name="battery_bar_cat">배터리 바 스타일</string>
+  <string name="battery_bar_style_regular">보통</string>
   <!-- Battery icon -->
   <!-- Brightness slider -->
   <!-- Color Picker -->
