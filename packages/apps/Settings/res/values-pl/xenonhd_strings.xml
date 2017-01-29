@@ -94,9 +94,11 @@
   <string name="systemui_recents_mem_display_title">Pokaż użycie pamięci</string>
   <string name="systemui_recents_mem_display_summary">Pokaż ilość wolnej pamięci RAM na ekranie ostatnich aplikacji</string>
   <!-- Quick settings config -->
+  <string name="qs_layout_category">Opcje szybkich ustawień</string>
   <string name="qs_rows_portrait_title">Wiersze (pionowo)</string>
   <string name="qs_rows_landscape_title">Wiersze (poziomo)</string>
   <string name="qs_columns_title">Kolumny</string>
+  <string name="qs_easy_toggle_title">Łatwe przełączanie</string>
   <!-- Media art -->
   <string name="media_art_title">Okładka albumu</string>
   <string name="media_art_summary">Wyświetlaj okładkę odtwarzanego albumu na ekranie blokady</string>
