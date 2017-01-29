@@ -54,6 +54,7 @@
   <string name="selinux_enforcing_title">Enforcing</string>
   <!-- Recents Membar -->
   <!-- Quick settings tiles columns and rows config -->
+  <!-- QS tiles category -->
   <!-- Media art -->
   <!-- Quick unlock -->
   <!-- Three-fingers-swipe to screenshot -->
@@ -73,4 +74,6 @@
   <string name="recents_clear_all_location_bottom_right">右下</string>
   <string name="recents_clear_all_location_bottom_left">左下</string>
   <string name="recents_clear_all_location_bottom_center">中央下</string>
+  <!-- Dashboard options -->
+  <!-- Dashboard columns -->
 </resources>
