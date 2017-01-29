@@ -53,8 +53,7 @@
   <string name="selinux_permissive_title">Permissive</string>
   <string name="selinux_enforcing_title">Enforcing</string>
   <!-- Recents Membar -->
-  <!-- Quick settings tiles columns and rows config -->
-  <!-- QS tiles category -->
+  <!-- Quick settings config -->
   <!-- Media art -->
   <!-- Quick unlock -->
   <!-- Three-fingers-swipe to screenshot -->
