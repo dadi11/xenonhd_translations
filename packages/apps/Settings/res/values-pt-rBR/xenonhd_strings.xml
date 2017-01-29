@@ -85,7 +85,6 @@
   <string name="xenonhd_ui_title">Interface</string>
   <!-- Selinux Switch -->
   <string name="selinux_switch_title">Cuidado do SELinux Switch</string>
-  <string name="selinux_switch_summary">SELinux é um conjunto de modificações do kernel e ferramentas de espaço de usuário. Alterando modos pode causar efeitos indesejados. Permissivo recomendado. Use a seu próprio risco</string>
   <string name="selinux_title">Modo do SElinux</string>
   <string name="selinux_permissive_title">Permissivo</string>
   <string name="selinux_enforcing_title">Impondo</string>
@@ -98,6 +97,7 @@
   <string name="qs_rows_portrait_title">Linhas (retrato)</string>
   <string name="qs_rows_landscape_title">Linhas (paisagem)</string>
   <string name="qs_columns_title">Colunas</string>
+  <!-- QS tiles category -->
   <!-- Media art -->
   <string name="media_art_title">Mostrar capa do album de música</string>
   <string name="media_art_summary">Arte de capa de mídia de exibição na tela de bloqueio</string>
@@ -122,11 +122,8 @@
   <string name="doze_overwrite_value_summary">Permite a substituição do valor padrão pela configuração do usuário</string>
   <string name="doze_pulse_title">Configurações de usuário</string>
   <string name="doze_pulse_duration_in_title">Desvanecer-se</string>
-  <string name="doze_pulse_duration_in_summary"></string>
   <string name="doze_pulse_duration_visible_title">Duração visível</string>
-  <string name="doze_pulse_duration_visible_summary"></string>
   <string name="doze_pulse_duration_out_title">Desaparecer</string>
-  <string name="doze_pulse_duration_out_summary"></string>
   <string name="doze_trigger_pickup_title">Ativação do gesto de pegar o dispositivo</string>
   <string name="doze_trigger_pickup_summary_on">Pulso será acionado pelo sensor de movimento</string>
   <string name="doze_trigger_pickup_summary_off">O gesto de pegar o dispositivo não será utilizado como mecanismo de ativação</string>
@@ -162,5 +159,6 @@
   <string name="recents_clear_all_location_bottom_right">Inferior direito</string>
   <string name="recents_clear_all_location_bottom_left">Inferior esquerdo</string>
   <string name="recents_clear_all_location_bottom_center">Centro inferior</string>
-
+  <!-- Dashboard options -->
+  <!-- Dashboard columns -->
 </resources>
