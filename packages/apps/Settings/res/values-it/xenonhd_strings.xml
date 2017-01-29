@@ -90,7 +90,7 @@
   <string name="selinux_permissive_title">Permissive</string>
   <string name="selinux_enforcing_title">Enforcing</string>
   <!-- Recents Membar -->
-  <string name="recents_membar">Barra memoria usata</string>
+  <string name="recents_membar">Barra Memoria</string>
   <string name="systemui_recents_mem_display_title">Mostra utilizzo memoria</string>
   <string name="systemui_recents_mem_display_summary">Mostra la RAM disponibile nelle app recenti</string>
   <!-- Quick settings config -->
@@ -98,6 +98,7 @@
   <string name="qs_rows_portrait_title">Righe (verticale)</string>
   <string name="qs_rows_landscape_title">Righe (orizzontale)</string>
   <string name="qs_columns_title">Colonne</string>
+  <string name="qs_easy_toggle_summary">Attiva o disattiva Wi-Fi, Dati Mobili e Bluetooth con un tocco. Premi a lungo per vedere le impostazioni avanzate</string>
   <!-- Media art -->
   <string name="media_art_title">Copertina media</string>
   <string name="media_art_summary">Mostra la copertina dell\'album nella schermata di blocco</string>
@@ -160,4 +161,17 @@
   <string name="recents_clear_all_location_bottom_left">In basso a sinistra</string>
   <string name="recents_clear_all_location_bottom_center">In basso al centro</string>
   <!-- Dashboard options -->
+  <string name="dashboard_category">Opzioni pannello impostazioni</string>
+  <string name="dashboard_suggestions_title">Suggerimenti</string>
+  <string name="summary_dashboard_suggestions_enabled">Suggerimenti pannello impostazioni abilitati</string>
+  <string name="summary_dashboard_suggestions_disabled">Suggerimenti pannello impostazioni disabilitati</string>
+  <string name="remove_tile_summaries_title">Suggerimenti</string>
+  <string name="remove_tile_summaries_summary_enabled">Suggerimenti pannello impostazioni abilitati</string>
+  <string name="remove_tile_summaries_summary_disabled">Suggerimenti pannello impostazioni disabilitati</string>
+  <string name="dashboard_conditions_title">Condizioni</string>
+  <string name="summary_dashboard_conditions_enabled">Condizioni pannello impostazioni abilitate</string>
+  <string name="summary_dashboard_conditions_disabled">Condizioni pannello impostazioni disabilitate</string>
+  <string name="dashboard_columns_summary">Modifica il numero di colonne visualizzate nelle impostazioni</string>
+  <string name="dashboard_columns_portrait_title">Colonne (verticale)</string>
+  <string name="dashboard_columns_landscape_title">Colonne (orizzontale)</string>
 </resources>
