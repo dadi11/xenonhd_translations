@@ -16,7 +16,7 @@
   <!-- About phone screen, XenonHD version -->
   <string name="xenonhd_version">Versione XenonHD</string>
   <string name="xenonhd_version_default">Sconosciuto</string>
-  <string name="xenonhd_maintainer">Manutentore</string>
+  <string name="xenonhd_maintainer">Maintainer</string>
   <string name="xenonhd_maintainer_default">Sconosciuto</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Changelog</string>
@@ -84,13 +84,13 @@
   <string name="xenonhd_lockscreen_title">Schermata di blocco</string>
   <string name="xenonhd_ui_title">UI</string>
   <!-- Selinux Switch -->
-  <string name="selinux_switch_title">Attenzione cambio Selinux</string>
+  <string name="selinux_switch_title">Attenzione cambio SELinux</string>
   <string name="selinux_switch_summary">SELinux è un insieme di modifiche del kernel. La modifica della modalità può causare effetti indesiderati. Permissivo raccomandato. Utilizzare a proprio rischio</string>
-  <string name="selinux_title">Modalità Selinux</string>
+  <string name="selinux_title">Modalità SELinux</string>
   <string name="selinux_permissive_title">Permissive</string>
   <string name="selinux_enforcing_title">Enforcing</string>
   <!-- Recents Membar -->
-  <string name="recents_membar">Barra di memoria</string>
+  <string name="recents_membar">Barra memoria usata</string>
   <string name="systemui_recents_mem_display_title">Mostra utilizzo memoria</string>
   <string name="systemui_recents_mem_display_summary">Mostra la RAM disponibile nelle app recenti</string>
   <!-- Quick settings tiles columns and rows config -->
@@ -99,7 +99,7 @@
   <string name="qs_rows_landscape_title">Righe (orizzontale)</string>
   <string name="qs_columns_title">Colonne</string>
   <!-- Media art -->
-  <string name="media_art_title">Copertina multimediale</string>
+  <string name="media_art_title">Copertina media</string>
   <string name="media_art_summary">Mostra la copertina dell\'album nella schermata di blocco</string>
   <!-- Quick unlock -->
   <string name="quick_unlock_warning">Attenzione di sblocco rapido</string>
@@ -122,11 +122,8 @@
   <string name="doze_overwrite_value_summary">Consenti la sostituzione dei valori predefiniti con quelli dell\'utente</string>
   <string name="doze_pulse_title">Impostazioni configurabili dall\'utente</string>
   <string name="doze_pulse_duration_in_title">Dissolvenza in entrata</string>
-  <string name="doze_pulse_duration_in_summary"></string>
   <string name="doze_pulse_duration_visible_title">Durata visibilità</string>
-  <string name="doze_pulse_duration_visible_summary"></string>
   <string name="doze_pulse_duration_out_title">Dissolvenza in uscita</string>
-  <string name="doze_pulse_duration_out_summary"></string>
   <string name="doze_trigger_pickup_title">Attivazione gesto sollevamento</string>
   <string name="doze_trigger_pickup_summary_on">Pulse sarà attivato dagli eventi del sensore di sollevamento</string>
   <string name="doze_trigger_pickup_summary_off">Il sensore di sollevamento non sarà utilizzato come un meccanismo di attivazione</string>
@@ -162,5 +159,4 @@
   <string name="recents_clear_all_location_bottom_right">In basso a destra</string>
   <string name="recents_clear_all_location_bottom_left">In basso a sinistra</string>
   <string name="recents_clear_all_location_bottom_center">In basso al centro</string>
-
 </resources>
