@@ -110,7 +110,7 @@
 
     <!-- Selinux Switch -->
     <string name="selinux_switch_title">SELinux Switch caution</string>
-    <string name="selinux_switch_summary">SELinux is a set of kernel modifications and user-space tools. Changing modes can cause unwanted effects. Permissive recommended. Use at your own risk</string>
+    <string name="selinux_switch_summary">SELinux is a set of kernel modifications and user-space tools. Changing modes requires root access and can cause unwanted effects. Permissive recommended. Use at your own risk</string>
     <string name="selinux_title">SELinux Mode</string>
     <string name="selinux_permissive_title">Permissive</string>
     <string name="selinux_enforcing_title">Enforcing</string>
@@ -125,6 +125,11 @@
     <string name="qs_rows_portrait_title">Rows (portrait)</string>
     <string name="qs_rows_landscape_title">Rows (landscape)</string>
     <string name="qs_columns_title">Columns</string>
+
+    <!-- QS tiles category -->
+    <string name="qs_tiles_category">QS tile options</string>
+    <string name="qs_easy_toggle_title">Advanced QS Easy Toggle</string>
+    <string name="qs_easy_toggle_summary">Enable one tap action to enable or disable mobile data, wifi, and bluetooth</string>
 
     <!-- Media art -->
     <string name="media_art_title">Media cover art</string>
@@ -147,7 +152,7 @@
     <string name="timeout_1000">1 second</string>
     <string name="timeout_500">0.5 second</string>
 
-	<!-- Doze pulse options -->
+    <!-- Doze pulse options -->
     <string name="summary_doze_enabled">Enabled</string>
     <string name="summary_doze_disabled">Disabled</string>
     <string name="doze_overwrite_value_title">Overwrite defaults</string>
@@ -195,5 +200,27 @@
     <string name="recents_clear_all_location_bottom_right">Bottom right</string>
     <string name="recents_clear_all_location_bottom_left">Bottom left</string>
     <string name="recents_clear_all_location_bottom_center">Bottom center</string>
+
+    <!-- Dashboard options -->
+    <string name="dashboard_category">Dashboard options</string>
+    <string name="dashboard_suggestions_title">Suggestions</string>
+    <string name="summary_dashboard_suggestions_enabled">Dashboard suggestions are enabled</string>
+    <string name="summary_dashboard_suggestions_disabled">Dashboard suggestions are disabled</string>
+    <string name="remove_tile_summaries_title">Summaries</string>
+    <string name="remove_tile_summaries_summary_enabled">Dashboard summaries are enabled</string>
+    <string name="remove_tile_summaries_summary_disabled">Dashboard summaries are disabled</string>
+    <string name="dashboard_conditions_title">Conditions</string>
+    <string name="summary_dashboard_conditions_enabled">Dashboard conditions are enabled</string>
+    <string name="summary_dashboard_conditions_disabled">Dashboard conditions are disabled</string>
+    <string name="dashboard_columns_portrait_title">Columns (portrait)</string>
+    <string name="dashboard_columns_landscape_title">Columns (landscape)</string>
+
+    <!-- Dashboard columns -->
+    <string name="dashboard_columns_title">Dashboard Columns</string>
+    <string name="dashboard_columns_summary">Change the number of columns displayed in the dashboard</string>
+    <string name="dashboard_columns_dialog_title">Select dashboard columns</string>
+    <string name="dashboard_columns_default">One (two landscape)</string>
+    <string name="dashboard_columns_two">Two (three landscape)</string>
+    <string name="dashboard_columns_three">Three (four landscape)</string>
 
 </resources>
