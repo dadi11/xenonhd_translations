@@ -85,7 +85,6 @@
   <string name="xenonhd_ui_title">Пользовательский интерфейс</string>
   <!-- Selinux Switch -->
   <string name="selinux_switch_title">Предупреждение</string>
-  <string name="selinux_switch_summary">SELinux - это набор модификаций ядра и инструментов пользовательского пространства. Изменение режимов может привести к нежелательным последствиям. Рекомендуется режим \"Только предупреждение\". Используйте на свой риск</string>
   <string name="selinux_title">Режим SELinux</string>
   <string name="selinux_permissive_title">Только предупреждение</string>
   <string name="selinux_enforcing_title">Блокировка</string>
@@ -98,6 +97,7 @@
   <string name="qs_rows_portrait_title">Строки (портрет)</string>
   <string name="qs_rows_landscape_title">Строки (ландшафт)</string>
   <string name="qs_columns_title">Количество столбцов</string>
+  <!-- QS tiles category -->
   <!-- Media art -->
   <string name="media_art_title">Обложка альбома</string>
   <string name="media_art_summary">Показывать обложку альбома на экране блокировки</string>
@@ -122,11 +122,8 @@
   <string name="doze_overwrite_value_summary">Разрешить перезапись значений по умолчанию с пользовательскими настройками</string>
   <string name="doze_pulse_title">Параметры, настраиваемые пользователем</string>
   <string name="doze_pulse_duration_in_title">Появление</string>
-  <string name="doze_pulse_duration_in_summary"></string>
   <string name="doze_pulse_duration_visible_title">Время видимости</string>
-  <string name="doze_pulse_duration_visible_summary"></string>
   <string name="doze_pulse_duration_out_title">Исчезновение</string>
-  <string name="doze_pulse_duration_out_summary"></string>
   <string name="doze_trigger_pickup_title">Триггер датчика движения</string>
   <string name="doze_trigger_pickup_summary_on">Пульсация экрана при запрете спящего режима будет переключаться датчиком движения</string>
   <string name="doze_trigger_pickup_summary_off">Датчик движения не будет использован в качестве триггера</string>
@@ -162,5 +159,6 @@
   <string name="recents_clear_all_location_bottom_right">Внизу справа</string>
   <string name="recents_clear_all_location_bottom_left">Внизу слева</string>
   <string name="recents_clear_all_location_bottom_center">Внизу по центру</string>
-
+  <!-- Dashboard options -->
+  <!-- Dashboard columns -->
 </resources>
