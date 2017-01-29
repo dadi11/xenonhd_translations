@@ -85,7 +85,6 @@
   <string name="xenonhd_ui_title">Benutzeroberfläche</string>
   <!-- Selinux Switch -->
   <string name="selinux_switch_title">SELinux Wechsel-Optionen</string>
-  <string name="selinux_switch_summary">SELinux ist eine Sammlung von Kernel-Modifikationstools und Sicherheitsrichtlinien. Das Ändern dieser Einstellung kann ungewünschte Ereignisse hervorrufen. Benutzung auf eigene Gefahr!</string>
   <string name="selinux_title">SELinux-Modus</string>
   <string name="selinux_permissive_title">Moderat</string>
   <string name="selinux_enforcing_title">Strikt</string>
@@ -97,6 +96,7 @@
   <string name="qs_rows_portrait_title">Zeilen (Hochformat)</string>
   <string name="qs_rows_landscape_title">Zeilen (Querformat)</string>
   <string name="qs_columns_title">Spalten</string>
+  <!-- QS tiles category -->
   <!-- Media art -->
   <string name="media_art_title">Albumcover</string>
   <string name="media_art_summary">Zeigt das Albumcover auf dem Sperrbildschirm bei Musikwiedergabe</string>
@@ -119,11 +119,8 @@
   <string name="doze_overwrite_value_summary">Zulassen dass die Standardwerte mit Benutzereinstellungen überschrieben wird</string>
   <string name="doze_pulse_title">Vom Benutzer konfigurierbare Einstellungen</string>
   <string name="doze_pulse_duration_in_title">Einblenden</string>
-  <string name="doze_pulse_duration_in_summary"></string>
   <string name="doze_pulse_duration_visible_title">Sichtbarkeitsdauer</string>
-  <string name="doze_pulse_duration_visible_summary"></string>
   <string name="doze_pulse_duration_out_title">Ausblenden</string>
-  <string name="doze_pulse_duration_out_summary"></string>
   <string name="doze_trigger_pickup_title">Auslöser durch Aufhebesensor</string>
   <string name="doze_trigger_pickup_summary_on">Pulse wird durch den Hochhebe-Sensor ausgelöst</string>
   <string name="doze_trigger_pickup_summary_off">Hochhebe-Sensor wird nicht als Auslöser benutzt</string>
@@ -158,5 +155,6 @@
   <string name="recents_clear_all_location_bottom_right">Unten rechts</string>
   <string name="recents_clear_all_location_bottom_left">Unten links</string>
   <string name="recents_clear_all_location_bottom_center">Unten in der Mitte</string>
-
+  <!-- Dashboard options -->
+  <!-- Dashboard columns -->
 </resources>
