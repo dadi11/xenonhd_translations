@@ -92,12 +92,10 @@
   <string name="recents_membar">Barra de memória</string>
   <string name="systemui_recents_mem_display_title">Mostrar barra de memória</string>
   <string name="systemui_recents_mem_display_summary">Mostrar barra de RAM livre no modo de exibição de apps recentes</string>
-  <!-- Quick settings tiles columns and rows config -->
-  <string name="qs_layout_category">Layout de telhas configurações rápida</string>
+  <!-- Quick settings config -->
   <string name="qs_rows_portrait_title">Linhas (retrato)</string>
   <string name="qs_rows_landscape_title">Linhas (paisagem)</string>
   <string name="qs_columns_title">Colunas</string>
-  <!-- QS tiles category -->
   <!-- Media art -->
   <string name="media_art_title">Mostrar capa do album de música</string>
   <string name="media_art_summary">Arte de capa de mídia de exibição na tela de bloqueio</string>
