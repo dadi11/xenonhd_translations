@@ -99,6 +99,7 @@
   <string name="qs_rows_landscape_title">Řádky (na šířku)</string>
   <string name="qs_columns_title">Sloupce</string>
   <string name="qs_easy_toggle_title">Snadné přepnutí QS dlaždic</string>
+  <string name="qs_easy_toggle_summary">Povolte akci jedním klepnutím na možnost povolit/zakázat mobilní data, Wi-Fi a Bluetooth. Dlouhým stisknutím zobrazíte upřesňující nastavení</string>
   <!-- Media art -->
   <string name="media_art_title">Obal alba</string>
   <string name="media_art_summary">Zobrazit obal alba na zamčené obrazovce</string>
@@ -133,8 +134,18 @@
   <string name="doze_trigger_notification_summary_off">Oznámení nebudou použity ke spuštění</string>
   <string name="doze_brightness_level_title">Úroveň jasu</string>
   <string name="onehundred_ms">100ms</string>
+  <string name="twofifty_ms">250 ms</string>
   <string name="fivehundred_ms_default">500 ms (výchozí)</string>
+  <string name="sevenfifty_ms">750 ms</string>
+  <string name="one_second">1 s</string>
+  <string name="onehalf_second">1.5 s</string>
+  <string name="two_second">2 s</string>
+  <string name="twohalf_second">2.5 s</string>
   <string name="three_second_default">3 s (výchozí)</string>
+  <string name="threehalf_second">3.5 s</string>
+  <string name="four_second">4 s</string>
+  <string name="fourhalf_second">4.5 s</string>
+  <string name="five_second">5 s</string>
   <string name="doze_notification_color_invert_title">Inverze oznámení</string>
   <string name="doze_notification_color_invert_summary_off">Barvy oznámení nebudou obráceny (doporučeno pro tmavé motivy).</string>
   <string name="doze_notification_color_invert_summary_on">Barvy oznámení budou obráceny (doporučeno pro světlé motivy).</string>
