@@ -35,6 +35,7 @@
   <string name="accessibility_quick_settings_usb_tether_on">USB Tethering je zapnutý</string>
   <string name="accessibility_quick_settings_usb_tether_changed_off">USB sdílené připojení vypnuto</string>
   <string name="accessibility_quick_settings_usb_tether_changed_on">USB sdílené připojení zapnuto</string>
+  <string name="quick_settings_usb_tether_label">USB tethering</string>
   <string name="quick_settings_music_label">Hudba</string>
   <string name="quick_settings_music_play">Přehrát</string>
   <string name="quick_settings_music_pause">Pozastavit</string>
@@ -44,6 +45,7 @@
   <string name="accessibility_quick_settings_caffeine_on">Kofein vypnut</string>
   <string name="quick_settings_expanded_navigation_off">Skrýt navigační lištu</string>
   <string name="quick_settings_expanded_statusbar_off">Skrýt stavový řádek</string>
+  <string name="quick_settings_nfc_label">NFC</string>
   <string name="accessibility_quick_settings_nfc_off">NFC vypnuto</string>
   <string name="accessibility_quick_settings_nfc_on">NFC zapnuto</string>
   <string name="accessibility_quick_settings_nfc_changed_off">NFC vypnuto</string>
