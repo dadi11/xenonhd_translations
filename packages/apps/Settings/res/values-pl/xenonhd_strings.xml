@@ -173,7 +173,7 @@
   <string name="summary_dashboard_conditions_enabled">Warunki są włączone</string>
   <string name="summary_dashboard_conditions_disabled">Warunki są wyłączone</string>
   <string name="dashboard_columns_title">Ilość kolumn</string>
-  <string name="dashboard_columns_summary">Zmień ilość kolumn wyświetlanych w panelu ustawień</string>
+  <string name="dashboard_columns_summary">Ilość kolumn wyświetlanych w panelu ustawień</string>
   <string name="dashboard_columns_portrait_title">Kolumny (pionowo)</string>
   <string name="dashboard_columns_landscape_title">Kolumny (poziomo)</string>
 </resources>
