@@ -172,6 +172,7 @@
   <string name="dashboard_conditions_title">Tingimused</string>
   <string name="summary_dashboard_conditions_enabled">Armatuurlaua tingimused on lubatud</string>
   <string name="summary_dashboard_conditions_disabled">Armatuurlaua tingimused on keelatud</string>
+  <string name="dashboard_columns_title">Armatuurlaua veerud</string>
   <string name="dashboard_columns_summary">Armatuurlaua veergude arvu muutmine</string>
   <string name="dashboard_columns_portrait_title">Veerud (vertikaalpaigutus)</string>
   <string name="dashboard_columns_landscape_title">Veerud (landscape)</string>
