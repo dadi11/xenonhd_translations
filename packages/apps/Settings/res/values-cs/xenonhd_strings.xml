@@ -172,6 +172,7 @@
   <string name="dashboard_conditions_title">Podmínky</string>
   <string name="summary_dashboard_conditions_enabled">Podmínky hlavního panelu jsou povoleny</string>
   <string name="summary_dashboard_conditions_disabled">Podmínky hlavního panelu jsou zakázány</string>
+  <string name="dashboard_columns_title">Sloupce hlavního panelu</string>
   <string name="dashboard_columns_summary">Změna počtu zobrazených sloupců v nastavení hlavního panelu</string>
   <string name="dashboard_columns_portrait_title">Sloupce (na výšku)</string>
   <string name="dashboard_columns_landscape_title">Sloupce (na šířku)</string>
