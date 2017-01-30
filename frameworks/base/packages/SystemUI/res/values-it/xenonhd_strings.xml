@@ -20,6 +20,7 @@
   <string name="quick_settings_expanded_desktop_label">Desktop esteso</string>
   <string name="quick_settings_expanded_desktop">Espandi</string>
   <string name="quick_settings_expanded_desktop_off">Normale</string>
+  <string name="quick_settings_screenshot_label">Screenshot</string>
   <string name="quick_settings_adb_network">Rete ADB</string>
   <string name="quick_settings_network_adb_enabled_label">Attivato</string>
   <string name="quick_settings_network_adb_disabled_label">Disabilitato</string>
@@ -44,6 +45,7 @@
   <string name="accessibility_quick_settings_caffeine_on">Caffeina attivata</string>
   <string name="quick_settings_expanded_navigation_off">Nascondi barra di navigazione</string>
   <string name="quick_settings_expanded_statusbar_off">Nascondi barra di stato</string>
+  <string name="quick_settings_nfc_label">NFC</string>
   <string name="accessibility_quick_settings_nfc_off">NFC spento</string>
   <string name="accessibility_quick_settings_nfc_on">NFC attivo</string>
   <string name="accessibility_quick_settings_nfc_changed_off">NFC disabilitato</string>
@@ -53,6 +55,7 @@
   <string name="accessibility_quick_settings_heads_up_on">Notifiche a comparsa attive</string>
   <string name="accessibility_quick_settings_heads_up_changed_off">Notifiche a comparsa disattivate</string>
   <string name="accessibility_quick_settings_heads_up_changed_on">Notifiche a comparsa attivate</string>
+  <string name="quick_settings_ambient_display_label">Ambient display</string>
   <string name="accessibility_quick_settings_ambient_display_off">Ambient dsplay non attivo</string>
   <string name="accessibility_quick_settings_ambient_display_on">Ambient display attivo</string>
   <string name="accessibility_quick_settings_ambient_display_changed_off">Ambient display disattivato</string>
