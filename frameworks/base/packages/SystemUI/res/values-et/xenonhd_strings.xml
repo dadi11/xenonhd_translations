@@ -30,6 +30,7 @@
   <string name="accessibility_quick_settings_sync_changed_off">Sünkroniseerimine välja lülitatud</string>
   <string name="accessibility_quick_settings_sync_changed_on">Sünkroniseerimine sisse lülitatud</string>
   <string name="quick_settings_reboot_label">Taaskäivita</string>
+  <string name="quick_settings_reboot_recovery_label">Recovery režiim</string>
   <string name="accessibility_quick_settings_usb_tether_off">USB jagamine väljas</string>
   <string name="accessibility_quick_settings_usb_tether_on">USB jagamine sees</string>
   <string name="accessibility_quick_settings_usb_tether_changed_off">USB jagamine väljalülitatud</string>
@@ -44,10 +45,12 @@
   <string name="accessibility_quick_settings_caffeine_on">Kofeiin sees</string>
   <string name="quick_settings_expanded_navigation_off">Peida navigeerimisriba</string>
   <string name="quick_settings_expanded_statusbar_off">Peida olekuriba</string>
+  <string name="quick_settings_nfc_label">NFC</string>
   <string name="accessibility_quick_settings_nfc_off">NFC väljas</string>
   <string name="accessibility_quick_settings_nfc_on">NFC sees</string>
   <string name="accessibility_quick_settings_nfc_changed_off">NFC sisselülitatud</string>
   <string name="accessibility_quick_settings_nfc_changed_on">NFC sisselülitatud</string>
+  <string name="quick_settings_heads_up_label">Laiendatud teavitused</string>
   <string name="accessibility_quick_settings_heads_up_off">Heads up väljas</string>
   <string name="accessibility_quick_settings_heads_up_on">Heads up sees</string>
   <string name="accessibility_quick_settings_heads_up_changed_off">Heads up välja lülitatud</string>
