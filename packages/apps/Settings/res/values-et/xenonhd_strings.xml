@@ -99,6 +99,7 @@
   <string name="qs_rows_landscape_title">Read (diagonaalpaigutus)</string>
   <string name="qs_columns_title">Veerud</string>
   <string name="qs_easy_toggle_title">Täiustatud Kiirseadete lihtne vahetamine</string>
+  <string name="qs_easy_toggle_summary">Võimalda ühe vajutusega lubada/keelata Wi-Fi, Mobiilne andmeside ja Bluetooth. Pikk vajutus näitab täpsemaid seadeid</string>
   <!-- Media art -->
   <string name="media_art_title">Meedia kaane pilt</string>
   <string name="media_art_summary">Kuva meedia kaanepilt lukustusekraanil</string>
@@ -142,7 +143,9 @@
   <string name="twohalf_second">2,5 s</string>
   <string name="three_second_default">3 s (vaikimisi)</string>
   <string name="threehalf_second">3,5 s</string>
+  <string name="four_second">4 s</string>
   <string name="fourhalf_second">4,5 s</string>
+  <string name="five_second">5 s</string>
   <string name="doze_notification_color_invert_title">Teate inversioon</string>
   <string name="doze_notification_color_invert_summary_off">Teateid ei pöörata. Kasutada tumedate teemade puhul</string>
   <string name="doze_notification_color_invert_summary_on">Teateid pööratakse. Kasutada heledate teemade puhul</string>
@@ -159,4 +162,17 @@
   <string name="recents_clear_all_location_bottom_left">Vasakul allnurgas</string>
   <string name="recents_clear_all_location_bottom_center">All keskel</string>
   <!-- Dashboard options -->
+  <string name="dashboard_category">Armatuurlaua valikud</string>
+  <string name="dashboard_suggestions_title">Soovitused</string>
+  <string name="summary_dashboard_suggestions_enabled">Armatuurlaua soovitused on lubatud</string>
+  <string name="summary_dashboard_suggestions_disabled">Armatuurlaua soovitused on keelatud</string>
+  <string name="remove_tile_summaries_title">Kokkuvõtted</string>
+  <string name="remove_tile_summaries_summary_enabled">Armatuurlaua kokkuvõtted on lubatud</string>
+  <string name="remove_tile_summaries_summary_disabled">Armatuurlaua kokkuvõtted on keelatud</string>
+  <string name="dashboard_conditions_title">Tingimused</string>
+  <string name="summary_dashboard_conditions_enabled">Armatuurlaua tingimused on lubatud</string>
+  <string name="summary_dashboard_conditions_disabled">Armatuurlaua tingimused on keelatud</string>
+  <string name="dashboard_columns_summary">Armatuurlaua veergude arvu muutmine</string>
+  <string name="dashboard_columns_portrait_title">Veerud (vertikaalpaigutus)</string>
+  <string name="dashboard_columns_landscape_title">Veerud (landscape)</string>
 </resources>
