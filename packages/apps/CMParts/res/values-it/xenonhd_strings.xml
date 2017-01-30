@@ -38,6 +38,7 @@
   <!-- Color Picker -->
   <string name="dialog_color_picker">Scelta del colore</string>
   <string name="press_color_to_apply">Seleziona il colore per applicarlo</string>
+  <string name="hex">Esadecimale:</string>
   <string name="set">Applica</string>
   <string name="color_default">Predefinito</string>
   <!-- Network traffic -->
@@ -52,6 +53,10 @@
   <string name="show_network_traffic_all">In entrata e in uscita</string>
   <string name="show_network_traffic_bit">Bit al secondo</string>
   <string name="show_network_traffic_byte">Byte al secondo</string>
+  <string name="show_network_traffic_500">500 ms</string>
+  <string name="show_network_traffic_1000">1000 ms</string>
+  <string name="show_network_traffic_1500">1500 ms</string>
+  <string name="show_network_traffic_2000">2000 ms</string>
   <string name="network_traffic_autohide">Nascondi automaticamente</string>
   <string name="network_traffic_autohide_summary">Nascondi l\'indicatore di traffico quando non c\'è nessuna attività</string>
   <string name="network_traffic_autohide_threshold">Soglia di inattività</string>
