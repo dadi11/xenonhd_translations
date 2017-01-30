@@ -85,6 +85,7 @@
   <string name="xenonhd_ui_title">Kasutajaliides</string>
   <!-- Selinux Switch -->
   <string name="selinux_switch_title">SELinux muutmise hoiatus</string>
+  <string name="selinux_switch_summary">SELinux on kerneli modifikatsioonide ja user-space komplekt. Režiimide vahetamine nõuab juurkasutaja õigusi ja see võib põhjustada soovimatuid tagajärgi. Premissive režiim on soovitatud. Vahetage seda omal vastutusel</string>
   <string name="selinux_title">SELinux režiim</string>
   <string name="selinux_permissive_title">Lubav</string>
   <string name="selinux_enforcing_title">Sundiv</string>
@@ -93,9 +94,11 @@
   <string name="systemui_recents_mem_display_title">Näita Mäluriba</string>
   <string name="systemui_recents_mem_display_summary">Näita vaba RAM hulka hiljutiste rakenduste vaates</string>
   <!-- Quick settings config -->
+  <string name="qs_layout_category">Kiirseadete valikud</string>
   <string name="qs_rows_portrait_title">Read (vertikaalpaigutus)</string>
   <string name="qs_rows_landscape_title">Read (diagonaalpaigutus)</string>
   <string name="qs_columns_title">Veerud</string>
+  <string name="qs_easy_toggle_title">Täiustatud Kiirseadete lihtne vahetamine</string>
   <!-- Media art -->
   <string name="media_art_title">Meedia kaane pilt</string>
   <string name="media_art_summary">Kuva meedia kaanepilt lukustusekraanil</string>
