@@ -85,6 +85,7 @@
   <string name="xenonhd_ui_title">使用者介面</string>
   <!-- Selinux Switch -->
   <string name="selinux_switch_title">Selinux 切換警告</string>
+  <string name="selinux_switch_summary">SELinux 是修改內核和使用者空間的工具。變更模式需要root訪問權限，並可能導致不必要的影響。使用時自擔風險</string>
   <string name="selinux_title">Selinux 模式</string>
   <string name="selinux_permissive_title">許可</string>
   <string name="selinux_enforcing_title">執行中</string>
@@ -98,6 +99,7 @@
   <string name="qs_rows_landscape_title">行 (橫向)</string>
   <string name="qs_columns_title">列</string>
   <string name="qs_easy_toggle_title">進階快速設定簡易切換</string>
+  <string name="qs_easy_toggle_summary">啟用輕觸動作可啟用/停用 Wi-Fi、行動數據和藍牙。 長按可查看進階設定</string>
   <!-- Media art -->
   <string name="media_art_title">媒體封面</string>
   <string name="media_art_summary">在鎖定畫面上顯示媒體封面</string>
