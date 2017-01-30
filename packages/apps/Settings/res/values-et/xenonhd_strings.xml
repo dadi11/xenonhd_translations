@@ -82,6 +82,7 @@
   <string name="xenonhd_title">Konfiguratioonid</string>
   <string name="xenonhd_misc_title">Varia</string>
   <string name="xenonhd_lockscreen_title">Lukustusekraan</string>
+  <string name="xenonhd_ui_title">Kasutajaliides</string>
   <!-- Selinux Switch -->
   <string name="selinux_switch_title">SELinux muutmise hoiatus</string>
   <string name="selinux_title">SELinux režiim</string>
