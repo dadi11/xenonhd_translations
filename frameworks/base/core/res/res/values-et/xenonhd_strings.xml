@@ -16,4 +16,6 @@
      limitations under the License. -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Singlehanded Mode -->
+  <string name="singlehandmode_click_hint_message">Puudutage väljapoole ekraani et väljuda mini ekraani vaatest</string>
+  <string name="singlehandmode_slide_hint_message">Libistage oma sõrme üle navigatsiooniriba et vahetada tavalise ja mini akna vaate vahel</string>
 </resources>
