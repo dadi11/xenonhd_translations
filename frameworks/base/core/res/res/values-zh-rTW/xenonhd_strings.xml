@@ -16,4 +16,6 @@
      limitations under the License. -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Singlehanded Mode -->
+  <string name="singlehandmode_click_hint_message">觸控螢幕外部可退出迷你螢幕檢視</string>
+  <string name="singlehandmode_slide_hint_message">在導覽列上滑動手指，在標準和迷你螢幕檢視之間切換</string>
 </resources>
