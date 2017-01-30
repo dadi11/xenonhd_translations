@@ -17,11 +17,9 @@
   -->
 <resources>
   <!-- App -->
-  <string name="app_title">زینان ایچ ڈی اپ ڈیٹ</string>
   <!-- Categories -->
   <!-- ROM info -->
   <!-- Check update -->
-  <string name="last_check_never">کبھی نہیں</string>
   <!-- Update interval -->
   <!-- Notification -->
   <!-- Dialog -->
