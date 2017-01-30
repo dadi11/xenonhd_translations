@@ -39,8 +39,10 @@
   <string name="app_notification_sound_timeout_value_15_minutes">10分</string>
   <string name="app_notification_sound_timeout_value_30_minutes">30分</string>
   <!-- Randomize MAC addresses -->
+  <string name="tethering_no_sim_alert_title">SIMカードが挿入されていません</string>
   <!-- Volume Steps -->
   <string name="volume_steps_music_title">音楽</string>
+  <string name="volume_steps_reset">リセット</string>
   <!-- DayNight Theme -->
   <string name="night_mode_title">テーマ</string>
   <!-- Screenshot sound -->
@@ -59,6 +61,8 @@
   <!-- Quick settings config -->
   <!-- Media art -->
   <!-- Quick unlock -->
+  <string name="unlock_quick_unlock_control_title">クイックロック解除</string>
+  <string name="unlock_quick_unlock_control_summary">正しいPIN/パスワードが入力されたときはロックを自動的に解除する</string>
   <!-- Three-fingers-swipe to screenshot -->
   <!-- Long press back to kill configurable timeout -->
   <!-- Doze pulse options -->
@@ -69,6 +73,21 @@
   <string name="doze_pulse_duration_in_title">フェードイン</string>
   <string name="doze_pulse_duration_visible_title">表示時間を指定</string>
   <string name="doze_pulse_duration_out_title">フェードアウト</string>
+  <string name="doze_trigger_notification_title">通知トリガー</string>
+  <string name="doze_brightness_level_title">明るさレベル</string>
+  <string name="onehundred_ms">100 ミリ秒</string>
+  <string name="twofifty_ms">250 ミリ秒</string>
+  <string name="fivehundred_ms_default">500 ミリ秒 (規定値)</string>
+  <string name="sevenfifty_ms">750 ミリ秒</string>
+  <string name="one_second">1秒</string>
+  <string name="onehalf_second">1.5秒</string>
+  <string name="two_second">2秒</string>
+  <string name="twohalf_second">2.5秒</string>
+  <string name="three_second_default">3秒 (規定値)</string>
+  <string name="threehalf_second">3.5秒</string>
+  <string name="four_second">4秒</string>
+  <string name="fourhalf_second">4.5秒</string>
+  <string name="five_second">5秒</string>
   <!-- Recents panel settings -->
   <string name="recents_clear_all_location_top_right">右上</string>
   <string name="recents_clear_all_location_top_left">左上</string>
