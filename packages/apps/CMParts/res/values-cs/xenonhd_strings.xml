@@ -38,6 +38,7 @@
   <!-- Color Picker -->
   <string name="dialog_color_picker">Výběr barvy</string>
   <string name="press_color_to_apply">Klikněte na barvu pro její výběr</string>
+  <string name="hex">Hex:</string>
   <string name="set">Nastavit</string>
   <string name="color_default">Výchozí</string>
   <!-- Network traffic -->
@@ -52,7 +53,10 @@
   <string name="show_network_traffic_all">Odchozí a příchozí data</string>
   <string name="show_network_traffic_bit">Bitů za sekundu</string>
   <string name="show_network_traffic_byte">Bajtů za sekundu</string>
+  <string name="show_network_traffic_500">500 ms</string>
+  <string name="show_network_traffic_1000">1000 ms</string>
   <string name="show_network_traffic_1500">1 500 ms</string>
+  <string name="show_network_traffic_2000">2000 ms</string>
   <string name="network_traffic_autohide">Automaticky skrývat</string>
   <string name="network_traffic_autohide_summary">Skrytí nástroje sledování provozu, pokud neprobíhá žádná činnost</string>
   <string name="network_traffic_autohide_threshold">Práh nečinnosti</string>
