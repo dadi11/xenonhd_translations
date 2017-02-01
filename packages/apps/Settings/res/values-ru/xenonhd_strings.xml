@@ -85,6 +85,7 @@
   <string name="xenonhd_ui_title">Пользовательский интерфейс</string>
   <!-- Selinux Switch -->
   <string name="selinux_switch_title">Предупреждение</string>
+  <string name="selinux_switch_summary">SELinux - это набор модификаций ядра и инструментов пользовательского пространства. Изменение режимов может привести к нежелательным последствиям. Рекомендуется режим \"Только предупреждение\". Используйте на свой риск</string>
   <string name="selinux_title">Режим SELinux</string>
   <string name="selinux_permissive_title">Только предупреждение</string>
   <string name="selinux_enforcing_title">Блокировка</string>
