@@ -89,4 +89,6 @@
   <string name="torch_long_press_power_gesture_title">El feneri için güç tuşuna uzun basma</string>
   <string name="torch_long_press_power_gesture_desc">El fenerini etkinleştirmek için ekran kapalıyken güç düğmesine uzun basın</string>
   <!-- One-handed mode -->
+  <string name="one_handed_mode_title">Tek el modu</string>
+  <string name="one_handed_mode_summary">Tek el modunu etkinleştirmek için navigasyon barında kaydır</string>
 </resources>
