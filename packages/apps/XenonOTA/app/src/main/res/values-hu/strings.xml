@@ -38,6 +38,11 @@
   <string name="autoupdate_disabled">Automatikus frissítés le van tiltva</string>
   <string name="disabled">Letiltva</string>
   <string name="hour">Minden órában</string>
+  <string name="twelve_hours">12 óránként</string>
+  <string name="twentyfour_hours">24 óránként</string>
   <!-- Notification -->
+  <string name="notification_title">XenonHD frissítés</string>
+  <string name="notification_message">Új verzió érhető el!</string>
   <!-- Dialog -->
+  <string name="dialog_message">Frissítések keresése, kis türelmet&#8230;</string>
 </resources>
