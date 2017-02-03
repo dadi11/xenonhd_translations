@@ -14,7 +14,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
+  <string name="xenonhd_version">XenonHD verzió</string>
   <string name="xenonhd_version_default">Ismeretlen</string>
+  <string name="xenonhd_maintainer">Karbantartó</string>
   <string name="xenonhd_maintainer_default">Ismeretlen</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Változásnapló</string>
@@ -26,13 +28,17 @@
   <string name="xenonota_title">XenonHD frissítések</string>
   <string name="xenonota_summary">ROM frissítések ellenőrzése</string>
   <!-- Dev Options Enabled by Default -->
+  <string name="show_dev_already_enabled">Nem szükséges, a fejlesztői beállítások engedélyezve vannak</string>
   <!-- Phone info shortcut -->
   <string name="device_info_title">Telefon adatai</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
   <string name="local_backup_password_title">Asztali jelszó mentés</string>
   <!-- Double tap to sleep on lockscreen -->
   <string name="double_tap_sleep_anywhere_title">DT2S a zárképernyőn</string>
+  <string name="double_tap_sleep_anywhere_summary">Zárképernyő dupla érintésére a készülék alvó módba kerül</string>
   <!-- Notification sound timeout -->
+  <string name="app_notification_sound_timeout_title">Értesítési hangok közötti minimum időtartam</string>
+  <string name="app_notification_sound_timeout_value_none">Nincs korlátozás</string>
   <string name="app_notification_sound_timeout_value_10_seconds">10 másodperc</string>
   <string name="app_notification_sound_timeout_value_30_seconds">30 másodperc</string>
   <string name="app_notification_sound_timeout_value_1_minute">1 perc</string>
@@ -42,32 +48,63 @@
   <!-- Randomize MAC addresses -->
   <string name="randomize_mac_title">Véletlenszerű MAC-címek</string>
   <string name="tethering_no_sim_alert_title">Nincs SIM kártya</string>
+  <string name="tethering_no_sim_card_text">Kérjük helyezze be a SIM kártyát annak érdekében, hogy adatkapcsolatát megoszthassa más eszközökkel mobil hotspot vagy USB-s internetmegosztás segítségével</string>
   <string name="tether_settings_launch_title">Mobil Hotspot</string>
   <string name="wifi_tether_first_use_message">Mobil hotspot beállítása első használatánál</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">Hangerő lépések</string>
+  <string name="volume_steps_alarm_title">Riasztások</string>
   <string name="volume_steps_music_title">Zene</string>
+  <string name="volume_steps_notification_title">Értesítések</string>
+  <string name="volume_steps_ring_title">Csengetés</string>
+  <string name="volume_steps_system_title">Rendszer</string>
+  <string name="volume_steps_voice_call_title">Hanghívás</string>
   <string name="volume_steps_reset">Visszaállitás</string>
   <!-- DayNight Theme -->
   <string name="night_mode_title">Téma</string>
   <string name="night_mode_no">Világos</string>
   <string name="night_mode_yes">Sötét</string>
   <!-- Screenshot sound -->
-  <string name="screenshot_sound_title">Képernyőmentési hang</string>
+  <string name="screenshot_sound_title">Képernyőkép hangja</string>
+  <string name="screenshot_sound_summary">Hang lejátszása képernyőkép készítésekor</string>
   <!-- Manage applications: show substratum overlays -->
+  <string name="filter_substratum_apps">Substratum fedvények</string>
+  <string name="menu_show_substratum">Fedvények megjelenítése</string>
+  <string name="menu_hide_substratum">Fedvények elrejtése</string>
   <!-- Manage applications: show substratum icon overlays -->
+  <string name="filter_substratum_icons">Substratum ikonfedvények</string>
+  <string name="menu_show_substratum_icons">Ikonfedvények megjelenítése</string>
+  <string name="menu_hide_substratum_icons">Ikonfedvények elrejtése</string>
   <!-- XenonHD Configurations-->
   <string name="xenonhd_title">Konfigurációk</string>
+  <string name="xenonhd_misc_title">Vegyes</string>
+  <string name="xenonhd_lockscreen_title">Zárképernyő</string>
+  <string name="xenonhd_ui_title">Felhasználói felület</string>
   <!-- Selinux Switch -->
+  <string name="selinux_switch_title">SELinux váltási figyelmeztetés</string>
+  <string name="selinux_switch_summary">A SELinux egy sor kernel módosítás és felhasználói téri eszköz. Mód váltása root hozzáférést igényel és nemkívánatos hatásokat okozhat. Engedélyezett mód ajánlott. Saját felelősségére használja</string>
+  <string name="selinux_title">SELinux mód</string>
   <string name="selinux_permissive_title">Engedélyező</string>
   <string name="selinux_enforcing_title">Kényszerítés</string>
   <!-- Recents Membar -->
+  <string name="recents_membar">Memóriasáv</string>
   <string name="systemui_recents_mem_display_title">Memória sáv megjelenítése</string>
   <string name="systemui_recents_mem_display_summary">Szabad RAM sáv megjelenítése a legújabb alkalmazások nézetben</string>
   <!-- Quick settings config -->
+  <string name="qs_layout_category">Gyorsbeállítások beállításai</string>
+  <string name="qs_rows_portrait_title">Sorok (álló)</string>
+  <string name="qs_rows_landscape_title">Sorok (fekvő)</string>
+  <string name="qs_columns_title">Oszlopok</string>
+  <string name="qs_easy_toggle_title">Haladó gyorskapcsoló csempe</string>
+  <string name="qs_easy_toggle_summary">Engedélyezése után egy érintéssel kapcsolja ki/be a Wi-Fi-t, mobil adatkapcsolatot és Bluetooth-t. Hosszan nyomásukra visz a haladó beállításokba</string>
   <!-- Media art -->
+  <string name="media_art_title">Média borítója</string>
+  <string name="media_art_summary">Engedélyezze a média borítóját a zárképernyőn</string>
   <!-- Quick unlock -->
+  <string name="quick_unlock_warning">Gyors feloldási figyelmeztetés</string>
   <!-- Three-fingers-swipe to screenshot -->
+  <string name="three_finger_gesture">Képernyőkép csúsztatással</string>
+  <string name="three_finger_gesture_summary">Csúsztasson három ujjal képernyőkép készítéséhez</string>
   <!-- Long press back to kill configurable timeout -->
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">Engedélyezve</string>
