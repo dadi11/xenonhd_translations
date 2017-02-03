@@ -34,7 +34,7 @@
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
   <string name="local_backup_password_title">Asztali jelszó mentés</string>
   <!-- Double tap to sleep on lockscreen -->
-  <string name="double_tap_sleep_anywhere_title">DT2S a zárképernyőn</string>
+  <string name="double_tap_sleep_anywhere_title">Dupla érintéses lezárás a zárképernyőn</string>
   <string name="double_tap_sleep_anywhere_summary">Zárképernyő dupla érintésére a készülék alvó módba kerül</string>
   <!-- Notification sound timeout -->
   <string name="app_notification_sound_timeout_title">Értesítési hangok közötti minimum időtartam</string>
@@ -50,9 +50,9 @@
   <string name="randomize_mac_title">Véletlenszerű MAC-címek</string>
   <string name="randomize_mac_summary">Véletlenszerű MAC cím hozzárendelése, ha a hálózati eszközök engedélyezve vannak. A MAC cím véletlenszerűsége keresés közben ettől a kapcsolótól függetlenül engedélyezve van</string>
   <string name="tethering_no_sim_alert_title">Nincs SIM kártya</string>
-  <string name="tethering_no_sim_card_text">Kérjük helyezze be a SIM kártyát annak érdekében, hogy adatkapcsolatát megoszthassa más eszközökkel mobil hotspot vagy USB-s internetmegosztás segítségével</string>
-  <string name="tether_settings_launch_title">Mobil Hotspot</string>
-  <string name="wifi_tether_first_use_message">Mobil hotspot beállítása első használatánál</string>
+  <string name="tethering_no_sim_card_text">Kérjük helyezze be a SIM kártyát annak érdekében, hogy adatkapcsolatát megoszthassa más eszközökkel mobil hotszpot vagy USB-s internetmegosztás segítségével</string>
+  <string name="tether_settings_launch_title">Mobil hotszpot</string>
+  <string name="wifi_tether_first_use_message">Mobil hotszpot beállítása első használatánál</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">Hangerő lépések</string>
   <string name="volume_steps_alarm_title">Riasztások</string>
@@ -155,6 +155,12 @@
   <string name="show_clear_all_recents_button_title">Összes törlése gomb</string>
   <string name="show_clear_all_recents_button_summary">Összes törlése gomb megjelenítése az alkalmazáselőzmények képernyőn</string>
   <string name="recents_clear_all_location_title">Összes törlése gomb helye</string>
+  <string name="recents_clear_all_location_top_right">Jobb fent</string>
+  <string name="recents_clear_all_location_top_left">Bal fent</string>
+  <string name="recents_clear_all_location_top_center">Fent középen</string>
+  <string name="recents_clear_all_location_bottom_right">Jobb alul</string>
+  <string name="recents_clear_all_location_bottom_left">Bal alul</string>
+  <string name="recents_clear_all_location_bottom_center">Alul középen</string>
   <!-- Dashboard options -->
   <string name="dashboard_category">Irányítópult beállítások</string>
   <string name="dashboard_suggestions_title">Javaslatok</string>
