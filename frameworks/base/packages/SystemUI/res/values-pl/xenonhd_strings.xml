@@ -17,14 +17,14 @@
   <!-- Status bar items tuner -->
   <string name="statusbar_icons_blacklist">Ikony paska stanu</string>
   <!-- Quick Settings tiles -->
-  <string name="quick_settings_expanded_desktop_label">Rozszerzony pulpit</string>
+  <string name="quick_settings_expanded_desktop_label">Tryb rozszerzonego pulpitu</string>
   <string name="quick_settings_expanded_desktop">Rozszerzony</string>
-  <string name="quick_settings_expanded_desktop_off">Normalny</string>
+  <string name="quick_settings_expanded_desktop_off">Zwykły</string>
   <string name="quick_settings_screenshot_label">Zrzut ekranu</string>
   <string name="quick_settings_adb_network">Sieci ADB</string>
-  <string name="quick_settings_network_adb_enabled_label">Włączone</string>
-  <string name="quick_settings_network_adb_disabled_label">Wyłączone</string>
-  <string name="quick_settings_sync_label">Synchronizacja</string>
+  <string name="quick_settings_network_adb_enabled_label">Aktywowany</string>
+  <string name="quick_settings_network_adb_disabled_label">Wyłączony</string>
+  <string name="quick_settings_sync_label">Synchronizuj</string>
   <string name="accessibility_quick_settings_sync_off">Synchronizacja wył</string>
   <string name="accessibility_quick_settings_sync_on">Synchronizacja wł</string>
   <string name="accessibility_quick_settings_sync_changed_off">Synchronizacja wyłączona</string>
