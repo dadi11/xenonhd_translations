@@ -90,4 +90,5 @@
   <string name="torch_long_press_power_gesture_desc">Taschenlampe durch langes drücken der Ein-/Ausschalttaste einschalten, während das Display ausgeschaltet ist</string>
   <!-- One-handed mode -->
   <string name="one_handed_mode_title">Einhandmodus</string>
+  <string name="one_handed_mode_summary">Einhandmodus durch Wischen über die Navigationsleiste aktivieren</string>
 </resources>
