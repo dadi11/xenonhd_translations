@@ -149,6 +149,7 @@
   <string name="ambient_display_show_battery_summary">Akkustatus während Puls anzeigen</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Anzeige einer Taste zum Schließen aller geöffneten Apps</string>
+  <string name="show_clear_all_recents_button_summary">Alle-Beenden Taste im Taskmanager Anzeigen</string>
   <string name="recents_clear_all_location_title">Position der Alle-Schließen Taste</string>
   <string name="recents_clear_all_location_top_right">Oben rechts</string>
   <string name="recents_clear_all_location_top_left">Oben links</string>
@@ -162,4 +163,13 @@
   <string name="summary_dashboard_suggestions_enabled">Dashboard-Vorschläge sind aktiviert</string>
   <string name="summary_dashboard_suggestions_disabled">Dashboard-Vorschläge sind deaktiviert</string>
   <string name="remove_tile_summaries_title">Zusammenfassungen</string>
+  <string name="remove_tile_summaries_summary_enabled">Dashboard-Zusammenfassungen sind aktiviert</string>
+  <string name="remove_tile_summaries_summary_disabled">Dashboard-Zusammenfassungen sind deaktiviert</string>
+  <string name="dashboard_conditions_title">Bedingungen</string>
+  <string name="summary_dashboard_conditions_enabled">Dashboard-Bedingungen sind aktiviert</string>
+  <string name="summary_dashboard_conditions_disabled">Dashboard-Bedingungen sind deaktiviert</string>
+  <string name="dashboard_columns_title">Dashboard-Spalten</string>
+  <string name="dashboard_columns_summary">Anzahl der Spalten bearbeiten, die im Dashboard angezeigt werden</string>
+  <string name="dashboard_columns_portrait_title">Spalten (Hochformat)</string>
+  <string name="dashboard_columns_landscape_title">Spalten (Querformat)</string>
 </resources>
