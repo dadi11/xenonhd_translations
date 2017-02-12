@@ -21,13 +21,13 @@
   <string name="app_title">Aktualizacje XenonHD</string>
   <!-- Categories -->
   <string name="ota_category">Informacje o aktualizacji</string>
-  <string name="links_category">Linki do pobrania</string>
+  <string name="links_category">Pobieranie</string>
   <!-- ROM info -->
   <string name="latest_version">Najnowsza wersja: %1$s</string>
-  <string name="unknown">Nieznany</string>
-  <string name="system_uptodate">System jest aktualny</string>
+  <string name="unknown">Nieznana</string>
+  <string name="system_uptodate">Twój system jest aktualny</string>
   <!-- Check update -->
-  <string name="check_update_title">Sprawdź aktualizacje</string>
+  <string name="check_update_title">Sprawdź dostępność aktualizacji</string>
   <string name="last_check_summary">Ostatnio sprawdzono: %1$s</string>
   <string name="last_check_never">Nigdy</string>
   <string name="check_update_failed">Nie można sprawdzić dostępności aktualizacji, upewnij się, że urządzenie jest obsługiwane przez XenonHD</string>

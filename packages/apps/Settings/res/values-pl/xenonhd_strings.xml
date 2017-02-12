@@ -19,8 +19,8 @@
   <string name="xenonhd_maintainer">Opiekun</string>
   <string name="xenonhd_maintainer_default">Nieznany</string>
   <!-- Changelog -->
-  <string name="changelog_xenonhd_title">Rejestr zmian</string>
-  <string name="changelog_xenonhd_error">Nie można załadować listy zmian</string>
+  <string name="changelog_xenonhd_title">Lista zmian</string>
+  <string name="changelog_xenonhd_error">Nie można wczytać listy zmian</string>
   <string name="changelog_xenonhd_summary">Sprawdź zmiany w bieżącej kompilacji</string>
   <!-- Density category -->
   <string name="density_category">Ustawienia gęstości</string>
