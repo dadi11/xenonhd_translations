@@ -16,7 +16,7 @@
   <!-- About phone screen, XenonHD version -->
   <string name="xenonhd_version">Wersja XenonHD</string>
   <string name="xenonhd_version_default">Nieznana</string>
-  <string name="xenonhd_maintainer">Twórcy aplikacji</string>
+  <string name="xenonhd_maintainer">Opiekun</string>
   <string name="xenonhd_maintainer_default">Nieznany</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Rejestr zmian</string>
