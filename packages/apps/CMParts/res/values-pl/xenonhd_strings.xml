@@ -24,7 +24,7 @@
   <string name="battery_bar_style_title">Wyrównanie</string>
   <string name="battery_bar_thickness_title">Rozmiar</string>
   <string name="battery_bar_animate_title">Animacja ładowania</string>
-  <string name="battery_bar_style_regular">Regularny</string>
+  <string name="battery_bar_style_regular">Domyślny</string>
   <string name="battery_bar_style_center_mirrored">Wyśrodkowany</string>
   <string name="battery_bar_style_reversed">Odwrócony</string>
   <!-- Battery icon -->
