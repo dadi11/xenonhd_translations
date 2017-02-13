@@ -79,6 +79,8 @@
   <string name="menu_show_substratum_icons">Afficher les icônes de surcouches</string>
   <string name="menu_hide_substratum_icons">Masquer les icônes de surcouches</string>
   <!-- XenonHD Configurations-->
+  <string name="xenonhd_title">Configuration
+</string>
   <string name="xenonhd_misc_title">Réglages divers</string>
   <string name="xenonhd_lockscreen_title">Écran de verrouillage</string>
   <string name="xenonhd_ui_title">Interface utilisateur</string>
