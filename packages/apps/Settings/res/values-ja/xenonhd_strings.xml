@@ -39,7 +39,6 @@
   <string name="app_notification_sound_timeout_value_15_minutes">10分</string>
   <string name="app_notification_sound_timeout_value_30_minutes">30分</string>
   <!-- Randomize MAC addresses -->
-  <string name="tethering_no_sim_alert_title">SIMカードが挿入されていません</string>
   <!-- Volume Steps -->
   <string name="volume_steps_music_title">音楽</string>
   <string name="volume_steps_reset">リセット</string>
