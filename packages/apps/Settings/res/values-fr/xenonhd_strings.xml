@@ -79,11 +79,14 @@
   <string name="menu_show_substratum_icons">Afficher les icônes de surcouches</string>
   <string name="menu_hide_substratum_icons">Masquer les icônes de surcouches</string>
   <!-- XenonHD Configurations-->
+  <string name="xenonhd_title">Configuration
+</string>
   <string name="xenonhd_misc_title">Réglages divers</string>
   <string name="xenonhd_lockscreen_title">Écran de verrouillage</string>
   <string name="xenonhd_ui_title">Interface utilisateur</string>
   <!-- Selinux Switch -->
   <string name="selinux_switch_title">Attention changement d\'état Selinux</string>
+  <string name="selinux_switch_summary">SELinux est un un ensemble de modification apporter au kernel et à la mémoire de stockage utile. Changer ce mode nécessite un appareil enraciné et peut causer des effets indésirables. Le mode Permissive est recommandé. A utiliser à vos risques et périls</string>
   <string name="selinux_title">Mode de Selinux</string>
   <string name="selinux_permissive_title">Permissif</string>
   <string name="selinux_enforcing_title">Appliqué</string>
@@ -92,9 +95,11 @@
   <string name="systemui_recents_mem_display_title">Afficher la barre de mémoire</string>
   <string name="systemui_recents_mem_display_summary">Afficher la barre de RAM libre dans le multitâche</string>
   <!-- Quick settings config -->
+  <string name="qs_layout_category">Options de configuration rapides</string>
   <string name="qs_rows_portrait_title">Lignes (portrait)</string>
   <string name="qs_rows_landscape_title">Lignes (paysage)</string>
   <string name="qs_columns_title">Colonnes</string>
+  <string name="qs_easy_toggle_title">Commutateurs rapides</string>
   <!-- Media art -->
   <string name="media_art_title">Pochette de l\'album</string>
   <string name="media_art_summary">Afficher la pochette d\'album sur l\'écran de verrouillage</string>
