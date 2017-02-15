@@ -49,10 +49,6 @@
   <!-- Randomize MAC addresses -->
   <string name="randomize_mac_title">Véletlenszerű MAC-címek</string>
   <string name="randomize_mac_summary">Véletlenszerű MAC cím hozzárendelése, ha a hálózati eszközök engedélyezve vannak. A MAC cím véletlenszerűsége keresés közben ettől a kapcsolótól függetlenül engedélyezve van</string>
-  <string name="tethering_no_sim_alert_title">Nincs SIM kártya</string>
-  <string name="tethering_no_sim_card_text">Kérjük helyezze be a SIM kártyát annak érdekében, hogy adatkapcsolatát megoszthassa más eszközökkel mobil hotszpot vagy USB-s internetmegosztás segítségével</string>
-  <string name="tether_settings_launch_title">Mobil hotszpot</string>
-  <string name="wifi_tether_first_use_message">Mobil hotszpot beállítása első használatánál</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">Hangerő lépések</string>
   <string name="volume_steps_alarm_title">Riasztások</string>
