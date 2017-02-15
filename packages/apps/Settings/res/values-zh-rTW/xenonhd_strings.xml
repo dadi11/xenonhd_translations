@@ -49,10 +49,6 @@
   <!-- Randomize MAC addresses -->
   <string name="randomize_mac_title">隨機的 MAC 位址</string>
   <string name="randomize_mac_summary">啟用網路裝置時分配隨機 MAC 位址。 在掃描期間使用 MAC 隨機化，無論是否啟用。</string>
-  <string name="tethering_no_sim_alert_title">沒有 SIM 卡</string>
-  <string name="tethering_no_sim_card_text">請裝上 SIM 卡，以便使用行動熱點或 USB 網路共用存取網際網路，與其他裝置共用您的數據連線。</string>
-  <string name="tether_settings_launch_title">行動熱點</string>
-  <string name="wifi_tether_first_use_message">首次使用時設定行動熱點</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">音量調整等級</string>
   <string name="volume_steps_alarm_title">鬧鈴</string>
