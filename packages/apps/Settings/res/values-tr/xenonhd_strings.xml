@@ -49,10 +49,6 @@
   <!-- Randomize MAC addresses -->
   <string name="randomize_mac_title">Rastgele MAC adresleri</string>
   <string name="randomize_mac_summary">Cihaz bağlantısı sağlandığında rastgele MAC adresi ata. Rastgele MAC adresi ataması tarama aktif olsa da olmasa da yapılacaktır</string>
-  <string name="tethering_no_sim_alert_title">SIM kart yok</string>
-  <string name="tethering_no_sim_card_text">Lütfen diğer cihazlarla USB ile ya da kablosuz ağ paylaşımı yapmak için SIM kartınızı takın</string>
-  <string name="tether_settings_launch_title">Kablosuz Ağ Paylaşımı</string>
-  <string name="wifi_tether_first_use_message">İlk kullanım için Ağ paylaşımını kurun</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">Ses Seviyeleri</string>
   <string name="volume_steps_alarm_title">Çalar saat</string>
