@@ -60,11 +60,6 @@
     <string name="randomize_mac_title">Randomize MAC addresses</string>
     <string name="randomize_mac_summary">Assign random MAC addresses when network devices are enabled. MAC randomization is used during scanning whether or not this is enabled</string>
 
-    <string name="tethering_no_sim_alert_title">No SIM Card</string>
-    <string name="tethering_no_sim_card_text">Please install SIM card in order to share your data connection with other devices using mobile hotspot or USB tethering for Internet access</string>
-    <string name="tether_settings_launch_title">Mobile Hotspot</string>
-    <string name="wifi_tether_first_use_message">Set up mobile hotspot at the first use</string>
-
     <!-- Volume Steps -->
     <string name="volume_steps_title">Volume steps</string>
     <string name="volume_steps_alarm_title">Alarm</string>
@@ -213,5 +208,18 @@
     <string name="dashboard_columns_summary">Change the number of columns displayed in the dashboard</string>
     <string name="dashboard_columns_portrait_title">Columns (portrait)</string>
     <string name="dashboard_columns_landscape_title">Columns (landscape)</string>
+
+    <!-- Hide Lockscreen clock, date, & alarm -->
+    <string name="hide_lockscreen_clock_title">Clock widget</string>
+    <string name="hide_lockscreen_clock_summary">Hide clock widget</string>
+    <string name="hide_lockscreen_date_title">Date widget</string>
+    <string name="hide_lockscreen_date_summary">Hide date underneath the clock widget</string>
+    <string name="hide_lockscreen_alarm_title">Alarm text</string>
+    <string name="hide_lockscreen_alarm_summary">Hide alarm text underneath the clock widget</string>
+
+    <!-- Emergency button -->
+    <string name="emergency_button_title">Emergency button</string>
+    <string name="emergency_button_summary_on">Emergency button shown on the lockscreen</string>
+    <string name="emergency_button_summary_off">Emergency button hidden on the lockscreen</string>
 
 </resources>
