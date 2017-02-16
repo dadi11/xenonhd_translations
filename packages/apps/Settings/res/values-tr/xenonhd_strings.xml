@@ -172,4 +172,6 @@
   <string name="dashboard_columns_summary">Kontrol panelinin sütun sayısını değiştirme</string>
   <string name="dashboard_columns_portrait_title">Sütunlar (dikey)</string>
   <string name="dashboard_columns_landscape_title">Sütunlar (yatay)</string>
+  <!-- Hide Lockscreen clock, date, & alarm -->
+  <!-- Emergency button -->
 </resources>
