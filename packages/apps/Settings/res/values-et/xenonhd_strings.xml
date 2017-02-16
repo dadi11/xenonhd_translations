@@ -172,4 +172,6 @@
   <string name="dashboard_columns_summary">Armatuurlaua veergude arvu muutmine</string>
   <string name="dashboard_columns_portrait_title">Veerud (vertikaalpaigutus)</string>
   <string name="dashboard_columns_landscape_title">Veerud (landscape)</string>
+  <!-- Hide Lockscreen clock, date, & alarm -->
+  <!-- Emergency button -->
 </resources>
