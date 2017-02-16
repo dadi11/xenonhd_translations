@@ -172,4 +172,6 @@
   <string name="dashboard_columns_summary">Změna počtu zobrazených sloupců v nastavení hlavního panelu</string>
   <string name="dashboard_columns_portrait_title">Sloupce (na výšku)</string>
   <string name="dashboard_columns_landscape_title">Sloupce (na šířku)</string>
+  <!-- Hide Lockscreen clock, date, & alarm -->
+  <!-- Emergency button -->
 </resources>
