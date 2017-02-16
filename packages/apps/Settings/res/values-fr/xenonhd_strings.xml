@@ -155,4 +155,6 @@
   <string name="recents_clear_all_location_bottom_left">En bas à gauche</string>
   <string name="recents_clear_all_location_bottom_center">En bas au centre</string>
   <!-- Dashboard options -->
+  <!-- Hide Lockscreen clock, date, & alarm -->
+  <!-- Emergency button -->
 </resources>
