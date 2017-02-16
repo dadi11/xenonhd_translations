@@ -172,4 +172,6 @@
   <string name="dashboard_columns_summary">Изменение количества колонок отображаемых на панели настроек</string>
   <string name="dashboard_columns_portrait_title">Колонки (портрет)</string>
   <string name="dashboard_columns_landscape_title">Колонки (ландшафт)</string>
+  <!-- Hide Lockscreen clock, date, & alarm -->
+  <!-- Emergency button -->
 </resources>
