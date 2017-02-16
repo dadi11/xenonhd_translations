@@ -172,4 +172,6 @@
   <string name="dashboard_columns_summary">變更設定面板中顯示的欄位數</string>
   <string name="dashboard_columns_portrait_title">行 (縱向)</string>
   <string name="dashboard_columns_landscape_title">行 (橫向)</string>
+  <!-- Hide Lockscreen clock, date, & alarm -->
+  <!-- Emergency button -->
 </resources>
