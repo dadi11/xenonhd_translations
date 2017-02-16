@@ -171,4 +171,6 @@
   <string name="dashboard_columns_summary">Anzahl der Spalten bearbeiten, die im Dashboard angezeigt werden</string>
   <string name="dashboard_columns_portrait_title">Spalten (Hochformat)</string>
   <string name="dashboard_columns_landscape_title">Spalten (Querformat)</string>
+  <!-- Hide Lockscreen clock, date, & alarm -->
+  <!-- Emergency button -->
 </resources>
