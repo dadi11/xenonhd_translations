@@ -101,7 +101,7 @@
   <string name="media_art_summary">Mostra la copertina dell\'album nella schermata di blocco</string>
   <!-- Quick unlock -->
   <string name="quick_unlock_warning">Attenzione di sblocco rapido</string>
-  <string name="quick_unlock_warning_summary">Questa funzionalità consente di ignorare i meccanismi di sicurezza importanti e quasi certamente maltratta il supporto per utenti multipli. Utilizzare a proprio rischio</string>
+  <string name="quick_unlock_warning_summary">Questa funzionalità consente di ignorare i meccanismi di sicurezza importanti e quasi certamente pregiudica il supporto per utenti multipli. Utilizzare a proprio rischio</string>
   <string name="unlock_quick_unlock_control_title">Sblocco rapido</string>
   <string name="unlock_quick_unlock_control_summary">Sblocca automaticamente quando vengono inseriti il PIN o la password corretti</string>
   <!-- Three-fingers-swipe to screenshot -->
