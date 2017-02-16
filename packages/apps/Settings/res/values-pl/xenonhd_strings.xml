@@ -172,4 +172,6 @@
   <string name="dashboard_columns_summary">Ilość kolumn wyświetlanych w panelu ustawień</string>
   <string name="dashboard_columns_portrait_title">Kolumny (pionowo)</string>
   <string name="dashboard_columns_landscape_title">Kolumny (poziomo)</string>
+  <!-- Hide Lockscreen clock, date, & alarm -->
+  <!-- Emergency button -->
 </resources>
