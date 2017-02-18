@@ -173,5 +173,14 @@
   <string name="dashboard_columns_portrait_title">Sütunlar (dikey)</string>
   <string name="dashboard_columns_landscape_title">Sütunlar (yatay)</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
+  <string name="hide_lockscreen_clock_title">Saat widgeti</string>
+  <string name="hide_lockscreen_clock_summary">Saat widgetini gizle</string>
+  <string name="hide_lockscreen_date_title">Tarih widgeti</string>
+  <string name="hide_lockscreen_date_summary">Saat widgetinin altindaki tarihi gizle</string>
+  <string name="hide_lockscreen_alarm_title">Alarm metni</string>
+  <string name="hide_lockscreen_alarm_summary">Saat widgetinin altındaki alarm metnini gizle</string>
   <!-- Emergency button -->
+  <string name="emergency_button_title">Acil durum butonu</string>
+  <string name="emergency_button_summary_on">Acil durum butonu kilit ekranında gösterilir</string>
+  <string name="emergency_button_summary_off">Acil durum butonu kilit ekranında gizlenir</string>
 </resources>
