@@ -14,7 +14,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
+  <string name="xenonhd_version">Versión de XenonHD</string>
   <string name="xenonhd_version_default">Desconocido</string>
+  <string name="xenonhd_maintainer">Desarrollador</string>
   <string name="xenonhd_maintainer_default">Desconocido</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Lista de cambios</string>
@@ -26,6 +28,7 @@
   <string name="xenonota_title">Actualizaciones XenonHD</string>
   <string name="xenonota_summary">Buscar actualizaciones</string>
   <!-- Dev Options Enabled by Default -->
+  <string name="show_dev_already_enabled">No es necesario, las opciones de desarrollo ya están activadas por defecto</string>
   <!-- Phone info shortcut -->
   <string name="device_info_title">Información del dispositivo</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
