@@ -87,5 +87,8 @@
   <string name="pixel_navbar_anim_summary">Volver a habilitar la barra de navegación o reiniciar para aplicar. Los temas pueden sobreescribir esta configuración</string>
   <!-- Torch -->
   <string name="torch_long_press_power_gesture_title">Pulsación prolongada en el botón de encendido para activar la linterna</string>
+  <string name="torch_long_press_power_gesture_desc">Activar la linterna haciendo pulsación prolongada del botón de encendido cuando la pantalla está apagada</string>
   <!-- One-handed mode -->
+  <string name="one_handed_mode_title">Modo a una mano</string>
+  <string name="one_handed_mode_summary">Permitir deslizar en la barra de navegación para activar el modo a una mano</string>
 </resources>
