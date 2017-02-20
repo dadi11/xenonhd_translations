@@ -52,6 +52,7 @@
   <!-- Volume Steps -->
   <string name="volume_steps_title">Niveles de volumen</string>
   <string name="volume_steps_alarm_title">Alarma</string>
+  <string name="volume_steps_dtmf_title">DTMF (marcación)</string>
   <string name="volume_steps_music_title">Música</string>
   <string name="volume_steps_notification_title">Notificación</string>
   <string name="volume_steps_ring_title">Tono de llamada</string>
@@ -79,6 +80,7 @@
   <string name="xenonhd_lockscreen_title">Pantalla de bloqueo</string>
   <string name="xenonhd_ui_title">Interfaz de Usuario</string>
   <!-- Selinux Switch -->
+  <string name="selinux_switch_summary">SELinux es un conjunto de modificaciones del kernel y herramientas de espacio del usuario. Cambiar el modo SELinux requiere acceso root y puede causar efectos no deseados. Modo Permisivo recomendado. Usar bajo su propio riesgo</string>
   <string name="selinux_title">Modo SELinux</string>
   <string name="selinux_permissive_title">Permisivo</string>
   <string name="selinux_enforcing_title">Obligatorio</string>
@@ -113,7 +115,9 @@
   <string name="doze_overwrite_value_title">Sobrescribir los valores por defecto</string>
   <string name="doze_overwrite_value_summary">Permitir sobrescribir los valores por defecto con la configuración de usuario</string>
   <string name="doze_pulse_title">Ajustes configurables del usuario</string>
+  <string name="doze_pulse_duration_in_title">Desvanecer hacia dentro</string>
   <string name="doze_pulse_duration_visible_title">Duración visible</string>
+  <string name="doze_pulse_duration_out_title">Desvanecer hacia afuera</string>
   <string name="doze_brightness_level_title">Nivel de brillo</string>
   <string name="onehundred_ms">100 ms</string>
   <string name="twofifty_ms">250 ms</string>
@@ -131,6 +135,7 @@
   <string name="ambient_display_show_battery_title">Estado de batería</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Activar botón borrar todo</string>
+  <string name="show_clear_all_recents_button_summary">Mostrar el botón de borrar todo mientras se usa la multitarea</string>
   <string name="recents_clear_all_location_title">Ubicación del botón borrar todo</string>
   <string name="recents_clear_all_location_top_right">Arriba a la derecha</string>
   <string name="recents_clear_all_location_top_left">Arriba a la izquierda</string>
@@ -139,6 +144,7 @@
   <string name="recents_clear_all_location_bottom_left">Abajo a la izquierda</string>
   <string name="recents_clear_all_location_bottom_center">Abajo centrado</string>
   <!-- Dashboard options -->
+  <string name="dashboard_category">Opciones de la pantalla de ajustes</string>
   <string name="dashboard_suggestions_title">Sugerencias</string>
   <string name="summary_dashboard_suggestions_enabled">Sugerencias habilitadas en la pantalla de ajustes</string>
   <string name="summary_dashboard_suggestions_disabled">Sugerencias deshabilitadas en la pantalla de ajustes</string>
