@@ -94,6 +94,7 @@
   <string name="qs_rows_portrait_title">Zeilen (Hochformat)</string>
   <string name="qs_rows_landscape_title">Zeilen (Querformat)</string>
   <string name="qs_columns_title">Spalten</string>
+  <string name="qs_easy_toggle_title">Erweiterter QS Easy Toggle</string>
   <string name="qs_easy_toggle_summary">Ermöglicht das Aktivieren und Deaktivieren von Wi-Fi, Mobilen Daten und Bluetooth mit einem Tap. Lange drücken, um erweiterte Einstellungen zu sehen</string>
   <!-- Media art -->
   <string name="media_art_title">Albumcover</string>
@@ -172,5 +173,14 @@
   <string name="dashboard_columns_portrait_title">Spalten (Hochformat)</string>
   <string name="dashboard_columns_landscape_title">Spalten (Querformat)</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
+  <string name="hide_lockscreen_clock_title">Uhr-Widget</string>
+  <string name="hide_lockscreen_clock_summary">Uhr-Widget ausblenden</string>
+  <string name="hide_lockscreen_date_title">Datum-Widget</string>
+  <string name="hide_lockscreen_date_summary">Datum unter dem Uhr-Widget ausblenden</string>
+  <string name="hide_lockscreen_alarm_title">Alarmtext</string>
+  <string name="hide_lockscreen_alarm_summary">Alarmtext unterhalb des Uhr-Widgets ausblenden</string>
   <!-- Emergency button -->
+  <string name="emergency_button_title">Notruftaste</string>
+  <string name="emergency_button_summary_on">Notruftaste auf dem Lockscreen angezeigt</string>
+  <string name="emergency_button_summary_off">Notruftaste auf dem Lockscreen versteckt</string>
 </resources>
