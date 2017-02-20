@@ -54,6 +54,8 @@
   <string name="volume_steps_alarm_title">Alarma</string>
   <string name="volume_steps_music_title">Música</string>
   <string name="volume_steps_notification_title">Notificación</string>
+  <string name="volume_steps_ring_title">Tono de llamada</string>
+  <string name="volume_steps_system_title">Sistema</string>
   <string name="volume_steps_voice_call_title">Llamada de voz</string>
   <string name="volume_steps_reset">Resetear</string>
   <!-- DayNight Theme -->
@@ -64,16 +66,28 @@
   <string name="screenshot_sound_title">Sonido de captura de pantalla</string>
   <string name="screenshot_sound_summary">Reproducir sonido cuando se hace una captura de pantalla</string>
   <!-- Manage applications: show substratum overlays -->
+  <string name="filter_substratum_apps">Capas de Substratum</string>
+  <string name="menu_show_substratum">Mostrar capas</string>
+  <string name="menu_hide_substratum">Ocultar capas</string>
   <!-- Manage applications: show substratum icon overlays -->
+  <string name="filter_substratum_icons">Capa de iconos de Substratum</string>
+  <string name="menu_show_substratum_icons">Mostrar capa de iconos</string>
+  <string name="menu_hide_substratum_icons">Ocultar capa de iconos</string>
   <!-- XenonHD Configurations-->
+  <string name="xenonhd_title">Configuraciones</string>
+  <string name="xenonhd_misc_title">Varios</string>
   <string name="xenonhd_lockscreen_title">Pantalla de bloqueo</string>
   <string name="xenonhd_ui_title">Interfaz de Usuario</string>
   <!-- Selinux Switch -->
+  <string name="selinux_title">Modo SELinux</string>
+  <string name="selinux_permissive_title">Permisivo</string>
+  <string name="selinux_enforcing_title">Obligatorio</string>
   <!-- Recents Membar -->
   <string name="recents_membar">Barra de memoria</string>
   <string name="systemui_recents_mem_display_title">Mostrar barra de memoria RAM</string>
   <string name="systemui_recents_mem_display_summary">Mostrar barra de memoria RAM libre en multitarea</string>
   <!-- Quick settings config -->
+  <string name="qs_layout_category">Opciones de configuración rápidas</string>
   <string name="qs_rows_portrait_title">Filas (vertical)</string>
   <string name="qs_rows_landscape_title">Filas (horizontal)</string>
   <string name="qs_columns_title">Columnas</string>
@@ -99,8 +113,54 @@
   <string name="doze_overwrite_value_title">Sobrescribir los valores por defecto</string>
   <string name="doze_overwrite_value_summary">Permitir sobrescribir los valores por defecto con la configuración de usuario</string>
   <string name="doze_pulse_title">Ajustes configurables del usuario</string>
+  <string name="doze_pulse_duration_visible_title">Duración visible</string>
+  <string name="doze_brightness_level_title">Nivel de brillo</string>
+  <string name="onehundred_ms">100 ms</string>
+  <string name="twofifty_ms">250 ms</string>
+  <string name="fivehundred_ms_default">500 ms (predeterminado)</string>
+  <string name="sevenfifty_ms">750 ms</string>
+  <string name="one_second">1 s</string>
+  <string name="onehalf_second">1.5 s</string>
+  <string name="two_second">2 s</string>
+  <string name="twohalf_second">2.5 s</string>
+  <string name="three_second_default">3 s (por defecto)</string>
+  <string name="threehalf_second">3.5 s</string>
+  <string name="four_second">4 s</string>
+  <string name="fourhalf_second">4.5 s</string>
+  <string name="five_second">5 s</string>
+  <string name="ambient_display_show_battery_title">Estado de batería</string>
   <!-- Recents panel settings -->
+  <string name="show_clear_all_recents_button_title">Activar botón borrar todo</string>
+  <string name="recents_clear_all_location_title">Ubicación del botón borrar todo</string>
+  <string name="recents_clear_all_location_top_right">Arriba a la derecha</string>
+  <string name="recents_clear_all_location_top_left">Arriba a la izquierda</string>
+  <string name="recents_clear_all_location_top_center">Arriba centrado</string>
+  <string name="recents_clear_all_location_bottom_right">Abajo a la derecha</string>
+  <string name="recents_clear_all_location_bottom_left">Abajo a la izquierda</string>
+  <string name="recents_clear_all_location_bottom_center">Abajo centrado</string>
   <!-- Dashboard options -->
+  <string name="dashboard_suggestions_title">Sugerencias</string>
+  <string name="summary_dashboard_suggestions_enabled">Sugerencias habilitadas en la pantalla de ajustes</string>
+  <string name="summary_dashboard_suggestions_disabled">Sugerencias deshabilitadas en la pantalla de ajustes</string>
+  <string name="remove_tile_summaries_title">Resúmenes</string>
+  <string name="remove_tile_summaries_summary_enabled">Resúmenes habilitados en la pantalla de ajustes</string>
+  <string name="remove_tile_summaries_summary_disabled">Resúmenes deshabilitados en la pantalla de ajustes</string>
+  <string name="dashboard_conditions_title">Condiciones</string>
+  <string name="summary_dashboard_conditions_enabled">Las condiciones en el panel de ajustes están habilitadas</string>
+  <string name="summary_dashboard_conditions_disabled">Las condiciones en el panel de ajustes están deshabilitadas</string>
+  <string name="dashboard_columns_title">Columnas del panel de ajustes</string>
+  <string name="dashboard_columns_summary">Cambiar el número de columnas del panel de ajustes</string>
+  <string name="dashboard_columns_portrait_title">Columnas (vertical)</string>
+  <string name="dashboard_columns_landscape_title">Columnas (apaisado)</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
+  <string name="hide_lockscreen_clock_title">Widget del reloj</string>
+  <string name="hide_lockscreen_clock_summary">Ocultar el widget del reloj</string>
+  <string name="hide_lockscreen_date_title">Widget de la fecha</string>
+  <string name="hide_lockscreen_date_summary">Ocultar fecha debajo del widget del reloj</string>
+  <string name="hide_lockscreen_alarm_title">Texto de alarma</string>
+  <string name="hide_lockscreen_alarm_summary">Ocultar el texto de alarma debajo del widget del reloj</string>
   <!-- Emergency button -->
+  <string name="emergency_button_title">Botón de emergencia</string>
+  <string name="emergency_button_summary_on">Botón de emergencia en la pantalla de bloqueo</string>
+  <string name="emergency_button_summary_off">Botón de emergencia oculto en la pantalla de bloqueo</string>
 </resources>
