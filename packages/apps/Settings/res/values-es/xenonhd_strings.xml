@@ -48,9 +48,13 @@
   <string name="app_notification_sound_timeout_value_30_minutes">30 minutos</string>
   <!-- Randomize MAC addresses -->
   <string name="randomize_mac_title">Direcciones MAC aleatorias</string>
+  <string name="randomize_mac_summary">Asignar direcciones MAC al azar cuando se activan los dispositivos de red. MAC aleatoria se utiliza durante el escaneo, esté o no habilitado</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">Niveles de volumen</string>
+  <string name="volume_steps_alarm_title">Alarma</string>
   <string name="volume_steps_music_title">Música</string>
+  <string name="volume_steps_notification_title">Notificación</string>
+  <string name="volume_steps_voice_call_title">Llamada de voz</string>
   <string name="volume_steps_reset">Resetear</string>
   <!-- DayNight Theme -->
   <string name="night_mode_title">Tema</string>
@@ -62,16 +66,39 @@
   <!-- Manage applications: show substratum overlays -->
   <!-- Manage applications: show substratum icon overlays -->
   <!-- XenonHD Configurations-->
+  <string name="xenonhd_lockscreen_title">Pantalla de bloqueo</string>
+  <string name="xenonhd_ui_title">Interfaz de Usuario</string>
   <!-- Selinux Switch -->
   <!-- Recents Membar -->
+  <string name="recents_membar">Barra de memoria</string>
+  <string name="systemui_recents_mem_display_title">Mostrar barra de memoria RAM</string>
+  <string name="systemui_recents_mem_display_summary">Mostrar barra de memoria RAM libre en multitarea</string>
   <!-- Quick settings config -->
+  <string name="qs_rows_portrait_title">Filas (vertical)</string>
+  <string name="qs_rows_landscape_title">Filas (horizontal)</string>
+  <string name="qs_columns_title">Columnas</string>
+  <string name="qs_easy_toggle_summary">Activar una pulsación para activar/desactivar Wi-Fi, datos móviles y bluetooth. Pulsación larga para ver ajustes avanzados</string>
   <!-- Media art -->
+  <string name="media_art_title">Caratula de música</string>
+  <string name="media_art_summary">Mostrar carátula de las canciones en la pantalla de bloqueo</string>
   <!-- Quick unlock -->
+  <string name="unlock_quick_unlock_control_title">Desbloqueo rápido</string>
+  <string name="unlock_quick_unlock_control_summary">Desbloquear automáticamente al introducir correctamente el PIN o la contraseña</string>
   <!-- Three-fingers-swipe to screenshot -->
+  <string name="three_finger_gesture">Deslizar para hacer captura de pantalla</string>
+  <string name="three_finger_gesture_summary">Deslizar tres dedos para hacer captura de pantalla</string>
   <!-- Long press back to kill configurable timeout -->
+  <string name="kill_app_longpress_timeout_title">Tiempo de espera de pulsación larga del botón atrás</string>
+  <string name="timeout_2000">2 segundos (por defecto)</string>
+  <string name="timeout_1500">1.5 segundos</string>
+  <string name="timeout_1000">1 segundo</string>
+  <string name="timeout_500">0,5 segundos</string>
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">Habilitado</string>
   <string name="summary_doze_disabled">Deshabilitado</string>
+  <string name="doze_overwrite_value_title">Sobrescribir los valores por defecto</string>
+  <string name="doze_overwrite_value_summary">Permitir sobrescribir los valores por defecto con la configuración de usuario</string>
+  <string name="doze_pulse_title">Ajustes configurables del usuario</string>
   <!-- Recents panel settings -->
   <!-- Dashboard options -->
   <!-- Hide Lockscreen clock, date, & alarm -->
