@@ -123,6 +123,11 @@
   <string name="doze_pulse_duration_visible_title">Duración visible</string>
   <string name="doze_pulse_duration_out_title">Desvanecer hacia afuera</string>
   <string name="doze_trigger_pickup_title">Activar cuando levantas el dispositivo</string>
+  <string name="doze_trigger_pickup_summary_on">La pantalla se encenderá al coger el dispositivo</string>
+  <string name="doze_trigger_pickup_summary_off">Levantar el dispositivo no despertará la pantalla</string>
+  <string name="doze_trigger_notification_title">Activador de notificaciones</string>
+  <string name="doze_trigger_notification_summary_on">La pantalla se encenderá al recibir notificaciones</string>
+  <string name="doze_trigger_notification_summary_off">La pantalla no se encenderá al recibir notificaciones</string>
   <string name="doze_brightness_level_title">Nivel de brillo</string>
   <string name="onehundred_ms">100 ms</string>
   <string name="twofifty_ms">250 ms</string>
