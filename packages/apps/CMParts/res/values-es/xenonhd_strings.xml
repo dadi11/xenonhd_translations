@@ -79,7 +79,7 @@
   <string name="status_bar_date_style_uppercase">Mayúscula</string>
   <string name="status_bar_date_format_custom">Formato de java personalizado</string>
   <string name="status_bar_date_string_edittext_title">El formato de la fecha debe ser por ejemplo: MM/dd/aa</string>
-  <string name="status_bar_date_string_edittext_summary">Introduzca cadena</string>
+  <string name="status_bar_date_string_edittext_summary">Introducir texto</string>
   <string name="menu_save">Guardar</string>
   <string name="menu_cancel">Descartar</string>
   <!-- Navbar Animation -->
