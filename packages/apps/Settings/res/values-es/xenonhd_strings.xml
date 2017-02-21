@@ -80,6 +80,7 @@
   <string name="xenonhd_lockscreen_title">Pantalla de bloqueo</string>
   <string name="xenonhd_ui_title">Interfaz de Usuario</string>
   <!-- Selinux Switch -->
+  <string name="selinux_switch_title">Precaución al cambiar el modo SELinux</string>
   <string name="selinux_switch_summary">SELinux es un conjunto de modificaciones del kernel y herramientas de espacio del usuario. Cambiar el modo SELinux requiere acceso root y puede causar efectos no deseados. Modo Permisivo recomendado. Usar bajo su propio riesgo</string>
   <string name="selinux_title">Modo SELinux</string>
   <string name="selinux_permissive_title">Permisivo</string>
@@ -98,6 +99,7 @@
   <string name="media_art_title">Caratula de música</string>
   <string name="media_art_summary">Mostrar carátula de las canciones en la pantalla de bloqueo</string>
   <!-- Quick unlock -->
+  <string name="quick_unlock_warning">Precaución de desbloqueo rápido</string>
   <string name="unlock_quick_unlock_control_title">Desbloqueo rápido</string>
   <string name="unlock_quick_unlock_control_summary">Desbloquear automáticamente al introducir correctamente el PIN o la contraseña</string>
   <!-- Three-fingers-swipe to screenshot -->
