@@ -94,12 +94,14 @@
   <string name="qs_rows_portrait_title">Filas (vertical)</string>
   <string name="qs_rows_landscape_title">Filas (horizontal)</string>
   <string name="qs_columns_title">Columnas</string>
+  <string name="qs_easy_toggle_title">Modo avanzado QS Easy Toggle</string>
   <string name="qs_easy_toggle_summary">Activar una pulsación para activar/desactivar Wi-Fi, datos móviles y bluetooth. Pulsación larga para ver ajustes avanzados</string>
   <!-- Media art -->
   <string name="media_art_title">Caratula de música</string>
   <string name="media_art_summary">Mostrar carátula de las canciones en la pantalla de bloqueo</string>
   <!-- Quick unlock -->
   <string name="quick_unlock_warning">Precaución de desbloqueo rápido</string>
+  <string name="quick_unlock_warning_summary">Esta característica se salta importantes mecanismos de seguridad y seguramente provoca un mal funcionamiento de la función multiusuario. Usar bajo tu propia responsabilidad</string>
   <string name="unlock_quick_unlock_control_title">Desbloqueo rápido</string>
   <string name="unlock_quick_unlock_control_summary">Desbloquear automáticamente al introducir correctamente el PIN o la contraseña</string>
   <!-- Three-fingers-swipe to screenshot -->
@@ -120,6 +122,7 @@
   <string name="doze_pulse_duration_in_title">Desvanecer hacia dentro</string>
   <string name="doze_pulse_duration_visible_title">Duración visible</string>
   <string name="doze_pulse_duration_out_title">Desvanecer hacia afuera</string>
+  <string name="doze_trigger_pickup_title">Activar cuando levantas el dispositivo</string>
   <string name="doze_brightness_level_title">Nivel de brillo</string>
   <string name="onehundred_ms">100 ms</string>
   <string name="twofifty_ms">250 ms</string>
@@ -134,7 +137,11 @@
   <string name="four_second">4 s</string>
   <string name="fourhalf_second">4.5 s</string>
   <string name="five_second">5 s</string>
+  <string name="doze_notification_color_invert_title">Inversión de notificaciones</string>
+  <string name="doze_notification_color_invert_summary_off">Las notificaciones no se invierten. Úsalo para temas oscuros</string>
+  <string name="doze_notification_color_invert_summary_on">Se invertirán los colores de la notificaciones. Se usa para temas claros</string>
   <string name="ambient_display_show_battery_title">Estado de batería</string>
+  <string name="ambient_display_show_battery_summary">Mostrar indicador de la batería durante el pulso</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Activar botón borrar todo</string>
   <string name="show_clear_all_recents_button_summary">Mostrar el botón de borrar todo mientras se usa la multitarea</string>
