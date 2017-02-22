@@ -173,5 +173,14 @@
   <string name="dashboard_columns_portrait_title">Sloupce (na výšku)</string>
   <string name="dashboard_columns_landscape_title">Sloupce (na šířku)</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
+  <string name="hide_lockscreen_clock_title">Widget hodin</string>
+  <string name="hide_lockscreen_clock_summary">Skrýt widget hodin</string>
+  <string name="hide_lockscreen_date_title">Widget datumu</string>
+  <string name="hide_lockscreen_date_summary">Skrýt datum pod widgetem hodin</string>
+  <string name="hide_lockscreen_alarm_title">Text budíku</string>
+  <string name="hide_lockscreen_alarm_summary">Skrýt text budíku pod widgetem hodin</string>
   <!-- Emergency button -->
+  <string name="emergency_button_title">Nouzové tlačítko</string>
+  <string name="emergency_button_summary_on">Nouzové tlačítko zobrazeno na zamykací obrazovce</string>
+  <string name="emergency_button_summary_off">Nouzové tlačítko skryto na zamykací obrazovce</string>
 </resources>
