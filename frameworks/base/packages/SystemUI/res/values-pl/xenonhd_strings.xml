@@ -67,4 +67,5 @@
   <string name="free_ram">Wolna pamięć RAM:\u0020</string>
   <!-- Path data for Solid battery -->
   <!-- High Brightness Mode Tile -->
+  <string name="quick_settings_high_brightness">Wysoka jasność</string>
 </resources>
