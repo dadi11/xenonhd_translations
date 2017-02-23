@@ -67,4 +67,6 @@
   <string name="free_ram">RAM libre</string>
   <!-- Path data for Solid battery -->
   <!-- High Brightness Mode Tile -->
+  <string name="quick_settings_high_brightness">Brillo alto</string>
+  <string name="high_brightness_warning">Modo de brillo alto activado, reemplazando la configuración actual de brillo</string>
 </resources>
