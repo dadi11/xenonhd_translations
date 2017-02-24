@@ -66,4 +66,7 @@
   <!-- Free RAM -->
   <string name="free_ram">可用記憶體：\u0020</string>
   <!-- Path data for Solid battery -->
+  <!-- High Brightness Mode Tile -->
+  <string name="quick_settings_high_brightness">高亮度</string>
+  <string name="high_brightness_warning">高亮度模式已啟動，覆蓋目前亮度設定</string>
 </resources>
