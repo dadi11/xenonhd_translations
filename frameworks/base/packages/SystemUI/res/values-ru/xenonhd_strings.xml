@@ -69,4 +69,5 @@
   <!-- High Brightness Mode Tile -->
   <string name="quick_settings_high_brightness">Высокая яркость</string>
   <string name="high_brightness_warning">Режим высокой яркости активирован, увеличение установленных настроек яркости</string>
+  <!-- VoLTE icon switch -->
 </resources>
