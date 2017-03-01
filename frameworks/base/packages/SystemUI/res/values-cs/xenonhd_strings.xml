@@ -69,4 +69,5 @@
   <!-- High Brightness Mode Tile -->
   <string name="quick_settings_high_brightness">Vysoký jas</string>
   <string name="high_brightness_warning">Vysoký mód jasu aktivován, nahrazuji aktuální nastavení jasu</string>
+  <!-- VoLTE icon switch -->
 </resources>
