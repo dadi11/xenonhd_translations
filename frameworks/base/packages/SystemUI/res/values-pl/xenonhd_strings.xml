@@ -69,4 +69,5 @@
   <!-- High Brightness Mode Tile -->
   <string name="quick_settings_high_brightness">Wysoka jasność</string>
   <string name="high_brightness_warning">Aktywny tryb wysokiej jasności, zastępuje bieżące ustawienia jasności</string>
+  <!-- VoLTE icon switch -->
 </resources>
