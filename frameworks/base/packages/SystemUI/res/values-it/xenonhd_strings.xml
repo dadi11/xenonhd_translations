@@ -69,4 +69,5 @@
   <!-- High Brightness Mode Tile -->
   <string name="quick_settings_high_brightness">Alta Luminosità</string>
   <string name="high_brightness_warning">Modalità alta luminosità attivata, impostazioni di luminosità correnti sovrascritte</string>
+  <!-- VoLTE icon switch -->
 </resources>
