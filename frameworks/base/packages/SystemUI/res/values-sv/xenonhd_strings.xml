@@ -34,6 +34,7 @@
   <string name="accessibility_quick_settings_caffeine_off">Koffein av</string>
   <string name="accessibility_quick_settings_caffeine_on">Koffein på</string>
   <string name="quick_settings_expanded_navigation_off">Dölj navbar</string>
+  <string name="quick_settings_nfc_label">NFC</string>
   <string name="accessibility_quick_settings_nfc_on">NFC på</string>
   <!-- Text to use when the number in a notification info is too large
          (greater than status_bar_notification_info_maxnum, defined in
