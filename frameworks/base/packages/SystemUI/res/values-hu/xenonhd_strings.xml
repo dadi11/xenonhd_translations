@@ -69,4 +69,5 @@
   <!-- High Brightness Mode Tile -->
   <string name="quick_settings_high_brightness">Magas fényerő</string>
   <string name="high_brightness_warning">Magas fényerő mód aktiválva, jelenlegi fényerő-beállítások felülírva</string>
+  <!-- VoLTE icon switch -->
 </resources>
