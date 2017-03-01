@@ -54,6 +54,7 @@
   <!-- Manage applications: show substratum icon overlays -->
   <!-- XenonHD Configurations-->
   <string name="xenonhd_title">Konfigurationer</string>
+  <string name="xenonhd_ui_title">UI</string>
   <!-- Selinux Switch -->
   <string name="selinux_permissive_title">Tillåtande</string>
   <!-- Recents Membar -->
