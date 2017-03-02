@@ -82,8 +82,8 @@
   <string name="xenonhd_ui_title">Interface utilisateur</string>
   <!-- Selinux Switch -->
   <string name="selinux_switch_title">Mise en garde d\'état Selinux</string>
-  <string name="selinux_switch_summary">SELinux est un un ensemble de modification apporter au kernel et à la mémoire de stockage utile. Changer ce mode nécessite un appareil enraciné et peut causer des effets indésirables. Le mode Permissive est recommandé. A utiliser à vos risques et périls</string>
-  <string name="selinux_title">Mode de Selinux</string>
+  <string name="selinux_switch_summary">SELinux est un un ensemble de modification apporter au kernel et à la mémoire de stockage utile. Changer ce mode nécessite un appareil enraciné et peut causer des effets indésirables. Le mode Permissif est recommandé. A utiliser à vos risques et périls</string>
+  <string name="selinux_title">Mode Selinux</string>
   <string name="selinux_permissive_title">Permissif</string>
   <string name="selinux_enforcing_title">Appliqué</string>
   <!-- Recents Membar -->
@@ -95,18 +95,18 @@
   <string name="qs_rows_portrait_title">Lignes (portrait)</string>
   <string name="qs_rows_landscape_title">Lignes (paysage)</string>
   <string name="qs_columns_title">Colonnes</string>
-  <string name="qs_easy_toggle_title">Commutateurs rapides</string>
+  <string name="qs_easy_toggle_title">Réglages rapides avancés simplifiés</string>
   <string name="qs_easy_toggle_summary">Activer le toucher simple pour activer/désactiver le Wi-Fi, les données mobiles et le Bluetooth. Rester appuyé sur l\'écran pour voir les réglages avancés</string>
   <!-- Media art -->
   <string name="media_art_title">Pochette de l\'album</string>
   <string name="media_art_summary">Afficher la pochette d\'album sur l\'écran de verrouillage</string>
   <!-- Quick unlock -->
-  <string name="quick_unlock_warning">Attention déverrouillage rapide</string>
+  <string name="quick_unlock_warning">Mise en garde du déverrouillage rapide</string>
   <string name="quick_unlock_warning_summary">Cette fonctionnalité permet de contourner les mécanismes de sécurité important et malmène certainement plusieurs support utilisateurs. Utiliser à vos risques et périls</string>
   <string name="unlock_quick_unlock_control_title">Déverrouillage rapide</string>
   <string name="unlock_quick_unlock_control_summary">Déverouille automatiquement l\'appareil lorsque le PIN/mot de passe correct est entré</string>
   <!-- Three-fingers-swipe to screenshot -->
-  <string name="three_finger_gesture">Glisser pour prendre une capture d\'écran</string>
+  <string name="three_finger_gesture">Glisser du doigt pour prendre une capture d\'écran</string>
   <string name="three_finger_gesture_summary">Faites glisser trois doigts pour prendre une capture d’écran</string>
   <!-- Long press back to kill configurable timeout -->
   <string name="kill_app_longpress_timeout_title">Délai du retour avec le bouton retour</string>
@@ -118,7 +118,7 @@
   <string name="summary_doze_enabled">Activé</string>
   <string name="summary_doze_disabled">Désactivé</string>
   <string name="doze_overwrite_value_title">Écraser les valeurs par défaut</string>
-  <string name="doze_overwrite_value_summary">Permettre de remplacer la valeur par défaut par la configuration de l\'utilisateur</string>
+  <string name="doze_overwrite_value_summary">Permettre le remplacement de la valeur par défaut par la configuration de l\'utilisateur</string>
   <string name="doze_pulse_title">Paramètres configurables de l’utilisateur</string>
   <string name="doze_pulse_duration_in_title">Délai d\'ouverture</string>
   <string name="doze_pulse_duration_visible_title">Durée visible</string>
@@ -150,7 +150,7 @@
   <string name="ambient_display_show_battery_summary">Afficher l\'icône de la batterie pendant la pulsation</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Activer le bouton \"tout effacer\"</string>
-  <string name="show_clear_all_recents_button_summary">Afficher le tout effacer lorsque vous utilisez le multitâche</string>
+  <string name="show_clear_all_recents_button_summary">Afficher le boutton tout effacer lorsque vous utilisez le multitâche</string>
   <string name="recents_clear_all_location_title">Position du bouton \"tout effacer\"</string>
   <string name="recents_clear_all_location_top_right">En haut à droite</string>
   <string name="recents_clear_all_location_top_left">En haut à gauche</string>
@@ -159,10 +159,10 @@
   <string name="recents_clear_all_location_bottom_left">En bas à gauche</string>
   <string name="recents_clear_all_location_bottom_center">En bas au centre</string>
   <!-- Dashboard options -->
-  <string name="dashboard_category">Options du clavier</string>
+  <string name="dashboard_category">Options du tableau de bord</string>
   <string name="dashboard_suggestions_title">Suggestions</string>
-  <string name="summary_dashboard_suggestions_enabled">Les suggestions du clavier sont activées</string>
-  <string name="summary_dashboard_suggestions_disabled">Les suggestions du clavier sont désactivées</string>
+  <string name="summary_dashboard_suggestions_enabled">Les suggestions du tableau de bord sont activées</string>
+  <string name="summary_dashboard_suggestions_disabled">Les suggestions du tableau de bord sont désactivées</string>
   <string name="remove_tile_summaries_title">Résummés</string>
   <string name="remove_tile_summaries_summary_enabled">Les résumés du clavier sont activés</string>
   <string name="remove_tile_summaries_summary_disabled">Les résumés du clavier sont désactivés</string>
