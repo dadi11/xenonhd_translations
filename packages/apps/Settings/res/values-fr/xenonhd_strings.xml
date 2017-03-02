@@ -96,6 +96,7 @@
   <string name="qs_rows_landscape_title">Lignes (paysage)</string>
   <string name="qs_columns_title">Colonnes</string>
   <string name="qs_easy_toggle_title">Commutateurs rapides</string>
+  <string name="qs_easy_toggle_summary">Activer le toucher simple pour activer/désactiver le Wi-Fi, les données mobiles et le Bluetooth. Rester appuyé sur l\'écran pour voir les réglages avancés</string>
   <!-- Media art -->
   <string name="media_art_title">Pochette de l\'album</string>
   <string name="media_art_summary">Afficher la pochette d\'album sur l\'écran de verrouillage</string>
@@ -129,7 +130,10 @@
   <string name="doze_trigger_notification_summary_on">Activer l\'écran lors de la réception de notifications</string>
   <string name="doze_trigger_notification_summary_off">Ne pas activer l\'écran lors de la réception de notifications</string>
   <string name="doze_brightness_level_title">Niveau de luminosité</string>
+  <string name="onehundred_ms">100 ms</string>
+  <string name="twofifty_ms">250 ms</string>
   <string name="fivehundred_ms_default">500 ms (Par défaut)</string>
+  <string name="sevenfifty_ms">750 ms</string>
   <string name="one_second">1 sec</string>
   <string name="onehalf_second">1,5 sec</string>
   <string name="two_second">2 sec</string>
@@ -155,6 +159,15 @@
   <string name="recents_clear_all_location_bottom_left">En bas à gauche</string>
   <string name="recents_clear_all_location_bottom_center">En bas au centre</string>
   <!-- Dashboard options -->
+  <string name="dashboard_category">Options du clavier</string>
+  <string name="dashboard_suggestions_title">Suggestions</string>
+  <string name="summary_dashboard_suggestions_enabled">Les suggestions du clavier sont activées</string>
+  <string name="summary_dashboard_suggestions_disabled">Les suggestions du clavier sont désactivées</string>
+  <string name="remove_tile_summaries_title">Résummés</string>
+  <string name="remove_tile_summaries_summary_enabled">Les résumés du clavier sont activés</string>
+  <string name="remove_tile_summaries_summary_disabled">Les résumés du clavier sont désactivés</string>
+  <string name="dashboard_conditions_title">Conditions</string>
+  <string name="summary_dashboard_conditions_enabled">Les conditions du clavier sont activés</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
   <!-- Emergency button -->
 </resources>
