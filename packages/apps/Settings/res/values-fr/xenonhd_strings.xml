@@ -175,13 +175,16 @@
   <string name="dashboard_columns_landscape_title">Colonnes (paysage)</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
   <string name="hide_lockscreen_clock_title">Widget de l\'heure</string>
-  <string name="hide_lockscreen_clock_summary">Masquer le widget de l\'heure</string>
   <string name="hide_lockscreen_date_title">Widget de la date</string>
-  <string name="hide_lockscreen_date_summary">Masquer la date sous le widget de l\'heure</string>
   <string name="hide_lockscreen_alarm_title">Texte d\'alarme</string>
-  <string name="hide_lockscreen_alarm_summary">Masquer le texte d\'alarme sous le widget de l\'heure</string>
   <!-- Emergency button -->
   <string name="emergency_button_title">Boutton d\'urgence</string>
   <string name="emergency_button_summary_on">Boutton d\'urgence affiché sur l\'écran de verrouillage</string>
   <string name="emergency_button_summary_off">Boutton d\'urgence masqué sur l\'écran de verrouillage</string>
+  <!-- Fingerprint authentication vibration -->
+  <!-- Fingerprint unlock keystore -->
+  <!-- Hide Statusbar on Lockscreen -->
+  <!-- Wakelock blocker -->
+  <string name="wakelock_blocker_save">Enregistrer</string>
+  <!-- Force authorize substratum packages -->
 </resources>
