@@ -174,7 +174,10 @@
   <string name="dashboard_columns_landscape_title">Oszlopok (fekvő)</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
   <string name="hide_lockscreen_clock_title">Óra modul</string>
+  <string name="hide_lockscreen_clock_summary_on">Óra modul megjelenítve a zárképernyőn</string>
+  <string name="hide_lockscreen_clock_summary_off">Óra modul rejtve a zárképernyőn</string>
   <string name="hide_lockscreen_date_title">Dátum modul</string>
+  <string name="hide_lockscreen_date_summary_on">Az óra modul alatti dátum megjelenítve</string>
   <string name="hide_lockscreen_alarm_title">Riasztási szöveg</string>
   <!-- Emergency button -->
   <string name="emergency_button_title">Segélyhívó gomb</string>
