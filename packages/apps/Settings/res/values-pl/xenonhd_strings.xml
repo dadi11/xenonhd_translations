@@ -174,18 +174,24 @@
   <string name="dashboard_columns_landscape_title">Kolumny (poziomo)</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
   <string name="hide_lockscreen_clock_title">Widżet zegara</string>
-  <string name="hide_lockscreen_clock_summary_on">Widżet zegara pokazywany na ekranie blokady</string>
+  <string name="hide_lockscreen_clock_summary_on">Widżet zegara widoczny na ekranie blokady</string>
   <string name="hide_lockscreen_clock_summary_off">Widżet zegara ukryty na ekranie blokady</string>
   <string name="hide_lockscreen_date_title">Widżet daty</string>
   <string name="hide_lockscreen_date_summary_on">Data pod widżetem zegara widoczna</string>
   <string name="hide_lockscreen_date_summary_off">Data pod widżetem zegara ukryta</string>
   <string name="hide_lockscreen_alarm_title">Budzik</string>
+  <string name="hide_lockscreen_alarm_summary_on">Budzik pod widżetem zegara pokazywany</string>
+  <string name="hide_lockscreen_alarm_summary_off">Budzik pod widżetem zegara ukryty</string>
   <!-- Emergency button -->
   <string name="emergency_button_title">Przycisk połączenia alarmowego</string>
   <string name="emergency_button_summary_on">Przycisk połączenia alarmowego widoczny na ekranie blokady</string>
   <string name="emergency_button_summary_off">Przycisk połączenia alarmowego ukryty na ekranie blokady</string>
   <!-- Fingerprint authentication vibration -->
+  <string name="fprint_sucess_vib_title">Wibracja uwierzytelniania odcisku palca</string>
+  <string name="fprint_sucess_vib_summary">Wibracje po udanym uwierzytelnianiu odcisku palca</string>
   <!-- Fingerprint unlock keystore -->
+  <string name="fp_unlock_keystore_title">Odblokowanie odciskiem palca po restarcie</string>
+  <string name="fp_unlock_keystore_summary">Zawsze zezwalaj na odblokowanie urządzenia za pomocą odcisku palca. Nawet po ponownym uruchomieniu</string>
   <!-- Hide Statusbar on Lockscreen -->
   <string name="lockscreen_hide_status_bar_title">Ukryj pasek stanu</string>
   <string name="lockscreen_hide_status_bar_summary">Kliknij pasek stanu, aby przełączyć widoczność</string>
