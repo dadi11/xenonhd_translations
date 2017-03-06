@@ -174,13 +174,16 @@
   <string name="dashboard_columns_landscape_title">Oszlopok (fekvő)</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
   <string name="hide_lockscreen_clock_title">Óra modul</string>
-  <string name="hide_lockscreen_clock_summary">Óra modul elrejtése</string>
   <string name="hide_lockscreen_date_title">Dátum modul</string>
-  <string name="hide_lockscreen_date_summary">Az óra modul alatti dátum elrejtése</string>
   <string name="hide_lockscreen_alarm_title">Riasztási szöveg</string>
-  <string name="hide_lockscreen_alarm_summary">Az óra modul alatti riasztási szöveg elrejtése</string>
   <!-- Emergency button -->
   <string name="emergency_button_title">Segélyhívó gomb</string>
   <string name="emergency_button_summary_on">Segélyhívó gomb megjelenítve a zárképernyőn</string>
   <string name="emergency_button_summary_off">Segélyhívó gomb elrejtve a zárképernyőn</string>
+  <!-- Fingerprint authentication vibration -->
+  <!-- Fingerprint unlock keystore -->
+  <!-- Hide Statusbar on Lockscreen -->
+  <!-- Wakelock blocker -->
+  <string name="wakelock_blocker_save">Mentés</string>
+  <!-- Force authorize substratum packages -->
 </resources>

@@ -97,4 +97,10 @@
   <!-- Dashboard options -->
   <!-- Hide Lockscreen clock, date, & alarm -->
   <!-- Emergency button -->
+  <!-- Fingerprint authentication vibration -->
+  <!-- Fingerprint unlock keystore -->
+  <!-- Hide Statusbar on Lockscreen -->
+  <!-- Wakelock blocker -->
+  <string name="wakelock_blocker_save">保存</string>
+  <!-- Force authorize substratum packages -->
 </resources>

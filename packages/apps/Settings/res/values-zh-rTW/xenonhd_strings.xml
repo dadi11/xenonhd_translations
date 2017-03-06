@@ -174,13 +174,16 @@
   <string name="dashboard_columns_landscape_title">行 (橫向)</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
   <string name="hide_lockscreen_clock_title">時鐘小工具</string>
-  <string name="hide_lockscreen_clock_summary">隱藏時鐘小工具</string>
   <string name="hide_lockscreen_date_title">日期小工具</string>
-  <string name="hide_lockscreen_date_summary">在時鐘小工具下方隱藏日期</string>
   <string name="hide_lockscreen_alarm_title">鬧鐘文字</string>
-  <string name="hide_lockscreen_alarm_summary">隱藏時鍾小工具下方的鬧鐘文字</string>
   <!-- Emergency button -->
   <string name="emergency_button_title">緊急按鈕</string>
   <string name="emergency_button_summary_on">在鎖定畫面上顯示的緊急按鈕</string>
   <string name="emergency_button_summary_off">在鎖定畫面上隱藏的緊急按鈕</string>
+  <!-- Fingerprint authentication vibration -->
+  <!-- Fingerprint unlock keystore -->
+  <!-- Hide Statusbar on Lockscreen -->
+  <!-- Wakelock blocker -->
+  <string name="wakelock_blocker_save">儲存</string>
+  <!-- Force authorize substratum packages -->
 </resources>
