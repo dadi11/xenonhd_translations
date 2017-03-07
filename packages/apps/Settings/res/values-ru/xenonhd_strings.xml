@@ -177,6 +177,8 @@
   <string name="hide_lockscreen_clock_summary_on">Показывать виджет часов на экране блокировки</string>
   <string name="hide_lockscreen_clock_summary_off">Скрыть виджет часов на экране блокировки</string>
   <string name="hide_lockscreen_date_title">Виджет даты</string>
+  <string name="hide_lockscreen_date_summary_on">Показывать дату под виджетом часов</string>
+  <string name="hide_lockscreen_date_summary_off">Скрыть дату под виджетом часов</string>
   <string name="hide_lockscreen_alarm_title">Будильник</string>
   <string name="hide_lockscreen_alarm_summary_on">Показывать будильник под виджетом часов</string>
   <string name="hide_lockscreen_alarm_summary_off">Скрыть будильник под виджетом часов</string>
@@ -202,4 +204,6 @@
   <string name="wakelock_blocker_warning_title">Используйте на свой страх и риск</string>
   <string name="wakelock_blocker_warning">Блокировка пробуждений может вызвать нестабильность, ошибки и потерю данных</string>
   <!-- Force authorize substratum packages -->
+  <string name="force_authorize_substratum_packages_title">Принудительно запрашивать разрешения для каждой темы</string>
+  <string name="force_authorize_substratum_packages_summary">Разрешить установку тем из неизвестных источников</string>
 </resources>
