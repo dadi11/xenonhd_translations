@@ -200,5 +200,6 @@
   <string name="wakelock_blocker_warning_title">Procedi con cautela</string>
   <string name="wakelock_blocker_warning">Bloccare i wakelock potrebbe causare instabilità, crash o perdita di dati</string>
   <!-- Force authorize substratum packages -->
+  <string name="force_authorize_substratum_packages_title">Forza l\'autorizzazione ad ogni applicazione del tema</string>
   <string name="force_authorize_substratum_packages_summary">Consenti l\'installazione di applicazioni da fonti sconosciute</string>
 </resources>
