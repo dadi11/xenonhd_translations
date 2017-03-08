@@ -178,7 +178,10 @@
   <string name="hide_lockscreen_clock_summary_on">Widget de l\'horloge affiché sur l\'écran de verrouillage</string>
   <string name="hide_lockscreen_clock_summary_off">Widget de l\'horloge non affiché sur l\'écran de verrouillage</string>
   <string name="hide_lockscreen_date_title">Widget de la date</string>
+  <string name="hide_lockscreen_date_summary_on">Date affiché en dessous du widget horloge</string>
+  <string name="hide_lockscreen_date_summary_off">Date en dessous du widget horloge est cachée </string>
   <string name="hide_lockscreen_alarm_title">Texte d\'alarme</string>
+  <string name="hide_lockscreen_alarm_summary_on">Alarme affichée en dessous du widget horloge</string>
   <!-- Emergency button -->
   <string name="emergency_button_title">Boutton d\'urgence</string>
   <string name="emergency_button_summary_on">Boutton d\'urgence affiché sur l\'écran de verrouillage</string>
