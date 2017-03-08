@@ -174,7 +174,11 @@
   <string name="dashboard_columns_landscape_title">Spalten (Querformat)</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
   <string name="hide_lockscreen_clock_title">Uhr-Widget</string>
+  <string name="hide_lockscreen_clock_summary_on">Uhr-Widget wird auf dem Sperrbildschirm angezeigt</string>
+  <string name="hide_lockscreen_clock_summary_off">Uhr-Widget wird im Sperrbildschirm ausgeblendet</string>
   <string name="hide_lockscreen_date_title">Datum-Widget</string>
+  <string name="hide_lockscreen_date_summary_on">Datum unterhalb des Uhr-Widget wird angezeigt</string>
+  <string name="hide_lockscreen_date_summary_off">Datum unter dem Uhr-Widget wird ausgeblendet </string>
   <string name="hide_lockscreen_alarm_title">Alarmtext</string>
   <!-- Emergency button -->
   <string name="emergency_button_title">Notruftaste</string>
