@@ -191,8 +191,15 @@
   <string name="fprint_sucess_vib_title">Vibration d\'authentification de l\'empreinte digitale</string>
   <string name="fprint_sucess_vib_summary">Vibrer lors de l\'authentification réussie de l\'empreinte digitale</string>
   <!-- Fingerprint unlock keystore -->
+  <string name="fp_unlock_keystore_summary">Permettre au dispositif de toujours déverrouiller avec l\'empreinte digitale, même après redémarrage</string>
   <!-- Hide Statusbar on Lockscreen -->
+  <string name="lockscreen_hide_status_bar_title">Masquer la barre d\'état</string>
+  <string name="lockscreen_hide_status_bar_summary">Toucher la barre d\'état pour basculer la visibilité</string>
   <!-- Wakelock blocker -->
+  <string name="wakelock_blocker_title">Empêcher les applications de maintenir l\'appareil actif</string>
+  <string name="wakelock_blocker_summary">Système de blocage du maintient actif de l\'appareil</string>
   <string name="wakelock_blocker_save">Enregistrer</string>
+  <string name="wakelock_list_header">Maintient de l\'appareil actif disponible</string>
+  <string name="wakelock_blocker_reload">Rafraîchir</string>
   <!-- Force authorize substratum packages -->
 </resources>
