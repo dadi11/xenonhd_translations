@@ -191,6 +191,7 @@
   <string name="fprint_sucess_vib_title">Vibration d\'authentification de l\'empreinte digitale</string>
   <string name="fprint_sucess_vib_summary">Vibrer lors de l\'authentification réussie de l\'empreinte digitale</string>
   <!-- Fingerprint unlock keystore -->
+  <string name="fp_unlock_keystore_title">Empreinte digitale déverrouillée après redémarrage</string>
   <string name="fp_unlock_keystore_summary">Permettre au dispositif de toujours déverrouiller avec l\'empreinte digitale, même après redémarrage</string>
   <!-- Hide Statusbar on Lockscreen -->
   <string name="lockscreen_hide_status_bar_title">Masquer la barre d\'état</string>
@@ -201,5 +202,9 @@
   <string name="wakelock_blocker_save">Enregistrer</string>
   <string name="wakelock_list_header">Maintient de l\'appareil actif disponible</string>
   <string name="wakelock_blocker_reload">Rafraîchir</string>
+  <string name="wakelock_blocker_warning_title">Procédez avec précaution</string>
+  <string name="wakelock_blocker_warning">Le blocage de Wakelocks peut potentiellement causer des instabilités, des bogues, des pertes de données</string>
   <!-- Force authorize substratum packages -->
+  <string name="force_authorize_substratum_packages_title">Forcer l’autorisation de chaque thème d\'application</string>
+  <string name="force_authorize_substratum_packages_summary">Autorise les applications de thème à partir de sources inconnues</string>
 </resources>
