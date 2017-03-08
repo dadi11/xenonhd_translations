@@ -207,4 +207,7 @@
   <string name="force_authorize_substratum_packages_title">Wymuś autoryzację każdego motywu</string>
   <string name="force_authorize_substratum_packages_summary">Zezwalaj na instalowanie motywów z nieznanych źródeł</string>
   <!-- QS tile labels visibility -->
+  <string name="qs_menu_item_titles">Tytuły szybkich ustawień</string>
+  <string name="qs_menu_item_titles_summaryOn">Etykiety są wyświetlane</string>
+  <string name="qs_menu_item_titles_summaryOff">Etykiety są ukryte</string>
 </resources>
