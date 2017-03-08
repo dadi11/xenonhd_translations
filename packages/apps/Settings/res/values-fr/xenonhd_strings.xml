@@ -179,7 +179,7 @@
   <string name="hide_lockscreen_clock_summary_off">Widget de l\'horloge non affiché sur l\'écran de verrouillage</string>
   <string name="hide_lockscreen_date_title">Widget de la date</string>
   <string name="hide_lockscreen_date_summary_on">Date affichée en dessous du widget horloge</string>
-  <string name="hide_lockscreen_date_summary_off">Date en dessous du widget horloge est cachée </string>
+  <string name="hide_lockscreen_date_summary_off">Date sous le widget horloge cachée </string>
   <string name="hide_lockscreen_alarm_title">Texte d\'alarme</string>
   <string name="hide_lockscreen_alarm_summary_on">Alarme affichée en dessous du widget horloge</string>
   <string name="hide_lockscreen_alarm_summary_off">Texte d\'alarme sous le widget horloge caché</string>
@@ -188,6 +188,7 @@
   <string name="emergency_button_summary_on">Boutton d\'urgence affiché sur l\'écran de verrouillage</string>
   <string name="emergency_button_summary_off">Boutton d\'urgence masqué sur l\'écran de verrouillage</string>
   <!-- Fingerprint authentication vibration -->
+  <string name="fprint_sucess_vib_title">Vibration d\'authentification de l\'empreinte digitale</string>
   <!-- Fingerprint unlock keystore -->
   <!-- Hide Statusbar on Lockscreen -->
   <!-- Wakelock blocker -->
