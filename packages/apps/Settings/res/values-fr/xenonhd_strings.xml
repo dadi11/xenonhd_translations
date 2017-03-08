@@ -189,6 +189,7 @@
   <string name="emergency_button_summary_off">Boutton d\'urgence masqué sur l\'écran de verrouillage</string>
   <!-- Fingerprint authentication vibration -->
   <string name="fprint_sucess_vib_title">Vibration d\'authentification de l\'empreinte digitale</string>
+  <string name="fprint_sucess_vib_summary">Vibrer lors de l\'authentification réussie de l\'empreinte digitale</string>
   <!-- Fingerprint unlock keystore -->
   <!-- Hide Statusbar on Lockscreen -->
   <!-- Wakelock blocker -->
