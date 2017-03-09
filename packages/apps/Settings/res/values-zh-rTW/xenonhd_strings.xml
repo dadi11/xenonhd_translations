@@ -207,4 +207,7 @@
   <string name="force_authorize_substratum_packages_title">強制授權每個主題應用程式</string>
   <string name="force_authorize_substratum_packages_summary">允許來源不明的主題應用程式</string>
   <!-- QS tile labels visibility -->
+  <string name="qs_menu_item_titles">快速設定圖塊標籤</string>
+  <string name="qs_menu_item_titles_summaryOn">顯示標籤</string>
+  <string name="qs_menu_item_titles_summaryOff">隱藏標籤</string>
 </resources>
