@@ -180,6 +180,8 @@
   <string name="hide_lockscreen_date_summary_on">Zobrazit datum pod widgetem hodin</string>
   <string name="hide_lockscreen_date_summary_off">Skrýt datum pod widgetem hodin </string>
   <string name="hide_lockscreen_alarm_title">Text budíku</string>
+  <string name="hide_lockscreen_alarm_summary_on">Zobrazit text budíku pod widgetem hodin</string>
+  <string name="hide_lockscreen_alarm_summary_off">Skrýt text budíku pod widgetem hodin</string>
   <!-- Emergency button -->
   <string name="emergency_button_title">Nouzové tlačítko</string>
   <string name="emergency_button_summary_on">Nouzové tlačítko zobrazeno na zamykací obrazovce</string>
@@ -199,5 +201,10 @@
   <string name="wakelock_blocker_warning_title">Postupujte s opatrností</string>
   <string name="wakelock_blocker_warning">Blokováním wakelocků můžete způsobit nestabilitu, pády nebo ztrátu dat</string>
   <!-- Force authorize substratum packages -->
+  <string name="force_authorize_substratum_packages_title">Vyžadovat povolení pro každý motiv</string>
+  <string name="force_authorize_substratum_packages_summary">Povolit instalaci motivů z neznámých zdrojů</string>
   <!-- QS tile labels visibility -->
+  <string name="qs_menu_item_titles">Popisky QS dlaždic</string>
+  <string name="qs_menu_item_titles_summaryOn">Popisky zobrazeny</string>
+  <string name="qs_menu_item_titles_summaryOff">Popisky skryty</string>
 </resources>
