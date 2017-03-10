@@ -207,4 +207,7 @@
   <string name="force_authorize_substratum_packages_title">Erzwinge Autorisierung jeder Themen App</string>
   <string name="force_authorize_substratum_packages_summary">Erlaube Theme Apps von unbekannten Quellen</string>
   <!-- QS tile labels visibility -->
+  <string name="qs_menu_item_titles">QS Tile Labels</string>
+  <string name="qs_menu_item_titles_summaryOn">Labels werden angezeigt</string>
+  <string name="qs_menu_item_titles_summaryOff">Labels verborgen</string>
 </resources>
