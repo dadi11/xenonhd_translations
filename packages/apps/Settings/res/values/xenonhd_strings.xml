@@ -109,6 +109,7 @@
     <string name="selinux_title">SELinux Mode</string>
     <string name="selinux_permissive_title">Permissive</string>
     <string name="selinux_enforcing_title">Enforcing</string>
+    <string name="selinux_permissive_toast_title">Selinux set to permissive!</string>
 
     <!-- Recents Membar -->
     <string name="recents_membar">Memory Bar</string>
@@ -254,5 +255,83 @@
     <string name="qs_menu_item_titles">QS tile labels</string>
     <string name="qs_menu_item_titles_summaryOn">Labels are shown</string>
     <string name="qs_menu_item_titles_summaryOff">Labels are hidden</string>
+
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Color Picker</string>
+    <string name="press_color_to_apply">Press on color below to apply</string>
+    <string name="arrow_right" translatable="false">→</string>
+    <string name="arrow_down" translatable="false">↓</string>
+    <string name="hex">Hex:</string>
+    <string name="hex_hint" translatable="false">#ff000000</string>
+    <string name="set">Set</string>
+    <string name="color_default">Default</string>
+
+    <!-- Carrier label -->
+    <string name="carrier_title">Carrier Label</string>
+    <string name="carrier_options_summary">Customize the carrier label</string>
+    <string name="custom_carrier_label_title">Custom carrier label</string>
+    <string name="custom_carrier_label_explain">Please enter a new label. Leave blank to revert to stock label.</string>
+    <string name="custom_carrier_label_notset">Custom label currently not set</string>
+    <string name="show_carrier_title">Carrier label</string>
+    <string name="show_carrier_disabled">Disabled</string>
+    <string name="show_carrier_keyguard">Lockscreen only</string>
+    <string name="show_carrier_statusbar">Statusbar only</string>
+    <string name="show_carrier_both">Lockscreen and statusbar</string>
+    <string name="show_carrier_enabled">Lockscreen and statusbar</string>
+    <string name="status_bar_carrier_color">Carrier label color</string>
+    <string name="status_bar_carrier_size">Carrier label text size</string>
+    <string name="status_bar_carrier_font_style_title">Carrier Label Font</string>
+    <string name="number_of_notifications_title">Number of notifications</string>
+    <string name="carrier_label_hide_label_title">Hide on notifications</string>
+    <string name="carrier_label_number_of_notification_icons_title">Max Number of icons before hiding</string>
+    <string name="status_bar_font_style_title">Font</string>
+    <string name="status_bar_font_normal">Normal</string>
+    <string name="status_bar_font_italic">Italic</string>
+    <string name="status_bar_font_bold">Bold</string>
+    <string name="status_bar_font_bold_italic">Bold Italic</string>
+    <string name="status_bar_font_light">Light</string>
+    <string name="status_bar_font_light_italic">Light Italic</string>
+    <string name="status_bar_font_thin">Thin</string>
+    <string name="status_bar_font_thin_italic">Thin Italic</string>
+    <string name="status_bar_font_condensed">Condensed</string>
+    <string name="status_bar_font_condensed_italic">Condensed Italic</string>
+    <string name="status_bar_font_condensed_light">Condensed Light</string>
+    <string name="status_bar_font_condensed_light_italic">Condensed Light Italic</string> 
+    <string name="status_bar_font_condensed_bold">Condensed Bold</string>
+    <string name="status_bar_font_condensed_bold_italic">Condensed Bold Italic</string>
+    <string name="status_bar_font_medium">Medium</string>
+    <string name="status_bar_font_medium_italic">Medium Italic</string>
+    <string name="status_bar_font_black">Black</string>
+    <string name="status_bar_font_black_italic">Black Italic</string> 
+    <string name="status_bar_font_dancingscript">DancingScript</string>
+    <string name="status_bar_font_dancingscript_bold">DancingScript Bold</string>
+    <string name="status_bar_font_comingsoon">ComingSoon</string>
+    <string name="status_bar_font_notoserif">NotoSerif Normal</string>
+    <string name="status_bar_font_notoserif_italic">NotoSerif Italic</string>
+    <string name="status_bar_font_notoserif_bold">NotoSerif Bold</string>
+    <string name="status_bar_font_notoserif_bold_italic">NotoSerif Bold Italic</string>
+
+   <!-- Lock Clock Fonts -->
+    <string name="lock_clock_font_title">Font options</string>
+    <string name="lock_clock_font_summary">Change the default font of the lockscreen clock widget</string>
+    <string name="lockdate_font_size_title">Date font size</string>
+    <string name="lockclock_font_size_title">Clock font size</string>
+    <string name="lock_date_font_summary">Customize date font</string>
+    <string name="lock_date_font_title">Date</string>
+    <string name="lock_clock_font_dialog_title">Select lock clock font</string>
+    <string name="lock_clock_font_stock">Normal (default)</string>
+    <string name="lock_clock_font_bold">Bold</string>
+    <string name="lock_clock_font_light">Light</string> 
+    <string name="lock_clock_font_italic">Italic</string>
+    <string name="lock_clock_font_bold_italic">Bold Italic</string>
+    <string name="lock_clock_font_light_italic">Light Italic</string>
+    <string name="lock_clock_font_thin_italic">Thin Italic</string>
+    <string name="lock_clock_font_thin">Thin</string>
+    <string name="lock_clock_font_condensed_normal">Condensed</string>
+    <string name="lock_clock_font_condensed_italic">Condensed Italic</string>
+    <string name="lock_clock_font_condensed_bold">Condensed Bold</string>
+    <string name="lock_clock_font_condensed_bold_italic">Condensed bold Italic</string>
+    <string name="lock_clock_font_medium_normal">Medium</string>
+    <string name="lock_clock_font_medium_italic">Medium Italic</string>
 
 </resources>
