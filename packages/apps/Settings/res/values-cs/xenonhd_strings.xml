@@ -85,6 +85,7 @@
   <string name="selinux_title">SELinux režim</string>
   <string name="selinux_permissive_title">Mírné</string>
   <string name="selinux_enforcing_title">Vynucené</string>
+  <string name="selinux_permissive_toast_title">Nastavit SELInux na mírné!</string>
   <!-- Recents Membar -->
   <string name="recents_membar">Ukazatel paměti</string>
   <string name="systemui_recents_mem_display_title">Zobrazit ukazatel paměti</string>
@@ -214,7 +215,21 @@
   <string name="set">Nastavit</string>
   <string name="color_default">Výchozí</string>
   <!-- Carrier label -->
+  <string name="carrier_title">Název mobilní sítě</string>
+  <string name="carrier_options_summary">Přizpůsobit název operátora</string>
+  <string name="custom_carrier_label_title">Vlastní název mobilní sítě</string>
+  <string name="custom_carrier_label_explain">Zadejte, prosím, nový název. Nechte prázdné pro navrácení k původnímu.</string>
+  <string name="custom_carrier_label_notset">V současné době není nastaven vlastní název operátora</string>
+  <string name="show_carrier_title">Název mobilní sítě</string>
   <string name="show_carrier_disabled">Vypnuto</string>
+  <string name="show_carrier_keyguard">Pouze na zamčené obrazovce</string>
+  <string name="show_carrier_statusbar">Pouze stavový řádek</string>
+  <string name="show_carrier_both">Zamykací obrazovka a stavová lišta</string>
+  <string name="show_carrier_enabled">Zamykací obrazovka a stavová lišta</string>
+  <string name="status_bar_carrier_color">Barva popisku operátora</string>
+  <string name="status_bar_carrier_size">Velikost textu popisku operátora</string>
+  <string name="status_bar_carrier_font_style_title">Styl popisku operátora</string>
+  <string name="number_of_notifications_title">Počet oznámení</string>
   <string name="status_bar_font_normal">Normální</string>
   <string name="status_bar_font_light">Světlé</string>
   <!-- Lock Clock Fonts -->
