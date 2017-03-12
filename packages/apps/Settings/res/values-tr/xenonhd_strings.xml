@@ -187,4 +187,17 @@
   <string name="wakelock_blocker_save">Kaydet</string>
   <!-- Force authorize substratum packages -->
   <!-- QS tile labels visibility -->
+  <!-- Color Picker -->
+  <string name="dialog_color_picker">Renk Seçici</string>
+  <string name="press_color_to_apply">Uygulamak İstediğiniz Yere Basın</string>
+  <string name="hex">Hex:</string>
+  <string name="set">Ayarla</string>
+  <string name="color_default">Varsayılan</string>
+  <!-- Carrier label -->
+  <string name="show_carrier_disabled">Devre Dışı</string>
+  <string name="status_bar_font_normal">Normal</string>
+  <string name="status_bar_font_light">Parlak</string>
+  <!-- Lock Clock Fonts -->
+  <string name="lock_date_font_title">Tarih</string>
+  <string name="lock_clock_font_light">Parlak</string>
 </resources>
