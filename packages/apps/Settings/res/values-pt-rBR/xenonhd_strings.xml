@@ -151,4 +151,15 @@
   <string name="wakelock_blocker_save">Salvar</string>
   <!-- Force authorize substratum packages -->
   <!-- QS tile labels visibility -->
+  <!-- Color Picker -->
+  <string name="dialog_color_picker">Selecionador de cores</string>
+  <string name="press_color_to_apply">Pressione a cor abaixo para aplicar</string>
+  <string name="set">Aplicar</string>
+  <string name="color_default">Padrão</string>
+  <!-- Carrier label -->
+  <string name="show_carrier_disabled">Desativado</string>
+  <string name="status_bar_font_light">Claro</string>
+  <!-- Lock Clock Fonts -->
+  <string name="lock_date_font_title">Data</string>
+  <string name="lock_clock_font_light">Claro</string>
 </resources>

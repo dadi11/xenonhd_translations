@@ -58,4 +58,13 @@
   <!-- Wakelock blocker -->
   <!-- Force authorize substratum packages -->
   <!-- QS tile labels visibility -->
+  <!-- Color Picker -->
+  <string name="dialog_color_picker">颜色选择</string>
+  <string name="press_color_to_apply">按选颜色以应用</string>
+  <string name="hex">十六进制：</string>
+  <string name="set">应用</string>
+  <string name="color_default">默认</string>
+  <!-- Carrier label -->
+  <string name="show_carrier_disabled">已禁用</string>
+  <!-- Lock Clock Fonts -->
 </resources>

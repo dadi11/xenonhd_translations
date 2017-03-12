@@ -187,4 +187,17 @@
   <string name="wakelock_blocker_save">Guardar</string>
   <!-- Force authorize substratum packages -->
   <!-- QS tile labels visibility -->
+  <!-- Color Picker -->
+  <string name="dialog_color_picker">Selección de color</string>
+  <string name="press_color_to_apply">Pulse color de debajo para aplicar</string>
+  <string name="hex">Hex:</string>
+  <string name="set">Establecer</string>
+  <string name="color_default">Por defecto</string>
+  <!-- Carrier label -->
+  <string name="show_carrier_disabled">Deshabilitado</string>
+  <string name="status_bar_font_normal">Normal</string>
+  <string name="status_bar_font_light">Claro</string>
+  <!-- Lock Clock Fonts -->
+  <string name="lock_date_font_title">Fecha</string>
+  <string name="lock_clock_font_light">Claro</string>
 </resources>

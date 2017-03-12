@@ -191,4 +191,17 @@
   <string name="wakelock_blocker_save">Salvesta</string>
   <!-- Force authorize substratum packages -->
   <!-- QS tile labels visibility -->
+  <!-- Color Picker -->
+  <string name="dialog_color_picker">Värvi valija</string>
+  <string name="press_color_to_apply">Värvi rakendamiseks vajutage värvi peale</string>
+  <string name="hex">Hex:</string>
+  <string name="set">Määra</string>
+  <string name="color_default">Vaikimisi</string>
+  <!-- Carrier label -->
+  <string name="show_carrier_disabled">Keelatud</string>
+  <string name="status_bar_font_normal">Tavaline</string>
+  <string name="status_bar_font_light">Valgus</string>
+  <!-- Lock Clock Fonts -->
+  <string name="lock_date_font_title">Kuupäev</string>
+  <string name="lock_clock_font_light">Valgus</string>
 </resources>
