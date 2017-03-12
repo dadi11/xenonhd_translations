@@ -206,4 +206,17 @@
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_summary">Az ismeretlen forrásból származó témák telepítésének engedélyezése</string>
   <!-- QS tile labels visibility -->
+  <!-- Color Picker -->
+  <string name="dialog_color_picker">Színválasztó</string>
+  <string name="press_color_to_apply">Érintse meg a színt az alkalmazáshoz</string>
+  <string name="hex">Hex:</string>
+  <string name="set">Beállít</string>
+  <string name="color_default">Alapértelmezett</string>
+  <!-- Carrier label -->
+  <string name="show_carrier_disabled">Letiltva</string>
+  <string name="status_bar_font_normal">Normál</string>
+  <string name="status_bar_font_light">Világos</string>
+  <!-- Lock Clock Fonts -->
+  <string name="lock_date_font_title">Dátum</string>
+  <string name="lock_clock_font_light">Világos</string>
 </resources>
