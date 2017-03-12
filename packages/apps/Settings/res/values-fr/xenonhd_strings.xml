@@ -208,4 +208,18 @@
   <string name="force_authorize_substratum_packages_title">Forcer l’autorisation de chaque thème d\'application</string>
   <string name="force_authorize_substratum_packages_summary">Autorise les applications de thème à partir de sources inconnues</string>
   <!-- QS tile labels visibility -->
+  <!-- Color Picker -->
+  <string name="dialog_color_picker">Sélectionneur de couleur</string>
+  <string name="press_color_to_apply">Appuyer sur la couleur ci-dessous pour l\'appliquer</string>
+  <string name="hex">Hex:
+</string>
+  <string name="set">Appliquer</string>
+  <string name="color_default">Défaut</string>
+  <!-- Carrier label -->
+  <string name="show_carrier_disabled">Désactivé</string>
+  <string name="status_bar_font_normal">Standard</string>
+  <string name="status_bar_font_light">Clair</string>
+  <!-- Lock Clock Fonts -->
+  <string name="lock_date_font_title">Date</string>
+  <string name="lock_clock_font_light">Clair</string>
 </resources>
