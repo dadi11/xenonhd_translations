@@ -210,4 +210,17 @@
   <string name="qs_menu_item_titles">Подписывать значки</string>
   <string name="qs_menu_item_titles_summaryOn">Подписи отображаются</string>
   <string name="qs_menu_item_titles_summaryOff">Подписи спрятаны</string>
+  <!-- Color Picker -->
+  <string name="dialog_color_picker">Выбор цвета</string>
+  <string name="press_color_to_apply">Нажмите на цвет снизу, чтобы применить</string>
+  <string name="hex">Hex код:</string>
+  <string name="set">Применить</string>
+  <string name="color_default">По умолчанию</string>
+  <!-- Carrier label -->
+  <string name="show_carrier_disabled">Отключено</string>
+  <string name="status_bar_font_normal">Нормальный</string>
+  <string name="status_bar_font_light">Светлая</string>
+  <!-- Lock Clock Fonts -->
+  <string name="lock_date_font_title">Дата</string>
+  <string name="lock_clock_font_light">Светлая</string>
 </resources>
