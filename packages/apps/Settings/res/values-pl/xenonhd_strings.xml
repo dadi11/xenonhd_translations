@@ -243,7 +243,7 @@
   <string name="status_bar_font_light">Jasny</string>
   <string name="status_bar_font_light_italic">Cienka kursywa</string>
   <string name="status_bar_font_thin">Cienka</string>
-  <string name="status_bar_font_thin_italic">Cieńka kursywa</string>
+  <string name="status_bar_font_thin_italic">Cienka kursywa</string>
   <string name="status_bar_font_condensed">Zagęszczona</string>
   <string name="status_bar_font_condensed_italic">Zagęszczona kursywa</string>
   <string name="status_bar_font_condensed_light">Zagęszczona cienka</string>
@@ -275,7 +275,7 @@
   <string name="lock_clock_font_italic">Kursywa</string>
   <string name="lock_clock_font_bold_italic">Pogrubiona kursywa</string>
   <string name="lock_clock_font_light_italic">Cienka kursywa</string>
-  <string name="lock_clock_font_thin_italic">Cieńka kursywa</string>
+  <string name="lock_clock_font_thin_italic">Cienka kursywa</string>
   <string name="lock_clock_font_thin">Cienka</string>
   <string name="lock_clock_font_condensed_normal">Zagęszczony</string>
   <string name="lock_clock_font_condensed_italic">Zagęszczona kursywa</string>
