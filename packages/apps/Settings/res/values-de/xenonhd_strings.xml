@@ -210,4 +210,17 @@
   <string name="qs_menu_item_titles">QS Tile Labels</string>
   <string name="qs_menu_item_titles_summaryOn">Labels werden angezeigt</string>
   <string name="qs_menu_item_titles_summaryOff">Labels verborgen</string>
+  <!-- Color Picker -->
+  <string name="dialog_color_picker">Farbauswahl</string>
+  <string name="press_color_to_apply">Berühren Sie eine der unten angezeigten Farben, um diese anzuwenden</string>
+  <string name="hex">Hex:</string>
+  <string name="set">Übernehmen</string>
+  <string name="color_default">Standard</string>
+  <!-- Carrier label -->
+  <string name="show_carrier_disabled">Deaktiviert</string>
+  <string name="status_bar_font_normal">Normal</string>
+  <string name="status_bar_font_light">Hell</string>
+  <!-- Lock Clock Fonts -->
+  <string name="lock_date_font_title">Datum</string>
+  <string name="lock_clock_font_light">Hell</string>
 </resources>
