@@ -58,4 +58,9 @@
   <!-- Wakelock blocker -->
   <!-- Force authorize substratum packages -->
   <!-- QS tile labels visibility -->
+  <!-- Color Picker -->
+  <!-- Carrier label -->
+  <string name="show_carrier_disabled">غير مفعل</string>
+  <string name="status_bar_font_normal">عادي</string>
+  <!-- Lock Clock Fonts -->
 </resources>
