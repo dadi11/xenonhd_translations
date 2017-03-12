@@ -207,4 +207,17 @@
   <string name="qs_menu_item_titles">Popisky QS dlaždic</string>
   <string name="qs_menu_item_titles_summaryOn">Popisky zobrazeny</string>
   <string name="qs_menu_item_titles_summaryOff">Popisky skryty</string>
+  <!-- Color Picker -->
+  <string name="dialog_color_picker">Výběr barvy</string>
+  <string name="press_color_to_apply">Klikněte na barvu pro její výběr</string>
+  <string name="hex">Hex:</string>
+  <string name="set">Nastavit</string>
+  <string name="color_default">Výchozí</string>
+  <!-- Carrier label -->
+  <string name="show_carrier_disabled">Vypnuto</string>
+  <string name="status_bar_font_normal">Normální</string>
+  <string name="status_bar_font_light">Světlé</string>
+  <!-- Lock Clock Fonts -->
+  <string name="lock_date_font_title">Datum</string>
+  <string name="lock_clock_font_light">Světlé</string>
 </resources>
