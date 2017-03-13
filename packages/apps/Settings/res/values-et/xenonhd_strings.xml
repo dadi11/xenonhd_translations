@@ -204,4 +204,5 @@
   <!-- Lock Clock Fonts -->
   <string name="lock_date_font_title">Kuupäev</string>
   <string name="lock_clock_font_light">Valgus</string>
+  <!-- Screen state service -->
 </resources>
