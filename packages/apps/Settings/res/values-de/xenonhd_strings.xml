@@ -85,6 +85,7 @@
   <string name="selinux_title">SELinux-Modus</string>
   <string name="selinux_permissive_title">Moderat</string>
   <string name="selinux_enforcing_title">Strikt</string>
+  <string name="selinux_permissive_toast_title">SELinux auf Permissive gesetzt!</string>
   <!-- Recents Membar -->
   <string name="recents_membar">RAM-Leiste</string>
   <string name="systemui_recents_mem_display_title">Arbeitsspeicher anzeigen</string>
@@ -217,7 +218,18 @@
   <string name="set">Übernehmen</string>
   <string name="color_default">Standard</string>
   <!-- Carrier label -->
+  <string name="carrier_title">Provider-Bezeichnung</string>
+  <string name="carrier_options_summary">Ändere die Provider-Bezeichnung</string>
+  <string name="custom_carrier_label_title">Benutzerdefinierte Provider-Bezeichnung</string>
+  <string name="custom_carrier_label_explain">Eigenen Text eingeben. Leer lassen für Standard.</string>
+  <string name="custom_carrier_label_notset">Keine benutzerdefinierte Bezeichnung festgelegt</string>
+  <string name="show_carrier_title">Provider-Bezeichnung</string>
   <string name="show_carrier_disabled">Deaktiviert</string>
+  <string name="show_carrier_keyguard">Nur Sperrbildschirm</string>
+  <string name="show_carrier_statusbar">Nur Statusleiste</string>
+  <string name="show_carrier_both">Sperrbildschirm und Statusleiste</string>
+  <string name="show_carrier_enabled">Sperrbildschirm und Statusleiste</string>
+  <string name="status_bar_carrier_color">Farbe der Provider Anzeige</string>
   <string name="status_bar_font_normal">Normal</string>
   <string name="status_bar_font_light">Hell</string>
   <!-- Lock Clock Fonts -->
