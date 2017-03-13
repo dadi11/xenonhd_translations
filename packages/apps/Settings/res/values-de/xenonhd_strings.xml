@@ -230,9 +230,27 @@
   <string name="show_carrier_both">Sperrbildschirm und Statusleiste</string>
   <string name="show_carrier_enabled">Sperrbildschirm und Statusleiste</string>
   <string name="status_bar_carrier_color">Farbe der Provider Anzeige</string>
+  <string name="status_bar_carrier_size">Schriftgröße der Provider Anzeige</string>
+  <string name="status_bar_carrier_font_style_title">Provider Schriftart</string>
+  <string name="number_of_notifications_title">Anzahl der Benachrichtigungen</string>
+  <string name="carrier_label_hide_label_title">Benachrichtigung verstecken</string>
+  <string name="carrier_label_number_of_notification_icons_title">Maximale Anzahl an Symbolen bevor sie versteckt werden</string>
+  <string name="status_bar_font_style_title">Schriftart</string>
   <string name="status_bar_font_normal">Normal</string>
+  <string name="status_bar_font_italic">Kursiv</string>
+  <string name="status_bar_font_bold">Fett gedruckt</string>
+  <string name="status_bar_font_bold_italic">Fett + Kursiv</string>
   <string name="status_bar_font_light">Hell</string>
+  <string name="status_bar_font_light_italic">Leicht kursiv</string>
+  <string name="status_bar_font_thin">Dünn</string>
+  <string name="status_bar_font_thin_italic">Dünn + kursiv</string>
   <!-- Lock Clock Fonts -->
   <string name="lock_date_font_title">Datum</string>
+  <string name="lock_clock_font_bold">Fett gedruckt</string>
   <string name="lock_clock_font_light">Hell</string>
+  <string name="lock_clock_font_italic">Kursiv</string>
+  <string name="lock_clock_font_bold_italic">Fett + Kursiv</string>
+  <string name="lock_clock_font_light_italic">Leicht kursiv</string>
+  <string name="lock_clock_font_thin_italic">Dünn + kursiv</string>
+  <string name="lock_clock_font_thin">Dünn</string>
 </resources>
