@@ -218,9 +218,14 @@
   <string name="color_default">По умолчанию</string>
   <!-- Carrier label -->
   <string name="show_carrier_disabled">Отключено</string>
+  <string name="show_carrier_enabled">На экране блокировки и в строке состояния</string>
+  <string name="status_bar_carrier_size">Размер шрифта имени оператора</string>
+  <string name="carrier_label_number_of_notification_icons_title">Максимальное количество значков перед скрытием</string>
   <string name="status_bar_font_normal">Нормальный</string>
   <string name="status_bar_font_light">Светлая</string>
+  <string name="status_bar_font_light_italic">Легкий курсив</string>
   <!-- Lock Clock Fonts -->
   <string name="lock_date_font_title">Дата</string>
   <string name="lock_clock_font_light">Светлая</string>
+  <string name="lock_clock_font_light_italic">Легкий курсив</string>
 </resources>
