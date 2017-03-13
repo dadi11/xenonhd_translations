@@ -283,4 +283,5 @@
   <string name="lock_clock_font_condensed_bold_italic">壓縮粗斜體</string>
   <string name="lock_clock_font_medium_normal">中等</string>
   <string name="lock_clock_font_medium_italic">中斜體</string>
+  <!-- Screen state service -->
 </resources>
