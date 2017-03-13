@@ -59,4 +59,5 @@
   <!-- Carrier label -->
   <string name="status_bar_font_normal">Normal</string>
   <!-- Lock Clock Fonts -->
+  <!-- Screen state service -->
 </resources>
