@@ -220,7 +220,22 @@
   <string name="show_carrier_disabled">已停用</string>
   <string name="status_bar_font_normal">一般</string>
   <string name="status_bar_font_light">淺色</string>
+  <string name="status_bar_font_medium">中等</string>
+  <string name="status_bar_font_medium_italic">中斜體</string>
+  <string name="status_bar_font_black">黑體</string>
   <!-- Lock Clock Fonts -->
   <string name="lock_date_font_title">日期</string>
+  <string name="lock_clock_font_bold">粗體</string>
   <string name="lock_clock_font_light">淺色</string>
+  <string name="lock_clock_font_italic">斜體</string>
+  <string name="lock_clock_font_bold_italic">粗斜體</string>
+  <string name="lock_clock_font_light_italic">細斜體</string>
+  <string name="lock_clock_font_thin_italic">幼斜體</string>
+  <string name="lock_clock_font_thin">幼體</string>
+  <string name="lock_clock_font_condensed_normal">壓縮體</string>
+  <string name="lock_clock_font_condensed_italic">壓縮斜體</string>
+  <string name="lock_clock_font_condensed_bold">壓縮粗體</string>
+  <string name="lock_clock_font_condensed_bold_italic">壓縮粗斜體</string>
+  <string name="lock_clock_font_medium_normal">中等</string>
+  <string name="lock_clock_font_medium_italic">中斜體</string>
 </resources>
