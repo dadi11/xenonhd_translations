@@ -219,4 +219,5 @@
   <!-- Lock Clock Fonts -->
   <string name="lock_date_font_title">Dátum</string>
   <string name="lock_clock_font_light">Világos</string>
+  <!-- Screen state service -->
 </resources>
