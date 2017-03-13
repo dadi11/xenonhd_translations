@@ -200,4 +200,5 @@
   <!-- Lock Clock Fonts -->
   <string name="lock_date_font_title">Fecha</string>
   <string name="lock_clock_font_light">Claro</string>
+  <!-- Screen state service -->
 </resources>
