@@ -292,4 +292,5 @@
   <string name="screen_state_toggles_mobile_data">Отключить передачу данных</string>
   <string name="screen_state_toggles_mobile_data_summary">Выключить передачу данных после отключения экрана</string>
   <string name="screen_state_off_delay_title">Задержка отключения экрана</string>
+  <string name="screen_state_on_delay_title">Задержка при включении экрана</string>
 </resources>
