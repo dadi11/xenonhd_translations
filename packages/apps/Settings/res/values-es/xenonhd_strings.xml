@@ -84,6 +84,7 @@
   <string name="selinux_title">Modo SELinux</string>
   <string name="selinux_permissive_title">Permisivo</string>
   <string name="selinux_enforcing_title">Obligatorio</string>
+  <string name="selinux_permissive_toast_title">SeLinux permisivo!</string>
   <!-- Recents Membar -->
   <string name="recents_membar">Barra de memoria</string>
   <string name="systemui_recents_mem_display_title">Mostrar barra de memoria RAM</string>
@@ -173,6 +174,8 @@
   <string name="dashboard_columns_landscape_title">Columnas (apaisado)</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
   <string name="hide_lockscreen_clock_title">Widget del reloj</string>
+  <string name="hide_lockscreen_clock_summary_on">Widget de reloj en la pantalla de bloqueo</string>
+  <string name="hide_lockscreen_clock_summary_off">Widget de reloj escondido en la pantalla de bloqueo</string>
   <string name="hide_lockscreen_date_title">Widget de la fecha</string>
   <string name="hide_lockscreen_alarm_title">Texto de alarma</string>
   <!-- Emergency button -->
