@@ -183,10 +183,18 @@
   <string name="emergency_button_summary_on">Botón de emergencia en la pantalla de bloqueo</string>
   <string name="emergency_button_summary_off">Botón de emergencia oculto en la pantalla de bloqueo</string>
   <!-- Fingerprint authentication vibration -->
+  <string name="fprint_sucess_vib_title">Vibración de autenticación de huella digital</string>
+  <string name="fprint_sucess_vib_summary">Vibrar cuando la autenticación con la huella es correcta</string>
   <!-- Fingerprint unlock keystore -->
   <!-- Hide Statusbar on Lockscreen -->
+  <string name="lockscreen_hide_status_bar_title">Ocultar barra de estado</string>
   <!-- Wakelock blocker -->
+  <string name="wakelock_blocker_title">Bloqueador de wakelock</string>
+  <string name="wakelock_blocker_summary">Bloquear wakelocks del sistema</string>
   <string name="wakelock_blocker_save">Guardar</string>
+  <string name="wakelock_list_header">Wakelocks disponibles</string>
+  <string name="wakelock_blocker_reload">Recargar</string>
+  <string name="wakelock_blocker_warning_title">Proceder con precaución</string>
   <!-- Force authorize substratum packages -->
   <!-- QS tile labels visibility -->
   <!-- Color Picker -->
@@ -196,11 +204,48 @@
   <string name="set">Establecer</string>
   <string name="color_default">Por defecto</string>
   <!-- Carrier label -->
+  <string name="carrier_title">Nombre del operador</string>
+  <string name="carrier_options_summary">Personalizar la etiqueta del operador</string>
+  <string name="custom_carrier_label_title">Nombre personalizado del operador</string>
+  <string name="custom_carrier_label_explain">Introduce un nuevo nombre. Deje en blanco para volver al nombre por defecto.</string>
+  <string name="custom_carrier_label_notset">Nombre personalizado actualmente no establecido</string>
+  <string name="show_carrier_title">Etiqueta de Operador</string>
   <string name="show_carrier_disabled">Deshabilitado</string>
+  <string name="show_carrier_keyguard">Sólo en la pantalla de bloqueo</string>
+  <string name="show_carrier_statusbar">Sólo en la barra de estado</string>
+  <string name="show_carrier_both">Pantalla de bloqueo y barra de estado</string>
+  <string name="show_carrier_enabled">Pantalla de bloqueo y barra de estado</string>
+  <string name="status_bar_carrier_color">Color para el nombre del operador</string>
+  <string name="status_bar_carrier_size">Tamaño de texto de la etiqueta del operador</string>
+  <string name="status_bar_carrier_font_style_title">Tipo de letra de la etiqueta del operador</string>
+  <string name="number_of_notifications_title">Número de notificaciones</string>
+  <string name="carrier_label_hide_label_title">Ocultar en las notificaciones</string>
+  <string name="carrier_label_number_of_notification_icons_title">Número máximo de iconos antes de ocultar</string>
+  <string name="status_bar_font_style_title">Tipo de letra</string>
   <string name="status_bar_font_normal">Normal</string>
+  <string name="status_bar_font_italic">Italic</string>
+  <string name="status_bar_font_bold">Negrita</string>
+  <string name="status_bar_font_bold_italic">Negrita Cursiva</string>
   <string name="status_bar_font_light">Claro</string>
+  <string name="status_bar_font_light_italic">Fina cursiva</string>
+  <string name="status_bar_font_thin">Delgada</string>
+  <string name="status_bar_font_thin_italic">Delgada Cursiva</string>
+  <string name="status_bar_font_condensed">Condensed</string>
+  <string name="status_bar_font_condensed_italic">Condensed Cursiva</string>
+  <string name="status_bar_font_condensed_light">Condensed fina</string>
   <!-- Lock Clock Fonts -->
   <string name="lock_date_font_title">Fecha</string>
+  <string name="lock_clock_font_bold">Negrita</string>
   <string name="lock_clock_font_light">Claro</string>
+  <string name="lock_clock_font_italic">Italic</string>
+  <string name="lock_clock_font_bold_italic">Negrita Cursiva</string>
+  <string name="lock_clock_font_light_italic">Fina cursiva</string>
+  <string name="lock_clock_font_thin_italic">Delgada Cursiva</string>
+  <string name="lock_clock_font_thin">Delgada</string>
+  <string name="lock_clock_font_condensed_normal">Condensed</string>
+  <string name="lock_clock_font_condensed_italic">Condensed Cursiva</string>
   <!-- Screen state service -->
+  <string name="screen_state_toggles_mobile_data">Desactivar los datos móviles</string>
+  <string name="screen_state_toggles_mobile_data_summary">Datos móviles se deshabilatarán al apagar la pantalla</string>
+  <string name="screen_state_off_delay_summary">Número de segundos a esperar antes de realizar acciones después de apagar la pantalla</string>
 </resources>
