@@ -84,6 +84,7 @@
   <string name="selinux_title">SELinux mód</string>
   <string name="selinux_permissive_title">Engedélyező</string>
   <string name="selinux_enforcing_title">Kényszerítés</string>
+  <string name="selinux_permissive_toast_title">Selinux engedélyezettre állítva!</string>
   <!-- Recents Membar -->
   <string name="recents_membar">Memóriasáv</string>
   <string name="systemui_recents_mem_display_title">Memóriasáv megjelenítése</string>
@@ -203,8 +204,12 @@
   <string name="wakelock_blocker_warning_title">Járjon el körültekintően</string>
   <string name="wakelock_blocker_warning">A wakelock-ok blokkolása instabilitáshoz, összeomláshoz vagy adatvesztéshez vezethet</string>
   <!-- Force authorize substratum packages -->
+  <string name="force_authorize_substratum_packages_title">Minden téma alkalmazás engedélyezésének kényszerítése</string>
   <string name="force_authorize_substratum_packages_summary">Az ismeretlen forrásból származó témák telepítésének engedélyezése</string>
   <!-- QS tile labels visibility -->
+  <string name="qs_menu_item_titles">Gyorsbeállítás csempék címkéi</string>
+  <string name="qs_menu_item_titles_summaryOn">Címkék megjelenítve</string>
+  <string name="qs_menu_item_titles_summaryOff">Címkék elrejtve</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">Színválasztó</string>
   <string name="press_color_to_apply">Érintse meg a színt az alkalmazáshoz</string>
@@ -212,6 +217,12 @@
   <string name="set">Beállít</string>
   <string name="color_default">Alapértelmezett</string>
   <!-- Carrier label -->
+  <string name="carrier_title">Szolgáltatói címke</string>
+  <string name="carrier_options_summary">Adjon meg egyéni szolgáltatónevet</string>
+  <string name="custom_carrier_label_title">Egyéni szolgáltatónév</string>
+  <string name="custom_carrier_label_explain">Adjon meg egy új címkét. Hagyja üresen az eredeti visszaállításához.</string>
+  <string name="custom_carrier_label_notset">Egyéni szolgáltatóinév nincs beállítva</string>
+  <string name="show_carrier_title">Szolgáltatói címke</string>
   <string name="show_carrier_disabled">Letiltva</string>
   <string name="status_bar_font_normal">Normál</string>
   <string name="status_bar_font_light">Világos</string>
