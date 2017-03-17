@@ -197,6 +197,8 @@
   <string name="wakelock_blocker_warning_title">Proceder con precaución</string>
   <!-- Force authorize substratum packages -->
   <!-- QS tile labels visibility -->
+  <string name="qs_menu_item_titles_summaryOn">Las etiquetas se muestran</string>
+  <string name="qs_menu_item_titles_summaryOff">Las etiquetas se ocultan</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">Selección de color</string>
   <string name="press_color_to_apply">Pulse color de debajo para aplicar</string>
@@ -233,8 +235,17 @@
   <string name="status_bar_font_condensed">Condensed</string>
   <string name="status_bar_font_condensed_italic">Condensed Cursiva</string>
   <string name="status_bar_font_condensed_light">Condensed fina</string>
+  <string name="status_bar_font_condensed_light_italic">Condensed Fina Cursiva</string>
+  <string name="status_bar_font_condensed_bold">Condensed negrita</string>
   <!-- Lock Clock Fonts -->
+  <string name="lock_clock_font_title">Opciones de fuente</string>
+  <string name="lock_clock_font_summary">Cambiar la fuente predeterminada del widget de reloj de la pantalla de bloqueo</string>
+  <string name="lockdate_font_size_title">Tamaño de la fuente de la fecha</string>
+  <string name="lockclock_font_size_title">Tamaño de la fuente del reloj</string>
+  <string name="lock_date_font_summary">Personalizar fuente fecha</string>
   <string name="lock_date_font_title">Fecha</string>
+  <string name="lock_clock_font_dialog_title">Seleccione el tipo de letra del reloj de la pantalla de bloqueo</string>
+  <string name="lock_clock_font_stock">Normal (por defecto)</string>
   <string name="lock_clock_font_bold">Negrita</string>
   <string name="lock_clock_font_light">Claro</string>
   <string name="lock_clock_font_italic">Italic</string>
@@ -244,7 +255,17 @@
   <string name="lock_clock_font_thin">Delgada</string>
   <string name="lock_clock_font_condensed_normal">Condensed</string>
   <string name="lock_clock_font_condensed_italic">Condensed Cursiva</string>
+  <string name="lock_clock_font_condensed_bold">Condensed negrita</string>
   <!-- Screen state service -->
+  <string name="screen_state_toggles_title">Suspender acciones</string>
+  <string name="screen_state_toggles_enable_title">Habilitar</string>
+  <string name="screen_state_toggles_enable_summary">Las acciones se ejecutarán al apagar la pantalla. Al encenderla, el estado anterior se restaurará.</string>
+  <string name="screen_state_toggles_mobile_title">Redes móviles</string>
+  <string name="screen_state_toggles_location_title">Ubicación</string>
+  <string name="screen_state_toggles_twog">Cambiar a 2G</string>
+  <string name="screen_state_toggles_twog_summary">Modo de red se cambiará a 2G al apagar la pantalla</string>
+  <string name="screen_state_toggles_gps">Desactivar GPS</string>
+  <string name="screen_state_toggles_gps_summary">Servicio de localización basado en GPS se desactivará al apagar la pantalla</string>
   <string name="screen_state_toggles_mobile_data">Desactivar los datos móviles</string>
   <string name="screen_state_toggles_mobile_data_summary">Datos móviles se deshabilatarán al apagar la pantalla</string>
   <string name="screen_state_off_delay_summary">Número de segundos a esperar antes de realizar acciones después de apagar la pantalla</string>
