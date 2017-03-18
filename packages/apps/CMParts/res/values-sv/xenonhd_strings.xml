@@ -17,6 +17,8 @@
   <string name="battery_bar_title">Batterifält</string>
   <string name="battery_bar">Batterifältsikoner</string>
   <string name="battery_bar_no_navbar">Batterifältsläge</string>
+  <string name="battery_bar_color">Batterifältsfärg</string>
+  <string name="battery_bar_charging_color">Batterifältets laddningsfärg</string>
   <string name="battery_bar_animate_title">Laddningsanimation</string>
   <string name="battery_bar_style_regular">Vanlig</string>
   <string name="battery_bar_style_reversed">Omvänd</string>
