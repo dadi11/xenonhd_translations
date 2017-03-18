@@ -18,6 +18,7 @@
   <string name="statusbar_icons_blacklist">Statusfältsikoner</string>
   <!-- Quick Settings tiles -->
   <string name="quick_settings_expanded_desktop_label">Utökat skrivbord</string>
+  <string name="quick_settings_expanded_desktop">Utökad</string>
   <string name="quick_settings_expanded_desktop_off">Normal</string>
   <string name="quick_settings_screenshot_label">Skärmdump</string>
   <string name="quick_settings_adb_network">ADB-nätverk</string>
