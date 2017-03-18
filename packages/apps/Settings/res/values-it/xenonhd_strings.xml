@@ -288,7 +288,7 @@
   <string name="screen_state_toggles_enable_summary">Le azioni saranno eseguite a schermo spento. A schermo acceso verrà ripristinato allo stato precedente.</string>
   <string name="screen_state_toggles_mobile_title">Rete mobile</string>
   <string name="screen_state_toggles_location_title">Posizione</string>
-  <string name="screen_state_toggles_twog">Passare a 2G</string>
+  <string name="screen_state_toggles_twog">Passa a 2G</string>
   <string name="screen_state_toggles_twog_summary">La modalità di rete 2G si spegne a schermo spento</string>
   <string name="screen_state_toggles_gps">Disabilita GPS</string>
   <string name="screen_state_toggles_gps_summary">I servizi dipendenti dalla posizione saranno disattivati a schermo spento</string>
