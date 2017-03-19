@@ -13,9 +13,12 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Screenshot Delete Toast -->
-  <string name="delete_screenshot_toast">Skärmdump borttaget</string>
+  <string name="delete_screenshot_toast">Skärmdump borttagen</string>
   <!-- Status bar items tuner -->
+  <string name="statusbar_icons_blacklist">Statusfältsikoner</string>
   <!-- Quick Settings tiles -->
+  <string name="quick_settings_expanded_desktop_label">Utökat skrivbord</string>
+  <string name="quick_settings_expanded_desktop">Utökad</string>
   <string name="quick_settings_expanded_desktop_off">Normal</string>
   <string name="quick_settings_screenshot_label">Skärmdump</string>
   <string name="quick_settings_adb_network">ADB-nätverk</string>
