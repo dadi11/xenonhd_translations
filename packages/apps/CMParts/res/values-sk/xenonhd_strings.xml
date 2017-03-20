@@ -16,10 +16,15 @@
   <!-- Battery Bar -->
   <!-- Battery icon -->
   <!-- Brightness slider -->
+  <string name="qs_brightness_slider_enabled">Zapnuté</string>
+  <string name="qs_brightness_slider_disabled">Vypnuté</string>
   <!-- Color Picker -->
   <!-- Network traffic -->
+  <string name="show_network_traffic_disable">Vypnuté</string>
   <!-- Superuser indicator on status bar -->
   <!--Status bar date -->
+  <string name="status_bar_date_normal">Normálna</string>
+  <string name="status_bar_date_style_normal">Normálna</string>
   <!-- Navbar Animation -->
   <!-- Torch -->
   <!-- One-handed mode -->
