@@ -65,8 +65,10 @@
   <string name="status_bar_date_title">Data</string>
   <string name="status_bar_date_none">Oculto (padrão)</string>
   <string name="status_bar_date_small">Pequeno</string>
+  <string name="status_bar_date_normal">Normal</string>
   <string name="status_bar_date_format_title">Formato da data</string>
   <string name="status_bar_date_style">Estilo da data</string>
+  <string name="status_bar_date_style_normal">Normal</string>
   <string name="status_bar_date_style_lowercase">Minúsculas</string>
   <string name="status_bar_date_style_uppercase">Maiúsculas</string>
   <string name="status_bar_date_format_custom">Formato java personalizado</string>
