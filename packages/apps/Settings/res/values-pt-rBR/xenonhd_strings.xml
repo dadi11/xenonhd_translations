@@ -157,6 +157,7 @@
   <string name="color_default">Padrão</string>
   <!-- Carrier label -->
   <string name="show_carrier_disabled">Desativado</string>
+  <string name="status_bar_font_normal">Normal</string>
   <string name="status_bar_font_light">Claro</string>
   <!-- Lock Clock Fonts -->
   <string name="lock_date_font_title">Data</string>
