@@ -13,31 +13,84 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
+  <string name="xenonhd_version">XeHD verzia</string>
   <string name="xenonhd_version_default">Neznámy</string>
+  <string name="xenonhd_maintainer">Správca</string>
   <string name="xenonhd_maintainer_default">Neznámy</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Prehľad zmien</string>
   <string name="changelog_xenonhd_error">Nie je možné načítať zoznam zmien</string>
+  <string name="changelog_xenonhd_summary">Skontrolujte zmeny v aktuálnej verzii</string>
   <!-- Density category -->
+  <string name="density_category">Možnosti hustoty zobrazenia</string>
   <!-- XenonOTA -->
   <string name="xenonota_title">XenonHD Aktualizácie</string>
   <string name="xenonota_summary">Skontrolovať aktualizácie ROM</string>
   <!-- Dev Options Enabled by Default -->
+  <string name="show_dev_already_enabled">Nie je potrebné, nastavenia pre vývojárov sú predvolene povolené</string>
   <!-- Phone info shortcut -->
+  <string name="device_info_title">Informácie o telefóne</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+  <string name="local_backup_password_title">Heslo pre zálohu do PC</string>
   <!-- Double tap to sleep on lockscreen -->
+  <string name="double_tap_sleep_anywhere_title">Dvojklik obrazovku uzamknutia</string>
+  <string name="double_tap_sleep_anywhere_summary">Dvojklikom na obrazovke uzamknutia uspať zariadenie</string>
   <!-- Notification sound timeout -->
+  <string name="app_notification_sound_timeout_title">Minimálny čas medzi zvukmi upozornenia</string>
+  <string name="app_notification_sound_timeout_summary_template">Povoliť zvuky alebo vibrácie nie viac ako raz za <xliff:g id="duration">%1$s </xliff:g></string>
+  <string name="app_notification_sound_timeout_value_none">Bez obmedzení</string>
+  <string name="app_notification_sound_timeout_value_10_seconds">10 sekúnd</string>
+  <string name="app_notification_sound_timeout_value_30_seconds">30 sekúnd</string>
+  <string name="app_notification_sound_timeout_value_1_minute">1 minúta</string>
+  <string name="app_notification_sound_timeout_value_5_minutes">5 minút</string>
+  <string name="app_notification_sound_timeout_value_15_minutes">10 minút</string>
+  <string name="app_notification_sound_timeout_value_30_minutes">30 minút</string>
   <!-- Randomize MAC addresses -->
+  <string name="randomize_mac_title">Náhodné MAC adresy</string>
+  <string name="randomize_mac_summary">Priradiť náhodné MAC adresy keď sú aktivované sieťové zariadenia. Náhodné MAC sú používané počas kontroly, bez ohľadu na povolenie</string>
   <!-- Volume Steps -->
+  <string name="volume_steps_title">Stupne hlasitosti</string>
+  <string name="volume_steps_alarm_title">Budík</string>
+  <string name="volume_steps_dtmf_title">DTMF (vytáčanie)</string>
   <string name="volume_steps_music_title">Hudba</string>
+  <string name="volume_steps_notification_title">Upozornenie</string>
+  <string name="volume_steps_ring_title">Zvonenie</string>
+  <string name="volume_steps_system_title">Systém</string>
+  <string name="volume_steps_voice_call_title">Hlasový hovor</string>
+  <string name="volume_steps_reset">Resetovať</string>
   <!-- DayNight Theme -->
+  <string name="night_mode_title">Téma</string>
+  <string name="night_mode_no">Svetlé</string>
+  <string name="night_mode_yes">Tmavé</string>
   <!-- Screenshot sound -->
+  <string name="screenshot_sound_title">Zvuk pri snímke obrazovky</string>
+  <string name="screenshot_sound_summary">Prehrá zvukový efekt pri snímke obrazovky</string>
   <!-- Manage applications: show substratum overlays -->
+  <string name="filter_substratum_apps">Substratum prekrytia</string>
+  <string name="menu_show_substratum">Zobraziť prekrytia</string>
+  <string name="menu_hide_substratum">Skryť prekrytia</string>
   <!-- Manage applications: show substratum icon overlays -->
+  <string name="filter_substratum_icons">Ikona Substratum prekrytia</string>
+  <string name="menu_show_substratum_icons">Zobraziť ikonu prekrytia</string>
+  <string name="menu_hide_substratum_icons">Skryť ikonu prekrytia</string>
   <!-- XenonHD Configurations-->
+  <string name="xenonhd_title">Nastavenia</string>
+  <string name="xenonhd_misc_title">Rôzne</string>
+  <string name="xenonhd_lockscreen_title">Obrazovka uzamknutia</string>
+  <string name="xenonhd_ui_title">Používateľské rozhranie</string>
   <!-- Selinux Switch -->
+  <string name="selinux_switch_title">Upozornenie na prepnutie SELinux</string>
+  <string name="selinux_switch_summary">SELinux je súbor zmien na linuxovom jadre a spôsob prideľovania zdrojov pre danú aplikáciu. Zmena režimu môže spôsobiť nežiaduce správanie. Použitie je na vlastné nebezpečenstvo</string>
+  <string name="selinux_title">SELinux režim</string>
+  <string name="selinux_permissive_title">Tolerantné</string>
+  <string name="selinux_enforcing_title">Výnútené</string>
+  <string name="selinux_permissive_toast_title">SELinux nastavená na tolerantné!</string>
   <!-- Recents Membar -->
+  <string name="recents_membar">Ukazovateľ pamäte</string>
+  <string name="systemui_recents_mem_display_title">Zobraziť ukazovateľ pamäte</string>
+  <string name="systemui_recents_mem_display_summary">Zobraziť ukazovateľ voľnej RAM v zobrazení nedávných aplikací</string>
   <!-- Quick settings config -->
+  <string name="qs_layout_category">Panel rýchlych nastavení</string>
   <!-- Media art -->
   <!-- Quick unlock -->
   <!-- Three-fingers-swipe to screenshot -->
@@ -45,6 +98,7 @@
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">Zapnuté</string>
   <string name="summary_doze_disabled">Vypnuté</string>
+  <string name="ambient_display_show_battery_title">Stav batérie</string>
   <!-- Recents panel settings -->
   <!-- Dashboard options -->
   <!-- Hide Lockscreen clock, date, & alarm -->
@@ -92,9 +146,16 @@
   <string name="status_bar_font_black">Čierne</string>
   <string name="status_bar_font_black_italic">Čierne kurzíva</string>
   <string name="status_bar_font_dancingscript">DancingScript</string>
+  <string name="status_bar_font_dancingscript_bold">DancingScript Tučné</string>
+  <string name="status_bar_font_comingsoon">ComingSoon</string>
+  <string name="status_bar_font_notoserif">NotoSerif Normálne</string>
+  <string name="status_bar_font_notoserif_italic">NotoSerif kurzíva</string>
+  <string name="status_bar_font_notoserif_bold">NotoSerif Tučné</string>
+  <string name="status_bar_font_notoserif_bold_italic">NotoSerif Tučné kurzíva</string>
   <!-- Lock Clock Fonts -->
   <string name="lock_date_font_title">Dátum</string>
   <string name="lock_clock_font_bold">Tučné</string>
+  <string name="lock_clock_font_light">Svetlé</string>
   <string name="lock_clock_font_italic">Kurzíva</string>
   <string name="lock_clock_font_bold_italic">Tučné kurzíva</string>
   <string name="lock_clock_font_light_italic">Light kurzíva</string>
