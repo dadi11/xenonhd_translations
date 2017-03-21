@@ -232,6 +232,8 @@
   <string name="status_bar_carrier_size">Veľkosť textu popisku operátora</string>
   <string name="status_bar_carrier_font_style_title">Štýl popisku operátora</string>
   <string name="number_of_notifications_title">Počet upozornení</string>
+  <string name="carrier_label_hide_label_title">Skryť upozornenie</string>
+  <string name="carrier_label_number_of_notification_icons_title">Max počet ikon pred skrytím</string>
   <string name="status_bar_font_style_title">Písmo</string>
   <string name="status_bar_font_normal">Normálna</string>
   <string name="status_bar_font_italic">Kurzíva</string>
@@ -260,7 +262,13 @@
   <string name="status_bar_font_notoserif_bold_italic">NotoSerif Tučné kurzíva</string>
   <!-- Lock Clock Fonts -->
   <string name="lock_clock_font_title">Možnosti písma</string>
+  <string name="lock_clock_font_summary">Zmeniť písmo widgetu hodín na obrazovke uzamknutia</string>
+  <string name="lockdate_font_size_title">Veľkosť písma dátumu</string>
+  <string name="lockclock_font_size_title">Veľkosť písma hodín</string>
+  <string name="lock_date_font_summary">Upraviť písmo dátumu</string>
   <string name="lock_date_font_title">Dátum</string>
+  <string name="lock_clock_font_dialog_title">Vyberte štýl písma hodín na obrazovke uzamknutia</string>
+  <string name="lock_clock_font_stock">Normálny (predvolené)</string>
   <string name="lock_clock_font_bold">Tučné</string>
   <string name="lock_clock_font_light">Svetlé</string>
   <string name="lock_clock_font_italic">Kurzíva</string>
@@ -271,7 +279,23 @@
   <string name="lock_clock_font_condensed_normal">Zhustené</string>
   <string name="lock_clock_font_condensed_italic">Zhustené kurzíva</string>
   <string name="lock_clock_font_condensed_bold">Zhustené Tučné</string>
+  <string name="lock_clock_font_condensed_bold_italic">Zhustené Tučné kurzíva</string>
   <string name="lock_clock_font_medium_normal">Stredné</string>
   <string name="lock_clock_font_medium_italic">Stredné kurzíva</string>
   <!-- Screen state service -->
+  <string name="screen_state_toggles_title">Pozastavené akcie</string>
+  <string name="screen_state_toggles_enable_title">Povoliť</string>
+  <string name="screen_state_toggles_enable_summary">Akcie budú vykonané pri vypnutí obrazovky. Pri zapnutí a uvedení do predchádzajúceho stavu budú obnovené.</string>
+  <string name="screen_state_toggles_mobile_title">Mobilné siete</string>
+  <string name="screen_state_toggles_location_title">Poloha</string>
+  <string name="screen_state_toggles_twog">Prepnúť na 2G</string>
+  <string name="screen_state_toggles_twog_summary">Pri vypnutí obrazovky sa režim siete sa prepne na 2G</string>
+  <string name="screen_state_toggles_gps">Zakázať GPS</string>
+  <string name="screen_state_toggles_gps_summary">Pri vypnutí displeja bude GPS služba vypnutá</string>
+  <string name="screen_state_toggles_mobile_data">Vypnúť mobilné dáta</string>
+  <string name="screen_state_toggles_mobile_data_summary">Pri vypnutí obrazovky budú mobilné dáta vypnuté</string>
+  <string name="screen_state_off_delay_title">Oneskorenie akcí po vypnutí obrazovky</string>
+  <string name="screen_state_off_delay_summary">Počet sekúnd čakania pred vykonaním akcie po vypnutí obrazovky</string>
+  <string name="screen_state_on_delay_title">Oneskorenie akcí po zapnutí obrazovky</string>
+  <string name="screen_state_on_delay_summary">Počet sekúnd čakania pred vykonaním akcie po zapnutí obrazovky</string>
 </resources>
