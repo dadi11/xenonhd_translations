@@ -294,4 +294,8 @@
   <string name="screen_state_toggles_gps_summary">GPS služba bude vypnuta při vypnutí displeje</string>
   <string name="screen_state_toggles_mobile_data">Vypnout mobilní data</string>
   <string name="screen_state_toggles_mobile_data_summary">Mobilní data budou vypnuta při vypnutí despleje</string>
+  <string name="screen_state_off_delay_title">Zpoždění akcí po vypnutí obrazovky</string>
+  <string name="screen_state_off_delay_summary">Počet sekund čekání před provedením akce po vypnutí obrazovky</string>
+  <string name="screen_state_on_delay_title">Zpoždění akcí po zapnutí obrazovky</string>
+  <string name="screen_state_on_delay_summary">Počet sekund čekání před provedením akce po zapnutí obrazovky</string>
 </resources>
