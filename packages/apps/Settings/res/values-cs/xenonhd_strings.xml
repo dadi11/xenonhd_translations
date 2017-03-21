@@ -195,14 +195,6 @@
   <!-- Hide Statusbar on Lockscreen -->
   <string name="lockscreen_hide_status_bar_title">Skrýt stavovou lištu</string>
   <string name="lockscreen_hide_status_bar_summary">Klikněte na stavovou lištu pro přepínání viditelnosti</string>
-  <!-- Wakelock blocker -->
-  <string name="wakelock_blocker_title">Blokování wakelocků</string>
-  <string name="wakelock_blocker_summary">Blokovat systémové wakelocky</string>
-  <string name="wakelock_blocker_save">Uložit</string>
-  <string name="wakelock_list_header">Dostupné wakelocky</string>
-  <string name="wakelock_blocker_reload">Znovu načíst</string>
-  <string name="wakelock_blocker_warning_title">Postupujte s opatrností</string>
-  <string name="wakelock_blocker_warning">Blokováním wakelocků můžete způsobit nestabilitu, pády nebo ztrátu dat</string>
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">Vyžadovat povolení pro každý motiv</string>
   <string name="force_authorize_substratum_packages_summary">Povolit instalaci motivů z neznámých zdrojů</string>
