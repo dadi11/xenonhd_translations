@@ -14,13 +14,53 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Battery Bar -->
+  <string name="battery_bar_title">Pruh batérie</string>
+  <string name="battery_bar">Umiestnenie pruhu batérie</string>
+  <string name="battery_bar_no_navbar">Umiestnenie pruhu batérie</string>
+  <string name="battery_bar_color">Farba pruhu batérie</string>
+  <string name="battery_bar_charging_color">Farba pruhu batérie pri nabíjaní</string>
+  <string name="battery_bar_battery_low_color">Farba pruhu batérie pri vybití</string>
+  <string name="battery_bar_cat">Štýl pruhu batérie</string>
+  <string name="battery_bar_style_title">Zarovnanie pruhu batérie</string>
+  <string name="battery_bar_thickness_title">Hrúbka pruhu batérie</string>
+  <string name="battery_bar_animate_title">Animácia nabíjania</string>
+  <string name="battery_bar_style_regular">Klasické</string>
+  <string name="battery_bar_style_center_mirrored">Zrkadlovo na stred</string>
+  <string name="battery_bar_style_reversed">Obrátene</string>
+  <string name="battery_bar_use_gradient_color">Použiť farebný prechod</string>
+  <string name="battery_bar_gradient_color_summary">Použiť farebný prechod ako mierku pre zobrazenie úrovne nabitia batérie</string>
+  <string name="battery_bar_high_color">Farba vysokej úrovne</string>
+  <string name="battery_bar_low_color">Farba nízkej úrovne</string>
   <!-- Battery icon -->
+  <string name="status_bar_battery_style_solid">Plný</string>
   <!-- Brightness slider -->
+  <string name="qs_brightness_slider_title">Posuvník jasu</string>
   <string name="qs_brightness_slider_enabled">Zapnuté</string>
   <string name="qs_brightness_slider_disabled">Vypnuté</string>
+  <string name="brightness_icon_title">Ikona jasu </string>
+  <string name="brightness_icon_summary">Zobraziť ikonu jasu naľavo od posuvníka</string>
   <!-- Color Picker -->
+  <string name="dialog_color_picker">Výber farby</string>
+  <string name="press_color_to_apply">Kliknite na farbu pre jej výber</string>
+  <string name="hex">Hex:</string>
+  <string name="set">Nastaviť</string>
+  <string name="color_default">Predvolené</string>
   <!-- Network traffic -->
+  <string name="traffic_category">Indikátor dátových prenosov</string>
+  <string name="network_traffic_title">Sieťová prevádzka</string>
+  <string name="show_network_traffic_state">Zobrazenie monitora sieťovej prevádzky v stavovom riadku</string>
+  <string name="show_network_traffic_unit">Zobrazovať jednotky</string>
+  <string name="show_network_traffic_frequency">Interval aktualizácie</string>
   <string name="show_network_traffic_disable">Vypnuté</string>
+  <string name="show_network_traffic_up">Odchádzajúce dáta</string>
+  <string name="show_network_traffic_down">Prichádzajúce dáta</string>
+  <string name="show_network_traffic_all">Odchádzajúce a prichádzajúce dáta</string>
+  <string name="show_network_traffic_bit">Bitov za sekundu</string>
+  <string name="show_network_traffic_byte">Bajtov za sekundu</string>
+  <string name="show_network_traffic_500">500 ms</string>
+  <string name="show_network_traffic_1000">1000 ms</string>
+  <string name="show_network_traffic_1500">1500 ms</string>
+  <string name="show_network_traffic_2000">2000 ms</string>
   <!-- Superuser indicator on status bar -->
   <!--Status bar date -->
   <string name="status_bar_date_normal">Normálna</string>
