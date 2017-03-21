@@ -101,13 +101,58 @@
   <string name="media_art_summary">Povoliť zobrazenie obalu albumu na uzamknutej obrazovke</string>
   <!-- Quick unlock -->
   <string name="quick_unlock_warning">Upozornenie na rychle odemknutie</string>
+  <string name="quick_unlock_warning_summary">Táto funkcia obchádza dôležité bezpečnostné mechanizmy a a nepodporuje režim viacerých používateľov. Použite na vlastné riziko</string>
+  <string name="unlock_quick_unlock_control_title">Rýchle odomknutie</string>
+  <string name="unlock_quick_unlock_control_summary">Odomknúť automaticky po zadaní správneho PIN kódu alebo hesla</string>
   <!-- Three-fingers-swipe to screenshot -->
+  <string name="three_finger_gesture">Potiahnutím urobiť foto obrazovky</string>
+  <string name="three_finger_gesture_summary">Prejdite tromi prstami po obrazovke pre jej odfotenie</string>
   <!-- Long press back to kill configurable timeout -->
+  <string name="kill_app_longpress_timeout_title">Časový limit dlhého kliku na tlačítko Späť</string>
+  <string name="timeout_2000">2 sekundy (predvolené)</string>
+  <string name="timeout_1500">1,5 sekundy</string>
+  <string name="timeout_1000">1 sekunda</string>
+  <string name="timeout_500">0,5 sekundy</string>
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">Zapnuté</string>
   <string name="summary_doze_disabled">Vypnuté</string>
+  <string name="doze_overwrite_value_title">Prepísať predvolené hodnoty</string>
+  <string name="doze_overwrite_value_summary">Povoliť prepísať predvolené hodnoty užívateľským nastavením</string>
+  <string name="doze_pulse_title">Používateľom konfigurovateľné nastavenia</string>
+  <string name="doze_pulse_duration_in_title">Postupné zosvetlenie</string>
+  <string name="doze_pulse_duration_visible_title">Trvanie zobrazenia</string>
+  <string name="doze_pulse_duration_out_title">Postupné stmavnutie</string>
+  <string name="doze_trigger_pickup_title">Vyberte senzor aktivácie</string>
+  <string name="doze_trigger_pickup_summary_on">Pulzovanie sa spustí pomocou snímača pohybu</string>
+  <string name="doze_trigger_pickup_summary_off">Senzory pohybu nebudú použité k spusteniu</string>
+  <string name="doze_trigger_notification_title">Spúšťač upozornení</string>
+  <string name="doze_trigger_notification_summary_on">Pulzovaním dôjde k spusteniu oznámenia</string>
+  <string name="doze_trigger_notification_summary_off">Oznámenia nebudú použité k spusteniu</string>
+  <string name="doze_brightness_level_title">Úroveň jasu</string>
+  <string name="onehundred_ms">100 ms</string>
+  <string name="twofifty_ms">250 ms</string>
+  <string name="fivehundred_ms_default">500 ms (predvolené)</string>
+  <string name="sevenfifty_ms">750 ms</string>
+  <string name="one_second">1 s</string>
+  <string name="onehalf_second">1.5 s</string>
+  <string name="two_second">2 s</string>
+  <string name="twohalf_second">2.5 s</string>
+  <string name="three_second_default">3 s (predvolené)</string>
+  <string name="threehalf_second">3.5 s</string>
+  <string name="four_second">4 s</string>
+  <string name="fourhalf_second">4.5 s</string>
+  <string name="five_second">5 s</string>
+  <string name="doze_notification_color_invert_title">Inverzia oznámenia</string>
+  <string name="doze_notification_color_invert_summary_off">Farby oznámení sa nezmenia (doporučené pre tmavé motívy)</string>
+  <string name="doze_notification_color_invert_summary_on">Farby oznámení sa zmenia (doporučené pre svetlé motívy)</string>
   <string name="ambient_display_show_battery_title">Stav batérie</string>
+  <string name="ambient_display_show_battery_summary">Zobraziť indikátor batérie počas pulzovania</string>
   <!-- Recents panel settings -->
+  <string name="show_clear_all_recents_button_title">Povoliť tlačidlo Vyčistiť všetko</string>
+  <string name="show_clear_all_recents_button_summary">Zobraziť tlačítko \"Vyčistiť všetko\" v zobrazení nedávných aplikácií</string>
+  <string name="recents_clear_all_location_title">Umiestnenie tlačítka \"Vyčistiť všetko\"</string>
+  <string name="recents_clear_all_location_top_right">Vpravo hore</string>
+  <string name="recents_clear_all_location_top_left">Vľavo hore</string>
   <!-- Dashboard options -->
   <!-- Hide Lockscreen clock, date, & alarm -->
   <!-- Emergency button -->
