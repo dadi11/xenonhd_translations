@@ -52,7 +52,10 @@
   <!-- Fingerprint authentication vibration -->
   <!-- Fingerprint unlock keystore -->
   <!-- Hide Statusbar on Lockscreen -->
+  <string name="lockscreen_hide_status_bar_title">Skryť stavový riadok</string>
+  <string name="lockscreen_hide_status_bar_summary">Pre prepínanie viditeľnosti kliknite na stavový riadok</string>
   <!-- Wakelock blocker -->
+  <string name="wakelock_blocker_save">Uložiť</string>
   <!-- Force authorize substratum packages -->
   <!-- QS tile labels visibility -->
   <!-- Color Picker -->
@@ -63,7 +66,44 @@
   <string name="color_default">Predvolené</string>
   <!-- Carrier label -->
   <string name="show_carrier_disabled">Vypnuté</string>
+  <string name="show_carrier_statusbar">Iba stavový riadok</string>
+  <string name="show_carrier_both">Obrazovka uzamknutia a stavový riadok</string>
+  <string name="show_carrier_enabled">Obrazovka uzamknutia a stavový riadok</string>
+  <string name="status_bar_carrier_color">Farba názvu operátora</string>
+  <string name="status_bar_carrier_size">Veľkosť textu popisku operátora</string>
+  <string name="status_bar_carrier_font_style_title">Štýl popisku operátora</string>
+  <string name="status_bar_font_style_title">Písmo</string>
   <string name="status_bar_font_normal">Normálna</string>
+  <string name="status_bar_font_italic">Kurzíva</string>
+  <string name="status_bar_font_bold">Tučné</string>
+  <string name="status_bar_font_bold_italic">Tučné kurzíva</string>
+  <string name="status_bar_font_light">Light</string>
+  <string name="status_bar_font_light_italic">Light kurzíva</string>
+  <string name="status_bar_font_thin">Tenké</string>
+  <string name="status_bar_font_thin_italic">Tenké kurzíva</string>
+  <string name="status_bar_font_condensed">Zhustené</string>
+  <string name="status_bar_font_condensed_italic">Zhustené kurzíva</string>
+  <string name="status_bar_font_condensed_light">Zhustené Light</string>
+  <string name="status_bar_font_condensed_light_italic">Zhustené Light kurzíva</string>
+  <string name="status_bar_font_condensed_bold">Zhustené Tučné</string>
+  <string name="status_bar_font_condensed_bold_italic">Zhustené Tučné kurzíva</string>
+  <string name="status_bar_font_medium">Stredné</string>
+  <string name="status_bar_font_medium_italic">Stredné kurzíva</string>
+  <string name="status_bar_font_black">Čierne</string>
+  <string name="status_bar_font_black_italic">Čierne kurzíva</string>
+  <string name="status_bar_font_dancingscript">DancingScript</string>
   <!-- Lock Clock Fonts -->
+  <string name="lock_date_font_title">Dátum</string>
+  <string name="lock_clock_font_bold">Tučné</string>
+  <string name="lock_clock_font_italic">Kurzíva</string>
+  <string name="lock_clock_font_bold_italic">Tučné kurzíva</string>
+  <string name="lock_clock_font_light_italic">Light kurzíva</string>
+  <string name="lock_clock_font_thin_italic">Tenké kurzíva</string>
+  <string name="lock_clock_font_thin">Tenké</string>
+  <string name="lock_clock_font_condensed_normal">Zhustené</string>
+  <string name="lock_clock_font_condensed_italic">Zhustené kurzíva</string>
+  <string name="lock_clock_font_condensed_bold">Zhustené Tučné</string>
+  <string name="lock_clock_font_medium_normal">Stredné</string>
+  <string name="lock_clock_font_medium_italic">Stredné kurzíva</string>
   <!-- Screen state service -->
 </resources>
