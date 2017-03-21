@@ -195,14 +195,6 @@
   <!-- Hide Statusbar on Lockscreen -->
   <string name="lockscreen_hide_status_bar_title">Állapotsáv elrejtése</string>
   <string name="lockscreen_hide_status_bar_summary">Érintse meg az állapotsávot a láthatóság kapcsolásához</string>
-  <!-- Wakelock blocker -->
-  <string name="wakelock_blocker_title">Wakelock blokkoló</string>
-  <string name="wakelock_blocker_summary">Rendszer wakelock-ok blokkolása</string>
-  <string name="wakelock_blocker_save">Mentés</string>
-  <string name="wakelock_list_header">Meglévő wakelock-ok</string>
-  <string name="wakelock_blocker_reload">Újratöltés</string>
-  <string name="wakelock_blocker_warning_title">Járjon el körültekintően</string>
-  <string name="wakelock_blocker_warning">A wakelock-ok blokkolása instabilitáshoz, összeomláshoz vagy adatvesztéshez vezethet</string>
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">Minden téma alkalmazás engedélyezésének kényszerítése</string>
   <string name="force_authorize_substratum_packages_summary">Az ismeretlen forrásból származó témák telepítésének engedélyezése</string>
