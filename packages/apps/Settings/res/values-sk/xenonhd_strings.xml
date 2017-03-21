@@ -153,18 +153,63 @@
   <string name="recents_clear_all_location_title">Umiestnenie tlačítka \"Vyčistiť všetko\"</string>
   <string name="recents_clear_all_location_top_right">Vpravo hore</string>
   <string name="recents_clear_all_location_top_left">Vľavo hore</string>
+  <string name="recents_clear_all_location_top_center">Hore na stred</string>
+  <string name="recents_clear_all_location_bottom_right">Vpravo dole</string>
+  <string name="recents_clear_all_location_bottom_left">Vľavo dole</string>
+  <string name="recents_clear_all_location_bottom_center">Dole na stred</string>
   <!-- Dashboard options -->
+  <string name="dashboard_category">Možnosti hlavného panela</string>
+  <string name="dashboard_suggestions_title">Návrhy</string>
+  <string name="summary_dashboard_suggestions_enabled">Návrhy hlavného panela sú povolené</string>
+  <string name="summary_dashboard_suggestions_disabled">Návrhy hlavného panela sú zakázané</string>
+  <string name="remove_tile_summaries_title">Súhrny</string>
+  <string name="remove_tile_summaries_summary_enabled">Súhrny hlavného panela sú povolené</string>
+  <string name="remove_tile_summaries_summary_disabled">Súhrny hlavného panela sú zakázané</string>
+  <string name="dashboard_conditions_title">Podmienky</string>
+  <string name="summary_dashboard_conditions_enabled">Podmienky hlavného panela sú povolené</string>
+  <string name="summary_dashboard_conditions_disabled">Podmienky hlavného panela sú zakázané</string>
+  <string name="dashboard_columns_title">Stĺpce hlavného panelu</string>
+  <string name="dashboard_columns_summary">Zmena počtu stĺpcov zobrazených na hlavnom panely</string>
+  <string name="dashboard_columns_portrait_title">Stĺpce (na výšku)</string>
+  <string name="dashboard_columns_landscape_title">Stĺpce (na šírku)</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
+  <string name="hide_lockscreen_clock_title">Widget hodín</string>
+  <string name="hide_lockscreen_clock_summary_on">Zobraziť widget hodín na obrazovke uzamknutia</string>
+  <string name="hide_lockscreen_clock_summary_off">Sktyť widget hodín na obrazovke uzamknutia</string>
+  <string name="hide_lockscreen_date_title">Widget dátumu</string>
+  <string name="hide_lockscreen_date_summary_on">Zobraziť dátum pod widgetom hodín</string>
+  <string name="hide_lockscreen_date_summary_off">Skryť dátum pod widgetom hodín </string>
+  <string name="hide_lockscreen_alarm_title">Text budíku</string>
+  <string name="hide_lockscreen_alarm_summary_on">Zobraziť text budíku pod widgetom hodín</string>
+  <string name="hide_lockscreen_alarm_summary_off">Skryť text budíku pod widgetom hodín</string>
   <!-- Emergency button -->
+  <string name="emergency_button_title">Núdzové tlačidlo</string>
+  <string name="emergency_button_summary_on">Núdzové tlačidlo sa zobrazí na obrazovke uzamknutia</string>
+  <string name="emergency_button_summary_off">Núdzové tlačidlo bude skryté na obrazovke uzamknutia</string>
   <!-- Fingerprint authentication vibration -->
+  <string name="fprint_sucess_vib_title">Vibrovať pri overení odtlačku prsta</string>
+  <string name="fprint_sucess_vib_summary">Vibrovať pri úspešnom odtlačku prsta</string>
   <!-- Fingerprint unlock keystore -->
+  <string name="fp_unlock_keystore_title">Odomknutie odtlačkom prsta po reštarte</string>
+  <string name="fp_unlock_keystore_summary">Povoliť odomknutie zariadenia odtlačkom prsta aj po reštarte</string>
   <!-- Hide Statusbar on Lockscreen -->
   <string name="lockscreen_hide_status_bar_title">Skryť stavový riadok</string>
   <string name="lockscreen_hide_status_bar_summary">Pre prepínanie viditeľnosti kliknite na stavový riadok</string>
   <!-- Wakelock blocker -->
+  <string name="wakelock_blocker_title">Blokovanie prebudení</string>
+  <string name="wakelock_blocker_summary">Blokovanie systémových prebudení</string>
   <string name="wakelock_blocker_save">Uložiť</string>
+  <string name="wakelock_list_header">Dostupné prebudenia</string>
+  <string name="wakelock_blocker_reload">Znova načítať</string>
+  <string name="wakelock_blocker_warning_title">Postupujte opatrne</string>
+  <string name="wakelock_blocker_warning">Blokovaním prebudení môžete spôsobiť nestabilitu, pády alebo stratu dát</string>
   <!-- Force authorize substratum packages -->
+  <string name="force_authorize_substratum_packages_title">Vyžadovať povolenie pre každú tému</string>
+  <string name="force_authorize_substratum_packages_summary">Povoliť inštaláciu tém z neznámych zdrojov</string>
   <!-- QS tile labels visibility -->
+  <string name="qs_menu_item_titles">Popisky dlaždíc rýchlych nastavení</string>
+  <string name="qs_menu_item_titles_summaryOn">Popisky zobrazené</string>
+  <string name="qs_menu_item_titles_summaryOff">Popisky skryté</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">Výber farby</string>
   <string name="press_color_to_apply">Kliknite na farbu pre jej výber</string>
@@ -172,13 +217,21 @@
   <string name="set">Nastaviť</string>
   <string name="color_default">Predvolené</string>
   <!-- Carrier label -->
+  <string name="carrier_title">Názov operátora</string>
+  <string name="carrier_options_summary">Prispôsobiť názov operátora</string>
+  <string name="custom_carrier_label_title">Vlastný názov operátora</string>
+  <string name="custom_carrier_label_explain">Prosím zadajte nový názov. Nechajte prázdne pre obnovenie na pôvodné meno.</string>
+  <string name="custom_carrier_label_notset">Vlastný názov momentálne nie je nastavený</string>
+  <string name="show_carrier_title">Názov operátora</string>
   <string name="show_carrier_disabled">Vypnuté</string>
+  <string name="show_carrier_keyguard">Iba na obrazovke uzamknutia</string>
   <string name="show_carrier_statusbar">Iba stavový riadok</string>
   <string name="show_carrier_both">Obrazovka uzamknutia a stavový riadok</string>
   <string name="show_carrier_enabled">Obrazovka uzamknutia a stavový riadok</string>
   <string name="status_bar_carrier_color">Farba názvu operátora</string>
   <string name="status_bar_carrier_size">Veľkosť textu popisku operátora</string>
   <string name="status_bar_carrier_font_style_title">Štýl popisku operátora</string>
+  <string name="number_of_notifications_title">Počet upozornení</string>
   <string name="status_bar_font_style_title">Písmo</string>
   <string name="status_bar_font_normal">Normálna</string>
   <string name="status_bar_font_italic">Kurzíva</string>
@@ -206,6 +259,7 @@
   <string name="status_bar_font_notoserif_bold">NotoSerif Tučné</string>
   <string name="status_bar_font_notoserif_bold_italic">NotoSerif Tučné kurzíva</string>
   <!-- Lock Clock Fonts -->
+  <string name="lock_clock_font_title">Možnosti písma</string>
   <string name="lock_date_font_title">Dátum</string>
   <string name="lock_clock_font_bold">Tučné</string>
   <string name="lock_clock_font_light">Svetlé</string>
