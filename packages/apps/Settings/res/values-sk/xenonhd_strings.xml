@@ -56,6 +56,11 @@
   <!-- Force authorize substratum packages -->
   <!-- QS tile labels visibility -->
   <!-- Color Picker -->
+  <string name="dialog_color_picker">Výber farby</string>
+  <string name="press_color_to_apply">Kliknite na farbu pre jej výber</string>
+  <string name="hex">Hex:</string>
+  <string name="set">Nastaviť</string>
+  <string name="color_default">Predvolené</string>
   <!-- Carrier label -->
   <string name="show_carrier_disabled">Vypnuté</string>
   <string name="status_bar_font_normal">Normálna</string>
