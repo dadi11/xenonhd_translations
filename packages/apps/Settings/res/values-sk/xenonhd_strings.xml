@@ -91,8 +91,16 @@
   <string name="systemui_recents_mem_display_summary">Zobraziť ukazovateľ voľnej RAM v zobrazení nedávných aplikací</string>
   <!-- Quick settings config -->
   <string name="qs_layout_category">Panel rýchlych nastavení</string>
+  <string name="qs_rows_portrait_title">Riadky (na výšku)</string>
+  <string name="qs_rows_landscape_title">Riadky (na šírku)</string>
+  <string name="qs_columns_title">Stĺpce</string>
+  <string name="qs_easy_toggle_title">Jendnoduché prepnutie dlaždíc rýchlych nastavení</string>
+  <string name="qs_easy_toggle_summary">Povoľte akciu jedným kliknutím na možnosť povoliť/zakázať mobilné dáta, Wi-Fi a Bluetooth. Dlhým kliknutím zobrazíte upresňujúce nastavenia</string>
   <!-- Media art -->
+  <string name="media_art_title">Obal albumu</string>
+  <string name="media_art_summary">Povoliť zobrazenie obalu albumu na uzamknutej obrazovke</string>
   <!-- Quick unlock -->
+  <string name="quick_unlock_warning">Upozornenie na rychle odemknutie</string>
   <!-- Three-fingers-swipe to screenshot -->
   <!-- Long press back to kill configurable timeout -->
   <!-- Doze pulse options -->
