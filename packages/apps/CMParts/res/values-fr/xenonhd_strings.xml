@@ -27,6 +27,7 @@
   <string name="battery_bar_style_regular">Régulière</string>
   <string name="battery_bar_style_center_mirrored">Centrée et reflétée</string>
   <string name="battery_bar_style_reversed">Inversée</string>
+  <string name="battery_bar_use_gradient_color">Utiliser une couleur dégradé</string>
   <!-- Battery icon -->
   <string name="status_bar_battery_style_solid">Solide</string>
   <!-- Brightness slider -->
