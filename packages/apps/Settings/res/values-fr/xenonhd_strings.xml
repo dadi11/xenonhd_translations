@@ -227,10 +227,35 @@
   <string name="status_bar_carrier_font_style_title">Police du label opérateur</string>
   <string name="number_of_notifications_title">Nombre de notifications</string>
   <string name="carrier_label_hide_label_title">Masquer les notifications</string>
+  <string name="carrier_label_number_of_notification_icons_title">Nombre maximum d\'icônes avant le masquage</string>
+  <string name="status_bar_font_style_title">Police</string>
   <string name="status_bar_font_normal">Standard</string>
+  <string name="status_bar_font_italic">Italique</string>
+  <string name="status_bar_font_bold">Gras</string>
+  <string name="status_bar_font_bold_italic">Gras italique</string>
   <string name="status_bar_font_light">Clair</string>
+  <string name="status_bar_font_light_italic">Italique léger</string>
+  <string name="status_bar_font_thin">Fin</string>
+  <string name="status_bar_font_thin_italic">Fin Italique</string>
+  <string name="status_bar_font_condensed">Condensé</string>
+  <string name="status_bar_font_condensed_italic">Italique Condensé</string>
+  <string name="status_bar_font_condensed_light">Clair condensé</string>
+  <string name="status_bar_font_condensed_light_italic">Italique Condensé clair</string>
+  <string name="status_bar_font_condensed_bold">Condensé Gras</string>
+  <string name="status_bar_font_condensed_bold_italic">Italique condensé gras</string>
+  <string name="status_bar_font_medium">Moyen</string>
   <!-- Lock Clock Fonts -->
   <string name="lock_date_font_title">Date</string>
+  <string name="lock_clock_font_bold">Gras</string>
   <string name="lock_clock_font_light">Clair</string>
+  <string name="lock_clock_font_italic">Italique</string>
+  <string name="lock_clock_font_bold_italic">Gras italique</string>
+  <string name="lock_clock_font_light_italic">Italique léger</string>
+  <string name="lock_clock_font_thin_italic">Fin Italique</string>
+  <string name="lock_clock_font_thin">Fin</string>
+  <string name="lock_clock_font_condensed_normal">Condensé</string>
+  <string name="lock_clock_font_condensed_italic">Italique Condensé</string>
+  <string name="lock_clock_font_condensed_bold">Condensé Gras</string>
+  <string name="lock_clock_font_medium_normal">Moyen</string>
   <!-- Screen state service -->
 </resources>
