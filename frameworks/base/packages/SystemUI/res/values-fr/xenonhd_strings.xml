@@ -41,4 +41,6 @@
   <!-- VoLTE icon switch -->
   <string name="status_bar_volte">VoLTE, voix sur 4G</string>
   <!-- Pirate alert -->
+  <string name="pirate_label">Aaarrrggghhh</string>
+  <string name="pirate_spec">pirate</string>
 </resources>
