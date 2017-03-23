@@ -202,6 +202,7 @@
   <!-- QS tile labels visibility -->
   <string name="qs_menu_item_titles">Étiquette des tuiles QS</string>
   <string name="qs_menu_item_titles_summaryOn">Les étiquettes sont montrées</string>
+  <string name="qs_menu_item_titles_summaryOff">Les étiquettes sont masquées</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">Sélectionneur de couleur</string>
   <string name="press_color_to_apply">Appuyer sur la couleur ci-dessous pour l\'appliquer</string>
@@ -210,7 +211,22 @@
   <string name="set">Appliquer</string>
   <string name="color_default">Défaut</string>
   <!-- Carrier label -->
+  <string name="carrier_title">Libellé de l\'opérateur</string>
+  <string name="carrier_options_summary">Personaliser le libellé de l\'opérateur</string>
+  <string name="custom_carrier_label_title">Libellé de l\'opérateur personalisé</string>
+  <string name="custom_carrier_label_explain">Merci d\'entrer un nouveau label. Laisser vide pour préserver le label par défaut.</string>
+  <string name="custom_carrier_label_notset">Le label personalisé n\'est pas définis</string>
+  <string name="show_carrier_title">Label de l\'opérateur</string>
   <string name="show_carrier_disabled">Désactivé</string>
+  <string name="show_carrier_keyguard">Ecran de verrouillage uniquement</string>
+  <string name="show_carrier_statusbar">Barre de statut uniquement</string>
+  <string name="show_carrier_both">Ecran de verrouillage et barre de statut</string>
+  <string name="show_carrier_enabled">Ecran de verrouillage et barre de statut</string>
+  <string name="status_bar_carrier_color">Couleur du label opérateur</string>
+  <string name="status_bar_carrier_size">Taille du texte du label opérateur</string>
+  <string name="status_bar_carrier_font_style_title">Police du label opérateur</string>
+  <string name="number_of_notifications_title">Nombre de notifications</string>
+  <string name="carrier_label_hide_label_title">Masquer les notifications</string>
   <string name="status_bar_font_normal">Standard</string>
   <string name="status_bar_font_light">Clair</string>
   <!-- Lock Clock Fonts -->
