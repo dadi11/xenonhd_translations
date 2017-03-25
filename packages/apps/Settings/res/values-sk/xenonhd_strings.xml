@@ -13,10 +13,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
-  <string name="xenonhd_version">XeHD verzia</string>
-  <string name="xenonhd_version_default">Neznámy</string>
+  <string name="xenonhd_version">Verzia XenonHD</string>
+  <string name="xenonhd_version_default">Neznáma</string>
   <string name="xenonhd_maintainer">Správca</string>
-  <string name="xenonhd_maintainer_default">Neznámy</string>
+  <string name="xenonhd_maintainer_default">Neznáma</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Prehľad zmien</string>
   <string name="changelog_xenonhd_error">Nie je možné načítať zoznam zmien</string>
@@ -24,7 +24,7 @@
   <!-- Density category -->
   <string name="density_category">Možnosti hustoty zobrazenia</string>
   <!-- XenonOTA -->
-  <string name="xenonota_title">XenonHD Aktualizácie</string>
+  <string name="xenonota_title">Aktualizácie XenonHD</string>
   <string name="xenonota_summary">Skontrolovať aktualizácie ROM</string>
   <!-- Dev Options Enabled by Default -->
   <string name="show_dev_already_enabled">Nie je potrebné, nastavenia pre vývojárov sú predvolene povolené</string>
@@ -33,7 +33,7 @@
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
   <string name="local_backup_password_title">Heslo pre zálohu do PC</string>
   <!-- Double tap to sleep on lockscreen -->
-  <string name="double_tap_sleep_anywhere_title">Dvojklik obrazovku uzamknutia</string>
+  <string name="double_tap_sleep_anywhere_title">Dvojklik na obrazovku uzamknutia</string>
   <string name="double_tap_sleep_anywhere_summary">Dvojklikom na obrazovke uzamknutia uspať zariadenie</string>
   <!-- Notification sound timeout -->
   <string name="app_notification_sound_timeout_title">Minimálny čas medzi zvukmi upozornenia</string>
