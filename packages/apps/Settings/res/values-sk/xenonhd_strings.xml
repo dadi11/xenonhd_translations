@@ -82,9 +82,9 @@
   <string name="selinux_switch_title">Upozornenie na prepnutie SELinux</string>
   <string name="selinux_switch_summary">SELinux je súbor zmien na linuxovom jadre a spôsob prideľovania zdrojov pre danú aplikáciu. Zmena režimu môže spôsobiť nežiaduce správanie. Použitie je na vlastné nebezpečenstvo</string>
   <string name="selinux_title">SELinux režim</string>
-  <string name="selinux_permissive_title">Tolerantné</string>
+  <string name="selinux_permissive_title">Mierne</string>
   <string name="selinux_enforcing_title">Výnútené</string>
-  <string name="selinux_permissive_toast_title">SELinux nastavená na tolerantné!</string>
+  <string name="selinux_permissive_toast_title">SElinux nastavený na režim mierne!</string>
   <!-- Recents Membar -->
   <string name="recents_membar">Ukazovateľ pamäte</string>
   <string name="systemui_recents_mem_display_title">Zobraziť ukazovateľ pamäte</string>
@@ -98,10 +98,10 @@
   <string name="qs_easy_toggle_summary">Povoľte akciu jedným kliknutím na možnosť povoliť/zakázať mobilné dáta, Wi-Fi a Bluetooth. Dlhým kliknutím zobrazíte upresňujúce nastavenia</string>
   <!-- Media art -->
   <string name="media_art_title">Obal albumu</string>
-  <string name="media_art_summary">Povoliť zobrazenie obalu albumu na uzamknutej obrazovke</string>
+  <string name="media_art_summary">Povoliť zobrazenie obalu albumu na obrazovke uzamknutia</string>
   <!-- Quick unlock -->
-  <string name="quick_unlock_warning">Upozornenie na rychle odemknutie</string>
-  <string name="quick_unlock_warning_summary">Táto funkcia obchádza dôležité bezpečnostné mechanizmy a a nepodporuje režim viacerých používateľov. Použite na vlastné riziko</string>
+  <string name="quick_unlock_warning">Upozornenie na rychle odomknutie</string>
+  <string name="quick_unlock_warning_summary">Táto funkcia obchádza dôležité bezpečnostné mechanizmy a nepodporuje režim viacerých používateľov. Použite na vlastné riziko</string>
   <string name="unlock_quick_unlock_control_title">Rýchle odomknutie</string>
   <string name="unlock_quick_unlock_control_summary">Odomknúť automaticky po zadaní správneho PIN kódu alebo hesla</string>
   <!-- Three-fingers-swipe to screenshot -->
@@ -153,10 +153,10 @@
   <string name="recents_clear_all_location_title">Umiestnenie tlačítka \"Vyčistiť všetko\"</string>
   <string name="recents_clear_all_location_top_right">Vpravo hore</string>
   <string name="recents_clear_all_location_top_left">Vľavo hore</string>
-  <string name="recents_clear_all_location_top_center">Hore na stred</string>
+  <string name="recents_clear_all_location_top_center">Hore v strede</string>
   <string name="recents_clear_all_location_bottom_right">Vpravo dole</string>
   <string name="recents_clear_all_location_bottom_left">Vľavo dole</string>
-  <string name="recents_clear_all_location_bottom_center">Dole na stred</string>
+  <string name="recents_clear_all_location_bottom_center">Dole v strede</string>
   <!-- Dashboard options -->
   <string name="dashboard_category">Možnosti hlavného panela</string>
   <string name="dashboard_suggestions_title">Návrhy</string>
