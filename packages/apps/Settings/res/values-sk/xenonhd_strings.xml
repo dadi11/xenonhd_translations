@@ -126,7 +126,7 @@
   <string name="doze_trigger_pickup_summary_on">Pulzovanie sa spustí pomocou snímača pohybu</string>
   <string name="doze_trigger_pickup_summary_off">Senzory pohybu nebudú použité k spusteniu</string>
   <string name="doze_trigger_notification_title">Spúšťač upozornení</string>
-  <string name="doze_trigger_notification_summary_on">Pulzovaním dôjde k spusteniu oznámenia</string>
+  <string name="doze_trigger_notification_summary_on">Pulzovanie sa spustí oznámením</string>
   <string name="doze_trigger_notification_summary_off">Oznámenia nebudú použité k spusteniu</string>
   <string name="doze_brightness_level_title">Úroveň jasu</string>
   <string name="onehundred_ms">100 ms</string>
@@ -227,7 +227,7 @@
   <string name="carrier_label_hide_label_title">Skryť upozornenie</string>
   <string name="carrier_label_number_of_notification_icons_title">Max počet ikon pred skrytím</string>
   <string name="status_bar_font_style_title">Písmo</string>
-  <string name="status_bar_font_normal">Normálna</string>
+  <string name="status_bar_font_normal">Normálne</string>
   <string name="status_bar_font_italic">Kurzíva</string>
   <string name="status_bar_font_bold">Tučné</string>
   <string name="status_bar_font_bold_italic">Tučné kurzíva</string>
