@@ -244,8 +244,25 @@
   <string name="status_bar_font_condensed_bold">Condensé Gras</string>
   <string name="status_bar_font_condensed_bold_italic">Italique condensé gras</string>
   <string name="status_bar_font_medium">Moyen</string>
+  <string name="status_bar_font_medium_italic">Italique Moyen</string>
+  <string name="status_bar_font_black">Noir</string>
+  <string name="status_bar_font_black_italic">Noir Italique</string>
+  <string name="status_bar_font_dancingscript">DancingScript</string>
+  <string name="status_bar_font_dancingscript_bold">DancingScript Gras</string>
+  <string name="status_bar_font_comingsoon">ComingSoon</string>
+  <string name="status_bar_font_notoserif">NotoSerif normale</string>
+  <string name="status_bar_font_notoserif_italic">NotoSerif Italique</string>
+  <string name="status_bar_font_notoserif_bold">NotoSerif Gras</string>
+  <string name="status_bar_font_notoserif_bold_italic">NotoSerif Gras Italique</string>
   <!-- Lock Clock Fonts -->
+  <string name="lock_clock_font_title">Options de polices</string>
+  <string name="lock_clock_font_summary">Modifier la police d\'écriture de l\'horloge de l\'écran de déverrouillage</string>
+  <string name="lockdate_font_size_title">Taille de la police pour la Date</string>
+  <string name="lockclock_font_size_title">Taille de la police pour l\'Horloge</string>
+  <string name="lock_date_font_summary">Personnaliser la police pour la date</string>
   <string name="lock_date_font_title">Date</string>
+  <string name="lock_clock_font_dialog_title">Sélectionnez la police d\'horloge de l\'écran verrouillage</string>
+  <string name="lock_clock_font_stock">Normale (défaut)</string>
   <string name="lock_clock_font_bold">Gras</string>
   <string name="lock_clock_font_light">Clair</string>
   <string name="lock_clock_font_italic">Italique</string>
@@ -256,6 +273,23 @@
   <string name="lock_clock_font_condensed_normal">Condensé</string>
   <string name="lock_clock_font_condensed_italic">Italique Condensé</string>
   <string name="lock_clock_font_condensed_bold">Condensé Gras</string>
+  <string name="lock_clock_font_condensed_bold_italic">Condensé Gras Italique</string>
   <string name="lock_clock_font_medium_normal">Moyen</string>
+  <string name="lock_clock_font_medium_italic">Italique Moyen</string>
   <!-- Screen state service -->
+  <string name="screen_state_toggles_title">Suspendre les actions</string>
+  <string name="screen_state_toggles_enable_title">Activer</string>
+  <string name="screen_state_toggles_enable_summary">Les actions seront exécutées sur écran éteint. Sur écran allumé l\'état précédent sera restauré.</string>
+  <string name="screen_state_toggles_mobile_title">Réseaux mobiles</string>
+  <string name="screen_state_toggles_location_title">Emplacement</string>
+  <string name="screen_state_toggles_twog">Basculer vers 2G</string>
+  <string name="screen_state_toggles_twog_summary">Le mode réseau basculera vers la 2G à l\'extinction de l\'écran</string>
+  <string name="screen_state_toggles_gps">Désactiver le GPS</string>
+  <string name="screen_state_toggles_gps_summary">Le service de localisation GPS sera désactivé sur écran éteint</string>
+  <string name="screen_state_toggles_mobile_data">Désactiver les données mobiles</string>
+  <string name="screen_state_toggles_mobile_data_summary">La connexion des données mobiles sera désactivée à l\'extinction de l\'écran</string>
+  <string name="screen_state_off_delay_title">Délai des actions à l\'extinction de l\'écran</string>
+  <string name="screen_state_off_delay_summary">Nombre de secondes à attendre avant d’effectuer des actions après extinction de l\'écran</string>
+  <string name="screen_state_on_delay_title">Délai des actions à l\'allumage de l\'écran</string>
+  <string name="screen_state_on_delay_summary">Nombre de secondes à attendre avant d’effectuer des actions après l\'allumage de l\'écran</string>
 </resources>
