@@ -281,7 +281,7 @@
   <string name="screen_state_toggles_enable_title">Activer</string>
   <string name="screen_state_toggles_enable_summary">Les actions seront exécutées sur écran éteint. Sur écran allumé l\'état précédent sera restauré.</string>
   <string name="screen_state_toggles_mobile_title">Réseaux mobiles</string>
-  <string name="screen_state_toggles_location_title">Emplacement</string>
+  <string name="screen_state_toggles_location_title">Localisation</string>
   <string name="screen_state_toggles_twog">Basculer vers 2G</string>
   <string name="screen_state_toggles_twog_summary">Le mode réseau basculera vers la 2G à l\'extinction de l\'écran</string>
   <string name="screen_state_toggles_gps">Désactiver le GPS</string>
