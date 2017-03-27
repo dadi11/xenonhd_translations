@@ -177,6 +177,8 @@
   <string name="hide_lockscreen_clock_summary_on">Widget de reloj en la pantalla de bloqueo</string>
   <string name="hide_lockscreen_clock_summary_off">Widget de reloj escondido en la pantalla de bloqueo</string>
   <string name="hide_lockscreen_date_title">Widget de la fecha</string>
+  <string name="hide_lockscreen_date_summary_on">Mostrando fecha debajo del widget de reloj</string>
+  <string name="hide_lockscreen_date_summary_off">Ocultando fecha debajo del widget de reloj </string>
   <string name="hide_lockscreen_alarm_title">Texto de alarma</string>
   <!-- Emergency button -->
   <string name="emergency_button_title">Botón de emergencia</string>
