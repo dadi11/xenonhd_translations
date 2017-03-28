@@ -184,9 +184,9 @@
   <string name="hide_lockscreen_alarm_summary_on">Alarme affichée en dessous du widget horloge</string>
   <string name="hide_lockscreen_alarm_summary_off">Texte d\'alarme sous le widget horloge caché</string>
   <!-- Emergency button -->
-  <string name="emergency_button_title">Boutton d\'urgence</string>
-  <string name="emergency_button_summary_on">Boutton d\'urgence affiché sur l\'écran de verrouillage</string>
-  <string name="emergency_button_summary_off">Boutton d\'urgence masqué sur l\'écran de verrouillage</string>
+  <string name="emergency_button_title">Bouton d\'urgence</string>
+  <string name="emergency_button_summary_on">Bouton d\'urgence affiché sur l\'écran de verrouillage</string>
+  <string name="emergency_button_summary_off">Bouton d\'urgence masqué sur l\'écran de verrouillage</string>
   <!-- Fingerprint authentication vibration -->
   <string name="fprint_sucess_vib_title">Vibration d\'authentification de l\'empreinte digitale</string>
   <string name="fprint_sucess_vib_summary">Vibrer lors de l\'authentification réussie de l\'empreinte digitale</string>
