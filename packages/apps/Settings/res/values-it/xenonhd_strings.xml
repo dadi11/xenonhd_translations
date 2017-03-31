@@ -290,4 +290,5 @@
   <string name="screen_state_off_delay_summary">Numero di secondi di attesa prima di eseguire le azioni dopo che lo schermo si è spento</string>
   <string name="screen_state_on_delay_title">Ritardo azioni a schermo acceso</string>
   <string name="screen_state_on_delay_summary">Numero di secondi di attesa prima di eseguire le azioni dopo che lo schermo si è acceso</string>
+  <!-- Fingerprint max failed attempts -->
 </resources>
