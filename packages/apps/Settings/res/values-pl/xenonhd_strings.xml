@@ -290,4 +290,5 @@
   <string name="screen_state_off_delay_summary">Liczba sekund oczekiwania przed wykonaniem akcji po wyłączeniu ekranu</string>
   <string name="screen_state_on_delay_title">Opóźnienie akcji po włączeniu ekranu</string>
   <string name="screen_state_on_delay_summary">Liczba sekund oczekiwania przed wykonaniem akcji po włączeniu ekranu</string>
+  <!-- Fingerprint max failed attempts -->
 </resources>
