@@ -292,4 +292,5 @@
   <string name="screen_state_off_delay_summary">Nombre de secondes à attendre avant d’effectuer des actions après extinction de l\'écran</string>
   <string name="screen_state_on_delay_title">Délai des actions à l\'allumage de l\'écran</string>
   <string name="screen_state_on_delay_summary">Nombre de secondes à attendre avant d’effectuer des actions après l\'allumage de l\'écran</string>
+  <!-- Fingerprint max failed attempts -->
 </resources>
