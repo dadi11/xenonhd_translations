@@ -255,4 +255,5 @@
   <string name="lock_clock_font_condensed_bold">Schmal + fett</string>
   <!-- Screen state service -->
   <string name="screen_state_toggles_twog">Wechseln zu 2G</string>
+  <!-- Fingerprint max failed attempts -->
 </resources>
