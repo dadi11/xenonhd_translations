@@ -163,7 +163,7 @@
   <string name="dashboard_suggestions_title">Suggestions</string>
   <string name="summary_dashboard_suggestions_enabled">Les suggestions du tableau de bord sont activées</string>
   <string name="summary_dashboard_suggestions_disabled">Les suggestions du tableau de bord sont désactivées</string>
-  <string name="remove_tile_summaries_title">Résummés</string>
+  <string name="remove_tile_summaries_title">Résumés</string>
   <string name="remove_tile_summaries_summary_enabled">Les résumés du tableau de bord sont activés</string>
   <string name="remove_tile_summaries_summary_disabled">Les résumés du tableau de bord sont désactivés</string>
   <string name="dashboard_conditions_title">Conditions</string>
