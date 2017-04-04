@@ -14,7 +14,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
   <string name="xenonhd_version">Version de XenonHD</string>
-  <string name="xenonhd_version_default">Inconnu</string>
+  <string name="xenonhd_version_default">Inconnue</string>
   <string name="xenonhd_maintainer">Mainteneur</string>
   <string name="xenonhd_maintainer_default">Inconnu</string>
   <!-- Changelog -->
