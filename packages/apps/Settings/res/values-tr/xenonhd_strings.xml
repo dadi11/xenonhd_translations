@@ -84,6 +84,7 @@
   <string name="selinux_title">SELinux modu</string>
   <string name="selinux_permissive_title">İzinler</string>
   <string name="selinux_enforcing_title">Zorunlu</string>
+  <string name="selinux_permissive_toast_title">Selinux permissive moda ayarlandı!</string>
   <!-- Recents Membar -->
   <string name="recents_membar">Bellek Çubuğu</string>
   <string name="systemui_recents_mem_display_title">Bellek çubuğunu göster</string>
@@ -173,17 +174,34 @@
   <string name="dashboard_columns_landscape_title">Sütunlar (yatay)</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
   <string name="hide_lockscreen_clock_title">Saat widgeti</string>
+  <string name="hide_lockscreen_clock_summary_on">Saat widgeti lockscreen üzerinde gösteriliyor</string>
+  <string name="hide_lockscreen_clock_summary_off">Saat widgeti lockscreen üzerinde gizlendi</string>
   <string name="hide_lockscreen_date_title">Tarih widgeti</string>
+  <string name="hide_lockscreen_date_summary_on">Gösterilen saat widget altında tarih açık</string>
+  <string name="hide_lockscreen_date_summary_off">Saat widget altında tarih gizli</string>
   <string name="hide_lockscreen_alarm_title">Alarm metni</string>
+  <string name="hide_lockscreen_alarm_summary_on">Alarm metin altında gösterilen saat widgeti açık</string>
+  <string name="hide_lockscreen_alarm_summary_off">Alarm metin altında saat widgeti gizli</string>
   <!-- Emergency button -->
   <string name="emergency_button_title">Acil durum butonu</string>
   <string name="emergency_button_summary_on">Acil durum butonu kilit ekranında gösterilir</string>
   <string name="emergency_button_summary_off">Acil durum butonu kilit ekranında gizlenir</string>
   <!-- Fingerprint authentication vibration -->
+  <string name="fprint_sucess_vib_title">Parmak izi doğrulama titreşimi</string>
+  <string name="fprint_sucess_vib_summary">Başarılı parmak izi kimlik doğrulanmasında titre</string>
   <!-- Fingerprint unlock keystore -->
+  <string name="fp_unlock_keystore_title">Yeniden başlatmadan sonra parmakizi ile kilit açma</string>
+  <string name="fp_unlock_keystore_summary">Her zaman, yeniden başlatıldıktan sonra bile parmak izi ile kilit açma</string>
   <!-- Hide Statusbar on Lockscreen -->
+  <string name="lockscreen_hide_status_bar_title">Durum çubuğunu gizle</string>
+  <string name="lockscreen_hide_status_bar_summary">Görünür yapmak için durum çubuğuna dokunun</string>
   <!-- Force authorize substratum packages -->
+  <string name="force_authorize_substratum_packages_title">Her tema uygulamasını zorla yetkilendir</string>
+  <string name="force_authorize_substratum_packages_summary">Bilinmeyen kaynaklardan tema uygulamalarına izin ver</string>
   <!-- QS tile labels visibility -->
+  <string name="qs_menu_item_titles">QS başlıkları</string>
+  <string name="qs_menu_item_titles_summaryOn">Etiketler açık</string>
+  <string name="qs_menu_item_titles_summaryOff">Etiketler gizli</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">Renk Seçici</string>
   <string name="press_color_to_apply">Uygulamak İstediğiniz Yere Basın</string>
@@ -191,6 +209,7 @@
   <string name="set">Ayarla</string>
   <string name="color_default">Varsayılan</string>
   <!-- Carrier label -->
+  <string name="carrier_title">Operatör Etiketi</string>
   <string name="show_carrier_disabled">Devre Dışı</string>
   <string name="status_bar_font_normal">Normal</string>
   <string name="status_bar_font_light">Parlak</string>
