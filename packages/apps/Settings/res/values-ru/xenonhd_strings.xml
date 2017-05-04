@@ -231,7 +231,7 @@
   <string name="status_bar_font_italic">Курсив</string>
   <string name="status_bar_font_bold">Жирный</string>
   <string name="status_bar_font_bold_italic">Жирный курсив</string>
-  <string name="status_bar_font_light">Светлая</string>
+  <string name="status_bar_font_light">Легкий</string>
   <string name="status_bar_font_light_italic">Легкий курсив</string>
   <string name="status_bar_font_thin">Тонкий</string>
   <string name="status_bar_font_thin_italic">Тонкий курсив</string>
