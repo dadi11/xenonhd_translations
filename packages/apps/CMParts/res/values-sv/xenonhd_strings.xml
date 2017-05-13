@@ -28,6 +28,7 @@
   <string name="battery_bar_style_center_mirrored">Centerspeglad</string>
   <string name="battery_bar_style_reversed">Omvänd</string>
   <string name="battery_bar_use_gradient_color">Använd gradient färg</string>
+  <string name="battery_bar_gradient_color_summary">Använd gradient färg som skala för batterinivån</string>
   <!-- Battery icon -->
   <!-- Brightness slider -->
   <string name="qs_brightness_slider_title">Ljusstyrkereglage</string>
