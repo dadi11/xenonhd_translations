@@ -32,5 +32,6 @@
   <!-- Path data for Solid battery -->
   <!-- High Brightness Mode Tile -->
   <string name="quick_settings_high_brightness">Hög ljusstyrka</string>
+  <string name="high_brightness_warning">Läget för hög ljusstyrka är aktiverat, åsidosätter nuvarande inställningar för ljusstyrka</string>
   <!-- Pirate alert -->
 </resources>
