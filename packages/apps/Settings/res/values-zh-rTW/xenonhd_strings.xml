@@ -296,4 +296,5 @@
   <string name="fp_five_attempts">第 5 次嘗試</string>
   <string name="fp_ten_attempts">第 10 次嘗試</string>
   <string name="fp_fifteen_attempts">第 15 次嘗試</string>
+  <!-- Lockscreen battery info indicator  -->
 </resources>
