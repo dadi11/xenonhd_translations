@@ -45,6 +45,9 @@
   <!-- Superuser indicator on status bar -->
   <!--Status bar date -->
   <string name="status_bar_date_style_normal">Κανονική</string>
+  <string name="status_bar_date_style_lowercase">Πεζά</string>
+  <string name="status_bar_date_style_uppercase">Κεφαλαία</string>
+  <string name="status_bar_date_string_edittext_summary">Εισάγετε συμβολοσειρά</string>
   <string name="menu_save">Αποθ/ση</string>
   <string name="menu_cancel">Απόρριψη</string>
   <!-- Navbar Animation -->
