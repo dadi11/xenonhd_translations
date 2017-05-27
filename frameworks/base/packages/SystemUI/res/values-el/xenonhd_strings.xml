@@ -35,6 +35,7 @@
   <!-- QS Lockscreen Tile -->
   <string name="quick_settings_lockscreen_label">Οθόνη κλειδώματος</string>
   <string name="accessibility_quick_settings_lock_screen_off">Απενεργοποίηση οθόνης κλειδώματος</string>
+  <string name="accessibility_quick_settings_lock_screen_on">Ενεργοποίηση οθόνης κλειδώματος</string>
   <string name="accessibility_quick_settings_lock_screen_changed_off">Απενεργοποιημένη οθόνη κλειδώματος</string>
   <string name="accessibility_quick_settings_lock_screen_changed_on">Ενεργοποιημένη οθόνη κλειδώματος</string>
 </resources>
