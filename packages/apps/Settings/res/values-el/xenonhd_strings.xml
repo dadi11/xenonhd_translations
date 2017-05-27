@@ -49,6 +49,8 @@
   <!-- Three-fingers-swipe to screenshot -->
   <!-- Long press back to kill configurable timeout -->
   <!-- Doze pulse options -->
+  <string name="summary_doze_enabled">Ενεργοποιημένο</string>
+  <string name="summary_doze_disabled">Απενεργοποιημένο</string>
   <!-- Recents panel settings -->
   <!-- Dashboard options -->
   <!-- Hide Lockscreen clock, date, & alarm -->
@@ -59,7 +61,10 @@
   <!-- Force authorize substratum packages -->
   <!-- QS tile labels visibility -->
   <!-- Color Picker -->
+  <string name="set">Ορισμός</string>
+  <string name="color_default">Προεπιλεγμένο</string>
   <!-- Carrier label -->
+  <string name="show_carrier_disabled">Απενεργοποιημένο</string>
   <!-- Lock Clock Fonts -->
   <!-- Screen state service -->
   <!-- Fingerprint max failed attempts -->
