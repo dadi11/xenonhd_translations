@@ -17,4 +17,6 @@
   <string name="lucky_patcher_installed_title">LuckyPatcher найден!!!</string>
   <string name="lucky_patcher_installed_message">Я признаю, что я вор и пират. Я люблю воровать деньги разработчиков и хвастаюсь этим.</string>
   <string name="lucky_patcher_admit">Я признаю</string>
+  <!-- Title of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
+  <!-- Description of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
 </resources>
