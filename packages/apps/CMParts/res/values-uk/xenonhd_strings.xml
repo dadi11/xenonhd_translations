@@ -42,6 +42,7 @@
   <!-- Color Picker -->
   <string name="dialog_color_picker">Палітра кольорів</string>
   <string name="press_color_to_apply">Натисніть на колір нижче, щоб застосувати</string>
+  <string name="hex">Hex код:</string>
   <string name="set">Задати</string>
   <string name="color_default">За замовчуванням</string>
   <!-- Network traffic -->
@@ -82,7 +83,16 @@
   <string name="status_bar_date_style_uppercase">Верхній регістр</string>
   <string name="status_bar_date_format_custom">Користувацький java формат</string>
   <string name="status_bar_date_string_edittext_title">Має бути в форматі ММ/ДД/РР</string>
+  <string name="status_bar_date_string_edittext_summary">Введіть значення</string>
+  <string name="menu_save">Зберегти</string>
+  <string name="menu_cancel">Скасувати</string>
   <!-- Navbar Animation -->
+  <string name="pixel_navbar_anim_title">Анімація панелі навігації</string>
+  <string name="pixel_navbar_anim_summary">Уввімкніть заново панель навігації або перезавантажтесь для застосування налаштувань. Теми можуть перезаписати цю настройку</string>
   <!-- Torch -->
+  <string name="torch_long_press_power_gesture_title">Довге натискання кнопки живлення для увімкнення ліхтарика</string>
+  <string name="torch_long_press_power_gesture_desc">Увімкніть ліхтарик довгим натисканням кнопки живлення, при вимкненому екрані</string>
   <!-- One-handed mode -->
+  <string name="one_handed_mode_title">Режим \"Управління однією рукою\"</string>
+  <string name="one_handed_mode_summary">Дозволяє проведенням по панелі навігації увімкнути режим \"Управління однією рукою\"</string>
 </resources>
