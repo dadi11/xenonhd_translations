@@ -38,16 +38,52 @@
   <!-- Notification sound timeout -->
   <string name="app_notification_sound_timeout_title">Мінімальний час між звуками повідомлень</string>
   <string name="app_notification_sound_timeout_summary_template">Дозволити звуки або вібрації не більше ніж один раз кожні <xliff:g id="duration">%1$s </xliff:g></string>
+  <string name="app_notification_sound_timeout_value_none">Без обмежень</string>
+  <string name="app_notification_sound_timeout_value_10_seconds">10 секунд</string>
+  <string name="app_notification_sound_timeout_value_30_seconds">30 секунд</string>
+  <string name="app_notification_sound_timeout_value_1_minute">1 хвилина</string>
+  <string name="app_notification_sound_timeout_value_5_minutes">5 хвилин</string>
+  <string name="app_notification_sound_timeout_value_15_minutes">10 хвилин</string>
+  <string name="app_notification_sound_timeout_value_30_minutes">30 хвилин</string>
   <!-- Randomize MAC addresses -->
+  <string name="randomize_mac_title">Рандомізувати MAC-адресса</string>
   <!-- Volume Steps -->
+  <string name="volume_steps_title">Рівні гучності</string>
+  <string name="volume_steps_alarm_title">Будильник</string>
+  <string name="volume_steps_dtmf_title">DTMF (набір)</string>
   <string name="volume_steps_music_title">Музика</string>
+  <string name="volume_steps_notification_title">Повідомлення</string>
+  <string name="volume_steps_ring_title">Дзвінок</string>
+  <string name="volume_steps_system_title">Система</string>
+  <string name="volume_steps_voice_call_title">Голосовий виклик</string>
+  <string name="volume_steps_reset">Скидання</string>
   <!-- DayNight Theme -->
+  <string name="night_mode_title">Тема</string>
+  <string name="night_mode_no">Світла</string>
+  <string name="night_mode_yes">Темна</string>
   <!-- Screenshot sound -->
+  <string name="screenshot_sound_title">Звук скріншота</string>
+  <string name="screenshot_sound_summary">Програвати звук при скріншоті</string>
   <!-- Manage applications: show substratum overlays -->
+  <string name="filter_substratum_apps">Шари Substratum</string>
+  <string name="menu_show_substratum">Відображати шари</string>
+  <string name="menu_hide_substratum">Приховати шари</string>
   <!-- Manage applications: show substratum icon overlays -->
+  <string name="filter_substratum_icons">Шари іконок Substratum</string>
+  <string name="menu_show_substratum_icons">Відображати шари іконок</string>
+  <string name="menu_hide_substratum_icons">Приховати іконку шарів</string>
   <!-- XenonHD Configurations-->
+  <string name="xenonhd_title">Конфігурації</string>
+  <string name="xenonhd_misc_title">Різне</string>
+  <string name="xenonhd_lockscreen_title">Екран блокування</string>
+  <string name="xenonhd_ui_title">Інтерфейс</string>
   <!-- Selinux Switch -->
+  <string name="selinux_switch_title">SELinux попередження</string>
+  <string name="selinux_title">Режим SELinux</string>
+  <string name="selinux_permissive_title">Дозволено</string>
+  <string name="selinux_enforcing_title">Забезпечення</string>
   <!-- Recents Membar -->
+  <string name="recents_membar">Смуга використання Озу</string>
   <!-- Quick settings config -->
   <!-- Media art -->
   <!-- Quick unlock -->
@@ -74,8 +110,10 @@
   <!-- Carrier label -->
   <string name="show_carrier_disabled">Вимкнено</string>
   <string name="status_bar_font_normal">Звичайний</string>
+  <string name="status_bar_font_light">Світла</string>
   <!-- Lock Clock Fonts -->
   <string name="lock_date_font_title">Дата</string>
+  <string name="lock_clock_font_light">Світла</string>
   <!-- Screen state service -->
   <!-- Fingerprint max failed attempts -->
   <!-- Lockscreen battery info indicator  -->
