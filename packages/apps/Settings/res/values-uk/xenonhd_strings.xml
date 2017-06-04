@@ -32,9 +32,6 @@
   <string name="device_info_title">Інформація про пристрій</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
   <string name="local_backup_password_title">Пароль для резервування</string>
-  <!-- Double tap to sleep on lockscreen -->
-  <string name="double_tap_sleep_anywhere_title">DT2S на екрані блокування</string>
-  <string name="double_tap_sleep_anywhere_summary">Натисніть двічі на екрані блокування для переходу в режим сну</string>
   <!-- Notification sound timeout -->
   <string name="app_notification_sound_timeout_title">Мінімальний час між звуками повідомлень</string>
   <string name="app_notification_sound_timeout_summary_template">Дозволити звуки або вібрації не більше ніж один раз кожні <xliff:g id="duration">%1$s </xliff:g></string>
@@ -85,7 +82,6 @@
   <!-- Recents Membar -->
   <string name="recents_membar">Смуга використання Озу</string>
   <!-- Quick settings config -->
-  <!-- Media art -->
   <!-- Quick unlock -->
   <!-- Three-fingers-swipe to screenshot -->
   <!-- Long press back to kill configurable timeout -->
