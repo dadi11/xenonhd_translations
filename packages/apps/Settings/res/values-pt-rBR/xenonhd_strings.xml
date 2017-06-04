@@ -32,9 +32,6 @@
   <string name="device_info_title">Informações do telefone</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
   <string name="local_backup_password_title">Senha de backup do desktop</string>
-  <!-- Double tap to sleep on lockscreen -->
-  <string name="double_tap_sleep_anywhere_title">DT2S na tela de bloqueio</string>
-  <string name="double_tap_sleep_anywhere_summary">Toque duplo na barra de status para desligar a tela</string>
   <!-- Notification sound timeout -->
   <string name="app_notification_sound_timeout_title">Tempo mínimo entre sons de notificação</string>
   <string name="app_notification_sound_timeout_summary_template">Permitir que sons ou vibrações não mais do que uma vez todos os <xliff:g id="duration">%1$s </xliff:g></string>
@@ -92,9 +89,6 @@
   <string name="qs_rows_portrait_title">Linhas (retrato)</string>
   <string name="qs_rows_landscape_title">Linhas (paisagem)</string>
   <string name="qs_columns_title">Colunas</string>
-  <!-- Media art -->
-  <string name="media_art_title">Mostrar capa do album de música</string>
-  <string name="media_art_summary">Arte de capa de mídia de exibição na tela de bloqueio</string>
   <!-- Quick unlock -->
   <string name="quick_unlock_warning">Precaução de desbloqueio rápida</string>
   <string name="quick_unlock_warning_summary">Esta característica ignora os mecanismos de segurança importante e quase certamente maltrata o suporte a múltiplos usuários. Use a seu próprio risco</string>
