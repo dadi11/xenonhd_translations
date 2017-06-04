@@ -192,7 +192,12 @@
   <string name="set">Aplicar</string>
   <string name="color_default">Padrão</string>
   <!-- Carrier label -->
+  <string name="custom_carrier_label_explain">Por favor, insira um novo texto ou deixe em branco para reverter ao original.</string>
   <string name="show_carrier_disabled">Desativado</string>
+  <string name="show_carrier_keyguard">Apenas na tela de bloqueio</string>
+  <string name="show_carrier_statusbar">Apenas na barra de status</string>
+  <string name="show_carrier_both">Tela de bloqueio e barra de status</string>
+  <string name="show_carrier_enabled">Tela de bloqueio e barra de status</string>
   <string name="status_bar_font_normal">Normal</string>
   <string name="status_bar_font_light">Claro</string>
   <!-- Lock Clock Fonts -->
