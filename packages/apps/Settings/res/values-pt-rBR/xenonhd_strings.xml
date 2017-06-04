@@ -82,6 +82,7 @@
   <string name="selinux_title">Modo do SElinux</string>
   <string name="selinux_permissive_title">Permissivo</string>
   <string name="selinux_enforcing_title">Impondo</string>
+  <string name="selinux_permissive_toast_title">SELinux definido como permissivo!</string>
   <!-- Recents Membar -->
   <string name="recents_membar">Barra de memória</string>
   <string name="systemui_recents_mem_display_title">Mostrar barra de memória</string>
@@ -166,11 +167,18 @@
   <string name="dashboard_columns_portrait_title">Colunas (retrato)</string>
   <string name="dashboard_columns_landscape_title">Colunas (paisagem)</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
+  <string name="hide_lockscreen_clock_title">Widget de relógio</string>
+  <string name="hide_lockscreen_date_title">Widget de data</string>
   <string name="hide_lockscreen_alarm_title">Texto de alarme</string>
   <!-- Emergency button -->
   <string name="emergency_button_title">Botão de emergência</string>
+  <string name="emergency_button_summary_on">Exibir botão de emergência na tela de bloqueio</string>
+  <string name="emergency_button_summary_off">Esconder botão de emergência na tela de bloqueio</string>
   <!-- Fingerprint authentication vibration -->
+  <string name="fprint_sucess_vib_title">Vibração na autenticação da impressão digital</string>
+  <string name="fprint_sucess_vib_summary">Vibrar na autenticação de impressão digital com sucesso</string>
   <!-- Fingerprint unlock keystore -->
+  <string name="fp_unlock_keystore_title">Desbloqueio com impressão digital após a reinicialização</string>
   <string name="fp_unlock_keystore_summary">Permite que o dispositivo seja sempre destravado com impressão digital, mesmo após a reinicialização</string>
   <!-- Hide Statusbar on Lockscreen -->
   <string name="lockscreen_hide_status_bar_title">Ocultar a barra de status</string>
