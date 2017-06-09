@@ -90,12 +90,27 @@
   <string name="qs_layout_category">خيارات إعدادات سريعة</string>
   <string name="qs_rows_portrait_title">الصفوف (رأسي)</string>
   <string name="qs_rows_landscape_title">الصفوف (أفقي)</string>
+  <string name="qs_columns_title">الأعمدة</string>
+  <string name="qs_easy_toggle_title">تبديل سهل QS متقدمة</string>
+  <string name="qs_easy_toggle_summary">تمكين عمل الضغطة واحدة لتمكين/تعطيل لاسلكي والبيانات المتنقلة وتقنية البلوتوث. اضغط لمدة طويلة لرؤية إعدادات متقدمة</string>
   <!-- Quick unlock -->
+  <string name="quick_unlock_warning">تح\ير الغاء القفل السريع </string>
+  <string name="quick_unlock_warning_summary">هذه الميزة يتجاوز آليات الأمان الهامة ويكاد ان لا يدعم المستخدمين المتعددة. استخدام على مسؤوليتك الخاصة</string>
+  <string name="unlock_quick_unlock_control_title">إلغاء قفل سريع</string>
+  <string name="unlock_quick_unlock_control_summary">فتح تلقائياً عندما يتم إدخال PIN/كلمة السر صحيحة</string>
   <!-- Three-fingers-swipe to screenshot -->
+  <string name="three_finger_gesture">مرر  لالتقاط الشاشة</string>
+  <string name="three_finger_gesture_summary">انتقد ثلاثة أصابع أخذ لقطة للشاشة</string>
   <!-- Long press back to kill configurable timeout -->
+  <string name="kill_app_longpress_timeout_title">مدة فترة الضغط المطول زر الرجوع</string>
+  <string name="timeout_2000">2 ثانية (افتراضي)</string>
+  <string name="timeout_1500">ثانية ونصف</string>
+  <string name="timeout_1000">ثانية واحدة</string>
+  <string name="timeout_500">نصف ثانية</string>
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">مفعل</string>
   <string name="summary_doze_disabled">غير مفعل</string>
+  <string name="doze_overwrite_value_title">استبدال الافتراضية</string>
   <!-- Recents panel settings -->
   <string name="recents_clear_all_location_top_center">أعلى الوسط</string>
   <string name="recents_clear_all_location_bottom_right">اسفل اليمين</string>
