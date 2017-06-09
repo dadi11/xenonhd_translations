@@ -56,6 +56,11 @@
   <!-- Force authorize substratum packages -->
   <!-- QS tile labels visibility -->
   <!-- Color Picker -->
+  <string name="dialog_color_picker">منتقي الألوان</string>
+  <string name="press_color_to_apply">اضغط على اللون أدناه لتطبيق</string>
+  <string name="hex">ست عشري:</string>
+  <string name="set">تعيين</string>
+  <string name="color_default">الوضع الأصلي</string>
   <!-- Carrier label -->
   <string name="show_carrier_disabled">غير مفعل</string>
   <string name="status_bar_font_normal">عادي</string>
