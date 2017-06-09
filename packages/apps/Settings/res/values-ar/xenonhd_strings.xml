@@ -13,7 +13,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
+  <string name="xenonhd_version">الإصدار XenonHD (زينون اتش دي)</string>
   <string name="xenonhd_version_default">مجهول</string>
+  <string name="xenonhd_maintainer">المشرفون</string>
   <string name="xenonhd_maintainer_default">مجهول</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">سجل التغيرات</string>
@@ -25,21 +27,69 @@
   <string name="xenonota_title">تحديثات XenonHD</string>
   <string name="xenonota_summary">التحقق من وجود تحديثات ROM</string>
   <!-- Dev Options Enabled by Default -->
+  <string name="show_dev_already_enabled">لا حاجة، إعدادات البرمجة مفعلة بشكل افتراضي.</string>
   <!-- Phone info shortcut -->
   <string name="device_info_title">معلومات الهاتف</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+  <string name="local_backup_password_title">كلمة مرور النسخ الاحتياطي سطح المكتب</string>
   <!-- Notification sound timeout -->
+  <string name="app_notification_sound_timeout_title">الحد الأدنى من الوقت بين أصوات الإشعار</string>
+  <string name="app_notification_sound_timeout_summary_template">السماح بالصوت أو الاهتزاز ليس لأكثر من مرة واحدة كل <xliff:g id="duration">%1$s </xliff:g></string>
+  <string name="app_notification_sound_timeout_value_none">بدون قيود</string>
+  <string name="app_notification_sound_timeout_value_10_seconds">10 ثوان</string>
+  <string name="app_notification_sound_timeout_value_30_seconds">30 ثانية</string>
+  <string name="app_notification_sound_timeout_value_1_minute">دقيقة</string>
+  <string name="app_notification_sound_timeout_value_5_minutes">5 دقائق</string>
+  <string name="app_notification_sound_timeout_value_15_minutes">10 دقائق</string>
+  <string name="app_notification_sound_timeout_value_30_minutes">30 دقيقة</string>
   <!-- Randomize MAC addresses -->
+  <string name="randomize_mac_title">تفعيل عناوين MAC بطريقة عشوائية</string>
+  <string name="randomize_mac_summary">تعيين عناوين MAC عشوائي عند تمكين أجهزة شبكة الاتصال. يستخدم التعشيه ماك خلال فحص ما إذا كان أو لم يتم تمكين هذا</string>
   <!-- Volume Steps -->
+  <string name="volume_steps_title">درجات الصوت</string>
+  <string name="volume_steps_alarm_title">المنبه</string>
+  <string name="volume_steps_dtmf_title">DTMF (الطلب)</string>
   <string name="volume_steps_music_title">الموسيقى</string>
+  <string name="volume_steps_notification_title">إخطار</string>
+  <string name="volume_steps_ring_title">جرس</string>
+  <string name="volume_steps_system_title">النظام</string>
+  <string name="volume_steps_voice_call_title">مكالمة صوتية</string>
+  <string name="volume_steps_reset">إعادة ضبط</string>
   <!-- DayNight Theme -->
+  <string name="night_mode_title">السِمة</string>
+  <string name="night_mode_no">فاتح (ابيض)</string>
+  <string name="night_mode_yes">مظلم(اسود)</string>
   <!-- Screenshot sound -->
+  <string name="screenshot_sound_title">صوت التقاط صورة للشاشة</string>
+  <string name="screenshot_sound_summary">تشغيل صوت عند التقاط صورة للشاشة</string>
   <!-- Manage applications: show substratum overlays -->
+  <string name="filter_substratum_apps">طبقات Substratum</string>
+  <string name="menu_show_substratum">أظهر الطبقات</string>
+  <string name="menu_hide_substratum">إخفاء الطبقات</string>
   <!-- Manage applications: show substratum icon overlays -->
+  <string name="filter_substratum_icons">طبقات ايقونة Substratum</string>
+  <string name="menu_show_substratum_icons">إظهار ايقونة الطبقات</string>
+  <string name="menu_hide_substratum_icons">إخفاء أيقونة الطبقات</string>
   <!-- XenonHD Configurations-->
+  <string name="xenonhd_title">إعدادات</string>
+  <string name="xenonhd_misc_title">خيارات متنوعة</string>
+  <string name="xenonhd_lockscreen_title">شاشة القفل</string>
+  <string name="xenonhd_ui_title">واجهة المستخدم (UI)</string>
   <!-- Selinux Switch -->
+  <string name="selinux_switch_title">تنبيه التبديل SELinux</string>
+  <string name="selinux_switch_summary">SELinux مجموعة من التعديلات النواة وأدوات مساحة المستخدم. تغيير أوضاع يتطلب الوصول إلى الجذر، ويمكن أن تتسبب في آثار غير مرغوب فيها. وأوصى متساهلة. استخدام على مسؤوليتك الخاصة</string>
+  <string name="selinux_title">SELinux وضع</string>
+  <string name="selinux_permissive_title">متساهلة</string>
+  <string name="selinux_enforcing_title">فارِضة</string>
+  <string name="selinux_permissive_toast_title">تعيين Selinux المتساهلة!</string>
   <!-- Recents Membar -->
+  <string name="recents_membar">شريط الذاكرة</string>
+  <string name="systemui_recents_mem_display_title">إظهار شريط الذاكرة</string>
+  <string name="systemui_recents_mem_display_summary">إظهار شريط ذاكرة الوصول العشوائي الحرة في الآونة الأخيرة تطبيقات العرض</string>
   <!-- Quick settings config -->
+  <string name="qs_layout_category">خيارات إعدادات سريعة</string>
+  <string name="qs_rows_portrait_title">الصفوف (رأسي)</string>
+  <string name="qs_rows_landscape_title">الصفوف (أفقي)</string>
   <!-- Quick unlock -->
   <!-- Three-fingers-swipe to screenshot -->
   <!-- Long press back to kill configurable timeout -->
@@ -47,7 +97,16 @@
   <string name="summary_doze_enabled">مفعل</string>
   <string name="summary_doze_disabled">غير مفعل</string>
   <!-- Recents panel settings -->
+  <string name="recents_clear_all_location_top_center">أعلى الوسط</string>
+  <string name="recents_clear_all_location_bottom_right">اسفل اليمين</string>
+  <string name="recents_clear_all_location_bottom_left">اسفل اليسار</string>
+  <string name="recents_clear_all_location_bottom_center">اسفل الوسط</string>
   <!-- Dashboard options -->
+  <string name="dashboard_category">خيارات اللوحة الرئيسية</string>
+  <string name="dashboard_suggestions_title">اقتراحات</string>
+  <string name="summary_dashboard_suggestions_enabled">إقتراحات تطبيق الإعدادات مفعّلة</string>
+  <string name="summary_dashboard_suggestions_disabled">إقتراحات تطبيق الإعدادات معطّلة</string>
+  <string name="remove_tile_summaries_title">الملخصات</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
   <!-- Emergency button -->
   <!-- Fingerprint authentication vibration -->
@@ -64,7 +123,10 @@
   <!-- Carrier label -->
   <string name="show_carrier_disabled">غير مفعل</string>
   <string name="status_bar_font_normal">عادي</string>
+  <string name="status_bar_font_light">فاتح (ابيض)</string>
   <!-- Lock Clock Fonts -->
+  <string name="lock_date_font_title">التاريخ</string>
+  <string name="lock_clock_font_light">فاتح (ابيض)</string>
   <!-- Screen state service -->
   <!-- Fingerprint max failed attempts -->
   <!-- Lockscreen battery info indicator  -->
