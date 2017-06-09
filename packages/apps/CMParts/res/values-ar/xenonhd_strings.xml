@@ -67,9 +67,23 @@
   <string name="network_traffic_hidearrow">اخفاء الاسهم</string>
   <string name="network_traffic_hidearrow_summary">اخفاء الاسهم في مؤشر حركة البيانات</string>
   <!-- Superuser indicator on status bar -->
+  <string name="su_indicator">مؤشر superuser</string>
+  <string name="su_indicator_summary_on">مؤشر superuser مرئي عند وجود مقطع فعال</string>
+  <string name="su_indicator_summary_off">تبديل لاظهار مؤشر superuser عند وجود مقطع فعال</string>
   <!--Status bar date -->
+  <string name="status_bar_clock_category">الساعة</string>
+  <string name="status_bar_date_title">التاريخ</string>
+  <string name="status_bar_date_none">مخفي (إفتراضي)</string>
+  <string name="status_bar_date_small">صغيرة</string>
   <string name="status_bar_date_normal">عادي</string>
+  <string name="status_bar_date_format_title">صيغة التاريخ</string>
+  <string name="status_bar_date_style">نمط التاريخ</string>
   <string name="status_bar_date_style_normal">عادي</string>
+  <string name="status_bar_date_style_lowercase">احرف صغيرة</string>
+  <string name="status_bar_date_style_uppercase">احرف كبيرة</string>
+  <string name="status_bar_date_format_custom">نسق جاڤا مخصص</string>
+  <string name="status_bar_date_string_edittext_title">يجب أن يكون بنسق التاريخ مثال. شهر/يوم/سنة</string>
+  <string name="status_bar_date_string_edittext_summary">ادخل سلسلة</string>
   <!-- Navbar Animation -->
   <!-- Torch -->
   <!-- One-handed mode -->
