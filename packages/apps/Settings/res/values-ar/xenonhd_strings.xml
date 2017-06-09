@@ -107,10 +107,34 @@
   <string name="summary_dashboard_suggestions_enabled">إقتراحات تطبيق الإعدادات مفعّلة</string>
   <string name="summary_dashboard_suggestions_disabled">إقتراحات تطبيق الإعدادات معطّلة</string>
   <string name="remove_tile_summaries_title">الملخصات</string>
+  <string name="remove_tile_summaries_summary_enabled">ملخصات تطبيق الإعدادات مفعّلة</string>
+  <string name="remove_tile_summaries_summary_disabled">ملخصات تطبيق الإعدادات معطّلة</string>
+  <string name="dashboard_conditions_title">الشروط</string>
+  <string name="summary_dashboard_conditions_enabled">شروط تطبيق الإعدادات مفعّلة</string>
+  <string name="summary_dashboard_conditions_disabled">شروط تطبيق الإعدادات معطّلة</string>
+  <string name="dashboard_columns_title">أعمدة تطبيق الإعدادات</string>
+  <string name="dashboard_columns_summary">تغيير عدد الأعمدة المعروضة في لوحة المعلومات</string>
+  <string name="dashboard_columns_portrait_title">الأعمدة (عمودي)</string>
+  <string name="dashboard_columns_landscape_title">الأعمدة (أفقي)</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
+  <string name="hide_lockscreen_clock_title">الساعة مصغرة</string>
+  <string name="hide_lockscreen_clock_summary_on">اظهار الساعة المصغرة على شاشة القفل</string>
+  <string name="hide_lockscreen_clock_summary_off">اخفاء الساعة المصغرة على شاشة القفل</string>
+  <string name="hide_lockscreen_date_title">تاريخ مصغرة</string>
+  <string name="hide_lockscreen_date_summary_on">اظهار التاريخ تحت الساعة المصغرة </string>
+  <string name="hide_lockscreen_date_summary_off">اخفاء التاريخ تحت الساعة المصغرة </string>
+  <string name="hide_lockscreen_alarm_title">نص التنبيه</string>
+  <string name="hide_lockscreen_alarm_summary_on">اظهار نص التنبيه تحت الساعة المصغرة </string>
+  <string name="hide_lockscreen_alarm_summary_off">اخفاء نص التنبيه تحت الساعة المصغرة </string>
   <!-- Emergency button -->
+  <string name="emergency_button_title">زر الطوارئ</string>
+  <string name="emergency_button_summary_on">اظهار زر الطوارئ على شاشة القفل</string>
+  <string name="emergency_button_summary_off">اخفاء زر الطوارئ على شاشة القفل</string>
   <!-- Fingerprint authentication vibration -->
+  <string name="fprint_sucess_vib_title">إهتزاز تصريح البصمة</string>
+  <string name="fprint_sucess_vib_summary">اهتزاز عند نجاح المصادقة على بصمة الاصبع</string>
   <!-- Fingerprint unlock keystore -->
+  <string name="fp_unlock_keystore_title">تفعيل البصمات الأصابع بعد إعادة تشغيل الكمبيوتر</string>
   <!-- Hide Statusbar on Lockscreen -->
   <!-- Force authorize substratum packages -->
   <!-- QS tile labels visibility -->
