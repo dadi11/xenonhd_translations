@@ -111,6 +111,11 @@
   <string name="summary_doze_enabled">مفعل</string>
   <string name="summary_doze_disabled">غير مفعل</string>
   <string name="doze_overwrite_value_title">استبدال الافتراضية</string>
+  <string name="doze_overwrite_value_summary">السماح بتجاوز القيم الافتراضية بتكوين المستخدم</string>
+  <string name="doze_pulse_title">إعدادات المستخدم القابلة للتكوين</string>
+  <string name="doze_pulse_duration_in_title">تتلاشى</string>
+  <string name="doze_pulse_duration_visible_title">مدة الرؤية</string>
+  <string name="doze_pulse_duration_out_title">تلاشي</string>
   <!-- Recents panel settings -->
   <string name="recents_clear_all_location_top_center">أعلى الوسط</string>
   <string name="recents_clear_all_location_bottom_right">اسفل اليمين</string>
