@@ -135,9 +135,16 @@
   <string name="fprint_sucess_vib_summary">اهتزاز عند نجاح المصادقة على بصمة الاصبع</string>
   <!-- Fingerprint unlock keystore -->
   <string name="fp_unlock_keystore_title">تفعيل البصمات الأصابع بعد إعادة تشغيل الكمبيوتر</string>
+  <string name="fp_unlock_keystore_summary">السماح للجهاز دائماً أن يتم الغاء القفل مع بصمات الأصابع، حتى بعد إعادة تشغيل الكمبيوتر</string>
   <!-- Hide Statusbar on Lockscreen -->
+  <string name="lockscreen_hide_status_bar_title">إخفاء شريط الحالة</string>
+  <string name="lockscreen_hide_status_bar_summary">لمس شريط الحالة لتبديل الرؤية</string>
   <!-- Force authorize substratum packages -->
+  <string name="force_authorize_substratum_packages_title">أجبار تصريح كل تطبيق ثيمات</string>
+  <string name="force_authorize_substratum_packages_summary">السماح لتطبيقات من المصادر غير المعروفة</string>
   <!-- QS tile labels visibility -->
+  <string name="qs_menu_item_titles_summaryOn">اظهار التسميات</string>
+  <string name="qs_menu_item_titles_summaryOff">إخفاء التسميات</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">منتقي الألوان</string>
   <string name="press_color_to_apply">اضغط على اللون أدناه لتطبيق</string>
@@ -145,13 +152,42 @@
   <string name="set">تعيين</string>
   <string name="color_default">الوضع الأصلي</string>
   <!-- Carrier label -->
+  <string name="carrier_title">مشغّل الشبكة</string>
+  <string name="carrier_options_summary">تخصيص علامة مشغل الشبكة</string>
+  <string name="custom_carrier_label_title">عرض اسم مخصص بدل اسم الشبكه</string>
+  <string name="custom_carrier_label_explain">الرجاء إدخال تسمية جديدة. تركه فارغ سيعود للتسمية الافتراضية.</string>
+  <string name="custom_carrier_label_notset">لم يتم ضبط علامة مُعينة</string>
+  <string name="show_carrier_title">علامة مشغّل الشبكة</string>
   <string name="show_carrier_disabled">غير مفعل</string>
+  <string name="show_carrier_keyguard">شاشة القفل فقط</string>
+  <string name="show_carrier_statusbar">شريط الحالة فقط</string>
+  <string name="show_carrier_both">شاشة القفل وشريط الحالة</string>
+  <string name="show_carrier_enabled">شاشة القفل وشريط الحالة</string>
   <string name="status_bar_font_normal">عادي</string>
   <string name="status_bar_font_light">فاتح (ابيض)</string>
   <!-- Lock Clock Fonts -->
   <string name="lock_date_font_title">التاريخ</string>
   <string name="lock_clock_font_light">فاتح (ابيض)</string>
   <!-- Screen state service -->
+  <string name="screen_state_toggles_title">تعليق الإجراءات</string>
+  <string name="screen_state_toggles_enable_title">تفعيل</string>
+  <string name="screen_state_toggles_enable_summary">إجراءات ستُنفذ عند قفل الشاشة. عند تشغيل الشاشة سيتم إستعادة الحالة السابقة.</string>
+  <string name="screen_state_toggles_mobile_title">شبكات الجوال</string>
+  <string name="screen_state_toggles_location_title">المكان</string>
+  <string name="screen_state_toggles_twog">تحويل للجيل الثاني</string>
+  <string name="screen_state_toggles_twog_summary">نمط الشبكة سيتحول للجيل الثاني عند قفل الشاشة</string>
+  <string name="screen_state_toggles_gps">عطّل نظام تحديد الموقع</string>
+  <string name="screen_state_toggles_gps_summary">خدمة الموقع المبنية على نظام تحديد الموقع ستُعطل عند قفل الشاشة</string>
+  <string name="screen_state_toggles_mobile_data">تعطيل بيانات الهاتف</string>
+  <string name="screen_state_toggles_mobile_data_summary">سيتم تعطيل بيانات الهاتف عند اغلاق الشاشة</string>
+  <string name="screen_state_off_delay_title">مدة تأخير إجراءات تشغيل الشاشة</string>
+  <string name="screen_state_off_delay_summary">عدد ثواني الإنتظار قبل تأدية الإجراءات بعد تشغيل الشاشة</string>
+  <string name="screen_state_on_delay_title">مدة تأخير إجراءات تشغيل الشاشة</string>
+  <string name="screen_state_on_delay_summary">عدد ثواني الإنتظار قبل تأدية الإجراءات بعد تشغيل الشاشة</string>
   <!-- Fingerprint max failed attempts -->
+  <string name="fp_max_failed_attempts">حد أقصى لفشل محاولات من بصمات الأصابع </string>
+  <string name="fp_three_attempts">3 محاولات</string>
+  <string name="fp_five_attempts">محاولات 5</string>
+  <string name="fp_ten_attempts">10 محاولات</string>
   <!-- Lockscreen battery info indicator  -->
 </resources>
