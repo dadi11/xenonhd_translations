@@ -189,5 +189,8 @@
   <string name="fp_three_attempts">3 محاولات</string>
   <string name="fp_five_attempts">محاولات 5</string>
   <string name="fp_ten_attempts">10 محاولات</string>
+  <string name="fp_fifteen_attempts">15 محاولات </string>
   <!-- Lockscreen battery info indicator  -->
+  <string name="lockscreen_battery_info_title">معلومات الشحن</string>
+  <string name="lockscreen_battery_info_summary">عرض درجة الحرارة الحالية والجهد وبطارية شاحن على شاشة القفل أثناء الشحن</string>
 </resources>
