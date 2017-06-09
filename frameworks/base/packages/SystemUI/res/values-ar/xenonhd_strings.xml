@@ -39,4 +39,8 @@
   <!-- QS Lockscreen Tile -->
   <string name="quick_settings_lockscreen_label">شاشة القفل</string>
   <string name="quick_settings_lockscreen_label_enforced">شاشة القفل الإجباري</string>
+  <string name="accessibility_quick_settings_lock_screen_off">الغاء قفل الشاشة </string>
+  <string name="accessibility_quick_settings_lock_screen_on">تفعيل قفل الشاشة</string>
+  <string name="accessibility_quick_settings_lock_screen_changed_off">قفل الشاشة غير مفعل.</string>
+  <string name="accessibility_quick_settings_lock_screen_changed_on">قفل الشاشة مفعل.</string>
 </resources>
