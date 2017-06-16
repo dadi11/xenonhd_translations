@@ -37,4 +37,5 @@
   <string name="pirate_label">Aaarrrggghhh</string>
   <string name="pirate_spec">pirate</string>
   <!-- QS Lockscreen Tile -->
+  <string name="quick_settings_lockscreen_label">Ecran de verrouillage</string>
 </resources>
