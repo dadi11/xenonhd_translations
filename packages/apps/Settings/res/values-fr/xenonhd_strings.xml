@@ -273,19 +273,19 @@
   <!-- Screen state service -->
   <string name="screen_state_toggles_title">Suspendre les actions</string>
   <string name="screen_state_toggles_enable_title">Activer</string>
-  <string name="screen_state_toggles_enable_summary">Les actions seront exécutées à l’extinction de l\'écran. A l\'allumage de l\'écran l\'état précédent sera restauré.</string>
+  <string name="screen_state_toggles_enable_summary">Les actions seront exécutées sur écran éteint. Sur écran allumé l\'état précédent sera restauré.</string>
   <string name="screen_state_toggles_mobile_title">Réseaux mobiles</string>
   <string name="screen_state_toggles_location_title">Localisation</string>
   <string name="screen_state_toggles_twog">Basculer vers 2G</string>
   <string name="screen_state_toggles_twog_summary">Le mode réseau basculera vers la 2G à l\'extinction de l\'écran</string>
   <string name="screen_state_toggles_gps">Désactiver le GPS</string>
-  <string name="screen_state_toggles_gps_summary">Le service de localisation GPS sera désactivé à l\'extinction de l\'écran</string>
+  <string name="screen_state_toggles_gps_summary">Le service de localisation GPS sera désactivé sur écran éteint</string>
   <string name="screen_state_toggles_mobile_data">Désactiver les données mobiles</string>
   <string name="screen_state_toggles_mobile_data_summary">La connexion des données mobiles sera désactivée à l\'extinction de l\'écran</string>
   <string name="screen_state_off_delay_title">Délai des actions à l\'extinction de l\'écran</string>
-  <string name="screen_state_off_delay_summary">Nombre de secondes à attendre avant d’effectuer les actions après extinction de l\'écran</string>
+  <string name="screen_state_off_delay_summary">Nombre de secondes à attendre avant d’effectuer des actions après extinction de l\'écran</string>
   <string name="screen_state_on_delay_title">Délai des actions à l\'allumage de l\'écran</string>
-  <string name="screen_state_on_delay_summary">Nombre de secondes à attendre avant d’effectuer les actions après l\'allumage de l\'écran</string>
+  <string name="screen_state_on_delay_summary">Nombre de secondes à attendre avant d’effectuer des actions après l\'allumage de l\'écran</string>
   <!-- Fingerprint max failed attempts -->
   <string name="fp_max_failed_attempts">Nombre maximum d\'essais pour le lecteur d\'empreintes digitales</string>
   <string name="fp_three_attempts">3 essais</string>
