@@ -13,9 +13,19 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
+  <string name="xenonhd_version">Версія XenonHD</string>
+  <string name="xenonhd_version_default">Невядома</string>
+  <string name="xenonhd_maintainer">Падтрымка мадэлі</string>
+  <string name="xenonhd_maintainer_default">Невядома</string>
   <!-- Changelog -->
+  <string name="changelog_xenonhd_title">Спіс змен</string>
+  <string name="changelog_xenonhd_error">Немагчыма загрузіць спіс змен</string>
+  <string name="changelog_xenonhd_summary">Паглядзіце змены ў бягучай зборцы</string>
   <!-- Density category -->
+  <string name="density_category">Параметры шчыльнасці</string>
   <!-- XenonOTA -->
+  <string name="xenonota_title">Абнаўленне XenonHD</string>
+  <string name="xenonota_summary">Праверыць абнаўленні прашыўкі</string>
   <!-- Dev Options Enabled by Default -->
   <!-- Phone info shortcut -->
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
