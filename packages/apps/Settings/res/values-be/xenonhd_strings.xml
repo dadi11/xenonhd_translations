@@ -45,14 +45,48 @@
   <string name="xenonhd_lockscreen_title">Экран блакавання</string>
   <string name="xenonhd_ui_title">Інтэрфэйс</string>
   <!-- Selinux Switch -->
+  <string name="selinux_switch_title">SELinux папярэджанне</string>
+  <string name="selinux_switch_summary">SELinux - гэта набор мадыфікацый ядра і інструментаў карыстацкай прасторы. Змена рэжымаў можа прывесці да непажаданых наступстваў. Рэкамендуецца рэжым \"Толькі папярэджанне\". Выкарыстоўвайце на сваю рызыку</string>
+  <string name="selinux_title">Рэжым SELinux</string>
+  <string name="selinux_permissive_title">Дазвол</string>
+  <string name="selinux_enforcing_title">Забеспячэнне</string>
+  <string name="selinux_permissive_toast_title">Selinux усталяваны дазвольны!</string>
   <!-- Recents Membar -->
+  <string name="recents_membar">Панэль АЗП</string>
+  <string name="systemui_recents_mem_display_title">Паказваць панэль выкарыстання АЗП</string>
+  <string name="systemui_recents_mem_display_summary">Паказваць панэль свабоднай АЗП у меню нядаўніх праграм</string>
   <!-- Quick settings config -->
+  <string name="qs_layout_category">Опцыі хуткіх налад</string>
+  <string name="qs_rows_portrait_title">Радкі (партрэт)</string>
+  <string name="qs_rows_landscape_title">Радкі (ландшафт)</string>
+  <string name="qs_columns_title">Слупкі</string>
+  <string name="qs_easy_toggle_title">Пашыраны спрошчаны перамыкач хуткіх налад</string>
+  <string name="qs_easy_toggle_summary">Уключыце дзеянне па адзінкаваму націску для ўключэння / выключэння Wi-Fi, мабільных дадзеных і Bluetooth. Доўгі націск для прагляду дадатковых налад</string>
   <!-- Quick unlock -->
+  <string name="quick_unlock_warning">Папярэджанне</string>
+  <string name="quick_unlock_warning_summary">Дадзеная магчымасць абыходзіць важны ахоўны механізм і дрэнна ўплывае на падтрымку некалькіх карыстальнікаў на прыладзе. Выкарыстоўвайце на сваю рызыку</string>
+  <string name="unlock_quick_unlock_control_title">Хуткая разблакоўка</string>
+  <string name="unlock_quick_unlock_control_summary">Аўтаматычная разблакоўка пры ўводзе правільнага пароля або PIN-кода</string>
   <!-- Three-fingers-swipe to screenshot -->
+  <string name="three_finger_gesture">Свайп для стварэння скрыншота</string>
+  <string name="three_finger_gesture_summary">Правядзіце трыма пальцамі для стварэння скрыншота</string>
   <!-- Long press back to kill configurable timeout -->
+  <string name="kill_app_longpress_timeout_title">Працягласць доўгага націску кнопкі «Назад»</string>
+  <string name="timeout_2000">2 секунды (па змаўчанні)</string>
+  <string name="timeout_1500">1.5 секунды</string>
+  <string name="timeout_1000">1 секунда</string>
+  <string name="timeout_500">0,5 секунд</string>
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">Уключана</string>
   <string name="summary_doze_disabled">Адключана</string>
+  <string name="doze_overwrite_value_title">Перазапісаць значэнні па змаўчанні</string>
+  <string name="doze_overwrite_value_summary">Дазволіць перазапіс значэнняў па змаўчанні з карыстацкімі наладамі</string>
+  <string name="doze_pulse_title">Параметры, наладжвальныя карыстальнікам</string>
+  <string name="doze_pulse_duration_in_title">З\'яўленне</string>
+  <string name="doze_pulse_duration_visible_title">Час бачнасці</string>
+  <string name="doze_pulse_duration_out_title">Знікненне</string>
+  <string name="doze_trigger_pickup_title">Трыгер датчыка руху</string>
+  <string name="doze_trigger_pickup_summary_on">Пульсацыя экрана пры забароне спячага рэжыму будзе пераключацца датчыкам руху</string>
   <!-- Recents panel settings -->
   <!-- Dashboard options -->
   <!-- Hide Lockscreen clock, date, & alarm -->
