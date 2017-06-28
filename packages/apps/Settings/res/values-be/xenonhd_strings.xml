@@ -239,5 +239,8 @@
   <string name="fp_three_attempts">3 спробы</string>
   <string name="fp_five_attempts">5 спроб</string>
   <string name="fp_ten_attempts">10 спроб</string>
+  <string name="fp_fifteen_attempts">15 спроб</string>
   <!-- Lockscreen battery info indicator  -->
+  <string name="lockscreen_battery_info_title">Інфармацыя аб зарадцы</string>
+  <string name="lockscreen_battery_info_summary">Адлюстраванне току, напружання і тэмпературы батарэі на экране блакавання падчас зарадкі</string>
 </resources>
