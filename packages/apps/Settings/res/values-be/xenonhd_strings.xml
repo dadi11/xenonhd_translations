@@ -148,6 +148,13 @@
   <string name="status_bar_font_light_italic">Лёгкі курсіў</string>
   <string name="status_bar_font_thin">Тонкі</string>
   <string name="status_bar_font_thin_italic">Тонкі курсіў</string>
+  <string name="status_bar_font_condensed">Ушчыльнены</string>
+  <string name="status_bar_font_condensed_italic">Ушчыльнены курсіў</string>
+  <string name="status_bar_font_condensed_light">Ушчыльнены лёгкі</string>
+  <string name="status_bar_font_condensed_light_italic">Ушчыльнены лёгкі курсіў</string>
+  <string name="status_bar_font_condensed_bold">Ушчыльнены таўсты</string>
+  <string name="status_bar_font_condensed_bold_italic">Ушчыльнены таўсты курсіў</string>
+  <string name="status_bar_font_medium">Сярэдні</string>
   <!-- Lock Clock Fonts -->
   <string name="lock_date_font_title">Дата</string>
   <string name="lock_clock_font_bold">Тоўсты</string>
@@ -157,6 +164,10 @@
   <string name="lock_clock_font_light_italic">Лёгкі курсіў</string>
   <string name="lock_clock_font_thin_italic">Тонкі курсіў</string>
   <string name="lock_clock_font_thin">Тонкі</string>
+  <string name="lock_clock_font_condensed_normal">Ушчыльнены</string>
+  <string name="lock_clock_font_condensed_italic">Ушчыльнены курсіў</string>
+  <string name="lock_clock_font_condensed_bold">Ушчыльнены таўсты</string>
+  <string name="lock_clock_font_medium_normal">Сярэдні</string>
   <!-- Screen state service -->
   <!-- Fingerprint max failed attempts -->
   <!-- Lockscreen battery info indicator  -->
