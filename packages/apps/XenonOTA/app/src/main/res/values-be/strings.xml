@@ -27,6 +27,8 @@
   <string name="unknown">Невядома</string>
   <string name="system_uptodate">Ваша сістэма ў актуальным стане</string>
   <!-- Check update -->
+  <string name="check_update_title">Праверыць абнаўленні</string>
+  <string name="last_check_summary">Апошняя праверка: %1$s</string>
   <string name="last_check_never">Ніколі</string>
   <string name="check_update_failed">Немагчыма праверыць наяўнасць абнаўленняў, пераканайцеся, што ваша прылада падтрымлівае XenonHD</string>
   <string name="no_update_available">Няма даступных абнаўленняў</string>
