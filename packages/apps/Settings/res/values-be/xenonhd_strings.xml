@@ -35,6 +35,8 @@
   <!-- Three-fingers-swipe to screenshot -->
   <!-- Long press back to kill configurable timeout -->
   <!-- Doze pulse options -->
+  <string name="summary_doze_enabled">Уключана</string>
+  <string name="summary_doze_disabled">Адключана</string>
   <!-- Recents panel settings -->
   <!-- Dashboard options -->
   <!-- Hide Lockscreen clock, date, & alarm -->
@@ -45,7 +47,10 @@
   <!-- Force authorize substratum packages -->
   <!-- QS tile labels visibility -->
   <!-- Color Picker -->
+  <string name="dialog_color_picker">Палітра колераў</string>
+  <string name="press_color_to_apply">Націсніце на колер знізу, каб прымяніць</string>
   <!-- Carrier label -->
+  <string name="show_carrier_disabled">Адключана</string>
   <!-- Lock Clock Fonts -->
   <!-- Screen state service -->
   <!-- Fingerprint max failed attempts -->
