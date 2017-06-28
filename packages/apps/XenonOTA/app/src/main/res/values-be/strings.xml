@@ -20,7 +20,18 @@
   <!-- Categories -->
   <!-- ROM info -->
   <!-- Check update -->
+  <string name="last_check_never">Ніколі</string>
+  <string name="check_update_failed">Немагчыма праверыць наяўнасць абнаўленняў, пераканайцеся, што ваша прылада падтрымлівае XenonHD</string>
+  <string name="no_update_available">Няма даступных абнаўленняў</string>
   <!-- Update interval -->
+  <string name="interval_title">Інтэрвал аўтаматычнага абнаўлення</string>
+  <string name="autoupdate_enabled">Аўтаматычнае абнаўленне ўключана</string>
+  <string name="autoupdate_disabled">Аўтаматычнае абнаўленне адключана</string>
+  <string name="disabled">Адключыць</string>
+  <string name="hour">Кожную гадзіну</string>
+  <string name="twelve_hours">Кожных 12 гадзін</string>
+  <string name="twentyfour_hours">Кожных 24 гадзіны</string>
   <!-- Notification -->
+  <string name="notification_title">Абнаўленне XenonHD</string>
   <!-- Dialog -->
 </resources>
