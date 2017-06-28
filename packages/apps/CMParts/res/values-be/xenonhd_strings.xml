@@ -73,7 +73,22 @@
   <!--Status bar date -->
   <string name="status_bar_clock_category">Гадзіннік</string>
   <string name="status_bar_date_title">Дата</string>
+  <string name="status_bar_date_none">Схавана (па змаўчанні)</string>
+  <string name="status_bar_date_small">Маленькая</string>
+  <string name="status_bar_date_normal">Звычайная</string>
+  <string name="status_bar_date_format_title">Фармат даты</string>
+  <string name="status_bar_date_style">Стыль даты</string>
+  <string name="status_bar_date_style_normal">Звычайная</string>
+  <string name="status_bar_date_style_lowercase">Ніжні рэгістр</string>
+  <string name="status_bar_date_style_uppercase">Прапісныя</string>
+  <string name="status_bar_date_format_custom">Карыстацкі java фармат</string>
+  <string name="status_bar_date_string_edittext_title">Выбранае Вамі значэнне павінна адпавядаць фармату даты, напрыклад: ММ/dd/yy</string>
+  <string name="status_bar_date_string_edittext_summary">Увесці значэнне</string>
+  <string name="menu_save">Захаваць</string>
+  <string name="menu_cancel">Адхіліць</string>
   <!-- Navbar Animation -->
+  <string name="pixel_navbar_anim_title">Анімацыя панэлі навігацыі</string>
+  <string name="pixel_navbar_anim_summary">Уключыце зноўку панэль навігацыі або перазагрузіцеся для ўжывання налад. Тэмы могуць перазапісаць дадзеную наладку</string>
   <!-- Torch -->
   <!-- One-handed mode -->
 </resources>
