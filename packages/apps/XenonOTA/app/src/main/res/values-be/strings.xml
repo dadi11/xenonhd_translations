@@ -17,10 +17,15 @@
   -->
 <resources>
   <!-- App -->
+  <string name="app_name">XenonOTA</string>
   <string name="app_title">Абнаўленне XenonHD</string>
   <!-- Categories -->
+  <string name="ota_category">Інфармацыя аб абнаўленні</string>
+  <string name="links_category">Спасылкі на спампоўку</string>
   <!-- ROM info -->
+  <string name="latest_version">Апошняя версія: %1$s</string>
   <string name="unknown">Невядома</string>
+  <string name="system_uptodate">Ваша сістэма ў актуальным стане</string>
   <!-- Check update -->
   <string name="last_check_never">Ніколі</string>
   <string name="check_update_failed">Немагчыма праверыць наяўнасць абнаўленняў, пераканайцеся, што ваша прылада падтрымлівае XenonHD</string>
