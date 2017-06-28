@@ -142,7 +142,20 @@
   <string name="ambient_display_show_battery_title">Становішча батарэі</string>
   <string name="ambient_display_show_battery_summary">Паказваць значок батарэі падчас пульсацыі</string>
   <!-- Recents panel settings -->
+  <string name="show_clear_all_recents_button_title">Уключыць кнопку \"Ачысціць усё\"</string>
+  <string name="show_clear_all_recents_button_summary">Паказваць кнопку \"Ачысціць усё\" пры выкарыстанні меню нядаўніх праграм</string>
+  <string name="recents_clear_all_location_title">Размяшчэнне кнопкі \"Ачысціць усё\"</string>
+  <string name="recents_clear_all_location_top_right">Зверху справа</string>
+  <string name="recents_clear_all_location_top_left">Зверху злева</string>
+  <string name="recents_clear_all_location_top_center">Зверху па цэнтры</string>
+  <string name="recents_clear_all_location_bottom_right">Знізу справа</string>
+  <string name="recents_clear_all_location_bottom_left">Знізу злева</string>
+  <string name="recents_clear_all_location_bottom_center">Унізе па цэнтры</string>
   <!-- Dashboard options -->
+  <string name="dashboard_category">Опцыі меню налад</string>
+  <string name="dashboard_suggestions_title">Прапановы</string>
+  <string name="summary_dashboard_suggestions_enabled">Прапановы меню налад уключаны</string>
+  <string name="summary_dashboard_suggestions_disabled">Прапановы меню налад выключаны</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
   <string name="hide_lockscreen_date_summary_on">Паказваць дату пад віджэтам гадзін</string>
   <string name="hide_lockscreen_date_summary_off">Схаваць дату пад віджэтам гадзін </string>
