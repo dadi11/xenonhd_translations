@@ -17,8 +17,10 @@
   -->
 <resources>
   <!-- App -->
+  <string name="app_title">Абнаўленне XenonHD</string>
   <!-- Categories -->
   <!-- ROM info -->
+  <string name="unknown">Невядома</string>
   <!-- Check update -->
   <string name="last_check_never">Ніколі</string>
   <string name="check_update_failed">Немагчыма праверыць наяўнасць абнаўленняў, пераканайцеся, што ваша прылада падтрымлівае XenonHD</string>
