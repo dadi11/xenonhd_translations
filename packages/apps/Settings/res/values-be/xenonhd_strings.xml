@@ -23,11 +23,27 @@
   <!-- Randomize MAC addresses -->
   <!-- Volume Steps -->
   <string name="volume_steps_music_title">Музыка</string>
+  <string name="volume_steps_reset">Скінуць</string>
   <!-- DayNight Theme -->
+  <string name="night_mode_title">Тэма</string>
+  <string name="night_mode_no">Светлая</string>
+  <string name="night_mode_yes">Цёмная</string>
   <!-- Screenshot sound -->
+  <string name="screenshot_sound_title">Гук скрыншота</string>
+  <string name="screenshot_sound_summary">Прайграваць гук пры скрыншоце</string>
   <!-- Manage applications: show substratum overlays -->
+  <string name="filter_substratum_apps">Пласты Substratum</string>
+  <string name="menu_show_substratum">Паказваць пласты</string>
+  <string name="menu_hide_substratum">Схаваць пласты</string>
   <!-- Manage applications: show substratum icon overlays -->
+  <string name="filter_substratum_icons">Значок Substratum пластоў</string>
+  <string name="menu_show_substratum_icons">Паказаць значок пластоў</string>
+  <string name="menu_hide_substratum_icons">Схаваць значок пластоў</string>
   <!-- XenonHD Configurations-->
+  <string name="xenonhd_title">Пашыраныя налады</string>
+  <string name="xenonhd_misc_title">Рознае</string>
+  <string name="xenonhd_lockscreen_title">Экран блакавання</string>
+  <string name="xenonhd_ui_title">Інтэрфэйс</string>
   <!-- Selinux Switch -->
   <!-- Recents Membar -->
   <!-- Quick settings config -->
@@ -49,9 +65,15 @@
   <!-- Color Picker -->
   <string name="dialog_color_picker">Палітра колераў</string>
   <string name="press_color_to_apply">Націсніце на колер знізу, каб прымяніць</string>
+  <string name="hex">Hex код:</string>
+  <string name="set">Усталяваць</string>
+  <string name="color_default">Па змаўчанні</string>
   <!-- Carrier label -->
   <string name="show_carrier_disabled">Адключана</string>
+  <string name="status_bar_font_light">Светлая</string>
   <!-- Lock Clock Fonts -->
+  <string name="lock_date_font_title">Дата</string>
+  <string name="lock_clock_font_light">Светлая</string>
   <!-- Screen state service -->
   <!-- Fingerprint max failed attempts -->
   <!-- Lockscreen battery info indicator  -->
