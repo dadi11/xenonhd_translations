@@ -17,10 +17,33 @@
   <string name="battery_bar_title">Індыкатар зарада батарэі</string>
   <string name="battery_bar">Размяшчэнне індыкатара батарэі</string>
   <string name="battery_bar_no_navbar">Размяшчэнне індыкатара батарэі</string>
+  <string name="battery_bar_color">Колер панэлі зарада батарэі</string>
+  <string name="battery_bar_charging_color">Колер панэлі зарада батарэі пры зарадцы</string>
+  <string name="battery_bar_battery_low_color">Колер панэлі зарада батарэі пры нізкім зарадзе акумулятара</string>
+  <string name="battery_bar_cat">Стыль панэлі зарада батарэі</string>
+  <string name="battery_bar_style_title">Выраўноўванне панэлі зарада батарэі</string>
+  <string name="battery_bar_thickness_title">Таўшчыня панэлі зарада батарэі</string>
+  <string name="battery_bar_animate_title">Анімацыя зарадкі</string>
+  <string name="battery_bar_style_regular">Звычайны</string>
+  <string name="battery_bar_style_center_mirrored">Па цэнтры (люстрана)</string>
+  <string name="battery_bar_style_reversed">Наадварот</string>
+  <string name="battery_bar_use_gradient_color">Выкарыстоўваць градыент</string>
+  <string name="battery_bar_gradient_color_summary">Выкарыстоўваць колер градыенту ў якасці шкалы для ўзроўню зараду батарэі</string>
+  <string name="battery_bar_high_color">Колер высокага ўзроўню зараду</string>
+  <string name="battery_bar_low_color">Колер нізкага ўзроўню зараду</string>
   <!-- Battery icon -->
+  <string name="status_bar_battery_style_solid">Суцэльны</string>
   <!-- Brightness slider -->
+  <string name="qs_brightness_slider_title">Рэгулятар яркасці</string>
+  <string name="qs_brightness_slider_enabled">Уключана</string>
+  <string name="qs_brightness_slider_disabled">Адключана</string>
+  <string name="brightness_icon_title">Значок яркасці </string>
+  <string name="brightness_icon_summary">Паказаць значок уключэння аўта-яркасці справа ад слайдэра</string>
   <!-- Color Picker -->
+  <string name="dialog_color_picker">Палітра колераў</string>
+  <string name="press_color_to_apply">Націсніце на колер знізу, каб прымяніць</string>
   <!-- Network traffic -->
+  <string name="show_network_traffic_disable">Адключана</string>
   <!-- Superuser indicator on status bar -->
   <!--Status bar date -->
   <!-- Navbar Animation -->
