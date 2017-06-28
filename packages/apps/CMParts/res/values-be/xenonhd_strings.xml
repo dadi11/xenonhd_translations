@@ -90,5 +90,9 @@
   <string name="pixel_navbar_anim_title">Анімацыя панэлі навігацыі</string>
   <string name="pixel_navbar_anim_summary">Уключыце зноўку панэль навігацыі або перазагрузіцеся для ўжывання налад. Тэмы могуць перазапісаць дадзеную наладку</string>
   <!-- Torch -->
+  <string name="torch_long_press_power_gesture_title">Утрыманне кнопкі сілкавання для уключэння ліхтарыка</string>
+  <string name="torch_long_press_power_gesture_desc">Уключыце ліхтарык доўгім націскам кнопкі сілкавання, пры выключаным экране</string>
   <!-- One-handed mode -->
+  <string name="one_handed_mode_title">Рэжым працы адной рукой</string>
+  <string name="one_handed_mode_summary">Дазваляе свайпом па панэлі навігацыі ўключаць рэжым \"Кіраванне адной рукой\"</string>
 </resources>
