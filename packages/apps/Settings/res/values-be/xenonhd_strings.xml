@@ -90,12 +90,31 @@
   <!-- Recents panel settings -->
   <!-- Dashboard options -->
   <!-- Hide Lockscreen clock, date, & alarm -->
+  <string name="hide_lockscreen_date_summary_on">Паказваць дату пад віджэтам гадзін</string>
+  <string name="hide_lockscreen_date_summary_off">Схаваць дату пад віджэтам гадзін </string>
+  <string name="hide_lockscreen_alarm_title">Будзільнік</string>
+  <string name="hide_lockscreen_alarm_summary_on">Паказваць будзільнік пад віджэтам гадзін</string>
+  <string name="hide_lockscreen_alarm_summary_off">Схаваць будзільнік пад віджэтам гадзін</string>
   <!-- Emergency button -->
+  <string name="emergency_button_title">Кнопка экстрым. выкліку</string>
+  <string name="emergency_button_summary_on">Адлюстроўваць кнопку экстрым. вык. на экране блакавання</string>
+  <string name="emergency_button_summary_off">Схаваць кнопку экстрым. вык. на экране блакавання</string>
   <!-- Fingerprint authentication vibration -->
+  <string name="fprint_sucess_vib_title">Вібрацыя пры распазнаванне адбітка пальца</string>
+  <string name="fprint_sucess_vib_summary">Вібраваць пры паспяховай аўтэнтыфікацыі па адбітках пальцаў</string>
   <!-- Fingerprint unlock keystore -->
+  <string name="fp_unlock_keystore_title">Разблакоўка адбіткам пальца пасля перазагрузкі</string>
+  <string name="fp_unlock_keystore_summary">Дазваляць разблакоўку прылады па адбіткі, нават пасля перазагрузкі</string>
   <!-- Hide Statusbar on Lockscreen -->
+  <string name="lockscreen_hide_status_bar_title">Хаваць радок стану</string>
+  <string name="lockscreen_hide_status_bar_summary">Дакраніцеся да радку стану для адлюстравання</string>
   <!-- Force authorize substratum packages -->
+  <string name="force_authorize_substratum_packages_title">Прымусова аўтарызаўваць усе тэмы праграм</string>
+  <string name="force_authorize_substratum_packages_summary">Дазволіць усталёўку тэм праграм з невядомых крыніц</string>
   <!-- QS tile labels visibility -->
+  <string name="qs_menu_item_titles">Подпісы плітак</string>
+  <string name="qs_menu_item_titles_summaryOn">Подпісы адлюстровываюцца</string>
+  <string name="qs_menu_item_titles_summaryOff">Подпісы схаваны</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">Палітра колераў</string>
   <string name="press_color_to_apply">Націсніце на колер знізу, каб прымяніць</string>
@@ -103,11 +122,41 @@
   <string name="set">Усталяваць</string>
   <string name="color_default">Па змаўчанні</string>
   <!-- Carrier label -->
+  <string name="carrier_title">Лагатып аператара</string>
+  <string name="carrier_options_summary">Карыстацкае значэнне</string>
+  <string name="custom_carrier_label_title">Карыстацкі лагатып</string>
+  <string name="custom_carrier_label_explain">Калі ласка, увядзіце новае імя або пакіньце пустым для вяртання да імя па змаўчанні.</string>
+  <string name="custom_carrier_label_notset">Карыстацкі лагатып не ўсталяваны</string>
+  <string name="show_carrier_title">Лагатып аператара</string>
   <string name="show_carrier_disabled">Адключана</string>
+  <string name="show_carrier_keyguard">Толькі на экране блакавання</string>
+  <string name="show_carrier_statusbar">Толькі радок стану</string>
+  <string name="show_carrier_both">На экране блакавання і ў радку стану</string>
+  <string name="show_carrier_enabled">На экране блакавання і ў радку стану</string>
+  <string name="status_bar_carrier_color">Колер лагатыпа</string>
+  <string name="status_bar_carrier_size">Памер шрыфта імя аператара</string>
+  <string name="status_bar_carrier_font_style_title">Шрыфт тэксту аператара</string>
+  <string name="number_of_notifications_title">Колькасць апавяшчэнняў</string>
+  <string name="carrier_label_hide_label_title">Хаваць пры апавяшчэннях</string>
+  <string name="carrier_label_number_of_notification_icons_title">Максімальная колькасць значкоў перад схаваннем</string>
+  <string name="status_bar_font_style_title">Шрыфт</string>
+  <string name="status_bar_font_normal">Звычайны</string>
+  <string name="status_bar_font_italic">Курсіў</string>
+  <string name="status_bar_font_bold">Тоўсты</string>
+  <string name="status_bar_font_bold_italic">Тоўсты курсiў</string>
   <string name="status_bar_font_light">Светлая</string>
+  <string name="status_bar_font_light_italic">Лёгкі курсіў</string>
+  <string name="status_bar_font_thin">Тонкі</string>
+  <string name="status_bar_font_thin_italic">Тонкі курсіў</string>
   <!-- Lock Clock Fonts -->
   <string name="lock_date_font_title">Дата</string>
+  <string name="lock_clock_font_bold">Тоўсты</string>
   <string name="lock_clock_font_light">Светлая</string>
+  <string name="lock_clock_font_italic">Курсіў</string>
+  <string name="lock_clock_font_bold_italic">Тоўсты курсiў</string>
+  <string name="lock_clock_font_light_italic">Лёгкі курсіў</string>
+  <string name="lock_clock_font_thin_italic">Тонкі курсіў</string>
+  <string name="lock_clock_font_thin">Тонкі</string>
   <!-- Screen state service -->
   <!-- Fingerprint max failed attempts -->
   <!-- Lockscreen battery info indicator  -->
