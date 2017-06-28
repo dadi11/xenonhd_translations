@@ -27,12 +27,33 @@
   <string name="xenonota_title">Абнаўленне XenonHD</string>
   <string name="xenonota_summary">Праверыць абнаўленні прашыўкі</string>
   <!-- Dev Options Enabled by Default -->
+  <string name="show_dev_already_enabled">Не трэба, налады для распрацоўшчыкаў ўключаны па змаўчанні</string>
   <!-- Phone info shortcut -->
+  <string name="device_info_title">Звесткі аб тэлефоне</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+  <string name="local_backup_password_title">Пазначце пароль рэзервовага капіявання</string>
   <!-- Notification sound timeout -->
+  <string name="app_notification_sound_timeout_title">Частата гукавых апавяшчэнняў</string>
+  <string name="app_notification_sound_timeout_summary_template">Дазволіць гукі ці вібрацыю не больш чым адзін раз у <xliff:g id="duration">%1$s</xliff:g></string>
+  <string name="app_notification_sound_timeout_value_none">Без абмежаванняў</string>
+  <string name="app_notification_sound_timeout_value_10_seconds">10 секунд</string>
+  <string name="app_notification_sound_timeout_value_30_seconds">30 секунд</string>
+  <string name="app_notification_sound_timeout_value_1_minute">1 хвіліна</string>
+  <string name="app_notification_sound_timeout_value_5_minutes">5 хвілін</string>
+  <string name="app_notification_sound_timeout_value_15_minutes">10 хвілін</string>
+  <string name="app_notification_sound_timeout_value_30_minutes">30 хвілін</string>
   <!-- Randomize MAC addresses -->
+  <string name="randomize_mac_title">Рандамізіраваць MAC-адраса</string>
+  <string name="randomize_mac_summary">Прызначаць выпадковыя MAC адрасы, калі сеткавыя прылады ўключаны. Рандамізацыя MAC адрасоў выкарыстоўваецца падчас сканавання, незалежна ад таго, ўключаная яна ці не</string>
   <!-- Volume Steps -->
+  <string name="volume_steps_title">Узроўні гучнасці</string>
+  <string name="volume_steps_alarm_title">Будзільнік</string>
+  <string name="volume_steps_dtmf_title">DTMF (набор)</string>
   <string name="volume_steps_music_title">Музыка</string>
+  <string name="volume_steps_notification_title">Апавяшчэнні</string>
+  <string name="volume_steps_ring_title">Званок</string>
+  <string name="volume_steps_system_title">Сістэма</string>
+  <string name="volume_steps_voice_call_title">Галасавы выклік</string>
   <string name="volume_steps_reset">Скінуць</string>
   <!-- DayNight Theme -->
   <string name="night_mode_title">Тэма</string>
@@ -97,6 +118,11 @@
   <string name="doze_pulse_duration_out_title">Знікненне</string>
   <string name="doze_trigger_pickup_title">Трыгер датчыка руху</string>
   <string name="doze_trigger_pickup_summary_on">Пульсацыя экрана пры забароне спячага рэжыму будзе пераключацца датчыкам руху</string>
+  <string name="doze_trigger_pickup_summary_off">Датчык руху не будзе выкарыстаны ў якасці трыгера</string>
+  <string name="doze_trigger_notification_title">Трыгер для апавяшчэнняў</string>
+  <string name="doze_trigger_notification_summary_on">Пульсацыя экрана пры забароне спячага рэжыму будзе пераключацца апавяшчэннямі</string>
+  <string name="doze_trigger_notification_summary_off">Паведамлення не будуць выкарыстаныя ў якасці трыгера</string>
+  <string name="doze_brightness_level_title">Узровень яркасці</string>
   <!-- Recents panel settings -->
   <!-- Dashboard options -->
   <!-- Hide Lockscreen clock, date, & alarm -->
