@@ -123,6 +123,24 @@
   <string name="doze_trigger_notification_summary_on">Пульсацыя экрана пры забароне спячага рэжыму будзе пераключацца апавяшчэннямі</string>
   <string name="doze_trigger_notification_summary_off">Паведамлення не будуць выкарыстаныя ў якасці трыгера</string>
   <string name="doze_brightness_level_title">Узровень яркасці</string>
+  <string name="onehundred_ms">100 мс</string>
+  <string name="twofifty_ms">250 мс</string>
+  <string name="fivehundred_ms_default">500 мс (па змаўчанні)</string>
+  <string name="sevenfifty_ms">750 мс</string>
+  <string name="one_second">1 с</string>
+  <string name="onehalf_second">1.5 с</string>
+  <string name="two_second">2 с</string>
+  <string name="twohalf_second">2.5 с</string>
+  <string name="three_second_default">3 с (па змаўчанні)</string>
+  <string name="threehalf_second">3.5 с</string>
+  <string name="four_second">4 с</string>
+  <string name="fourhalf_second">4.5 с</string>
+  <string name="five_second">5 с</string>
+  <string name="doze_notification_color_invert_title">Інвертавання апавяшчэнняў</string>
+  <string name="doze_notification_color_invert_summary_off">Паведамлення не будуць інвертаваныя. Выкарыстоўвайце для цёмных тэм</string>
+  <string name="doze_notification_color_invert_summary_on">Апавяшчэнні будуць інвертаваныя. Выкарыстоўвайце для светлых/стокавых тэм</string>
+  <string name="ambient_display_show_battery_title">Становішча батарэі</string>
+  <string name="ambient_display_show_battery_summary">Паказваць значок батарэі падчас пульсацыі</string>
   <!-- Recents panel settings -->
   <!-- Dashboard options -->
   <!-- Hide Lockscreen clock, date, & alarm -->
@@ -205,6 +223,21 @@
   <string name="lock_clock_font_condensed_bold">Ушчыльнены таўсты</string>
   <string name="lock_clock_font_medium_normal">Сярэдні</string>
   <!-- Screen state service -->
+  <string name="screen_state_toggles_location_title">Месцазнаходжанне</string>
+  <string name="screen_state_toggles_twog">Пераключыцца на 2G</string>
+  <string name="screen_state_toggles_twog_summary">Рэжым сеткі будзе пераключаны ў 2G пры выключаным экране</string>
+  <string name="screen_state_toggles_gps">Адключыць GPS</string>
+  <string name="screen_state_toggles_gps_summary">Месцазнаходжанне па GPS будзе адключана пры выключэнні экрана</string>
+  <string name="screen_state_toggles_mobile_data">Адключыць перадачу дадзеных</string>
+  <string name="screen_state_toggles_mobile_data_summary">Выключыць перадачу дадзеных пасля адключэння экрана</string>
+  <string name="screen_state_off_delay_title">Затрымка адключэння экрана</string>
+  <string name="screen_state_off_delay_summary">Затрымка перад выкананнем дзеянняў пасля выключэння экрана</string>
+  <string name="screen_state_on_delay_title">Затрымка пры ўключэнні экрана</string>
+  <string name="screen_state_on_delay_summary">Затрымка перад выкананнем дзеянняў пасля ўключэння экрана</string>
   <!-- Fingerprint max failed attempts -->
+  <string name="fp_max_failed_attempts">Максімальную колькасць спроб разблакоўкі адбіткам</string>
+  <string name="fp_three_attempts">3 спробы</string>
+  <string name="fp_five_attempts">5 спроб</string>
+  <string name="fp_ten_attempts">10 спроб</string>
   <!-- Lockscreen battery info indicator  -->
 </resources>
