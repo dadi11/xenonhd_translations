@@ -156,7 +156,20 @@
   <string name="dashboard_suggestions_title">Прапановы</string>
   <string name="summary_dashboard_suggestions_enabled">Прапановы меню налад уключаны</string>
   <string name="summary_dashboard_suggestions_disabled">Прапановы меню налад выключаны</string>
+  <string name="remove_tile_summaries_title">Зводкі</string>
+  <string name="remove_tile_summaries_summary_enabled">Зводкі ў меню налад уключаны</string>
+  <string name="remove_tile_summaries_summary_disabled">Зводкі ў меню налад выключаны</string>
+  <string name="dashboard_conditions_title">Апавяшчэнні</string>
+  <string name="summary_dashboard_conditions_enabled">Апавяшчэнні ў галоўным меню ўключаны</string>
+  <string name="summary_dashboard_conditions_disabled">Апавяшчэнні ў галоўным меню выключаны</string>
+  <string name="dashboard_columns_title">Колькасць калонак</string>
+  <string name="dashboard_columns_summary">Змена колькасці калонак паказу на панэлі налад</string>
+  <string name="dashboard_columns_portrait_title">Калонкі (партрэт)</string>
+  <string name="dashboard_columns_landscape_title">Калонкі (ландшафт)</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
+  <string name="hide_lockscreen_clock_title">Віджэты гадзінніка</string>
+  <string name="hide_lockscreen_clock_summary_on">Паказваць віджэт гадзінніка на экране блакавання</string>
+  <string name="hide_lockscreen_clock_summary_off">Схаваць віджэт гадзінніка на экране блакавання</string>
   <string name="hide_lockscreen_date_summary_on">Паказваць дату пад віджэтам гадзін</string>
   <string name="hide_lockscreen_date_summary_off">Схаваць дату пад віджэтам гадзін </string>
   <string name="hide_lockscreen_alarm_title">Будзільнік</string>
