@@ -170,6 +170,7 @@
   <string name="hide_lockscreen_clock_title">Віджэты гадзінніка</string>
   <string name="hide_lockscreen_clock_summary_on">Паказваць віджэт гадзінніка на экране блакавання</string>
   <string name="hide_lockscreen_clock_summary_off">Схаваць віджэт гадзінніка на экране блакавання</string>
+  <string name="hide_lockscreen_date_title">Віджэт даты</string>
   <string name="hide_lockscreen_date_summary_on">Паказваць дату пад віджэтам гадзін</string>
   <string name="hide_lockscreen_date_summary_off">Схаваць дату пад віджэтам гадзін </string>
   <string name="hide_lockscreen_alarm_title">Будзільнік</string>
@@ -235,6 +236,14 @@
   <string name="status_bar_font_condensed_bold">Ушчыльнены таўсты</string>
   <string name="status_bar_font_condensed_bold_italic">Ушчыльнены таўсты курсіў</string>
   <string name="status_bar_font_medium">Сярэдні</string>
+  <string name="status_bar_font_medium_italic">Сярэдні курсіў</string>
+  <string name="status_bar_font_black">Чорны</string>
+  <string name="status_bar_font_black_italic">Чорны курсіў</string>
+  <string name="status_bar_font_dancingscript">DancingScript</string>
+  <string name="status_bar_font_dancingscript_bold">DancingScript тлусты</string>
+  <string name="status_bar_font_comingsoon">ComingSoon</string>
+  <string name="status_bar_font_notoserif">NotoSerif звычайны</string>
+  <string name="status_bar_font_notoserif_italic">NotoSerif курсіў</string>
   <!-- Lock Clock Fonts -->
   <string name="lock_date_font_title">Дата</string>
   <string name="lock_clock_font_bold">Тоўсты</string>
@@ -248,6 +257,7 @@
   <string name="lock_clock_font_condensed_italic">Ушчыльнены курсіў</string>
   <string name="lock_clock_font_condensed_bold">Ушчыльнены таўсты</string>
   <string name="lock_clock_font_medium_normal">Сярэдні</string>
+  <string name="lock_clock_font_medium_italic">Сярэдні курсіў</string>
   <!-- Screen state service -->
   <string name="screen_state_toggles_location_title">Месцазнаходжанне</string>
   <string name="screen_state_toggles_twog">Пераключыцца на 2G</string>
