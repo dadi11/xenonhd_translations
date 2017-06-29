@@ -244,8 +244,17 @@
   <string name="status_bar_font_comingsoon">ComingSoon</string>
   <string name="status_bar_font_notoserif">NotoSerif звычайны</string>
   <string name="status_bar_font_notoserif_italic">NotoSerif курсіў</string>
+  <string name="status_bar_font_notoserif_bold">NotoSerif тлусты</string>
+  <string name="status_bar_font_notoserif_bold_italic">NotoSerif тлусты курсіў</string>
   <!-- Lock Clock Fonts -->
+  <string name="lock_clock_font_title">Параметры шрыфта</string>
+  <string name="lock_clock_font_summary">Змяніць шрыфт віджэта гадзін на экране блакавання</string>
+  <string name="lockdate_font_size_title">Памер шрыфта даты</string>
+  <string name="lockclock_font_size_title">Памер шрыфта гадзін</string>
+  <string name="lock_date_font_summary">Наладзіць шрыфт даты</string>
   <string name="lock_date_font_title">Дата</string>
+  <string name="lock_clock_font_dialog_title">Выберыце шрыфт</string>
+  <string name="lock_clock_font_stock">Нармальны (па змаўчанні)</string>
   <string name="lock_clock_font_bold">Тоўсты</string>
   <string name="lock_clock_font_light">Светлая</string>
   <string name="lock_clock_font_italic">Курсіў</string>
@@ -256,6 +265,7 @@
   <string name="lock_clock_font_condensed_normal">Ушчыльнены</string>
   <string name="lock_clock_font_condensed_italic">Ушчыльнены курсіў</string>
   <string name="lock_clock_font_condensed_bold">Ушчыльнены таўсты</string>
+  <string name="lock_clock_font_condensed_bold_italic">Ушчыльнены тлусты курсіў</string>
   <string name="lock_clock_font_medium_normal">Сярэдні</string>
   <string name="lock_clock_font_medium_italic">Сярэдні курсіў</string>
   <!-- Screen state service -->
