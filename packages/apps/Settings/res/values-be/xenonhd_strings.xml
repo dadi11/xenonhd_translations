@@ -269,6 +269,10 @@
   <string name="lock_clock_font_medium_normal">Сярэдні</string>
   <string name="lock_clock_font_medium_italic">Сярэдні курсіў</string>
   <!-- Screen state service -->
+  <string name="screen_state_toggles_title">Дзеянні пры выключэнні экрана</string>
+  <string name="screen_state_toggles_enable_title">Укл.</string>
+  <string name="screen_state_toggles_enable_summary">Дзеянні будуць выконвацца пры выключэнні экрана. Пры ўключэнні будзе адноўлены папярэдні стан.</string>
+  <string name="screen_state_toggles_mobile_title">Мабільныя сеткі</string>
   <string name="screen_state_toggles_location_title">Месцазнаходжанне</string>
   <string name="screen_state_toggles_twog">Пераключыцца на 2G</string>
   <string name="screen_state_toggles_twog_summary">Рэжым сеткі будзе пераключаны ў 2G пры выключаным экране</string>
