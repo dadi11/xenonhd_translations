@@ -96,7 +96,7 @@
   <string name="qs_easy_toggle_summary">Activer le toucher simple pour activer/désactiver le Wi-Fi, les données mobiles et le Bluetooth. Rester appuyé sur l\'écran pour voir les réglages avancés</string>
   <!-- Quick unlock -->
   <string name="quick_unlock_warning">Mise en garde du déverrouillage rapide</string>
-  <string name="quick_unlock_warning_summary">Cette fonctionnalité permet de contourner les mécanismes de sécurité important et malmène certainement plusieurs support utilisateurs. Utiliser à vos risques et périls</string>
+  <string name="quick_unlock_warning_summary">Cette fonctionnalité permet de contourner les mécanismes de sécurité importants et malmène certainement plusieurs supports utilisateurs. A utiliser avec précaution</string>
   <string name="unlock_quick_unlock_control_title">Déverrouillage rapide</string>
   <string name="unlock_quick_unlock_control_summary">Déverouille automatiquement l\'appareil lorsque le PIN/mot de passe correct est entré</string>
   <!-- Three-fingers-swipe to screenshot -->
