@@ -293,4 +293,6 @@
   <!-- Lockscreen battery info indicator  -->
   <string name="lockscreen_battery_info_title">充電資訊</string>
   <string name="lockscreen_battery_info_summary">在充電時，在鎖定螢幕上顯示充電器的電流、電壓和電池溫度</string>
+  <!-- Status bar - Battery saver color -->
+  <!-- Reset battery stats -->
 </resources>
