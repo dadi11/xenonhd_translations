@@ -293,4 +293,6 @@
   <!-- Lockscreen battery info indicator  -->
   <string name="lockscreen_battery_info_title">Informace o nabíjení</string>
   <string name="lockscreen_battery_info_summary">Zobrazit reálný maximální proud, napětí a teplotu baterie při nabíjení na zamykací obrazovce</string>
+  <!-- Status bar - Battery saver color -->
+  <!-- Reset battery stats -->
 </resources>
