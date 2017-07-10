@@ -295,4 +295,6 @@
   <!-- Lockscreen battery info indicator  -->
   <string name="lockscreen_battery_info_title">Informations de charge de la batterie</string>
   <string name="lockscreen_battery_info_summary">Affichage du courant, de la tension et de la température de la batterie sur l’écran de verrouillage pendant la charge</string>
+  <!-- Status bar - Battery saver color -->
+  <!-- Reset battery stats -->
 </resources>
