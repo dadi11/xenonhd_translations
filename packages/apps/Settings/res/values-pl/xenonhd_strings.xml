@@ -293,4 +293,6 @@
   <!-- Lockscreen battery info indicator  -->
   <string name="lockscreen_battery_info_title">Informacje o ładowaniu</string>
   <string name="lockscreen_battery_info_summary">Wyświetl napięcie, natężenie oraz temperaturę baterii na ekranie blokady podczas ładowania</string>
+  <!-- Status bar - Battery saver color -->
+  <!-- Reset battery stats -->
 </resources>
