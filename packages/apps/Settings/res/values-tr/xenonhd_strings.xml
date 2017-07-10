@@ -293,4 +293,6 @@
   <!-- Lockscreen battery info indicator  -->
   <string name="lockscreen_battery_info_title">Şarj bilgisi</string>
   <string name="lockscreen_battery_info_summary">Şarj olurken voltaj, batarya sıcaklığı ve akım bilgilerini görüntüle</string>
+  <!-- Status bar - Battery saver color -->
+  <!-- Reset battery stats -->
 </resources>
