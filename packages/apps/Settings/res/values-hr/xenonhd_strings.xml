@@ -18,16 +18,49 @@
   <string name="xenonhd_maintainer">Održavatelj</string>
   <string name="xenonhd_maintainer_default">Nepoznato</string>
   <!-- Changelog -->
+  <string name="changelog_xenonhd_title">Lista promjena</string>
+  <string name="changelog_xenonhd_error">Nije moguće učitati popis promjena</string>
+  <string name="changelog_xenonhd_summary">Provjerite promjene u trenutnoj verziji</string>
   <!-- Density category -->
+  <string name="density_category">Postavke gustoće ekrana</string>
   <!-- XenonOTA -->
+  <string name="xenonota_title">XenonHD ažuriranja</string>
+  <string name="xenonota_summary">Provjeri ažuriranja</string>
   <!-- Dev Options Enabled by Default -->
+  <string name="show_dev_already_enabled">Nema potrebe, razvojne postavke su već omogućene prema zadanim postavkama</string>
   <!-- Phone info shortcut -->
+  <string name="device_info_title">Informacije o telefonu</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+  <string name="local_backup_password_title">Lozinka pozadinske kopije</string>
   <!-- Notification sound timeout -->
+  <string name="app_notification_sound_timeout_title">Minimalno vrijeme između zvukova obavijesti</string>
+  <string name="app_notification_sound_timeout_summary_template">Dopusti zvukove ili vibraciju ne više jednom svakih <xliff:g id="duration">%1$s</xliff:g></string>
+  <string name="app_notification_sound_timeout_value_none">Nema ograničenja</string>
+  <string name="app_notification_sound_timeout_value_10_seconds">10 sekundi</string>
+  <string name="app_notification_sound_timeout_value_30_seconds">30 sekundi</string>
+  <string name="app_notification_sound_timeout_value_1_minute">1 minuta</string>
+  <string name="app_notification_sound_timeout_value_5_minutes">5 minuta</string>
+  <string name="app_notification_sound_timeout_value_15_minutes">10 minuta</string>
+  <string name="app_notification_sound_timeout_value_30_minutes">30 minuta</string>
   <!-- Randomize MAC addresses -->
+  <string name="randomize_mac_title">Slučajne MAC adrese</string>
+  <string name="randomize_mac_summary">Dodijeli slučajne MAC adrese kada su mrežni uredjaji omogućen. Dodjela slučajne MAC adrese se koristi tijekom skeniranja bilo ili ne da je to omogućeno</string>
   <!-- Volume Steps -->
+  <string name="volume_steps_title">Koraci glasnoće</string>
+  <string name="volume_steps_alarm_title">Alarm</string>
+  <string name="volume_steps_dtmf_title">DTMF (biranje)</string>
+  <string name="volume_steps_music_title">Glazba</string>
+  <string name="volume_steps_notification_title">Obavijest</string>
+  <string name="volume_steps_ring_title">Zvonjenje</string>
+  <string name="volume_steps_system_title">Sustav</string>
+  <string name="volume_steps_voice_call_title">Glasovni poziv</string>
+  <string name="volume_steps_reset">Ponovno pokreni</string>
   <!-- DayNight Theme -->
+  <string name="night_mode_title">Tema</string>
+  <string name="night_mode_no">Svjetlo</string>
+  <string name="night_mode_yes">Tamno</string>
   <!-- Screenshot sound -->
+  <string name="screenshot_sound_title">Zvuk snimanja zaslona</string>
   <!-- Manage applications: show substratum overlays -->
   <!-- Manage applications: show substratum icon overlays -->
   <!-- XenonHD Configurations-->
@@ -49,7 +82,9 @@
   <!-- QS tile labels visibility -->
   <!-- Color Picker -->
   <!-- Carrier label -->
+  <string name="status_bar_font_light">Svjetlo</string>
   <!-- Lock Clock Fonts -->
+  <string name="lock_clock_font_light">Svjetlo</string>
   <!-- Screen state service -->
   <!-- Fingerprint max failed attempts -->
   <!-- Lockscreen battery info indicator  -->
