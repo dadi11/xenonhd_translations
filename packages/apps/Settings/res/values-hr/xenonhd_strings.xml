@@ -61,16 +61,35 @@
   <string name="night_mode_yes">Tamno</string>
   <!-- Screenshot sound -->
   <string name="screenshot_sound_title">Zvuk snimanja zaslona</string>
+  <string name="screenshot_sound_summary">Reprodukcija zvučnog efekta dok snimate zaslon</string>
   <!-- Manage applications: show substratum overlays -->
+  <string name="filter_substratum_apps">Substratum slojevi</string>
+  <string name="menu_show_substratum">Prikaži slojeve</string>
+  <string name="menu_hide_substratum">Sakrij slojeve</string>
   <!-- Manage applications: show substratum icon overlays -->
+  <string name="filter_substratum_icons">Substratum ikona slojeva</string>
+  <string name="menu_show_substratum_icons">Prikaži ikonu slojeva</string>
+  <string name="menu_hide_substratum_icons">Sakrij ikonu slojeva</string>
   <!-- XenonHD Configurations-->
+  <string name="xenonhd_title">Postavke</string>
+  <string name="xenonhd_misc_title">Razno</string>
+  <string name="xenonhd_lockscreen_title">Zaslon zaključavanja</string>
+  <string name="xenonhd_ui_title">Korisničko sučelje</string>
   <!-- Selinux Switch -->
+  <string name="selinux_switch_title">Opcije prebacivanja SELinuxa</string>
+  <string name="selinux_switch_summary">SELinux je skup izmjena i korisničkih alata za jezgru. Promjena načina može uzrokovati neželjene učinke. Koristite se ovom opcijom na vlastitu odgovornost</string>
   <!-- Recents Membar -->
   <!-- Quick settings config -->
   <!-- Quick unlock -->
   <!-- Three-fingers-swipe to screenshot -->
   <!-- Long press back to kill configurable timeout -->
   <!-- Doze pulse options -->
+  <string name="fourhalf_second">4,5 s</string>
+  <string name="five_second">5 s</string>
+  <string name="doze_notification_color_invert_title">Inverzija obavijesti</string>
+  <string name="doze_notification_color_invert_summary_off">Obavijesti neće biti obrnute. Koristite se ovime za tamne teme</string>
+  <string name="doze_notification_color_invert_summary_on">Obavijesti će se obrnuti. Koristite se ovime za svijetle/zadane teme</string>
+  <string name="ambient_display_show_battery_title">Status baterije</string>
   <!-- Recents panel settings -->
   <!-- Dashboard options -->
   <!-- Hide Lockscreen clock, date, & alarm -->
