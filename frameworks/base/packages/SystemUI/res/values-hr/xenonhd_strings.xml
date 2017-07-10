@@ -37,6 +37,8 @@
   <string name="pirate_label">Aaarrrggghhh</string>
   <string name="pirate_spec">gusar</string>
   <!-- QS Lockscreen Tile -->
+  <string name="quick_settings_lockscreen_label">Zaključavanje zaslona</string>
+  <string name="quick_settings_lockscreen_label_enforced">Primoraj zaključavanje zaslona</string>
   <string name="accessibility_quick_settings_lock_screen_off">Zaključavanje zaslona isključeno</string>
   <string name="accessibility_quick_settings_lock_screen_on">Zaključavanje zaslona uključeno</string>
   <string name="accessibility_quick_settings_lock_screen_changed_off">Zaključani zaslon isključen</string>
