@@ -78,7 +78,7 @@
   <string name="xenonhd_ui_title">Interface utilisateur</string>
   <!-- Selinux Switch -->
   <string name="selinux_switch_title">Mise en garde d\'état Selinux</string>
-  <string name="selinux_switch_summary">SELinux est un un ensemble de modification apporter au kernel et à la mémoire de stockage utile. Changer ce mode nécessite un appareil enraciné et peut causer des effets indésirables. Le mode Permissif est recommandé. A utiliser à vos risques et périls</string>
+  <string name="selinux_switch_summary">SELinux est un ensemble de modifications apporté au kernel et à la mémoire de stockage utile. Changer ce mode nécessite un appareil enraciné et peut causer des effets indésirables. Le mode Permissive est recommandé. A utiliser à vos risques et périls</string>
   <string name="selinux_title">Mode Selinux</string>
   <string name="selinux_permissive_title">Permissif</string>
   <string name="selinux_enforcing_title">Appliqué</string>
@@ -297,4 +297,6 @@
   <string name="lockscreen_battery_info_summary">Affichage du courant, de la tension et de la température de la batterie sur l’écran de verrouillage pendant la charge</string>
   <!-- Status bar - Battery saver color -->
   <!-- Reset battery stats -->
+  <string name="ok">Ok</string>
+  <string name="menu_stats_reset">Réinitialiser les statistiques</string>
 </resources>
