@@ -296,7 +296,10 @@
   <string name="lockscreen_battery_info_title">Informations de charge de la batterie</string>
   <string name="lockscreen_battery_info_summary">Affichage du courant, de la tension et de la température de la batterie sur l’écran de verrouillage pendant la charge</string>
   <!-- Status bar - Battery saver color -->
+  <string name="status_bar_battery_saver_color_title">Couleur de la barre d\'économiseur de batterie</string>
+  <string name="status_bar_battery_saver_color_summary">Remarque : Si l’économiseur de batterie est déjà activé, pour que la nouvelle couleur soit appliquée, redémarrer l’économiseur de batterie !</string>
   <!-- Reset battery stats -->
   <string name="ok">Ok</string>
   <string name="menu_stats_reset">Réinitialiser les statistiques</string>
+  <string name="reset_stats_msg">Les statistiques de l\'historique de la batterie vont être réinitialisées</string>
 </resources>
