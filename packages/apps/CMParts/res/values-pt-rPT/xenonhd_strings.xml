@@ -28,6 +28,7 @@
   <string name="battery_bar_style_center_mirrored">Centro-espelhado</string>
   <string name="battery_bar_style_reversed">Invertida</string>
   <string name="battery_bar_use_gradient_color">Usar cor gradiente</string>
+  <string name="battery_bar_gradient_color_summary">Usar cor gradiente como uma escala para o nível da bateria</string>
   <string name="battery_bar_high_color">Alto nível de cor</string>
   <string name="battery_bar_low_color">Baixo nível de cor</string>
   <!-- Battery icon -->
@@ -50,6 +51,15 @@
   <string name="show_network_traffic_unit">Unidade de visualização</string>
   <string name="show_network_traffic_frequency">Intervalo de actualização</string>
   <string name="show_network_traffic_disable">Desactivado</string>
+  <string name="show_network_traffic_up">A enviar</string>
+  <string name="show_network_traffic_down">A receber</string>
+  <string name="show_network_traffic_all">A enviar e receber</string>
+  <string name="show_network_traffic_bit">Bits por segundo</string>
+  <string name="show_network_traffic_byte">Bytes por segundo</string>
+  <string name="show_network_traffic_500">500 ms</string>
+  <string name="show_network_traffic_1000">1000 ms</string>
+  <string name="show_network_traffic_1500">1500 ms</string>
+  <string name="show_network_traffic_2000">2000 ms</string>
   <!-- Superuser indicator on status bar -->
   <!--Status bar date -->
   <string name="status_bar_clock_category">Relógio</string>
