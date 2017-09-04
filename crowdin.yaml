@@ -35,4 +35,5 @@ files:
         pt-PT: pt-rPT
         pt-BR: pt-rBR
         be: be
+        lt: lt
     escape_quotes: '2'
