@@ -52,6 +52,7 @@
   <string name="volume_steps_ring_title">振铃</string>
   <string name="volume_steps_system_title">系统</string>
   <string name="volume_steps_voice_call_title">语音通话</string>
+  <string name="volume_steps_reset">重置</string>
   <!-- DayNight Theme -->
   <string name="night_mode_title">主题</string>
   <string name="night_mode_no">亮</string>
@@ -59,6 +60,8 @@
   <!-- Screenshot sound -->
   <string name="screenshot_sound_title">截图提示音</string>
   <!-- Manage applications: show substratum overlays -->
+  <string name="menu_show_substratum">显示叠加层</string>
+  <string name="menu_hide_substratum">隐藏叠加层</string>
   <!-- Manage applications: show substratum icon overlays -->
   <!-- XenonHD Configurations-->
   <string name="xenonhd_lockscreen_title">锁屏</string>
@@ -66,6 +69,8 @@
   <string name="selinux_permissive_title">权限</string>
   <!-- Recents Membar -->
   <!-- Quick settings config -->
+  <string name="qs_rows_portrait_title">行（纵向）</string>
+  <string name="qs_rows_landscape_title">行 （横向）</string>
   <string name="qs_columns_title">列</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_summary">当输入正确的 PIN 或密码后自动解锁</string>
