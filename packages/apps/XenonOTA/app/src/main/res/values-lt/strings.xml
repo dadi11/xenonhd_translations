@@ -17,10 +17,32 @@
   -->
 <resources>
   <!-- App -->
+  <string name="app_name">XenonOTA</string>
+  <string name="app_title">XenonHD atnaujinimas</string>
   <!-- Categories -->
+  <string name="ota_category">Atnaujinimo informacija</string>
+  <string name="links_category">Atsisiuntimo nuorodos</string>
   <!-- ROM info -->
+  <string name="latest_version">Naujausia versija: %1$s</string>
+  <string name="unknown">Nežinomas</string>
+  <string name="system_uptodate">Jūsų sistema yra naujausios versijos</string>
   <!-- Check update -->
+  <string name="check_update_title">Ieškoti atnaujinimų</string>
+  <string name="last_check_summary">Paskutinį kartą tikrinta %1$s</string>
+  <string name="last_check_never">Niekada</string>
+  <string name="check_update_failed">Negalima patikrinti ar yra atnaujinimų, įsitikinkite, kad Jūsų įrenginys palaikomas XenonHD</string>
+  <string name="no_update_available">Atnaujinimų nėra</string>
   <!-- Update interval -->
+  <string name="interval_title">Tikrinti ar yra atnaujinimų kas</string>
+  <string name="autoupdate_enabled">Automatinis atnaujinimas įjungtas</string>
+  <string name="autoupdate_disabled">Automatinis atnaujinimas išjungtas</string>
+  <string name="disabled">Išjungta</string>
+  <string name="hour">Kas valandą</string>
+  <string name="twelve_hours">Kas 12 valandų</string>
+  <string name="twentyfour_hours">Kas 24 valandas</string>
   <!-- Notification -->
+  <string name="notification_title">XenonHD atnaujinimas</string>
+  <string name="notification_message">Galima nauja versija!</string>
   <!-- Dialog -->
+  <string name="dialog_message">Tikrinami atnaujinimai, prašome palaukti&#8230;</string>
 </resources>
