@@ -31,7 +31,10 @@
   <string name="free_ram">Laisva atmintis:\u0020</string>
   <!-- Path data for Solid battery -->
   <!-- High Brightness Mode Tile -->
-  <string name="quick_settings_high_brightness">Didelis šviesumas</string>
+  <string name="quick_settings_high_brightness">Didelis ryškumas</string>
+  <string name="high_brightness_warning">Įjungtas didelis ryškumo režimas, pakeisiantis esamo ryškumo nustatymus</string>
   <!-- Pirate alert -->
+  <string name="pirate_spec">piratas</string>
   <!-- QS Lockscreen Tile -->
+  <string name="quick_settings_lockscreen_label">Užrakinti ekraną</string>
 </resources>
