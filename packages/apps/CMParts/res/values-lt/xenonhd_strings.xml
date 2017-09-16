@@ -17,7 +17,19 @@
   <!-- Battery icon -->
   <!-- Brightness slider -->
   <!-- Color Picker -->
+  <string name="dialog_color_picker">Spalvos parinkimas</string>
+  <string name="set">Nustatyti</string>
   <!-- Network traffic -->
+  <string name="network_traffic_title">Tinklo srautas</string>
+  <string name="show_network_traffic_up">Išeinantys</string>
+  <string name="show_network_traffic_down">Įeinantys</string>
+  <string name="show_network_traffic_bit">Bitai per sekundę</string>
+  <string name="show_network_traffic_byte">Baitai per sekundę</string>
+  <string name="show_network_traffic_500">500 ms</string>
+  <string name="show_network_traffic_1000">1000 ms</string>
+  <string name="show_network_traffic_1500">1500 ms</string>
+  <string name="show_network_traffic_2000">2000 ms</string>
+  <string name="network_traffic_autohide">Automatiškai slėpti</string>
   <!-- Superuser indicator on status bar -->
   <!--Status bar date -->
   <!-- Navbar Animation -->
