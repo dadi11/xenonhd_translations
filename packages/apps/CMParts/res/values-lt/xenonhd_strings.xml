@@ -16,11 +16,16 @@
   <!-- Battery Bar -->
   <!-- Battery icon -->
   <!-- Brightness slider -->
+  <string name="qs_brightness_slider_enabled">Įjungta</string>
+  <string name="qs_brightness_slider_disabled">Išjungta</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">Spalvos parinkimas</string>
+  <string name="press_color_to_apply">Paspauskite žemiau pateiktą spalvą pritaikymui</string>
   <string name="set">Nustatyti</string>
+  <string name="color_default">Numatyta</string>
   <!-- Network traffic -->
   <string name="network_traffic_title">Tinklo srautas</string>
+  <string name="show_network_traffic_disable">Išjungta</string>
   <string name="show_network_traffic_up">Išeinantys</string>
   <string name="show_network_traffic_down">Įeinantys</string>
   <string name="show_network_traffic_bit">Bitai per sekundę</string>
@@ -32,6 +37,16 @@
   <string name="network_traffic_autohide">Automatiškai slėpti</string>
   <!-- Superuser indicator on status bar -->
   <!--Status bar date -->
+  <string name="status_bar_clock_category">Laikrodis</string>
+  <string name="status_bar_date_title">Data</string>
+  <string name="status_bar_date_none">Paslėptas (numatytoji reikšmė)</string>
+  <string name="status_bar_date_small">Mažas</string>
+  <string name="status_bar_date_normal">Normalus</string>
+  <string name="status_bar_date_format_title">Datos formatas</string>
+  <string name="status_bar_date_style">Datos stilius</string>
+  <string name="status_bar_date_style_normal">Normalus</string>
+  <string name="status_bar_date_style_lowercase">Mažosios raidės</string>
+  <string name="status_bar_date_style_uppercase">Didžiosios raidės</string>
   <!-- Navbar Animation -->
   <!-- Torch -->
   <!-- One-handed mode -->
