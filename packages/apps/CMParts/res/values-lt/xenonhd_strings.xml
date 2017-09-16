@@ -35,6 +35,7 @@
   <string name="show_network_traffic_1500">1500 ms</string>
   <string name="show_network_traffic_2000">2000 ms</string>
   <string name="network_traffic_autohide">Automatiškai slėpti</string>
+  <string name="network_traffic_hidearrow">Slėpti rodykles</string>
   <!-- Superuser indicator on status bar -->
   <!--Status bar date -->
   <string name="status_bar_clock_category">Laikrodis</string>
@@ -47,6 +48,8 @@
   <string name="status_bar_date_style_normal">Normalus</string>
   <string name="status_bar_date_style_lowercase">Mažosios raidės</string>
   <string name="status_bar_date_style_uppercase">Didžiosios raidės</string>
+  <string name="menu_save">Išsaugoti</string>
+  <string name="menu_cancel">Atmesti</string>
   <!-- Navbar Animation -->
   <!-- Torch -->
   <!-- One-handed mode -->
