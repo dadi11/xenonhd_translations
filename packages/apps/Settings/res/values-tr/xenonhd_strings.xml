@@ -199,6 +199,7 @@
   <!-- Color Picker -->
   <string name="dialog_color_picker">Renk Seçici</string>
   <string name="press_color_to_apply">Uygulamak İstediğiniz Yere Basın</string>
+  <string name="hex">Hex:</string>
   <string name="set">Ayarla</string>
   <string name="color_default">Varsayılan</string>
   <!-- Carrier label -->
@@ -220,6 +221,7 @@
   <string name="carrier_label_hide_label_title">Bildirim gelince gizlenir</string>
   <string name="carrier_label_number_of_notification_icons_title">Simgeleri gizlemeden önceki maks ikon sayısı</string>
   <string name="status_bar_font_style_title">Yazı tipi</string>
+  <string name="status_bar_font_normal">Normal</string>
   <string name="status_bar_font_italic">Eğik</string>
   <string name="status_bar_font_bold">Kalın</string>
   <string name="status_bar_font_bold_italic">Kalın Eğik</string>
