@@ -93,9 +93,11 @@
   <!-- QS tile labels visibility -->
   <!-- Color Picker -->
   <string name="dialog_color_picker">Färgväljare</string>
+  <string name="hex">Hex:</string>
   <string name="color_default">Förvalt</string>
   <!-- Carrier label -->
   <string name="show_carrier_disabled">Inaktiverad</string>
+  <string name="status_bar_font_normal">Normal</string>
   <string name="status_bar_font_light">Ljus</string>
   <!-- Lock Clock Fonts -->
   <string name="lock_date_font_title">Datum</string>
