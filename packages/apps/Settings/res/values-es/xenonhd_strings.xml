@@ -199,6 +199,7 @@
   <!-- Color Picker -->
   <string name="dialog_color_picker">Selección de color</string>
   <string name="press_color_to_apply">Pulse color de debajo para aplicar</string>
+  <string name="hex">Hex:</string>
   <string name="set">Establecer</string>
   <string name="color_default">Por defecto</string>
   <!-- Carrier label -->
@@ -220,6 +221,7 @@
   <string name="carrier_label_hide_label_title">Ocultar en las notificaciones</string>
   <string name="carrier_label_number_of_notification_icons_title">Número máximo de iconos antes de ocultar</string>
   <string name="status_bar_font_style_title">Tipo de letra</string>
+  <string name="status_bar_font_normal">Normal</string>
   <string name="status_bar_font_italic">Italic</string>
   <string name="status_bar_font_bold">Negrita</string>
   <string name="status_bar_font_bold_italic">Negrita Cursiva</string>
@@ -255,10 +257,12 @@
   <string name="lock_clock_font_stock">Normal (por defecto)</string>
   <string name="lock_clock_font_bold">Negrita</string>
   <string name="lock_clock_font_light">Claro</string>
+  <string name="lock_clock_font_italic">Italic</string>
   <string name="lock_clock_font_bold_italic">Negrita Cursiva</string>
   <string name="lock_clock_font_light_italic">Fina cursiva</string>
   <string name="lock_clock_font_thin_italic">Delgada Cursiva</string>
   <string name="lock_clock_font_thin">Delgada</string>
+  <string name="lock_clock_font_condensed_normal">Condensed</string>
   <string name="lock_clock_font_condensed_italic">Condensed Cursiva</string>
   <string name="lock_clock_font_condensed_bold">Condensed negrita</string>
   <string name="lock_clock_font_condensed_bold_italic">Condensed Negrita Cursiva</string>
