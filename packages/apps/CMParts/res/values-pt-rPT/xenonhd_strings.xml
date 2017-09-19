@@ -16,7 +16,6 @@
   <!-- Battery Bar -->
   <string name="battery_bar_title">Barra da bateria</string>
   <string name="battery_bar">Localização da barra de bateria</string>
-  <string name="battery_bar_no_navbar">Localização da barra de bateria</string>
   <string name="battery_bar_color">Cor da barra da bateria</string>
   <string name="battery_bar_charging_color">Cor da barra da bateria em carregamento</string>
   <string name="battery_bar_battery_low_color">Cor da barra da bateria fraca</string>
@@ -50,7 +49,6 @@
   <string name="show_network_traffic_state">Monitor de tráfego na barra de estado</string>
   <string name="show_network_traffic_unit">Unidade de visualização</string>
   <string name="show_network_traffic_frequency">Intervalo de actualização</string>
-  <string name="show_network_traffic_disable">Desactivado</string>
   <string name="show_network_traffic_up">A enviar</string>
   <string name="show_network_traffic_down">A receber</string>
   <string name="show_network_traffic_all">A enviar e receber</string>
