@@ -16,6 +16,7 @@
   <string name="xenonhd_version">Phiên bản XenonHD</string>
   <string name="xenonhd_version_default">Không rõ</string>
   <string name="xenonhd_maintainer">Người duy trì</string>
+  <string name="xenonhd_maintainer_default">Không rõ</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Nhật ký thay đổi</string>
   <string name="changelog_xenonhd_error">Không thể tải nhật ký thay đổi</string>
