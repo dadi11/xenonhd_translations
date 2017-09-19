@@ -199,6 +199,7 @@
   <!-- Color Picker -->
   <string name="dialog_color_picker">Farbauswahl</string>
   <string name="press_color_to_apply">Berühren Sie eine der unten angezeigten Farben, um diese anzuwenden</string>
+  <string name="hex">Hex:</string>
   <string name="set">Übernehmen</string>
   <string name="color_default">Standard</string>
   <!-- Carrier label -->
@@ -220,6 +221,7 @@
   <string name="carrier_label_hide_label_title">Benachrichtigung verstecken</string>
   <string name="carrier_label_number_of_notification_icons_title">Maximale Anzahl an Symbolen bevor sie versteckt werden</string>
   <string name="status_bar_font_style_title">Schriftart</string>
+  <string name="status_bar_font_normal">Normal</string>
   <string name="status_bar_font_italic">Kursiv</string>
   <string name="status_bar_font_bold">Fett gedruckt</string>
   <string name="status_bar_font_bold_italic">Fett + Kursiv</string>
@@ -264,6 +266,8 @@
   <string name="lock_clock_font_condensed_italic">Schmal + kursiv</string>
   <string name="lock_clock_font_condensed_bold">Schmal + fett</string>
   <string name="lock_clock_font_condensed_bold_italic">Schmal fett kursiv</string>
+  <string name="lock_clock_font_medium_normal">Medium</string>
+  <string name="lock_clock_font_medium_italic">Medium Italic</string>
   <!-- Screen state service -->
   <string name="screen_state_toggles_title">Abbrechen</string>
   <string name="screen_state_toggles_enable_title">Aktivieren</string>
