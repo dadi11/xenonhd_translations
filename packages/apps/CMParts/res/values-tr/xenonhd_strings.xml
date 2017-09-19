@@ -78,6 +78,7 @@
   <string name="status_bar_date_normal">Normal</string>
   <string name="status_bar_date_format_title">Tarih biçimi</string>
   <string name="status_bar_date_style">Tarih stili</string>
+  <string name="status_bar_date_style_normal">Normal</string>
   <string name="status_bar_date_style_lowercase">Küçük harf</string>
   <string name="status_bar_date_style_uppercase">Büyük harf</string>
   <string name="status_bar_date_format_custom">Özel java formatı</string>
