@@ -254,6 +254,7 @@
   <string name="lockdate_font_size_title">Taille de la police pour la Date</string>
   <string name="lockclock_font_size_title">Taille de la police pour l\'Horloge</string>
   <string name="lock_date_font_summary">Personnaliser la police pour la date</string>
+  <string name="lock_date_font_title">Date</string>
   <string name="lock_clock_font_dialog_title">Sélectionnez la police d\'horloge de l\'écran verrouillage</string>
   <string name="lock_clock_font_stock">Normale (défaut)</string>
   <string name="lock_clock_font_bold">Gras</string>
