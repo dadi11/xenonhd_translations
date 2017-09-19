@@ -78,7 +78,6 @@
   <string name="status_bar_date_normal">Normal</string>
   <string name="status_bar_date_format_title">Datumsformat</string>
   <string name="status_bar_date_style">Datumsstil</string>
-  <string name="status_bar_date_style_normal">Normal</string>
   <string name="status_bar_date_style_lowercase">Kleinbuchstaben</string>
   <string name="status_bar_date_style_uppercase">Großbuchstaben</string>
   <string name="status_bar_date_format_custom">Benutzerdefiniertes Java-Format</string>
