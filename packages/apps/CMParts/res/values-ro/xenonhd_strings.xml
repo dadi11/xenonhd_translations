@@ -30,7 +30,6 @@
   <!-- Superuser indicator on status bar -->
   <!--Status bar date -->
   <string name="status_bar_date_normal">Normal</string>
-  <string name="status_bar_date_style_normal">Normal</string>
   <!-- Navbar Animation -->
   <!-- Torch -->
   <!-- One-handed mode -->
