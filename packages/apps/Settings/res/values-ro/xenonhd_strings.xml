@@ -53,6 +53,7 @@
   <string name="set">Setaţi</string>
   <string name="color_default">Prestabilit</string>
   <!-- Carrier label -->
+  <string name="status_bar_font_normal">Normal</string>
   <!-- Lock Clock Fonts -->
   <!-- Screen state service -->
   <!-- Fingerprint max failed attempts -->
