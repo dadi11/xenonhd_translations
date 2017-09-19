@@ -31,7 +31,6 @@
   <string name="randomize_mac_title">Atsitiktiniai MAC adresai</string>
   <!-- Volume Steps -->
   <string name="volume_steps_alarm_title">Žadintuvas</string>
-  <string name="volume_steps_music_title">Muzika</string>
   <string name="volume_steps_notification_title">Pranešimas</string>
   <string name="volume_steps_system_title">Sistema</string>
   <string name="volume_steps_voice_call_title">Balso skambutis</string>
@@ -60,7 +59,6 @@
   <string name="timeout_500">0.5 sekundės</string>
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">Įjungta</string>
-  <string name="summary_doze_disabled">Išjungta</string>
   <string name="doze_overwrite_value_title">Perrašyti numatytuosius</string>
   <string name="doze_brightness_level_title">Ryškumo lygis</string>
   <string name="onehundred_ms">100 ms</string>
@@ -95,14 +93,7 @@
   <!-- Force authorize substratum packages -->
   <!-- QS tile labels visibility -->
   <!-- Color Picker -->
-  <string name="dialog_color_picker">Spalvos parinkimas</string>
-  <string name="press_color_to_apply">Paspauskite žemiau pateiktą spalvą pritaikymui</string>
-  <string name="set">Nustatyti</string>
-  <string name="color_default">Numatyta</string>
   <!-- Carrier label -->
-  <string name="show_carrier_disabled">Išjungta</string>
-  <string name="status_bar_font_normal">Normalus</string>
-  <string name="status_bar_font_light">Šviesi</string>
   <!-- Lock Clock Fonts -->
   <string name="lock_date_font_title">Data</string>
   <string name="lock_clock_font_stock">Normalus (numatytoji reikšmė)</string>
