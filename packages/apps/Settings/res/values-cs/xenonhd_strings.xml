@@ -199,7 +199,6 @@
   <!-- Color Picker -->
   <string name="dialog_color_picker">Výběr barvy</string>
   <string name="press_color_to_apply">Klikněte na barvu pro její výběr</string>
-  <string name="hex">Hex:</string>
   <string name="set">Nastavit</string>
   <string name="color_default">Výchozí</string>
   <!-- Carrier label -->
@@ -255,19 +254,8 @@
   <string name="lock_date_font_title">Datum</string>
   <string name="lock_clock_font_dialog_title">Vyberte styl písma hodin na zamykací obrazovce</string>
   <string name="lock_clock_font_stock">Normální (výchozí)</string>
-  <string name="lock_clock_font_bold">Bold</string>
   <string name="lock_clock_font_light">Světlé</string>
-  <string name="lock_clock_font_italic">Italic</string>
-  <string name="lock_clock_font_bold_italic">Bold Italic</string>
-  <string name="lock_clock_font_light_italic">Light Italic</string>
-  <string name="lock_clock_font_thin_italic">Thin Italic</string>
-  <string name="lock_clock_font_thin">Thin</string>
-  <string name="lock_clock_font_condensed_normal">Condensed</string>
-  <string name="lock_clock_font_condensed_italic">Condensed Italic</string>
-  <string name="lock_clock_font_condensed_bold">Condensed Bold</string>
   <string name="lock_clock_font_condensed_bold_italic">Condensed Bold Italic</string>
-  <string name="lock_clock_font_medium_normal">Medium</string>
-  <string name="lock_clock_font_medium_italic">Medium Italic</string>
   <!-- Screen state service -->
   <string name="screen_state_toggles_title">Pozastavené akce</string>
   <string name="screen_state_toggles_enable_title">Povolit</string>
