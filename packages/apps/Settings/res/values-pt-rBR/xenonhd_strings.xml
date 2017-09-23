@@ -203,30 +203,39 @@
   <string name="number_of_notifications_title">Número de notificações</string>
   <string name="carrier_label_hide_label_title">Esconder Notificações</string>
   <string name="carrier_label_number_of_notification_icons_title">Numero máximo de ícones antes de esconder</string>
-  <string name="status_bar_font_style_title">Tipo de letra</string>
+  <string name="status_bar_font_style_title">Fonte</string>
   <string name="status_bar_font_normal">Normal</string>
   <string name="status_bar_font_italic">Itálico</string>
   <string name="status_bar_font_bold">Negrito</string>
-  <string name="status_bar_font_bold_italic">Negrito e itálico</string>
+  <string name="status_bar_font_bold_italic">Negrito Itálico</string>
   <string name="status_bar_font_light">Claro</string>
   <string name="status_bar_font_light_italic">Itálico claro</string>
   <string name="status_bar_font_thin">Fino</string>
-  <string name="status_bar_font_thin_italic">Itálico fino</string>
+  <string name="status_bar_font_thin_italic">Itálico Fino</string>
   <string name="status_bar_font_condensed">Condensado</string>
   <string name="status_bar_font_condensed_italic">Itálico condensado</string>
-  <string name="status_bar_font_medium">Média</string>
+  <string name="status_bar_font_condensed_light">Condensado Leve</string>
+  <string name="status_bar_font_condensed_light_italic">Itálico Condensado Claro</string>
+  <string name="status_bar_font_condensed_bold">Negrito Condensado</string>
+  <string name="status_bar_font_medium">Médio</string>
+  <string name="status_bar_font_medium_italic">Itálico Médio</string>
+  <string name="status_bar_font_black">Preto</string>
+  <string name="status_bar_font_black_italic">Itálico Preto</string>
+  <string name="status_bar_font_comingsoon">Em breve</string>
   <!-- Lock Clock Fonts -->
   <string name="lock_date_font_title">Data</string>
   <string name="lock_clock_font_bold">Negrito</string>
   <string name="lock_clock_font_light">Claro</string>
   <string name="lock_clock_font_italic">Itálico</string>
-  <string name="lock_clock_font_bold_italic">Negrito e itálico</string>
+  <string name="lock_clock_font_bold_italic">Negrito Itálico</string>
   <string name="lock_clock_font_light_italic">Itálico claro</string>
-  <string name="lock_clock_font_thin_italic">Itálico fino</string>
+  <string name="lock_clock_font_thin_italic">Itálico Fino</string>
   <string name="lock_clock_font_thin">Fino</string>
   <string name="lock_clock_font_condensed_normal">Condensado</string>
   <string name="lock_clock_font_condensed_italic">Itálico condensado</string>
-  <string name="lock_clock_font_medium_normal">Média</string>
+  <string name="lock_clock_font_condensed_bold">Negrito Condensado</string>
+  <string name="lock_clock_font_medium_normal">Médio</string>
+  <string name="lock_clock_font_medium_italic">Itálico Médio</string>
   <!-- Screen state service -->
   <!-- Fingerprint max failed attempts -->
   <string name="fp_three_attempts">3 tentativas</string>
