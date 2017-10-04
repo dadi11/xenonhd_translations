@@ -20,7 +20,9 @@
   <string name="changelog_xenonhd_error">Nie można wczytać listy zmian</string>
   <string name="changelog_xenonhd_summary">Sprawdź zmiany w bieżącej kompilacji</string>
   <!-- Development Settings -->
+  <string name="show_dev_already_enabled">Opcje programistyczne są domyślnie włączone</string>
   <!-- Vendor version -->
+  <string name="vendor_version">Wersja dostawcy</string>
   <string name="vendor_version_default">Nieznana</string>
   <!-- XenonOTA -->
   <string name="xenonota_title">XenonOTA</string>
