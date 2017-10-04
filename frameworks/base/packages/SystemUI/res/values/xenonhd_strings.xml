@@ -37,10 +37,10 @@
     <string name="accessibility_quick_settings_compass_changed_on">Compass turned on</string>
     <string name="accessibility_quick_settings_compass_off">Compass off</string>
     <string name="accessibility_quick_settings_compass_on">Compass on</string>
-    <string name="accessibility_quick_settings_heads_up_changed_off">Heads up turned off.</string>
-    <string name="accessibility_quick_settings_heads_up_changed_on">Heads up turned on.</string>
-    <string name="accessibility_quick_settings_heads_up_off">Heads up off.</string>
-    <string name="accessibility_quick_settings_heads_up_on">Heads up on.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_off">Heads up turned off</string>
+    <string name="accessibility_quick_settings_heads_up_changed_on">Heads up turned on</string>
+    <string name="accessibility_quick_settings_heads_up_off">Heads up off</string>
+    <string name="accessibility_quick_settings_heads_up_on">Heads up on</string>
     <string name="quick_settings_caffeine_label">Caffeine</string>
     <string name="quick_settings_compass_E">E</string>
     <string name="quick_settings_compass_N">N</string>
