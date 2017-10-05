@@ -18,21 +18,32 @@
 <resources>
   <!-- App -->
   <string name="app_name">XenonOTA</string>
+  <string name="app_title">Aktualizacje XenonHD</string>
   <!-- Categories -->
+  <string name="ota_category">Sekcja aktualizacji</string>
+  <string name="links_category">Sekcja pobierania</string>
   <!-- Dialog -->
   <string name="dialog_message">Sprawdzam aktualizacje, proszę czekać...</string>
   <!-- ROM info -->
+  <string name="latest_version">Aktualizacja dostępna!\nNajnowsza wersja: %1$s</string>
   <string name="unknown">Nieznana</string>
   <string name="system_uptodate">Twój system jest aktualny</string>
   <!-- Check update -->
   <string name="check_update_title">Sprawdź dostępność aktualizacji</string>
   <string name="last_check_summary">Ostatnio sprawdzono: %1$s</string>
   <string name="last_check_never">Nigdy</string>
+  <string name="check_update_failed">Nie można sprawdzić aktualizacji. Sprawdź połączenie z Internetem i czy Twoje urządzenie jest oficjalnie wspierane</string>
+  <string name="update_available">Aktualizacja jest dostępna!</string>
   <string name="no_update_available">Brak dostępnych aktualizacji</string>
   <!-- Notification -->
   <string name="notification_title">Aktualizacje XenonHD</string>
   <string name="notification_message">Dostępna jest nowa wersja!</string>
+  <string name="xenonota_channel">Powiadomienia XenonOTA</string>
+  <string name="xenonota_channel_description">Powiadomienia o nowych aktualizacjach XenonHD</string>
   <!-- Update interval -->
+  <string name="interval_title">Automatycznie sprawdzaj aktualizacje</string>
+  <string name="autoupdate_enabled">Automatyczne sprawdzanie aktualizacji jest włączone</string>
+  <string name="autoupdate_disabled">Automatyczne sprawdzanie aktualizacji jest wyłączone</string>
   <string name="disabled">Wyłączony</string>
   <string name="hour">Co godzinę</string>
   <string name="twelve_hours">Co 12 godzin</string>
