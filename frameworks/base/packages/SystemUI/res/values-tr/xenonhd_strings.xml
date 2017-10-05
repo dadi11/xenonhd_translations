@@ -19,6 +19,7 @@
   <!-- Screenshot -->
   <string name="delete_screenshot_toast">Ekran Görüntüsü Silindi</string>
   <!-- Status bar -->
+  <string name="statusbar_items_title">Durum çubuğu simgeleri</string>
   <!-- Tiles -->
   <string name="quick_settings_music_label">Müzik</string>
   <string name="quick_settings_music_play">Yürüt</string>
