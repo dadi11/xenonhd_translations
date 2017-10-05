@@ -40,6 +40,7 @@
   <string name="double_tap_to_sleep_title">DT2S na pasku stanu</string>
   <!-- Lockscreen -->
   <string name="lockscreen_title">Blokada ekranu</string>
+  <string name="media_art_title">Okładka albumu</string>
   <!-- Misc -->
   <string name="misc_title">Różne</string>
   <string name="summary_dashboard_conditions_disabled">Wyłączony</string>
@@ -62,12 +63,21 @@
   <!-- QS -->
   <string name="quicksettings_title">Szybkie ustawienia</string>
   <string name="qs_category">Kafelki szybkich skrótów</string>
+  <string name="pulldown_category">Rozwijanie</string>
   <string name="brightness_category">Jasność</string>
+  <string name="brightness_icon_title">Ikona jasności</string>
   <string name="qs_brightness_slider_title">Pasek jasności</string>
+  <string name="qs_columns_landscape_title">Kolumny - poziomo</string>
+  <string name="qs_columns_portrait_title">Kolumny - pionowo</string>
+  <string name="qs_rows_columns_title">Kolumny i rzędy</string>
+  <string name="qs_rows_landscape_title">Rzędy - poziomo</string>
+  <string name="qs_rows_portrait_title">Wiersze - pionowo</string>
+  <string name="smart_pulldown_title">Inteligentne rozwijanie</string>
   <string name="smart_pulldown_dismissable">brak usuwalnych</string>
   <string name="smart_pulldown_none">brak powiadomień</string>
   <string name="smart_pulldown_off">Wyłączone</string>
   <string name="smart_pulldown_ongoing">brak bieżących</string>
+  <string name="status_bar_quick_qs_pulldown">Szybkie rozwijanie</string>
   <!-- Recents -->
   <string name="recents_title">Ostatnie aplikacje</string>
   <string name="recents_clear_all_location_title">Pozycja przycisku</string>
