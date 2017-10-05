@@ -19,6 +19,7 @@
   <!-- Screenshot -->
   <string name="delete_screenshot_toast">Captura de pantalla eliminada</string>
   <!-- Status bar -->
+  <string name="statusbar_items_title">Iconos de la barra de estado</string>
   <!-- Tiles -->
   <string name="quick_settings_music_label">Música</string>
   <string name="quick_settings_music_play">Reproducir</string>
