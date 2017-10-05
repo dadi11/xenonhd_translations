@@ -19,7 +19,6 @@
   <!-- Screenshot -->
   <string name="delete_screenshot_toast">Zrzut ekranu został usunięty</string>
   <!-- Status bar -->
-  <string name="accessibility_data_connection_HP">HSPA+</string>
   <string name="status_bar_volte">VoLTE</string>
   <!-- Tiles -->
   <string name="accessibility_quick_settings_caffeine_off">Kofeina wył</string>
@@ -39,6 +38,9 @@
   <string name="quick_settings_compass_W">Zach</string>
   <string name="quick_settings_compass_label">Kompas</string>
   <string name="quick_settings_heads_up_label">Heads up</string>
+  <string name="quick_settings_music_label">Muzyka</string>
+  <string name="quick_settings_music_play">Odtwórz</string>
+  <string name="quick_settings_music_pause">Pauza</string>
   <string name="quick_settings_pip_label">PiP</string>
   <string name="quick_settings_reboot_label">Uruchom ponownie</string>
   <string name="quick_settings_reboot_recovery_label">Tryb Recovery</string>
