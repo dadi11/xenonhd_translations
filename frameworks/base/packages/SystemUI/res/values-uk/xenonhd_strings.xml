@@ -19,6 +19,7 @@
   <!-- Screenshot -->
   <string name="delete_screenshot_toast">Знімок екрану видалено</string>
   <!-- Status bar -->
+  <string name="statusbar_items_title">Значки статус бару</string>
   <!-- Tiles -->
   <string name="quick_settings_music_label">Музика</string>
   <string name="quick_settings_music_play">Грати</string>
