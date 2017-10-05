@@ -36,7 +36,9 @@
   <!-- Notification -->
   <string name="notification_title">Aktualizacje XenonHD</string>
   <string name="notification_message">Dostępna jest nowa wersja!</string>
+  <string name="xenonota_channel">Powiadomienia XenonOTA</string>
   <!-- Update interval -->
+  <string name="interval_title">Automatycznie sprawdzaj aktualizacje</string>
   <string name="disabled">Wyłączony</string>
   <string name="hour">Co godzinę</string>
   <string name="twelve_hours">Co 12 godzin</string>
