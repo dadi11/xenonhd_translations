@@ -19,6 +19,7 @@
   <!-- Screenshot -->
   <string name="delete_screenshot_toast">Schermafbeelding verwijderd</string>
   <!-- Status bar -->
+  <string name="statusbar_items_title">Statusbalk iconen</string>
   <!-- Tiles -->
   <string name="quick_settings_music_label">Muziek</string>
   <string name="quick_settings_music_play">Afspelen</string>
