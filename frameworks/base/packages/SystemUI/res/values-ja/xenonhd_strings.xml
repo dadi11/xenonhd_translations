@@ -19,6 +19,7 @@
   <!-- Screenshot -->
   <string name="delete_screenshot_toast">スクリーンショットは削除されました</string>
   <!-- Status bar -->
+  <string name="statusbar_items_title">ステータスバーのアイコン</string>
   <!-- Tiles -->
   <string name="quick_settings_music_label">音楽</string>
   <string name="quick_settings_music_play">再生</string>
