@@ -19,6 +19,7 @@
   <!-- Screenshot -->
   <string name="delete_screenshot_toast">Ekrano kopija ištrinta</string>
   <!-- Status bar -->
+  <string name="statusbar_items_title">Būsenos juostos piktogramos</string>
   <!-- Tiles -->
   <string name="quick_settings_music_label">Muzika</string>
   <string name="quick_settings_music_play">Groti</string>
