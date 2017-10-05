@@ -19,6 +19,7 @@
   <!-- Screenshot -->
   <string name="delete_screenshot_toast">Kuvatõmmis kustutatud</string>
   <!-- Status bar -->
+  <string name="statusbar_items_title">Olekuriba ikoonid</string>
   <!-- Tiles -->
   <string name="quick_settings_music_label">Muusika</string>
   <string name="quick_settings_music_play">Esita</string>
