@@ -18,5 +18,6 @@
   <!-- Whether to enable doze always on -->
   <!-- Reboot action -->
   <string name="reboot_to_recovery_title">Tryb Recovery</string>
+  <string name="reboot_to_bootloader_title">Bootloader</string>
   <!-- Vendor mismatched fingerprint warning [CHAR LIMIT=NONE] -->
 </resources>
