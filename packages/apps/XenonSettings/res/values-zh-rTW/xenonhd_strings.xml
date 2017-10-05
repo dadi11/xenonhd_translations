@@ -16,7 +16,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- App Title -->
+  <string name="xenonhd_settings_summary">附加選項</string>
   <!-- Buttons -->
+  <string name="button_title">按鈕</string>
+  <string name="volume_title">音量鍵</string>
   <!-- Color Picker -->
   <string name="color_default">預設</string>
   <string name="dialog_color_picker">顏色選擇器</string>
