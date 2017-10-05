@@ -19,6 +19,7 @@
   <!-- Screenshot -->
   <string name="delete_screenshot_toast">螢幕截圖已刪除</string>
   <!-- Status bar -->
+  <string name="statusbar_items_title">狀態列圖示</string>
   <!-- Tiles -->
   <string name="quick_settings_music_label">音樂</string>
   <string name="quick_settings_music_play">開始</string>
