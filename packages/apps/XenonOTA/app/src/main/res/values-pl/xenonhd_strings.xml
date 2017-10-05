@@ -18,7 +18,10 @@
 <resources>
   <!-- App -->
   <string name="app_name">XenonOTA</string>
+  <string name="app_title">Aktualizacje XenonHD</string>
   <!-- Categories -->
+  <string name="ota_category">Sekcja aktualizacji</string>
+  <string name="links_category">Sekcja pobierania</string>
   <!-- Dialog -->
   <string name="dialog_message">Sprawdzam aktualizacje, proszę czekać...</string>
   <!-- ROM info -->
@@ -28,6 +31,7 @@
   <string name="check_update_title">Sprawdź dostępność aktualizacji</string>
   <string name="last_check_summary">Ostatnio sprawdzono: %1$s</string>
   <string name="last_check_never">Nigdy</string>
+  <string name="update_available">Aktualizacja jest dostępna!</string>
   <string name="no_update_available">Brak dostępnych aktualizacji</string>
   <!-- Notification -->
   <string name="notification_title">Aktualizacje XenonHD</string>
