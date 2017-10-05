@@ -19,6 +19,7 @@
   <!-- Screenshot -->
   <string name="delete_screenshot_toast">تم حذف صورة الشاشة</string>
   <!-- Status bar -->
+  <string name="statusbar_items_title">أيقونات شريط الحالة</string>
   <!-- Tiles -->
   <string name="quick_settings_music_label">الموسيقى</string>
   <string name="quick_settings_music_play">تشغيل</string>
