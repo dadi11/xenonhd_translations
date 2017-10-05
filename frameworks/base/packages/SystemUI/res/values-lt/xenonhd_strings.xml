@@ -20,6 +20,9 @@
   <string name="delete_screenshot_toast">Ekrano kopija ištrinta</string>
   <!-- Status bar -->
   <!-- Tiles -->
+  <string name="quick_settings_music_label">Muzika</string>
+  <string name="quick_settings_music_play">Groti</string>
+  <string name="quick_settings_music_pause">Pauzė</string>
   <string name="quick_settings_reboot_label">Perkrauti</string>
   <string name="quick_settings_reboot_recovery_label">Atkūrimo režimas</string>
   <string name="quick_settings_screenshot_label">Ekrano kopija</string>
