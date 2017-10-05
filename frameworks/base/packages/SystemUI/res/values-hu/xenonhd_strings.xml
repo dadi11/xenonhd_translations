@@ -19,6 +19,7 @@
   <!-- Screenshot -->
   <string name="delete_screenshot_toast">Képernyőkép törölve</string>
   <!-- Status bar -->
+  <string name="statusbar_items_title">Állapotsor ikonjai</string>
   <!-- Tiles -->
   <string name="quick_settings_music_label">Zene</string>
   <string name="quick_settings_music_play">Indítás</string>
