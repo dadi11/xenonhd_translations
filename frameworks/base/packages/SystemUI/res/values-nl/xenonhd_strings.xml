@@ -20,6 +20,9 @@
   <string name="delete_screenshot_toast">Schermafbeelding verwijderd</string>
   <!-- Status bar -->
   <!-- Tiles -->
+  <string name="quick_settings_music_label">Muziek</string>
+  <string name="quick_settings_music_play">Afspelen</string>
+  <string name="quick_settings_music_pause">Pauzeer</string>
   <string name="quick_settings_reboot_label">Opnieuw starten</string>
   <string name="quick_settings_screenshot_label">Schermafdruk</string>
 </resources>
