@@ -17,6 +17,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Reboot -->
   <string name="global_action_restart_advanced">Rozšířené restartování</string>
+  <string name="global_action_restart_bootloader">Restartovat do bootloaderu</string>
+  <string name="global_action_restart_recovery">Restartovat do recovery</string>
   <!-- Screenshot -->
   <string name="delete_screenshot_toast">Snímek obrazovky odstraněn</string>
   <string name="screenshot_abort_text">Operace přerušena</string>
