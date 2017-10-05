@@ -22,6 +22,7 @@
   <string name="button_title">Przyciski</string>
   <string name="volume_title">Przyciski głośności</string>
   <string name="swap_volume_buttons">Zamień przyciski głośności</string>
+  <string name="volume_rocker_music_controls_title">Przełączanie utworów</string>
   <!-- Color Picker -->
   <string name="color_default">Domyślny</string>
   <string name="dialog_color_picker">Wybór koloru</string>
@@ -35,6 +36,7 @@
   <string name="save">Zapisz</string>
   <!-- Gestures -->
   <string name="gestures_title">Gesty</string>
+  <string name="dt2s_category">Usypianie podwójnym dotknięciem</string>
   <string name="double_tap_sleep_lockscreen">DT2S na ekranie blokady</string>
   <string name="double_tap_sleep_navbar">DT2S na pasku nawigacji</string>
   <string name="double_tap_to_sleep_title">DT2S na pasku stanu</string>
@@ -56,6 +58,7 @@
   <string name="powermenu_lockdown">Zablokuj teraz</string>
   <string name="powermenu_power">Zasilanie</string>
   <string name="powermenu_restart">Restart</string>
+  <string name="powermenu_restart_recovery">Zaawansowany restart</string>
   <string name="powermenu_screenshot">Zrzut ekranu</string>
   <string name="powermenu_settings">Ustawienia</string>
   <string name="powermenu_soundpanel">Panel dźwięku</string>
