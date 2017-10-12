@@ -60,6 +60,8 @@
     <string name="double_tap_sleep_navbar_summary">Double tap on navbar to sleep device</string>
     <string name="double_tap_to_sleep_title">DT2S on status bar</string>
     <string name="double_tap_to_sleep_summary">Double tap on status bar to sleep device</string>
+    <string name="pocket_judge_title">Pocket detection</string>
+    <string name="pocket_judge_summary">Block screen and button inputs when device is in pocket</string>
 
     <!-- Lockscreen -->
     <string name="lockscreen_title">Lock screen</string>
@@ -67,13 +69,20 @@
     <string name="lockscreen_tuner_summary">Set shortcuts at the bottom of lock screen</string>
     <string name="media_art_title">Media cover art</string>
     <string name="media_art_summary">Enable media cover art on lock screen</string>
+    <string name="lockscreen_qs_disabled_title">No QS when secured</string>
+    <string name="lockscreen_qs_disabled_summary">Disable quick settings tiles on secured lockscreen</string>
 
     <!-- Misc -->
     <string name="misc_title">Miscellaneous</string>
     <string name="dashboard_category">Dashboard</string>
     <string name="dashboard_conditions_title">Dashboard conditions</string>
+    <string name="dashboard_suggestions_title">Dashboard suggestions</string>
+    <string name="summary_dashboard_suggestions_enabled">Enabled</string>
+    <string name="summary_dashboard_suggestions_disabled">Disabled</string>
     <string name="summary_dashboard_conditions_disabled">Disabled</string>
     <string name="summary_dashboard_conditions_enabled">Enabled</string>
+    <string name="toast_icon_title">Toast app icon</string>
+    <string name="toast_icon_summary">Display the app\'s icon corresponding with the toast</string>
 
     <!-- Navbar -->
     <string name="navbar_title">Navigation bar</string>
@@ -102,7 +111,7 @@
     <string name="powermenu_users">Users</string>
     <string name="power">Power Menu tweaks</string>
     <string name="power_menu_transparency">Power menu opacity</string>
-    <string name="power_menu_dialog_dim">Power menu dialog dim background amount</string>
+    <string name="power_menu_dialog_dim">Dialog background dim amount</string>
 
     <!-- QS -->
     <string name="quicksettings_title">Quick Settings</string>
@@ -111,6 +120,9 @@
     <string name="brightness_category">Brightness</string>
     <string name="brightness_icon_title">Brightness icon</string>
     <string name="brightness_icon_summary">Show brightness icon on the left side of brighness slider to switch auto brightness</string>
+    <string name="brightness_icon_position_title">Brightness icon position</string>
+    <string name="brightness_icon_position_on_summary">On the right</string>
+    <string name="brightness_icon_position_off_summary">On the left</string>
     <string name="qqs_scroll_title">Scroll small QS tiles</string>
     <string name="qqs_scroll_summary">Allow scrolling through the small QS tiles</string>
     <string name="qs_brightness_slider_title">Brightness slider</string>
@@ -132,6 +144,10 @@
     <string name="smart_pulldown_summary">Expand QS panel when there are %1$s notifications</string>
     <string name="status_bar_quick_qs_pulldown">Quick pull-down</string>
     <string name="status_bar_quick_qs_pulldown_summary">Pull down on the right side of statusbar to expand QS panel</string>
+    <string name="qs_footer_warnings_title">QS footer warnings</string>
+    <string name="qs_footer_warnings_summary">Display a warning at bottom of QS panel when network is monitored by external apps or VPN</string>
+    <string name="qs_tile_title_visibility_title">Show tile titles</string>
+    <string name="qs_tile_title_visibility_summary">Display titles underneath tiles</string>
 
     <!-- Recents -->
     <string name="recents_title">Recent apps</string>
@@ -145,16 +161,42 @@
     <string name="show_clear_all_recents_button_title">Clear all button</string>
     <string name="show_clear_all_recents_button_summary">Show clear all button</string>
 
+    <!-- Seekbar -->
+    <string name="seekbar_no_default_value">No default value set</string>
+    <string name="seekbar_default_value_set">Value set to default of <xliff:g id="number">%d</xliff:g></string>
+    <string name="seekbar_default_value_already_set">Default value is already set</string>
+    <string name="seekbar_default_string">Default</string>
+
     <!-- Statusbar -->
     <string name="statusbar_title">Status bar</string>
     <string name="battery_saver_color_title">Battery Saver color</string>
     <string name="battery_saver_color_summary">Enable orange status/navigation bar color when Battery Saver is on</string>
     <string name="bluetooth_battery_title">Bluetooth battery status</string>
     <string name="bluetooth_battery_summary">Show battery status of currently connected bluetooth device if available</string>
-    <string name="network_traffic_autohide_threshold_title">Network traffic autohide threshold (KB/s)</string>
+    <string name="network_traffic_autohide_threshold_title">Network traffic autohide threshold</string>
     <string name="network_traffic_state_title">Network traffic</string>
     <string name="network_traffic_state_summary">Show data usage activity in statusbar</string>
     <string name="statusbar_items_title">Status bar icons</string>
     <string name="statusbar_items_summary">Set the appearance of status bar</string>
+    <string name="battery_bar_title">Battery bar</string>
+    <string name="battery_bar_summary">Battery bar configuration</string>
+    <string name="battery_bar_position_title">Location</string>
+    <string name="battery_bar_position_hidden">Hidden</string>
+    <string name="battery_bar_position_statusbar">Status bar</string>
+    <string name="battery_bar_color_title">Color</string>
+    <string name="battery_bar_charging_color_title">Charging color</string>
+    <string name="battery_bar_battery_low_color_title">Low battery color</string>
+    <string name="battery_bar_style_title">Alignment</string>
+    <string name="battery_bar_thickness_title">Thickness</string>
+    <string name="battery_bar_animate_title">Charging animation</string>
+    <string name="battery_bar_style_regular">Regular</string>
+    <string name="battery_bar_style_center_mirrored">Center-mirrored</string>
+    <string name="battery_bar_style_reversed">Reversed</string>
+    <string name="battery_bar_use_charging_color_title">Custom charging color</string>
+    <string name="battery_bar_blend_color_title">Blend colors</string>
+    <string name="battery_bar_blend_color_summary">Blend full/empty colors corresponding to battery percentage</string>
+    <string name="battery_bar_blend_color_reverse_title">Reverse color direction</string>
+    <string name="battery_bar_blend_color_reverse_summary_off">Full &#8594; empty: red &#8592; green &#8592; blue &#8592; red</string>
+    <string name="battery_bar_blend_color_reverse_summary_on">Full &#8594; empty: red &#8594; green &#8594; blue &#8594; red</string>
 
 </resources>
