@@ -295,4 +295,7 @@
   <string name="lockscreen_battery_info_summary">Отображение тока, напряжения и температуры батареи на экране блокировки во время зарядки</string>
   <!-- Status bar - Battery saver color -->
   <!-- Reset battery stats -->
+  <string name="ok">Ок</string>
+  <string name="menu_stats_reset">Сбросить статистику</string>
+  <string name="reset_stats_msg">История статистики батареи будет сброшена</string>
 </resources>
