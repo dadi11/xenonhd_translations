@@ -52,6 +52,8 @@
   <string name="misc_title">Różne</string>
   <string name="dashboard_category">Panel ustawień</string>
   <string name="dashboard_conditions_title">Warunki w panelu ustawień</string>
+  <string name="summary_dashboard_suggestions_enabled">Włączony</string>
+  <string name="summary_dashboard_suggestions_disabled">Wyłączony</string>
   <string name="summary_dashboard_conditions_disabled">Wyłączony</string>
   <string name="summary_dashboard_conditions_enabled">Włączony</string>
   <!-- Navbar -->
@@ -107,10 +109,19 @@
   <string name="recents_clear_all_location_top_right">Prawy górny róg</string>
   <string name="show_clear_all_recents_button_title">Przycisk \"Wyczyść wszystko\"</string>
   <string name="show_clear_all_recents_button_summary">Pokaż przycisk \"Wyczyść wszystko\"</string>
+  <!-- Seekbar -->
+  <string name="seekbar_default_string">Domyślny</string>
   <!-- Statusbar -->
   <string name="statusbar_title">Pasek statusu</string>
   <string name="battery_saver_color_title">Kolor paska w trybie oszczędzania baterii</string>
   <string name="bluetooth_battery_title">Stan baterii Bluetooth</string>
   <string name="network_traffic_state_title">Ruch sieciowy</string>
   <string name="statusbar_items_title">Ikony paska stanu</string>
+  <string name="battery_bar_title">Pasek baterii</string>
+  <string name="battery_bar_position_title">Lokalizacja</string>
+  <string name="battery_bar_position_statusbar">Pasek statusu</string>
+  <string name="battery_bar_animate_title">Animacja ładowania</string>
+  <string name="battery_bar_style_regular">Domyślny</string>
+  <string name="battery_bar_style_center_mirrored">Wyśrodkowany</string>
+  <string name="battery_bar_style_reversed">Odwrócony</string>
 </resources>
