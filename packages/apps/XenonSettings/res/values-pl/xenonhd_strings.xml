@@ -22,7 +22,11 @@
   <string name="button_title">Przyciski</string>
   <string name="volume_title">Przyciski głośności</string>
   <string name="swap_volume_buttons">Zamień przyciski głośności</string>
+  <string name="volbtn_down_zen_title">Zmniejszanie głośności w DND</string>
+  <string name="volbtn_up_zen_title">Zwiększanie głośności w DND</string>
+  <string name="volume_keys_control_media_stream_title">Kontrola głośności mediów</string>
   <string name="volume_rocker_music_controls_title">Przełączanie utworów</string>
+  <string name="volume_rocker_wake_title">Wybudzanie przyciskami głośności</string>
   <!-- Color Picker -->
   <string name="color_default">Domyślny</string>
   <string name="dialog_color_picker">Wybór koloru</string>
@@ -42,18 +46,26 @@
   <string name="double_tap_to_sleep_title">DT2S na pasku stanu</string>
   <!-- Lockscreen -->
   <string name="lockscreen_title">Blokada ekranu</string>
+  <string name="lockscreen_tuner_title">Skróty ekranu blokady</string>
   <string name="media_art_title">Okładka albumu</string>
   <!-- Misc -->
   <string name="misc_title">Różne</string>
+  <string name="dashboard_category">Panel ustawień</string>
+  <string name="dashboard_conditions_title">Warunki w panelu ustawień</string>
   <string name="summary_dashboard_conditions_disabled">Wyłączony</string>
   <string name="summary_dashboard_conditions_enabled">Włączony</string>
   <!-- Navbar -->
   <string name="navbar_title">Pasek nawigacji</string>
+  <string name="navbar_tuner_title">Przyciski paska nawigacji</string>
+  <string name="navbar_tuner_summary">Skonfiguruj pasek nawigacji</string>
   <!-- Notifications -->
   <string name="notifications_title">Powiadomienia</string>
+  <string name="ime_switcher_notify">Powiadomienie wyboru klawiatury</string>
   <string name="screenshot_sound_title">Dźwięk zrzutu ekranu</string>
   <!-- Power -->
   <string name="powermenu_title">Menu zasilania</string>
+  <string name="powermenu_category">Elementy menu zasilania</string>
+  <string name="power_look">Wygląd menu zasilania</string>
   <string name="powermenu_airplane">Tryb samolotowy</string>
   <string name="powermenu_lockdown">Zablokuj teraz</string>
   <string name="powermenu_power">Zasilanie</string>
@@ -63,15 +75,18 @@
   <string name="powermenu_settings">Ustawienia</string>
   <string name="powermenu_soundpanel">Panel dźwięku</string>
   <string name="powermenu_users">Użytkownicy</string>
+  <string name="power">Opcje menu zasilania</string>
   <!-- QS -->
   <string name="quicksettings_title">Szybkie ustawienia</string>
   <string name="qs_category">Kafelki szybkich skrótów</string>
   <string name="pulldown_category">Rozwijanie</string>
   <string name="brightness_category">Jasność</string>
   <string name="brightness_icon_title">Ikona jasności</string>
+  <string name="qqs_scroll_title">Przewiń małe kafelki QS</string>
   <string name="qs_brightness_slider_title">Pasek jasności</string>
   <string name="qs_columns_landscape_title">Kolumny - poziomo</string>
   <string name="qs_columns_portrait_title">Kolumny - pionowo</string>
+  <string name="qs_music_tile_track_optional_title">Tytuł muzyki w kafelku</string>
   <string name="qs_rows_columns_title">Kolumny i rzędy</string>
   <string name="qs_rows_landscape_title">Rzędy - poziomo</string>
   <string name="qs_rows_portrait_title">Wiersze - pionowo</string>
@@ -90,8 +105,12 @@
   <string name="recents_clear_all_location_top_center">Wyśrodkowany na górze</string>
   <string name="recents_clear_all_location_top_left">Lewy górny róg</string>
   <string name="recents_clear_all_location_top_right">Prawy górny róg</string>
+  <string name="show_clear_all_recents_button_title">Przycisk \"Wyczyść wszystko\"</string>
+  <string name="show_clear_all_recents_button_summary">Pokaż przycisk \"Wyczyść wszystko\"</string>
   <!-- Statusbar -->
   <string name="statusbar_title">Pasek statusu</string>
+  <string name="battery_saver_color_title">Kolor paska w trybie oszczędzania baterii</string>
+  <string name="bluetooth_battery_title">Stan baterii Bluetooth</string>
   <string name="network_traffic_state_title">Ruch sieciowy</string>
   <string name="statusbar_items_title">Ikony paska stanu</string>
 </resources>
