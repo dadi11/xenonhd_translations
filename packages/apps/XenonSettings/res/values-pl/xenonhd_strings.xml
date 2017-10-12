@@ -27,6 +27,7 @@
   <string name="volume_keys_control_media_stream_title">Kontrola głośności mediów</string>
   <string name="volume_rocker_music_controls_title">Przełączanie utworów</string>
   <string name="volume_rocker_wake_title">Wybudzanie przyciskami głośności</string>
+  <string name="volume_rocker_wake_summary">Wybudź urządzenie przyciskami głośności</string>
   <!-- Color Picker -->
   <string name="color_default">Domyślny</string>
   <string name="dialog_color_picker">Wybór koloru</string>
@@ -44,18 +45,24 @@
   <string name="double_tap_sleep_lockscreen">DT2S na ekranie blokady</string>
   <string name="double_tap_sleep_navbar">DT2S na pasku nawigacji</string>
   <string name="double_tap_to_sleep_title">DT2S na pasku stanu</string>
+  <string name="pocket_judge_title">Wykrywanie kieszeni</string>
   <!-- Lockscreen -->
   <string name="lockscreen_title">Blokada ekranu</string>
   <string name="lockscreen_tuner_title">Skróty ekranu blokady</string>
   <string name="media_art_title">Okładka albumu</string>
+  <string name="lockscreen_qs_disabled_title">Szybkie ustawienia na ekranie blokady</string>
+  <string name="lockscreen_qs_disabled_summary">Wyłącz szybkie ustawienia na zabezpieczonym ekranie blokady</string>
   <!-- Misc -->
   <string name="misc_title">Różne</string>
   <string name="dashboard_category">Panel ustawień</string>
   <string name="dashboard_conditions_title">Warunki w panelu ustawień</string>
+  <string name="dashboard_suggestions_title">Sugestie w panelu ustawień</string>
   <string name="summary_dashboard_suggestions_enabled">Włączony</string>
   <string name="summary_dashboard_suggestions_disabled">Wyłączony</string>
   <string name="summary_dashboard_conditions_disabled">Wyłączony</string>
   <string name="summary_dashboard_conditions_enabled">Włączony</string>
+  <string name="toast_icon_title">Ikona powiadomień toast</string>
+  <string name="toast_icon_summary">Wyświetl ikonę aplikacji w powiadomieniu toast</string>
   <!-- Navbar -->
   <string name="navbar_title">Pasek nawigacji</string>
   <string name="navbar_tuner_title">Przyciski paska nawigacji</string>
@@ -78,12 +85,17 @@
   <string name="powermenu_soundpanel">Panel dźwięku</string>
   <string name="powermenu_users">Użytkownicy</string>
   <string name="power">Opcje menu zasilania</string>
+  <string name="power_menu_transparency">Przezroczystość menu zasilania</string>
+  <string name="power_menu_dialog_dim">Przyciemnianie tła</string>
   <!-- QS -->
   <string name="quicksettings_title">Szybkie ustawienia</string>
   <string name="qs_category">Kafelki szybkich skrótów</string>
   <string name="pulldown_category">Rozwijanie</string>
   <string name="brightness_category">Jasność</string>
   <string name="brightness_icon_title">Ikona jasności</string>
+  <string name="brightness_icon_position_title">Pozycja ikony jasności</string>
+  <string name="brightness_icon_position_on_summary">Po prawej</string>
+  <string name="brightness_icon_position_off_summary">Po lewej</string>
   <string name="qqs_scroll_title">Przewiń małe kafelki QS</string>
   <string name="qs_brightness_slider_title">Pasek jasności</string>
   <string name="qs_columns_landscape_title">Kolumny - poziomo</string>
@@ -98,6 +110,9 @@
   <string name="smart_pulldown_off">Wyłączone</string>
   <string name="smart_pulldown_ongoing">brak bieżących</string>
   <string name="status_bar_quick_qs_pulldown">Szybkie rozwijanie</string>
+  <string name="qs_footer_warnings_title">Ostrzeżenia w stopce QS</string>
+  <string name="qs_tile_title_visibility_title">Tytuły szybkich ustawień</string>
+  <string name="qs_tile_title_visibility_summary">Wyświetl tytuły pod kafelkami szybkich ustawień</string>
   <!-- Recents -->
   <string name="recents_title">Ostatnie aplikacje</string>
   <string name="recents_clear_all_location_title">Pozycja przycisku</string>
@@ -110,6 +125,8 @@
   <string name="show_clear_all_recents_button_title">Przycisk \"Wyczyść wszystko\"</string>
   <string name="show_clear_all_recents_button_summary">Pokaż przycisk \"Wyczyść wszystko\"</string>
   <!-- Seekbar -->
+  <string name="seekbar_no_default_value">Brak wartości domyślnej</string>
+  <string name="seekbar_default_value_already_set">Wartość domyślna jest już ustawiona</string>
   <string name="seekbar_default_string">Domyślny</string>
   <!-- Statusbar -->
   <string name="statusbar_title">Pasek statusu</string>
@@ -118,10 +135,20 @@
   <string name="network_traffic_state_title">Ruch sieciowy</string>
   <string name="statusbar_items_title">Ikony paska stanu</string>
   <string name="battery_bar_title">Pasek baterii</string>
+  <string name="battery_bar_summary">Konfiguracja paska baterii</string>
   <string name="battery_bar_position_title">Lokalizacja</string>
+  <string name="battery_bar_position_hidden">Ukryty</string>
   <string name="battery_bar_position_statusbar">Pasek statusu</string>
+  <string name="battery_bar_color_title">Kolor</string>
+  <string name="battery_bar_charging_color_title">Kolor ładowania</string>
+  <string name="battery_bar_battery_low_color_title">Kolor słabej baterii</string>
+  <string name="battery_bar_style_title">Wyrównanie</string>
+  <string name="battery_bar_thickness_title">Grubość</string>
   <string name="battery_bar_animate_title">Animacja ładowania</string>
   <string name="battery_bar_style_regular">Domyślny</string>
   <string name="battery_bar_style_center_mirrored">Wyśrodkowany</string>
   <string name="battery_bar_style_reversed">Odwrócony</string>
+  <string name="battery_bar_use_charging_color_title">Własny kolor podczas ładowania</string>
+  <string name="battery_bar_blend_color_title">Mieszanie kolorów</string>
+  <string name="battery_bar_blend_color_reverse_title">Odwróć kierunek kolorów</string>
 </resources>
