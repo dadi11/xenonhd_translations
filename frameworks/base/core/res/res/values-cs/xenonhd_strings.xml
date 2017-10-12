@@ -23,4 +23,5 @@
   <string name="reboot_to_bootloader_message">Restartování do bootloaderu</string>
   <!-- Vendor mismatched fingerprint warning [CHAR LIMIT=NONE] -->
   <string name="system_error_vendorprint">Váš dodavatel obrazu se neshoduje se systémem. Prosím flashněte obraz pro vaše zařízení <xliff:g id="string">%s </xliff:g></string>
+  <!-- Pocket Lock -->
 </resources>
