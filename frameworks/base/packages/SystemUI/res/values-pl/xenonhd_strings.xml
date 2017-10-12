@@ -74,4 +74,12 @@
   <string name="quick_settings_sound_ring">Dzwonek</string>
   <string name="quick_settings_sound_vibrate">Wibracje</string>
   <string name="quick_settings_usb_tether_label">Tethering USB</string>
+  <string name="quick_settings_sync_label">Synchronizacja</string>
+  <string name="accessibility_quick_settings_sync_off">Synchronizacja wył</string>
+  <string name="accessibility_quick_settings_sync_on">Synchronizacja wł</string>
+  <string name="accessibility_quick_settings_sync_changed_off">Synchronizacja wyłączona</string>
+  <string name="accessibility_quick_settings_sync_changed_on">Synchronizacja włączona</string>
+  <string name="accessibility_quick_settings_volume_panel">Głośność</string>
+  <string name="quick_settings_volume_panel_label">Głośność</string>
+  <string name="quick_settings_screenrecord">Nagrywanie ekranu</string>
 </resources>
