@@ -16,7 +16,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- App Title -->
+  <string name="xenonhd_settings_summary">Ďalšie možnosti</string>
   <!-- Buttons -->
+  <string name="button_title">Tlačidlá</string>
+  <string name="volume_title">Tlačidlá hlasitosti</string>
   <!-- Color Picker -->
   <string name="color_default">Predvolené</string>
   <string name="dialog_color_picker">Výber farby</string>
