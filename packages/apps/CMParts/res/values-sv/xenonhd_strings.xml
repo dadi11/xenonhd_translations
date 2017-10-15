@@ -68,6 +68,8 @@
   <string name="network_traffic_hidearrow_summary">Dölj pilarna i nätverksindikatorerna</string>
   <!-- Superuser indicator on status bar -->
   <string name="su_indicator">Superuserindikator</string>
+  <string name="su_indicator_summary_on">Superuserindikator är synlig vid aktiv session</string>
+  <string name="su_indicator_summary_off">Växla för att visa superuserindikator när en session är aktiv</string>
   <!--Status bar date -->
   <string name="status_bar_clock_category">Klocka</string>
   <string name="status_bar_date_title">Datum</string>
@@ -80,9 +82,14 @@
   <string name="status_bar_date_style_lowercase">Gemener</string>
   <string name="status_bar_date_style_uppercase">Versaler</string>
   <string name="status_bar_date_format_custom">Anpassat java-format</string>
+  <string name="status_bar_date_string_edittext_title">Måste vara i datumformat MM/dd/yy</string>
   <string name="status_bar_date_string_edittext_summary">Ange sträng</string>
   <string name="menu_save">Spara</string>
+  <string name="menu_cancel">Kassera</string>
   <!-- Navbar Animation -->
+  <string name="pixel_navbar_anim_title">Animering för navigationsfält</string>
+  <string name="pixel_navbar_anim_summary">Återaktivera navbar eller starta om ifall du vill tillämpa. Teman kan skriva över den här inställningen</string>
   <!-- Torch -->
+  <string name="torch_long_press_power_gesture_title">Långtryck på strömknappen för ficklampa</string>
   <!-- One-handed mode -->
 </resources>
