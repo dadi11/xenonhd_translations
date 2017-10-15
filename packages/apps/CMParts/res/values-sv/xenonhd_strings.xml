@@ -38,18 +38,23 @@
   <string name="qs_brightness_slider_enabled">Aktiverad</string>
   <string name="qs_brightness_slider_disabled">Inaktiverad</string>
   <string name="brightness_icon_title">Ljusstyrke-ikon </string>
+  <string name="brightness_icon_summary">Visa en ikon för ljusstyrka till vänster om reglaget för ljusstyrka för att justera automatisk ljusstyrka</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">Färgväljare</string>
+  <string name="press_color_to_apply">Tryck på en färg nedan för att tillämpa</string>
   <string name="hex">Hex:</string>
+  <string name="set">Ställ in</string>
   <string name="color_default">Förvalt</string>
   <!-- Network traffic -->
   <string name="traffic_category">Trafikindikatorer</string>
   <string name="network_traffic_title">Nätverkstrafik</string>
+  <string name="show_network_traffic_state">Statusfält nätverksmonitor</string>
   <string name="show_network_traffic_unit">Visningsenhet</string>
   <string name="show_network_traffic_frequency">Uppdateringsintervall</string>
   <string name="show_network_traffic_disable">Inaktiverad</string>
   <string name="show_network_traffic_up">Utgående</string>
   <string name="show_network_traffic_down">Inkommande</string>
+  <string name="show_network_traffic_all">Utgående och inkommande</string>
   <string name="show_network_traffic_bit">Bitar per sekund</string>
   <string name="show_network_traffic_byte">Byte per sekund</string>
   <string name="show_network_traffic_500">500 ms</string>
@@ -57,8 +62,12 @@
   <string name="show_network_traffic_1500">1500 ms</string>
   <string name="show_network_traffic_2000">2000 ms</string>
   <string name="network_traffic_autohide">Auto-dölj</string>
+  <string name="network_traffic_autohide_summary">Dölja nätverksmonitor när det inte finns någon aktivitet</string>
+  <string name="network_traffic_autohide_threshold">Tröskelvärde för inaktivitet</string>
   <string name="network_traffic_hidearrow">Dölj pilar</string>
+  <string name="network_traffic_hidearrow_summary">Dölj pilarna i nätverksindikatorerna</string>
   <!-- Superuser indicator on status bar -->
+  <string name="su_indicator">Superuserindikator</string>
   <!--Status bar date -->
   <string name="status_bar_clock_category">Klocka</string>
   <string name="status_bar_date_title">Datum</string>
