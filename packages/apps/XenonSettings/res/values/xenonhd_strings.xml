@@ -50,10 +50,14 @@
     <string name="ok">OK</string>
     <string name="reset">Reset</string>
     <string name="save">Save</string>
+    <string name="systemui_restart_title">SystemUI restart required</string>
+    <string name="systemui_restart_message">For all changes to take effect, a SystemUI restart is required. Restart SystemUI now?</string>
 
     <!-- Gestures -->
     <string name="gestures_title">Gestures</string>
     <string name="dt2s_category">Double tap to sleep</string>
+    <string name="gesture_preferences_title">Native gestures</string>
+    <string name="gesture_preferences_summary">Configure the gestures available for your device</string>
     <string name="double_tap_sleep_lockscreen">DT2S on lockscreen</string>
     <string name="double_tap_sleep_lockscreen_summary">Double tap on lockscreen to sleep device</string>
     <string name="double_tap_sleep_navbar">DT2S on navbar</string>
@@ -118,15 +122,8 @@
     <string name="qs_category">QS Tiles</string>
     <string name="pulldown_category">Pull down</string>
     <string name="brightness_category">Brightness</string>
-    <string name="brightness_icon_title">Brightness icon</string>
-    <string name="brightness_icon_summary">Show brightness icon on the left side of brighness slider to switch auto brightness</string>
-    <string name="brightness_icon_position_title">Brightness icon position</string>
-    <string name="brightness_icon_position_on_summary">On the right</string>
-    <string name="brightness_icon_position_off_summary">On the left</string>
     <string name="qqs_scroll_title">Scroll small QS tiles</string>
     <string name="qqs_scroll_summary">Allow scrolling through the small QS tiles</string>
-    <string name="qs_brightness_slider_title">Brightness slider</string>
-    <string name="qs_brightness_slider_summary">Show brightness slider in the QS panel</string>
     <string name="qs_columns_landscape_title">Columns - landscape</string>
     <string name="qs_columns_portrait_title">Columns - portrait</string>
     <string name="qs_music_tile_track_optional_title">Music tile track title</string>
@@ -148,6 +145,14 @@
     <string name="qs_footer_warnings_summary">Display a warning at bottom of QS panel when network is monitored by external apps or VPN</string>
     <string name="qs_tile_title_visibility_title">Show tile titles</string>
     <string name="qs_tile_title_visibility_summary">Display titles underneath tiles</string>
+    <string name="brightness_slider_switch">Brightness slider</string>
+    <string name="brightness_slider_summary">Show brightness slider in the QS panel</string>
+    <string name="brightness_icon_title">Brightness icon</string>
+    <string name="brightness_icon_summary">Show a brightness icon next to the brighness slider to switch auto-brightness</string>
+    <string name="brightness_icon_position_title">Brightness icon position</string>
+    <string name="brightness_icon_position_on_summary">On the right</string>
+    <string name="brightness_icon_position_off_summary">On the left</string>
+
 
     <!-- Recents -->
     <string name="recents_title">Recent apps</string>
