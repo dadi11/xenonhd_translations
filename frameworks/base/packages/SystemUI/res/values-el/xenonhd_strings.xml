@@ -38,4 +38,5 @@
   <string name="accessibility_quick_settings_lock_screen_on">Ενεργοποίηση οθόνης κλειδώματος</string>
   <string name="accessibility_quick_settings_lock_screen_changed_off">Απενεργοποιημένη οθόνη κλειδώματος</string>
   <string name="accessibility_quick_settings_lock_screen_changed_on">Ενεργοποιημένη οθόνη κλειδώματος</string>
+  <!-- VoLTE icon switch -->
 </resources>
