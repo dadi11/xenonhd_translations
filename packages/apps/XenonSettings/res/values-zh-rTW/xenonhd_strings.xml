@@ -105,15 +105,8 @@
   <string name="qs_category">快速設定圖塊</string>
   <string name="pulldown_category">下拉</string>
   <string name="brightness_category">亮度</string>
-  <string name="brightness_icon_title">亮度圖示</string>
-  <string name="brightness_icon_summary">顯示亮度滑動條左側的亮度圖示以切換自動亮度</string>
-  <string name="brightness_icon_position_title">亮度圖示的位置</string>
-  <string name="brightness_icon_position_on_summary">在右側</string>
-  <string name="brightness_icon_position_off_summary">在左側</string>
   <string name="qqs_scroll_title">滾動快速設定小圖塊</string>
   <string name="qqs_scroll_summary">允許滾動快速設定小圖塊</string>
-  <string name="qs_brightness_slider_title">亮度滑桿</string>
-  <string name="qs_brightness_slider_summary">在快速設定面板中顯示亮度滑動條</string>
   <string name="qs_columns_landscape_title">列 - 橫</string>
   <string name="qs_columns_portrait_title">列 - 縱</string>
   <string name="qs_music_tile_track_optional_title">音樂圖塊曲目標題</string>
@@ -135,6 +128,11 @@
   <string name="qs_footer_warnings_summary">當網路被 VPN 或者應用程式監測時，在快速設定底部顯示一個警告。</string>
   <string name="qs_tile_title_visibility_title">顯示圖塊標題</string>
   <string name="qs_tile_title_visibility_summary">顯示圖塊下的標題</string>
+  <string name="brightness_slider_switch">亮度滑桿</string>
+  <string name="brightness_icon_title">亮度圖示</string>
+  <string name="brightness_icon_position_title">亮度圖示的位置</string>
+  <string name="brightness_icon_position_on_summary">在右側</string>
+  <string name="brightness_icon_position_off_summary">在左側</string>
   <!-- Recents -->
   <string name="recents_title">最近使用的應用程式</string>
   <string name="recents_clear_all_location_title">全部清除按鈕位置</string>
