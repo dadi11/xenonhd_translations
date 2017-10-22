@@ -105,15 +105,8 @@
   <string name="qs_category">Kafelki szybkich skrótów</string>
   <string name="pulldown_category">Rozwijanie</string>
   <string name="brightness_category">Jasność</string>
-  <string name="brightness_icon_title">Ikona jasności</string>
-  <string name="brightness_icon_summary">Pokaż ikonę kontroli jasności na lewo od paska, aby dostosować auto jasność</string>
-  <string name="brightness_icon_position_title">Pozycja ikony jasności</string>
-  <string name="brightness_icon_position_on_summary">Po prawej</string>
-  <string name="brightness_icon_position_off_summary">Po lewej</string>
   <string name="qqs_scroll_title">Przewiń małe kafelki QS</string>
   <string name="qqs_scroll_summary">Zezwól na przewijanie małych kafelków szybkich ustawień</string>
-  <string name="qs_brightness_slider_title">Pasek jasności</string>
-  <string name="qs_brightness_slider_summary">Pokaż suwak jasności w panelu szybkich ustawień</string>
   <string name="qs_columns_landscape_title">Kolumny - poziomo</string>
   <string name="qs_columns_portrait_title">Kolumny - pionowo</string>
   <string name="qs_music_tile_track_optional_title">Tytuł muzyki w kafelku</string>
@@ -135,6 +128,11 @@
   <string name="qs_footer_warnings_summary">Wyświetlaj ostrzeżenie na dole panelu QS, gdy sieć jest monitorowana przez zewnętrzne aplikacje lub VPN</string>
   <string name="qs_tile_title_visibility_title">Tytuły szybkich ustawień</string>
   <string name="qs_tile_title_visibility_summary">Wyświetl tytuły pod kafelkami szybkich ustawień</string>
+  <string name="brightness_slider_switch">Pasek jasności</string>
+  <string name="brightness_icon_title">Ikona jasności</string>
+  <string name="brightness_icon_position_title">Pozycja ikony jasności</string>
+  <string name="brightness_icon_position_on_summary">Po prawej</string>
+  <string name="brightness_icon_position_off_summary">Po lewej</string>
   <!-- Recents -->
   <string name="recents_title">Ostatnie aplikacje</string>
   <string name="recents_clear_all_location_title">Pozycja przycisku</string>
