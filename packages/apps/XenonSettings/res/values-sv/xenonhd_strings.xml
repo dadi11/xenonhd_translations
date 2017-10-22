@@ -40,7 +40,7 @@
   <!-- Power -->
   <string name="powermenu_screenshot">Skärmdump</string>
   <!-- QS -->
-  <string name="qs_brightness_slider_title">Ljusstyrkereglage</string>
+  <string name="brightness_slider_switch">Ljusstyrkereglage</string>
   <!-- Recents -->
   <!-- Seekbar -->
   <string name="seekbar_default_string">Förvalt</string>
