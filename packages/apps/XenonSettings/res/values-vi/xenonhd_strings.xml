@@ -105,15 +105,12 @@
   <string name="qs_category">Ô cài đặt nhanh</string>
   <string name="pulldown_category">Kéo xuống</string>
   <string name="brightness_category">Độ sáng</string>
+  <string name="qqs_scroll_title">Cuộn qua các ô nhỏ cài đặt nhanh</string>
+  <string name="qqs_scroll_summary">Cho phép cuộn qua các ô nhỏ cài đặt nhanh</string>
   <string name="brightness_icon_title">Biểu tượng độ sáng </string>
-  <string name="brightness_icon_summary">Hiển thị biểu tượng độ sáng bên trái của thanh trượt độ sáng để điều chỉnh độ sáng tự động</string>
   <string name="brightness_icon_position_title">Vị trí biểu tượng độ sáng</string>
   <string name="brightness_icon_position_on_summary">Phía bên phải</string>
   <string name="brightness_icon_position_off_summary">Phía bên trái</string>
-  <string name="qqs_scroll_title">Cuộn qua các ô nhỏ cài đặt nhanh</string>
-  <string name="qqs_scroll_summary">Cho phép cuộn qua các ô nhỏ cài đặt nhanh</string>
-  <string name="qs_brightness_slider_title">Thanh trượt độ sáng</string>
-  <string name="qs_brightness_slider_summary">Hiển thị thanh trượt độ sáng trong bảng điều khiển nhanh</string>
   <!-- Recents -->
   <!-- Seekbar -->
   <!-- Statusbar -->
