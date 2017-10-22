@@ -105,15 +105,8 @@
   <string name="qs_category">Dlaždice rýchlych nastavení</string>
   <string name="pulldown_category">Rozbalenie ponuky</string>
   <string name="brightness_category">Jas</string>
-  <string name="brightness_icon_title">Ikona jasu</string>
-  <string name="brightness_icon_summary">Zobraziť ikonu pre zapnutie automatického jasu naľavo od posuvníka</string>
-  <string name="brightness_icon_position_title">Poloha ikony jasu</string>
-  <string name="brightness_icon_position_on_summary">Napravo</string>
-  <string name="brightness_icon_position_off_summary">Naľavo</string>
   <string name="qqs_scroll_title">Rolovanie dlaždíc rýchlych nastavení</string>
   <string name="qqs_scroll_summary">Povoliť rolovanie malých dlaždíc rýchlych nastavení</string>
-  <string name="qs_brightness_slider_title">Posuvník jasu</string>
-  <string name="qs_brightness_slider_summary">Zobraziť posuvník jasu na paneli rýchlych nastavení</string>
   <string name="qs_columns_landscape_title">Stĺpce (na šírku)</string>
   <string name="qs_columns_portrait_title">Stĺpce (na výšku)</string>
   <string name="qs_music_tile_track_optional_title">Dlaždica hudby</string>
@@ -135,6 +128,11 @@
   <string name="qs_footer_warnings_summary">Zobraziť varovanie v spodnej časti panela rýchlych nastavení, keď je sieť monitorovaná externými aplikáciami alebo VPN</string>
   <string name="qs_tile_title_visibility_title">Zobraziť názvy ikon rýchlych nastavení</string>
   <string name="qs_tile_title_visibility_summary">Zobraziť názvy pod dlaždicami</string>
+  <string name="brightness_slider_switch">Posuvník jasu</string>
+  <string name="brightness_icon_title">Ikona jasu</string>
+  <string name="brightness_icon_position_title">Poloha ikony jasu</string>
+  <string name="brightness_icon_position_on_summary">Napravo</string>
+  <string name="brightness_icon_position_off_summary">Naľavo</string>
   <!-- Recents -->
   <string name="recents_title">Nedávne aplikácie</string>
   <string name="recents_clear_all_location_title">Umiestnenie tlačítka \"Vyčistiť všetko\"</string>
