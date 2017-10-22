@@ -91,5 +91,8 @@
   <string name="pixel_navbar_anim_summary">Återaktivera navbar eller starta om ifall du vill tillämpa. Teman kan skriva över den här inställningen</string>
   <!-- Torch -->
   <string name="torch_long_press_power_gesture_title">Långtryck på strömknappen för ficklampa</string>
+  <string name="torch_long_press_power_gesture_desc">Aktivera ficklampan genom att hålla in strömknappen medans skärmen är av</string>
   <!-- One-handed mode -->
+  <string name="one_handed_mode_title">Enhandsläge</string>
+  <string name="one_handed_mode_summary">Tillåter svepning på navigeringsfältet för att aktivera enhandsläge</string>
 </resources>
