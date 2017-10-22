@@ -82,5 +82,16 @@
   <string name="accessibility_quick_settings_sync_changed_on">Synchronizacja włączona</string>
   <string name="accessibility_quick_settings_volume_panel">Głośność</string>
   <string name="quick_settings_volume_panel_label">Głośność</string>
+  <string name="accessibility_quick_settings_location_battery_saving">Raportowanie lokalizacji: tryb oszczędzania baterii</string>
+  <string name="accessibility_quick_settings_location_gps_only">Raportowanie lokalizacji: tylko czujniki</string>
+  <string name="accessibility_quick_settings_location_high_accuracy">Raportowanie lokalizacji: wysoka dokładność</string>
+  <string name="screenrecord_notif_ticker">Ekran jest nagrywany</string>
+  <string name="screenrecord_notif_title">Nagrywanie ekranu</string>
+  <string name="screenrecord_notif_stop">Zatrzymaj</string>
+  <string name="screenrecord_notif_pointer_on">Pokaż wskaźnik</string>
+  <string name="screenrecord_notif_pointer_off">Ukryj wskaźnik</string>
+  <string name="screenrecord_notif_error">Nie można nagrać ekranu</string>
+  <string name="notification_channel_screenrecord">Nagrywanie ekranu</string>
   <string name="quick_settings_screenrecord">Nagrywanie ekranu</string>
+  <string name="quick_settings_screenrecord_on">Nagrywanie…</string>
 </resources>
