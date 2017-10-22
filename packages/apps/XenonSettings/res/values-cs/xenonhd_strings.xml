@@ -105,15 +105,8 @@
   <string name="qs_category">QS dlaždice</string>
   <string name="pulldown_category">Rozbalení lišty</string>
   <string name="brightness_category">Jas</string>
-  <string name="brightness_icon_title">Ikona jasu</string>
-  <string name="brightness_icon_summary">Zobrazit ikonu jasu na levé straně posuvníku k přepnutí automatického jasu</string>
-  <string name="brightness_icon_position_title">Pozice ikony jasu</string>
-  <string name="brightness_icon_position_on_summary">Napravo</string>
-  <string name="brightness_icon_position_off_summary">Nalevo</string>
   <string name="qqs_scroll_title">Rolování malých dlaždic QS</string>
   <string name="qqs_scroll_summary">Umožňuje rolování malých dlaždic QS</string>
-  <string name="qs_brightness_slider_title">Posuvník jasu</string>
-  <string name="qs_brightness_slider_summary">Zobrazit posuvník jasu v panelu QS</string>
   <string name="qs_columns_landscape_title">Sloupce - na šířku</string>
   <string name="qs_columns_portrait_title">Sloupce - na výšku</string>
   <string name="qs_music_tile_track_optional_title">Dlaždice hudby</string>
@@ -135,6 +128,11 @@
   <string name="qs_footer_warnings_summary">Zobrazit varování ve spodní části panelu rychlého nastavení při monitorování sítě externími aplikacemi nebo VPN</string>
   <string name="qs_tile_title_visibility_title">Zobrazit názvy dlaždic</string>
   <string name="qs_tile_title_visibility_summary">Zobrazit názvy pod dlaždicemi</string>
+  <string name="brightness_slider_switch">Posuvník jasu</string>
+  <string name="brightness_icon_title">Ikona jasu</string>
+  <string name="brightness_icon_position_title">Pozice ikony jasu</string>
+  <string name="brightness_icon_position_on_summary">Napravo</string>
+  <string name="brightness_icon_position_off_summary">Nalevo</string>
   <!-- Recents -->
   <string name="recents_title">Nedávné aplikace</string>
   <string name="recents_clear_all_location_title">Pozice tlačítka \"Vyčistit vše\"</string>
