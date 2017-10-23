@@ -31,7 +31,11 @@
   <string name="free_ram">मुक्त रैम:\u0020</string>
   <!-- Path data for Solid battery -->
   <!-- High Brightness Mode Tile -->
+  <string name="quick_settings_high_brightness">High brightness</string>
+  <string name="high_brightness_warning">उच्च चमक मोड सक्रिय, वर्तमान चमक सेटिंग्स अधिभावी</string>
   <!-- Pirate alert -->
+  <string name="pirate_label">आर्रर्र्</string>
+  <string name="pirate_spec">लुटेरा</string>
   <!-- QS Lockscreen Tile -->
   <string name="quick_settings_lockscreen_label">लॉक स्क्रीन</string>
   <string name="quick_settings_lockscreen_label_enforced">लॉक स्क्रीन प्रबलित</string>
