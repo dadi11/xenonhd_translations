@@ -18,13 +18,18 @@
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Modifiche</string>
   <string name="changelog_xenonhd_error">Impossibile caricare le modifiche</string>
+  <string name="changelog_xenonhd_summary">Visualizza le modifiche della versione corrente</string>
   <!-- Development Settings -->
+  <string name="show_dev_already_enabled">Le impostazioni di sviluppo sono abilitate per impostazione predefinita</string>
   <!-- Phone info -->
   <string name="device_info_title">Info dispositivo</string>
   <!-- Vendor version -->
+  <string name="vendor_version">Versione produttore</string>
   <string name="vendor_version_default">Sconosciuto</string>
   <!-- XenonOTA -->
   <string name="xenonota_title">XenonOTA</string>
+  <string name="xenonota_summary">Controlla gli aggiornamenti di XenonHD</string>
   <!-- XenonHD version -->
+  <string name="xenonhd_version">Versione XenonHD</string>
   <string name="xenonhd_maintainer">Manutentore</string>
 </resources>
