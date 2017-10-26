@@ -78,6 +78,8 @@
   <!-- Selinux Switch -->
   <string name="selinux_switch_title">Προειδοποίηση επιλογέα Selinux</string>
   <string name="selinux_switch_summary">Το SELinux είναι ένα σύνολο τροποποιήσεων πυρήνα και εργαλεία χώρου-χρήστη. Η αλλάγη λειτουργίας του, απαιτεί πρόσβαση root και μπορεί να προκαλέσει ανεπιθύμητα αποτελέσματα. Συνιστάται η χρήση Ανεκτικού. Χρησιμοποιήστε το με δική σας ευθύνη</string>
+  <string name="selinux_title">Κατασταση Selinux</string>
+  <string name="selinux_permissive_title">Ανεκτικό</string>
   <!-- Recents Membar -->
   <!-- Quick settings config -->
   <!-- Quick unlock -->
