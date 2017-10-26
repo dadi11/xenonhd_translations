@@ -80,7 +80,11 @@
   <string name="selinux_switch_summary">Το SELinux είναι ένα σύνολο τροποποιήσεων πυρήνα και εργαλεία χώρου-χρήστη. Η αλλάγη λειτουργίας του, απαιτεί πρόσβαση root και μπορεί να προκαλέσει ανεπιθύμητα αποτελέσματα. Συνιστάται η χρήση Ανεκτικού. Χρησιμοποιήστε το με δική σας ευθύνη</string>
   <string name="selinux_title">Κατασταση Selinux</string>
   <string name="selinux_permissive_title">Ανεκτικό</string>
+  <string name="selinux_enforcing_title">Επιβάλλον</string>
+  <string name="selinux_permissive_toast_title">Το Selinux ορίστηκε σε ανεκτικό!</string>
   <!-- Recents Membar -->
+  <string name="recents_membar">Γραμμή Μνήμης</string>
+  <string name="systemui_recents_mem_display_title">Εμφάνιση χρήση μνήμης</string>
   <!-- Quick settings config -->
   <!-- Quick unlock -->
   <!-- Three-fingers-swipe to screenshot -->
