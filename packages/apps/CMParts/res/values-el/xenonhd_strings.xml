@@ -87,6 +87,7 @@
   <string name="menu_save">Αποθ/ση</string>
   <string name="menu_cancel">Απόρριψη</string>
   <!-- Navbar Animation -->
+  <string name="pixel_navbar_anim_title">Κίνηση Γραμμής πλοήγησης</string>
   <!-- Torch -->
   <!-- One-handed mode -->
   <string name="one_handed_mode_title">Λειτουργία ενός χεριού</string>
