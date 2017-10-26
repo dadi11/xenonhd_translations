@@ -77,6 +77,7 @@
   <string name="xenonhd_ui_title">Περιβάλλον Χρήστη</string>
   <!-- Selinux Switch -->
   <string name="selinux_switch_title">Προειδοποίηση επιλογέα Selinux</string>
+  <string name="selinux_switch_summary">Το SELinux είναι ένα σύνολο τροποποιήσεων πυρήνα και εργαλεία χώρου-χρήστη. Η αλλάγη λειτουργίας του, απαιτεί πρόσβαση root και μπορεί να προκαλέσει ανεπιθύμητα αποτελέσματα. Συνιστάται η χρήση Ανεκτικού. Χρησιμοποιήστε το με δική σας ευθύνη</string>
   <!-- Recents Membar -->
   <!-- Quick settings config -->
   <!-- Quick unlock -->
