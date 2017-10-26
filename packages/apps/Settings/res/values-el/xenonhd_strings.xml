@@ -187,7 +187,19 @@
   <string name="screen_state_on_delay_title">Καθυστέρηση ενεργειών Ενεργοποίησης Οθόνης</string>
   <string name="screen_state_on_delay_summary">Αριθμός των δευτερολέπτων για αναμονή πρώτου εκτελεστούν οι ενέργειες ενεργοποίησης οθόνης</string>
   <!-- Fingerprint max failed attempts -->
+  <string name="fp_max_failed_attempts">Μέγιστος αριθμός αποτυχημένων προσπαθειών Δακτυλικών αποτυπωμάτων</string>
+  <string name="fp_three_attempts">3 προσπάθειες</string>
+  <string name="fp_five_attempts">5 προσπάθειες</string>
+  <string name="fp_ten_attempts">10 προσπάθειες</string>
+  <string name="fp_fifteen_attempts">15 προσπάθειες</string>
   <!-- Lockscreen battery info indicator  -->
+  <string name="lockscreen_battery_info_title">Πληροφορίες Φόρτισης</string>
+  <string name="lockscreen_battery_info_summary">Εμφανίζει το ρεύμα, την τάση και την θερμοκρασία μπαταρίας στην οθόνη κλειδώματος ενώ φορτίζει</string>
   <!-- Status bar - Battery saver color -->
+  <string name="status_bar_battery_saver_color_title">Χρώμα εικονιδίου Εξοικονόμηση μπαταρίας</string>
+  <string name="status_bar_battery_saver_color_summary">Σημείωση: Αν είναι ήδη ενεργοποιημένη η οικονομία μπαταρίας, για να εφαρμοστεί το νέο χρώμα, ανοιγοκλείστε το διακόπτη εξοικονόμησης μπαταρίας!</string>
   <!-- Reset battery stats -->
+  <string name="ok">Εντάξει</string>
+  <string name="menu_stats_reset">Επαναφορά στατιστικών</string>
+  <string name="reset_stats_msg">Το ιστορικό στατιστικών μπαταρίας θα μηδενιστεί</string>
 </resources>
