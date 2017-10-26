@@ -76,6 +76,7 @@
   <string name="xenonhd_lockscreen_title">Οθόνη κλειδώματος</string>
   <string name="xenonhd_ui_title">Περιβάλλον Χρήστη</string>
   <!-- Selinux Switch -->
+  <string name="selinux_switch_title">Προειδοποίηση επιλογέα Selinux</string>
   <!-- Recents Membar -->
   <!-- Quick settings config -->
   <!-- Quick unlock -->
