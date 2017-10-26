@@ -15,6 +15,17 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Battery Bar -->
   <string name="battery_bar_title">Γραμμή μπαταρίας</string>
+  <string name="battery_bar">Θέση εικονιδίου μπαταρίας</string>
+  <string name="battery_bar_no_navbar">Θέση εικονιδίου μπαταρίας</string>
+  <string name="battery_bar_color">Χρώμα εικονιδίου μπαταρίας</string>
+  <string name="battery_bar_charging_color">Χρώμα εικονιδίου μπαταρίας κατά τη φόρτιση</string>
+  <string name="battery_bar_battery_low_color">Χρώμα εικονιδίου μπαταρίας σε χαμηλή στάθμη</string>
+  <string name="battery_bar_cat">Στυλ εικονιδίου μπαταρίας</string>
+  <string name="battery_bar_style_title">Ευθυγράμμιση εικονιδίου μπαταρίας</string>
+  <string name="battery_bar_thickness_title">Πάχος γραμμής μπαταρίας</string>
+  <string name="battery_bar_animate_title">Εφέ κίνησης φόρτισης</string>
+  <string name="battery_bar_style_regular">Κανονικός</string>
+  <string name="battery_bar_style_center_mirrored">Κέντρο με κατοπτρισμό</string>
   <string name="battery_bar_style_reversed">Ανεστραμμένο</string>
   <!-- Battery icon -->
   <string name="status_bar_battery_style_solid">Συμπαγής</string>
