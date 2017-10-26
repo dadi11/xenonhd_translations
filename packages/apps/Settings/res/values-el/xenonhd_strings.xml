@@ -120,9 +120,23 @@
   <string name="dashboard_columns_landscape_title">Στήλες (οριζόντια)</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
   <string name="hide_lockscreen_clock_title">Γραφικό στοιχείο ρολογιού</string>
+  <string name="hide_lockscreen_clock_summary_on">Το γραφικό στοιχείο του ρολογιού εμφανίζεται στην οθόνη κλειδώματος</string>
+  <string name="hide_lockscreen_clock_summary_off">Το γραφικό στοιχείο του ρολογιού αποκρύπτεται στην οθόνη κλειδώματος</string>
+  <string name="hide_lockscreen_date_title">Γραφικό στοιχείο Ημερομηνίας</string>
+  <string name="hide_lockscreen_date_summary_on">Η ημερομηνία εμφανίζεται κάτω από το ρολόι</string>
+  <string name="hide_lockscreen_date_summary_off">Απόκρυψη ημερομηνίας κάτω από το ρολόι </string>
+  <string name="hide_lockscreen_alarm_title">Κείμενο Αφύπνισης</string>
+  <string name="hide_lockscreen_alarm_summary_on">Εμφάνιση κείμενου αφύπνισης κάτω από το ρολόι</string>
+  <string name="hide_lockscreen_alarm_summary_off">Απόκρυψη κείμενου αφύπνισης κάτω από το ρολόι</string>
   <!-- Emergency button -->
+  <string name="emergency_button_title">Κουμπί έκτακτης ανάγκης</string>
+  <string name="emergency_button_summary_on">Εμφάνιση Κουμπιού έκτακτης ανάγκης στην οθόνη κλειδώματος</string>
+  <string name="emergency_button_summary_off">Απόκρυψη Κουμπιού έκτακτης ανάγκης στην οθόνη κλειδώματος</string>
   <!-- Fingerprint authentication vibration -->
+  <string name="fprint_sucess_vib_title">Δόνηση ελέγχου ταυτότητας δακτυλικών αποτυπωμάτων</string>
+  <string name="fprint_sucess_vib_summary">Δόνηση σε επιτυχές έλεγχο δαχτυλικού αποτυπώματος</string>
   <!-- Fingerprint unlock keystore -->
+  <string name="fp_unlock_keystore_title">Ξεκλείδωμα με Δακτυλικό αποτύπωμά μετά την επανεκκίνηση</string>
   <!-- Hide Statusbar on Lockscreen -->
   <!-- Force authorize substratum packages -->
   <!-- QS tile labels visibility -->
