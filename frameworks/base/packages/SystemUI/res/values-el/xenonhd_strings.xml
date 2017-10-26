@@ -13,7 +13,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Screenshot Delete Toast -->
+  <string name="delete_screenshot_toast">Το στιγμιότυπο οθόνης διαγράφηκε</string>
   <!-- Status bar items tuner -->
+  <string name="statusbar_icons_blacklist">Εικονίδια γραμμής κατάστασης</string>
   <!-- Quick Settings tiles -->
   <string name="quick_settings_screenshot_label">Στιγμιότυπο οθόνης</string>
   <string name="quick_settings_reboot_label">Επανεκκίνηση</string>
