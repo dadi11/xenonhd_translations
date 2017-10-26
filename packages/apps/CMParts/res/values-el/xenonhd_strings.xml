@@ -68,10 +68,21 @@
   <string name="network_traffic_hidearrow_summary">Απόκρυψη βελών κίνησης κυκλοφορίας</string>
   <!-- Superuser indicator on status bar -->
   <string name="su_indicator">Προβολή εικονιδίου Su</string>
+  <string name="su_indicator_summary_on">Η ένδειξη Su εμφανίζεται όταν υπάρχει ενεργή συνεδρία</string>
+  <string name="su_indicator_summary_off">Εμφάνιση δείκτη υπερχρήστη όταν μια περίοδος λειτουργίας είναι ενεργή</string>
   <!--Status bar date -->
+  <string name="status_bar_clock_category">Ρολόι</string>
+  <string name="status_bar_date_title">Ημερομηνία</string>
+  <string name="status_bar_date_none">Απόκρυψη (προεπιλογή)</string>
+  <string name="status_bar_date_small">Μικρό</string>
+  <string name="status_bar_date_normal">Κανονική</string>
+  <string name="status_bar_date_format_title">Μορφή ημερομηνίας</string>
+  <string name="status_bar_date_style">Στυλ ημερομηνίας</string>
   <string name="status_bar_date_style_normal">Κανονική</string>
   <string name="status_bar_date_style_lowercase">Πεζά</string>
   <string name="status_bar_date_style_uppercase">Κεφαλαία</string>
+  <string name="status_bar_date_format_custom">Προσαρμοσμένη μορφή java</string>
+  <string name="status_bar_date_string_edittext_title">Πρέπει να είναι σε μορφή ημερομηνίας. πχ: ΜΜ/ΗΗ/ΕΕ</string>
   <string name="status_bar_date_string_edittext_summary">Εισάγετε συμβολοσειρά</string>
   <string name="menu_save">Αποθ/ση</string>
   <string name="menu_cancel">Απόρριψη</string>
