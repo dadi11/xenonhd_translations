@@ -66,7 +66,9 @@
   <string name="color_default">Προεπιλεγμένο</string>
   <!-- Carrier label -->
   <string name="show_carrier_disabled">Απενεργοποιημένο</string>
+  <string name="status_bar_font_normal">Κανονική</string>
   <!-- Lock Clock Fonts -->
+  <string name="lock_date_font_title">Ημερομηνία</string>
   <!-- Screen state service -->
   <!-- Fingerprint max failed attempts -->
   <!-- Lockscreen battery info indicator  -->
