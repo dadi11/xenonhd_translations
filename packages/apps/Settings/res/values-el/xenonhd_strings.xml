@@ -216,6 +216,9 @@
   <string name="show_carrier_statusbar">Μόνο στην γραμμή κατάστασης</string>
   <string name="show_carrier_both">Στην οθόνη κλειδώματος και στη γραμμή κατάστασης</string>
   <string name="show_carrier_enabled">Στην οθόνη κλειδώματος και στη γραμμή κατάστασης</string>
+  <string name="status_bar_carrier_color">Χρώμα επιγραφής παρόχου κινητής τηλεφωνίας</string>
+  <string name="status_bar_carrier_size">Μέγεθος γραμματοσειράς επιγραφής παρόχου κινητής τηλεφωνίας</string>
+  <string name="status_bar_carrier_font_style_title">Γραμματοσειρά επιγραφής παρόχου κινητής τηλεφωνίας</string>
   <string name="status_bar_font_normal">Κανονική</string>
   <string name="status_bar_font_light">Φωτεινό</string>
   <!-- Lock Clock Fonts -->
