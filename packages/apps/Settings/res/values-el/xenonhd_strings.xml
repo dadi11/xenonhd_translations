@@ -219,11 +219,35 @@
   <string name="status_bar_carrier_color">Χρώμα επιγραφής παρόχου κινητής τηλεφωνίας</string>
   <string name="status_bar_carrier_size">Μέγεθος γραμματοσειράς επιγραφής παρόχου κινητής τηλεφωνίας</string>
   <string name="status_bar_carrier_font_style_title">Γραμματοσειρά επιγραφής παρόχου κινητής τηλεφωνίας</string>
+  <string name="number_of_notifications_title">Αριθμός ειδοποίησεων</string>
+  <string name="carrier_label_hide_label_title">Απόκρυψη στις ειδοποιήσεις</string>
+  <string name="carrier_label_number_of_notification_icons_title">Μέγιστος αριθμός ειδοποίησεων</string>
+  <string name="status_bar_font_style_title">Γραμματοσειρά</string>
   <string name="status_bar_font_normal">Κανονική</string>
+  <string name="status_bar_font_italic">Italic</string>
+  <string name="status_bar_font_bold">Bold (μαυρισμένα)</string>
+  <string name="status_bar_font_bold_italic">Μαυρισμένα italic/bold italic</string>
   <string name="status_bar_font_light">Φωτεινό</string>
+  <string name="status_bar_font_light_italic">Light Italic</string>
+  <string name="status_bar_font_thin">Λεπτή</string>
+  <string name="status_bar_font_thin_italic">Λεπτή Italic</string>
+  <string name="status_bar_font_condensed">Πυκνή</string>
+  <string name="status_bar_font_condensed_italic">Πυκνή italic</string>
+  <string name="status_bar_font_condensed_light">Πυκνή Light</string>
+  <string name="status_bar_font_condensed_light_italic">Πυκνή Light Italic</string>
+  <string name="status_bar_font_condensed_bold">Πυκνή Μαυρισμένη/ Condensed Bold</string>
   <!-- Lock Clock Fonts -->
   <string name="lock_date_font_title">Ημερομηνία</string>
+  <string name="lock_clock_font_bold">Bold (μαυρισμένα)</string>
   <string name="lock_clock_font_light">Φωτεινό</string>
+  <string name="lock_clock_font_italic">Italic</string>
+  <string name="lock_clock_font_bold_italic">Μαυρισμένα italic/bold italic</string>
+  <string name="lock_clock_font_light_italic">Light Italic</string>
+  <string name="lock_clock_font_thin_italic">Λεπτή Italic</string>
+  <string name="lock_clock_font_thin">Λεπτή</string>
+  <string name="lock_clock_font_condensed_normal">Πυκνή</string>
+  <string name="lock_clock_font_condensed_italic">Πυκνή italic</string>
+  <string name="lock_clock_font_condensed_bold">Πυκνή Μαυρισμένη/ Condensed Bold</string>
   <!-- Screen state service -->
   <string name="screen_state_toggles_enable_title">Ενεργοποίηση</string>
   <string name="screen_state_toggles_enable_summary">Οι ενέργειες θα εκτελεστούν κατά την απενεργοποίηση της οθόνης. Κατά την ενεργοποίηση οθόνης θα επαναφερθούν στη προηγούμενη κατάσταση.</string>
