@@ -18,12 +18,18 @@
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Κατάλογος αλλαγών</string>
   <string name="changelog_xenonhd_error">Δεν είναι δυνατή η φόρτωση του καταλόγου αλλαγών</string>
+  <string name="changelog_xenonhd_summary">Προβολή αλλαγών στην ήδη εγκατεστημένη κυκλοφορία</string>
   <!-- Development Settings -->
+  <string name="show_dev_already_enabled">Οι ρυθμίσεις για προγραμματιστές είναι ενεργοποιημένες εξ\'αρχής</string>
   <!-- Phone info -->
   <string name="device_info_title">Πληροφορίες τηλεφώνου</string>
   <!-- Vendor version -->
+  <string name="vendor_version">Έκδοση vendor</string>
   <string name="vendor_version_default">Άγνωστο</string>
   <!-- XenonOTA -->
+  <string name="xenonota_title">XenonOTA</string>
+  <string name="xenonota_summary">Έλεγχος για ενημερώσεις λειτουργικού XenonHD</string>
   <!-- XenonHD version -->
+  <string name="xenonhd_version">Έκδοση λειτουργικού XenonHD</string>
   <string name="xenonhd_maintainer">Συντηρητής</string>
 </resources>
