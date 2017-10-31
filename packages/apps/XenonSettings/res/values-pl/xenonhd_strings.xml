@@ -124,7 +124,7 @@
   <string name="smart_pulldown_none">brak powiadomień</string>
   <string name="smart_pulldown_none_summary">Otwórz szybkie ustawienia gdy nie ma powiadomień</string>
   <string name="smart_pulldown_off">Wyłączone</string>
-  <string name="smart_pulldown_ongoing">brak bieżących</string>
+  <string name="smart_pulldown_ongoing">brak trwałych</string>
   <string name="smart_pulldown_summary">Otwórz szybkie ustawienia, gdy jest %1$s powiadomień</string>
   <string name="status_bar_quick_qs_pulldown">Szybkie rozwijanie</string>
   <string name="status_bar_quick_qs_pulldown_summary">Pociągnięcie w dół po prawej stronie paska stanu rozwinie panel szybkich ustawień</string>
