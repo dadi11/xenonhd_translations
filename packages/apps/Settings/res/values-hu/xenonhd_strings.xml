@@ -37,5 +37,11 @@
   <string name="density_category">Sűrűségi beállítások</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">Hangerő lépések</string>
+  <string name="volume_steps_alarm_title">Riasztások</string>
+  <string name="volume_steps_music_title">Zene</string>
+  <string name="volume_steps_notification_title">Értesítések</string>
+  <string name="volume_steps_ring_title">Csengetés</string>
+  <string name="volume_steps_system_title">Rendszer</string>
+  <string name="volume_steps_voice_call_title">Hanghívás</string>
   <string name="volume_steps_reset">Visszaállitás</string>
 </resources>
