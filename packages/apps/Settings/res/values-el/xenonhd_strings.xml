@@ -38,5 +38,11 @@
   <string name="density_category">Επιλογές πυκνότητος</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">Βήματα έντασης ήχου</string>
+  <string name="volume_steps_alarm_title">Ξυπνητήρι</string>
+  <string name="volume_steps_music_title">Μουσική</string>
+  <string name="volume_steps_notification_title">Ειδοποίηση</string>
+  <string name="volume_steps_ring_title">Ήχος κλησης</string>
+  <string name="volume_steps_system_title">Σύστημα</string>
+  <string name="volume_steps_voice_call_title">Φωνητική κλήση</string>
   <string name="volume_steps_reset">Επαναφορά</string>
 </resources>
