@@ -28,5 +28,10 @@
   <!-- XenonHD version -->
   <!-- Density category -->
   <!-- Volume Steps -->
+  <string name="volume_steps_alarm_title">Žadintuvas</string>
+  <string name="volume_steps_music_title">Muzika</string>
+  <string name="volume_steps_notification_title">Pranešimas</string>
+  <string name="volume_steps_system_title">Sistema</string>
+  <string name="volume_steps_voice_call_title">Balso skambutis</string>
   <string name="volume_steps_reset">Atstatyti</string>
 </resources>
