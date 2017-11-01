@@ -35,5 +35,11 @@
   <string name="density_category">Opciones de densidad</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">Niveles de volumen</string>
+  <string name="volume_steps_alarm_title">Alarma</string>
+  <string name="volume_steps_music_title">Música</string>
+  <string name="volume_steps_notification_title">Notificación</string>
+  <string name="volume_steps_ring_title">Tono de llamada</string>
+  <string name="volume_steps_system_title">Sistema</string>
+  <string name="volume_steps_voice_call_title">Llamada de voz</string>
   <string name="volume_steps_reset">Resetear</string>
 </resources>
