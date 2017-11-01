@@ -87,6 +87,8 @@
     <string name="summary_dashboard_conditions_enabled">Enabled</string>
     <string name="toast_icon_title">Toast app icon</string>
     <string name="toast_icon_summary">Display the app\'s icon corresponding with the toast</string>
+    <string name="sensor_block_title">Sensor block per-package</string>
+    <string name="sensor_block_summary">Block access to certain sensors for some apps to save battery.</string>
 
     <!-- Navbar -->
     <string name="navbar_title">Navigation bar</string>
@@ -153,7 +155,6 @@
     <string name="brightness_icon_position_on_summary">On the right</string>
     <string name="brightness_icon_position_off_summary">On the left</string>
 
-
     <!-- Recents -->
     <string name="recents_title">Recent apps</string>
     <string name="recents_clear_all_location_title">Clear all button location</string>
@@ -203,5 +204,7 @@
     <string name="battery_bar_blend_color_reverse_title">Reverse color direction</string>
     <string name="battery_bar_blend_color_reverse_summary_off">Full &#8594; empty: red &#8592; green &#8592; blue &#8592; red</string>
     <string name="battery_bar_blend_color_reverse_summary_on">Full &#8594; empty: red &#8594; green &#8594; blue &#8594; red</string>
+    <string name="volte_icon_title">VoLTE icon</string>
+    <string name="volte_icon_summary">Display VoLTE icon when available</string>
 
 </resources>
