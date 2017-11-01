@@ -34,5 +34,8 @@
   <string name="density_category">Densitetsinställningar</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">Volymsteg</string>
+  <string name="volume_steps_alarm_title">Alarm</string>
+  <string name="volume_steps_music_title">Musik</string>
+  <string name="volume_steps_system_title">System</string>
   <string name="volume_steps_reset">Återställ</string>
 </resources>
