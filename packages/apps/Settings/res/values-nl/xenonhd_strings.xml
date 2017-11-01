@@ -32,4 +32,5 @@
   <string name="density_category">Dichtheid opties</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">Volume stappen</string>
+  <string name="volume_steps_music_title">Muziek</string>
 </resources>
