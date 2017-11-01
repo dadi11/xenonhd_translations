@@ -34,5 +34,11 @@
   <string name="density_category">Postavke gustoće ekrana</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">Koraci glasnoće</string>
+  <string name="volume_steps_alarm_title">Alarm</string>
+  <string name="volume_steps_music_title">Glazba</string>
+  <string name="volume_steps_notification_title">Obavijest</string>
+  <string name="volume_steps_ring_title">Zvonjenje</string>
+  <string name="volume_steps_system_title">Sustav</string>
+  <string name="volume_steps_voice_call_title">Glasovni poziv</string>
   <string name="volume_steps_reset">Ponovno pokreni</string>
 </resources>
