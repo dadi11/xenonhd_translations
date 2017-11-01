@@ -26,5 +26,6 @@
   <!-- XenonOTA -->
   <string name="xenonota_title">Actualización Xenon</string>
   <!-- XenonHD version -->
+  <string name="xenonhd_version">Spanish</string>
   <string name="xenonhd_maintainer">Desarrollador</string>
 </resources>
