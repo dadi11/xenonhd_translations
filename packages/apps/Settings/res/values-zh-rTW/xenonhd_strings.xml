@@ -38,5 +38,11 @@
   <string name="density_category">密度選項</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">音量調整等級</string>
+  <string name="volume_steps_alarm_title">鬧鈴</string>
+  <string name="volume_steps_music_title">音樂</string>
+  <string name="volume_steps_notification_title">通知</string>
+  <string name="volume_steps_ring_title">鈴聲</string>
+  <string name="volume_steps_system_title">系統</string>
+  <string name="volume_steps_voice_call_title">語音通話</string>
   <string name="volume_steps_reset">重設</string>
 </resources>
