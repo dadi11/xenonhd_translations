@@ -27,4 +27,5 @@
   <!-- XenonHD version -->
   <!-- Density category -->
   <!-- Volume Steps -->
+  <string name="volume_steps_music_title">Música</string>
 </resources>
