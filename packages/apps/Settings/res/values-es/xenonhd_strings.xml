@@ -296,5 +296,6 @@
   <string name="lockscreen_battery_info_title">Spanish</string>
   <string name="lockscreen_battery_info_summary">Spanish</string>
   <!-- Status bar - Battery saver color -->
+  <string name="status_bar_battery_saver_color_title">Color del ahorrador de batería</string>
   <!-- Reset battery stats -->
 </resources>
