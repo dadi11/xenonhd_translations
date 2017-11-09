@@ -93,6 +93,7 @@
   <string name="qs_columns_title">Слупкі</string>
   <string name="qs_easy_toggle_title">Пашыраны спрошчаны перамыкач хуткіх налад</string>
   <string name="qs_easy_toggle_summary">Уключыце дзеянне па адзінкаваму націску для ўключэння / выключэння Wi-Fi, мабільных дадзеных і Bluetooth. Доўгі націск для прагляду дадатковых налад</string>
+  <string name="qs_tile_single_tap_title">Адным націскам пліткі</string>
   <!-- Quick unlock -->
   <string name="quick_unlock_warning">Папярэджанне</string>
   <string name="quick_unlock_warning_summary">Дадзеная магчымасць абыходзіць важны ахоўны механізм і дрэнна ўплывае на падтрымку некалькіх карыстальнікаў на прыладзе. Выкарыстоўвайце на сваю рызыку</string>
