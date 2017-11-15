@@ -53,5 +53,7 @@
   <string name="volume_steps_ring_title">Suoneria</string>
   <string name="volume_steps_system_title">Sistema</string>
   <string name="volume_steps_voice_call_title">Chiamata vocale</string>
+  <string name="volume_steps_bluetooth_sco_title">Chiamata Bluetooth</string>
   <string name="volume_steps_reset">Ripristina</string>
+  <string name="link_volume_option_title">Collega volume suoneria e notifica</string>
 </resources>
