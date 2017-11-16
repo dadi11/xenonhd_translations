@@ -54,5 +54,7 @@
   <string name="volume_steps_ring_title">Званок</string>
   <string name="volume_steps_system_title">Сістэма</string>
   <string name="volume_steps_voice_call_title">Галасавы выклік</string>
+  <string name="volume_steps_bluetooth_sco_title">Bluetooth выклік</string>
   <string name="volume_steps_reset">Скінуць</string>
+  <string name="link_volume_option_title">Звязаць гучнасць рынгтону і апавяшчэнняў</string>
 </resources>
