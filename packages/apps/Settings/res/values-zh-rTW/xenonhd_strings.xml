@@ -52,5 +52,7 @@
   <string name="volume_steps_ring_title">鈴聲</string>
   <string name="volume_steps_system_title">系統</string>
   <string name="volume_steps_voice_call_title">語音通話</string>
+  <string name="volume_steps_bluetooth_sco_title">藍牙來電</string>
   <string name="volume_steps_reset">重設</string>
+  <string name="link_volume_option_title">連結鈴聲與通知音量</string>
 </resources>
