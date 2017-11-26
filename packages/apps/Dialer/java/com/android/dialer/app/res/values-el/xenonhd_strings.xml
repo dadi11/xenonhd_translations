@@ -16,5 +16,14 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- In-call vibrations -->
+  <string name="incall_vibration_category_title">Δόνηση κατά την κλήση</string>
+  <string name="incall_vibrate_outgoing_title">Δόνηση στην απάντηση</string>
+  <string name="incall_vibrate_call_waiting_title">Δόνηση στην αναμονή κλήσης</string>
+  <string name="incall_vibrate_hangup_title">Δόνηση στο κλείσιμο</string>
+  <string name="incall_vibrate_45_title">Δόνηση κάθε 1 λεπτό</string>
+  <string name="incall_vibrate_45_summary">Δόνηση στο 45ο δευτερόλεπτο κάθε λεπτού κατά τη διάρκεια εξερχόμενων κλήσεων</string>
   <!-- Smart Options -->
+  <string name="smart_category_title">Άλλες επιλογές</string>
+  <string name="smart_mute_title">Έξυπνη σίγαση</string>
+  <string name="smart_mute_summary">Σιγήστε την εισερχόμενη κλήση αναποδογυρίζοντας την συσκευή σας</string>
 </resources>
