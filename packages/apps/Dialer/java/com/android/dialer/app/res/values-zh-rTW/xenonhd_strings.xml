@@ -16,5 +16,14 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- In-call vibrations -->
+  <string name="incall_vibration_category_title">通話時震動</string>
+  <string name="incall_vibrate_outgoing_title">接通時震動</string>
+  <string name="incall_vibrate_call_waiting_title">等待時震動</string>
+  <string name="incall_vibrate_hangup_title">掛斷時震動</string>
+  <string name="incall_vibrate_45_title">每分鐘震動一次</string>
+  <string name="incall_vibrate_45_summary">撥出電話後每分鐘的 45 秒時震動</string>
   <!-- Smart Options -->
+  <string name="smart_category_title">其他選項</string>
+  <string name="smart_mute_title">智慧靜音</string>
+  <string name="smart_mute_summary">翻轉裝置時靜音來電</string>
 </resources>
