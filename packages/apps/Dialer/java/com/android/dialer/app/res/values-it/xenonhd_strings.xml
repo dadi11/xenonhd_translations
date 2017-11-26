@@ -16,5 +16,14 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- In-call vibrations -->
+  <string name="incall_vibration_category_title">Vibrazione in chiamata</string>
+  <string name="incall_vibrate_outgoing_title">Vibra alla risposta</string>
+  <string name="incall_vibrate_call_waiting_title">Vibra per chiamata in attesa</string>
+  <string name="incall_vibrate_hangup_title">Vibra a fine chiamata</string>
+  <string name="incall_vibrate_45_title">Vibra ogni minuto</string>
+  <string name="incall_vibrate_45_summary">Vibra al 45esimo secondo di ogni minuto durante le chiamate in uscita</string>
   <!-- Smart Options -->
+  <string name="smart_category_title">Altre opzioni</string>
+  <string name="smart_mute_title">Muto intelligente</string>
+  <string name="smart_mute_summary">Silenzia la chiamata in arrivo spostando il dispositivo</string>
 </resources>
