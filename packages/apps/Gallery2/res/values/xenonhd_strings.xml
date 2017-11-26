@@ -65,7 +65,7 @@
     <string name="default_title">"Default title"</string>
 
     <!-- Toast if the muted video is not supported. [CHAR LIMIT=80] -->
-    <string name="mute_nosupport">Can not mute : not supported video</string>
+    <string name="mute_nosupport">Can not mute - not supported video</string>
 
     <!-- The tips of trimming video -->
     <string name="fail_trim">Sorry, this video file can not be trimmed</string>
