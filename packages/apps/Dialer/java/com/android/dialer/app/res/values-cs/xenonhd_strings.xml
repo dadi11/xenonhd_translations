@@ -16,5 +16,15 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- In-call vibrations -->
+  <string name="incall_vibration_category_title">Vibrace během hovoru</string>
+  <string name="incall_vibrate_outgoing_title">Vibrace při odpovědi</string>
+  <string name="incall_vibrate_call_waiting_title">Vibrace při dalším hovoru</string>
+  <string name="incall_vibrate_hangup_title">Vibrace po zavěšení</string>
+  <string name="incall_vibrate_45_title">Vibrace každou minutu</string>
+  <string name="incall_vibrate_45_summary">Vibrace každou 45. sekundu každé minuty při odchozím volání</string>
   <!-- Smart Options -->
+  <string name="smart_category_title">Další možnosti</string>
+  <string name="smart_mute_title">Inteligentní ztlumení</string>
+  <string name="smart_mute_summary">Ztlumit vyzvánění příchozího hovoru otočením zařízení</string>
+  <!-- Proximity speaker -->
 </resources>
