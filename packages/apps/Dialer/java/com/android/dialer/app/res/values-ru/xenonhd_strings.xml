@@ -16,5 +16,14 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- In-call vibrations -->
+  <string name="incall_vibration_category_title">Вибрация во время звонка</string>
+  <string name="incall_vibrate_outgoing_title">Вибрация при ответе</string>
+  <string name="incall_vibrate_call_waiting_title">Вибрация при ожидании</string>
+  <string name="incall_vibrate_hangup_title">Вибрация при отбое</string>
+  <string name="incall_vibrate_45_title">Вибрация каждую минуту</string>
+  <string name="incall_vibrate_45_summary">Вибрация на 45-й секунде каждой минуты во время исходящих вызовов</string>
   <!-- Smart Options -->
+  <string name="smart_category_title">Другие настройки</string>
+  <string name="smart_mute_title">Умное отключение звука</string>
+  <string name="smart_mute_summary">Отключать звук входящего вызова переворотом устройства</string>
 </resources>
