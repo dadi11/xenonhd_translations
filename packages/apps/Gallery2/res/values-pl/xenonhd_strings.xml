@@ -42,7 +42,16 @@
   <string name="set_rtp_min_port">Ustaw najniższy port</string>
   <string name="set_rtp_max_port">Ustaw najwyższy port</string>
   <string name="set_buffer_size">Ustaw rozmiar bufora</string>
+  <string name="set_apn">Wybierz preferowany APN</string>
   <string name="setting">Ustawienia</string>
+  <string name="server_timeout_title">"Limit czasu serwera"</string>
+  <string name="server_timeout_message">"Połączyć się ponownie z serwerem, aby odtworzyć wideo?"</string>
+  <string name="videoview_error_text_cannot_connect_retry">"Połączenie nie powiodło się, próba ponownego połączenia %1$d..."</string>
+  <string name="media_controller_live">Na żywo</string>
+  <string name="media_controller_playing">Odtwarzanie</string>
+  <string name="media_controller_connecting">Łączenie...</string>
+  <string name="bookmark_add">"Dodaj zakładkę"</string>
+  <string name="bookmark_display">"Pokaż zakładki"</string>
   <string name="bookmark_empty">"Brak zakładek"</string>
   <string name="bookmark_exist">"Zakładka już istnieje"</string>
   <string name="bookmark_add_success">"Dodano zakładkę"</string>
@@ -52,6 +61,7 @@
   <string name="delete_all">"Usuń wszystkie"</string>
   <string name="default_title">"Domyślny tytuł"</string>
   <!-- Toast if the muted video is not supported. [CHAR LIMIT=80] -->
+  <string name="mute_nosupport">Nie można wyciszyć - nie obsługiwane wideo</string>
   <!-- The tips of trimming video -->
   <string name="fail_trim">Niestety, ten plik wideo nie może zostać przycięty</string>
   <!-- The label for the bass boost knob of the audio effects dialog. -->
