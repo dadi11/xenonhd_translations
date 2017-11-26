@@ -26,4 +26,5 @@
   <string name="smart_category_title">Άλλες επιλογές</string>
   <string name="smart_mute_title">Έξυπνη σίγαση</string>
   <string name="smart_mute_summary">Σιγήστε την εισερχόμενη κλήση αναποδογυρίζοντας την συσκευή σας</string>
+  <!-- Proximity speaker -->
 </resources>
