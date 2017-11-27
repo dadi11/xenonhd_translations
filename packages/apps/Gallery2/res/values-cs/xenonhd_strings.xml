@@ -16,15 +16,66 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Strings for step option settins -->
+  <string name="setp_option_name">Krok</string>
+  <string name="step_option_desc">Přizpůsobit krok vpřed/vzad</string>
+  <string name="setp_option_three_second">3 sekundy</string>
+  <string name="setp_option_six_second">6 sekund</string>
+  <string name="loop">"Smyčka"</string>
+  <string name="single">"Jediný"</string>
+  <string name="stereo">"Stereo"</string>
+  <string name="speaker_on">Reproduktor ZAP.</string>
+  <string name="speaker_off">Reproduktor VYP.</string>
+  <string name="speaker_need_headset">Nejprve připojte sluchátka!</string>
+  <string name="single_track">"Jedna stopa"</string>
+  <string name="media_detail">"Podrobnosti o médiu"</string>
+  <string name="input_url">"Zadejte URL"</string>
+  <string name="streaming_settings">"Nastavení pro datové toky"</string>
+  <string name="next">"Další"</string>
+  <string name="previous">"Předchozí"</string>
+  <string name="rtp_rtcp">RTP/RTCP</string>
+  <string name="min_port">min port:</string>
+  <string name="max_port">max port:</string>
+  <string name="buffer_size">Velikost vyrovnávací paměti</string>
+  <string name="apn">Upřednostňované APN</string>
+  <string name="rtp_min_port">Min. port</string>
+  <string name="rtp_max_port">Max. port</string>
+  <string name="set_rtp_min_port">Nastavit min. port</string>
+  <string name="set_rtp_max_port">Nastavit max. port</string>
+  <string name="set_buffer_size">Nastavit velikost vyrovnávací paměťi</string>
+  <string name="set_apn">Vyberte upřednostňované APN</string>
   <string name="setting">Nastavení</string>
+  <string name="server_timeout_title">"Časový limit serveru"</string>
+  <string name="server_timeout_message">"Znovu připojit k serveru a spustit video?"</string>
+  <string name="videoview_error_text_cannot_connect_retry">"Připojení selhalo, zkuste se znovu připojit %1$d..."</string>
+  <string name="media_controller_live">Živě</string>
+  <string name="media_controller_playing">Přehrávání</string>
+  <string name="media_controller_connecting">Připojování...</string>
+  <string name="bookmark_add">"Přidat záložku"</string>
+  <string name="bookmark_display">"Zobrazit záložky"</string>
+  <string name="bookmark_empty">"Žádné záložky"</string>
+  <string name="bookmark_exist">"Stejná záložka v historii"</string>
+  <string name="bookmark_add_success">"Záložka byla úspěšně přidána"</string>
+  <string name="bookmark_list">"Záložky"</string>
+  <string name="bookmark_title">"Název"</string>
   <string name="bookmark_location">"Poloha"</string>
+  <string name="delete_all">"Smazat vše"</string>
+  <string name="default_title">"Výchozí název"</string>
   <!-- Toast if the muted video is not supported. [CHAR LIMIT=80] -->
+  <string name="mute_nosupport">Nelze ztlumit - video není podporováno</string>
   <!-- The tips of trimming video -->
+  <string name="fail_trim">Je nám líto, toto video nelze oříznout</string>
   <!-- The label for the bass boost knob of the audio effects dialog. -->
+  <string name="bass_boost_strength">Zvýraznění basů</string>
   <!-- The label for the 3d effect knob of the audio effects dialog. -->
+  <string name="virtualizer_strength">3D efekt</string>
   <!-- The label for the audio effects menu. -->
+  <string name="audio_effects">Zvukové efekty</string>
   <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
+  <string name="headset_plug">Připojte sluchátka pro tyto efekty.</string>
   <!-- The title of the audio effects dialog. -->
+  <string name="audio_effects_dialog_title">Snapdragon Audio+</string>
   <!-- A label describing to link website [CHAR LIMIT=30] -->
+  <string name="more_image">Další obrázky</string>
   <!-- The message is shown in toast when click showOnMap Menu and there is no map app -->
+  <string name="map_activity_not_found_err">Neexistuje žádná mapová aplikace pro zobrazení umístění.</string>
 </resources>
