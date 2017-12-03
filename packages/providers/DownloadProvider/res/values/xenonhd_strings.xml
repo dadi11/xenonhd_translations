@@ -14,7 +14,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-
     <!-- Transfer speed for current download/s. -->
     <string name="download_speed"><xliff:g id="duration">%s</xliff:g>/s</string>
 
@@ -33,5 +32,4 @@
 
     <!-- Title summarizing paused downloads. [CHAR LIMIT=32] -->
     <string name="notif_summary_paused">%d paused</string>
-
 </resources>
