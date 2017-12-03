@@ -14,7 +14,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-
     <!-- App Title -->
     <string name="xenonhd_settings_title">XenonHD Settings</string>
     <string name="xenonhd_settings_summary">Additional options</string>
@@ -212,5 +211,4 @@
     <string name="battery_bar_blend_color_reverse_summary_on">Full &#8594; empty: red &#8594; green &#8594; blue &#8594; red</string>
     <string name="volte_icon_title">VoLTE icon</string>
     <string name="volte_icon_summary">Display VoLTE icon when available</string>
-
 </resources>
