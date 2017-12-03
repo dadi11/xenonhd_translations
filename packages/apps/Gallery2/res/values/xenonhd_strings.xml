@@ -14,7 +14,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-
     <!-- Strings for step option settins -->
     <string name="setp_option_name">Step</string>
     <string name="step_option_desc">Customize fast forward/backward step</string>
@@ -92,5 +91,4 @@
 
     <!-- The message is shown in toast when click showOnMap Menu and there is no map app -->
     <string name="map_activity_not_found_err">There is no map app for show location.</string>
-
 </resources>
