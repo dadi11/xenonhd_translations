@@ -19,6 +19,7 @@
   <string name="app_name">Instalator przeglądarki</string>
   <!-- Dialog -->
   <string name="alert">Przeglądarka została zainstalowana</string>
+  <string name="help">Teraz możesz wyłączyć tę aplikację w Ustawieniach. Czy chcesz to zrobić?</string>
   <!-- Main screen -->
   <string name="instruction">Dotknij ikony ulubionej przeglądarki, aby ją pobrać</string>
   <!-- Notifications -->
