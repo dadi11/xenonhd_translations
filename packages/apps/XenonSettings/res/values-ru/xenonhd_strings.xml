@@ -194,7 +194,6 @@
   <string name="volte_icon_summary">Показывать иконку VoLTE при доступности</string>
   <string name="carrier_category">Логотип оператора</string>
   <string name="custom_carrier_label_title">Пользовательский логотип</string>
-  <string name="custom_carrier_label_explain">Введите новое имя или оставьте пустым для возрата к имени по умолчанию.</string>
   <string name="custom_carrier_label_notset">Пользовательский логотип не установлен</string>
   <string name="show_carrier_keyguard">Только на экране блокировки</string>
   <string name="show_carrier_statusbar">Только строка состояния</string>
