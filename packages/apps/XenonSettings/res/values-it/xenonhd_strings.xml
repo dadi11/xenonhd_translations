@@ -194,7 +194,6 @@
   <string name="volte_icon_summary">Mostra l\'icona VoLTE quando disponibile</string>
   <string name="carrier_category">Etichetta operatore</string>
   <string name="custom_carrier_label_title">Personalizza nome operatore</string>
-  <string name="custom_carrier_label_explain">Inserisci una nuova etichetta. Lasciare vuoto per mantenere quella originale.</string>
   <string name="custom_carrier_label_notset">L\'etichetta personalizzata non è impostata</string>
   <string name="show_carrier_keyguard">Solo schermata di blocco</string>
   <string name="show_carrier_statusbar">Solo barra di stato</string>
