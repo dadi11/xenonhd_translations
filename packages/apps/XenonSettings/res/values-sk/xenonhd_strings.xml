@@ -194,7 +194,6 @@
   <string name="volte_icon_summary">Zobraziť ikonu VoLTE ak je k dispozícii</string>
   <string name="carrier_category">Názov operátora</string>
   <string name="custom_carrier_label_title">Vlastný názov operátora</string>
-  <string name="custom_carrier_label_explain">Prosím zadajte nový názov. Nechajte prázdne pre obnovenie na pôvodné meno.</string>
   <string name="custom_carrier_label_notset">Vlastný názov momentálne nie je nastavený</string>
   <string name="show_carrier_keyguard">Iba na obrazovke uzamknutia</string>
   <string name="show_carrier_statusbar">Iba stavový riadok</string>
