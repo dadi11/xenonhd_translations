@@ -95,7 +95,6 @@
   <string name="battery_bar_style_reversed">Invertida</string>
   <string name="carrier_category">Etiqueta de Operador</string>
   <string name="custom_carrier_label_title">Nombre personalizado del operador</string>
-  <string name="custom_carrier_label_explain">Introduce un nuevo nombre. Deje en blanco para volver al nombre por defecto.</string>
   <string name="custom_carrier_label_notset">Nombre personalizado actualmente no establecido</string>
   <string name="show_carrier_keyguard">Sólo en la pantalla de bloqueo</string>
   <string name="show_carrier_statusbar">Sólo en la barra de estado</string>
