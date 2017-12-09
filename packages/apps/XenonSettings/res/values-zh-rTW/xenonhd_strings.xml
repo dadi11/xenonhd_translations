@@ -194,7 +194,6 @@
   <string name="volte_icon_summary">可用時顯示 VoLTE 圖示</string>
   <string name="carrier_category">電信公司標籤</string>
   <string name="custom_carrier_label_title">自訂電信公司標籤</string>
-  <string name="custom_carrier_label_explain">請輸入新的標籤。留白以還原為預設標籤。</string>
   <string name="custom_carrier_label_notset">自訂標籤目前尚未設定</string>
   <string name="show_carrier_keyguard">僅限於解鎖螢幕</string>
   <string name="show_carrier_statusbar">僅顯示狀態列</string>
