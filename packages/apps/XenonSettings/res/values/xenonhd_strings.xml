@@ -212,7 +212,7 @@
     <string name="carrier_category">Carrier label</string>
     <string name="carrier_options">Select display locations</string>
     <string name="custom_carrier_label_title">Custom carrier label</string>
-    <string name="custom_carrier_label_explain">Please enter a new label. Leave blank to revert to stock label.</string>
+    <string name="custom_carrier_label_explain">Please enter a new label. Leave blank to revert to stock label</string>
     <string name="custom_carrier_label_notset">Custom label currently not set</string>
     <string name="show_carrier_title">Display on</string>
     <string name="show_carrier_disabled">Nowhere</string>
