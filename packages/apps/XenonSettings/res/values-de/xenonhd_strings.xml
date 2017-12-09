@@ -63,7 +63,6 @@
   <string name="battery_bar_style_reversed">Umgekehrt</string>
   <string name="carrier_category">Provider-Bezeichnung</string>
   <string name="custom_carrier_label_title">Benutzerdefinierte Provider-Bezeichnung</string>
-  <string name="custom_carrier_label_explain">Eigenen Text eingeben. Leer lassen für Standard.</string>
   <string name="custom_carrier_label_notset">Keine benutzerdefinierte Bezeichnung festgelegt</string>
   <string name="show_carrier_keyguard">Nur Sperrbildschirm</string>
   <string name="show_carrier_statusbar">Nur Statusleiste</string>
