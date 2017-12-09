@@ -188,7 +188,6 @@
   <string name="volte_icon_summary">Паказваць значок VoLTE пры даступнасці</string>
   <string name="carrier_category">Лагатып аператара</string>
   <string name="custom_carrier_label_title">Карыстацкі лагатып</string>
-  <string name="custom_carrier_label_explain">Калі ласка, увядзіце новае імя або пакіньце пустым для вяртання да імя па змаўчанні.</string>
   <string name="custom_carrier_label_notset">Карыстацкі лагатып не ўсталяваны</string>
   <string name="show_carrier_keyguard">Толькі на экране блакавання</string>
   <string name="show_carrier_statusbar">Толькі радок стану</string>
