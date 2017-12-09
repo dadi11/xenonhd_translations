@@ -194,7 +194,6 @@
   <string name="volte_icon_summary">Εμφάνιση εικονιδίου VoLTE όταν είναι διαθέσιμο</string>
   <string name="carrier_category">Ετικέτα παρόχου</string>
   <string name="custom_carrier_label_title">Προσαρμοσμένο όνομα παρόχου</string>
-  <string name="custom_carrier_label_explain">Παρακαλώ εισάγετε ένα όνομα. Αφήστε κενό για να επανέλθει το αρχικό όνομα του παρόχου.</string>
   <string name="custom_carrier_label_notset">Προσαρμοσμένο όνομα παρόχου επί του παρόντος δεν έχει οριστεί</string>
   <string name="show_carrier_keyguard">Μόνο στην οθόνη κλειδώματος</string>
   <string name="show_carrier_statusbar">Μόνο στην γραμμή κατάστασης</string>
