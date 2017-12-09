@@ -194,7 +194,6 @@
   <string name="volte_icon_summary">Zobrazit ikonu VoLTE, když je k dispozici</string>
   <string name="carrier_category">Název mobilní sítě</string>
   <string name="custom_carrier_label_title">Vlastní název mobilní sítě</string>
-  <string name="custom_carrier_label_explain">Zadejte, prosím, nový název. Nechte prázdné pro navrácení k původnímu.</string>
   <string name="custom_carrier_label_notset">V současné době není nastaven vlastní název operátora</string>
   <string name="show_carrier_keyguard">Pouze na zamčené obrazovce</string>
   <string name="show_carrier_statusbar">Pouze stavový řádek</string>
