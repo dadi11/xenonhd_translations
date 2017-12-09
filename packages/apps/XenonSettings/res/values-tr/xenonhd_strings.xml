@@ -63,7 +63,6 @@
   <string name="battery_bar_style_reversed">Zıt</string>
   <string name="carrier_category">Operatör etiketi</string>
   <string name="custom_carrier_label_title">Özel Operatör Etiketi</string>
-  <string name="custom_carrier_label_explain">Lütfen yeni bir etiket girin. Varsayılan etikete dönmek için boş bırakın.</string>
   <string name="custom_carrier_label_notset">Şu anda özel etiket etkin değil</string>
   <string name="show_carrier_keyguard">Sadece kilit ekranı</string>
   <string name="show_carrier_statusbar">Yalnızca durum çubuğu</string>
