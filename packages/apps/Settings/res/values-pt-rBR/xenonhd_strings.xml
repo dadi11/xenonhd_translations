@@ -193,7 +193,9 @@
   <string name="lockscreen_hide_status_bar_summary">Toque a barra de status para alternar a visibilidade</string>
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">Força autorizar cada app de temas</string>
+  <string name="force_authorize_substratum_packages_summary">Permitir temas de fontes desconhecidas</string>
   <!-- QS tile labels visibility -->
+  <string name="qs_menu_item_titles">Nomes visíveis das Tiles Qs</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">Selecionador de cores</string>
   <string name="press_color_to_apply">Pressione a cor abaixo para aplicar</string>
