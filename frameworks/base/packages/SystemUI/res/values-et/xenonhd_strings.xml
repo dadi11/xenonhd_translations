@@ -37,5 +37,9 @@
   <string name="pirate_label">Aaarrrggghhh</string>
   <string name="pirate_spec">piraat</string>
   <!-- QS Lockscreen Tile -->
+  <string name="quick_settings_lockscreen_label">Lukustuskuva</string>
+  <string name="quick_settings_lockscreen_label_enforced">Lukustuskuva sunnitud</string>
+  <string name="accessibility_quick_settings_lock_screen_off">Lukustuskuva välja</string>
+  <string name="accessibility_quick_settings_lock_screen_on">Lukustuskuva sisse</string>
   <!-- VoLTE icon switch -->
 </resources>
