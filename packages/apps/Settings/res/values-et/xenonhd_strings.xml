@@ -94,6 +94,7 @@
   <string name="qs_easy_toggle_title">Täiustatud Kiirseadete lihtne vahetamine</string>
   <string name="qs_easy_toggle_summary">Võimalda ühe vajutusega lubada/keelata Wi-Fi, Mobiilne andmeside ja Bluetooth. Pikk vajutus näitab täpsemaid seadeid</string>
   <string name="qs_tile_single_tap_title">Plaat ühe vajutusega</string>
+  <string name="qs_tile_single_tap_summary">Lisa/eemalda kiirseadete plaat ühekordselt, puudutades plaati kohandajas</string>
   <!-- Quick unlock -->
   <string name="quick_unlock_warning">Kiiravamise hoiatus</string>
   <string name="quick_unlock_warning_summary">See funktsioon eirab olulisi kaitsemehhanisme ja peaaegu kindlasti häirib mitmik-kasutaja tuge. Kasutage omal vastutusel</string>
@@ -175,15 +176,27 @@
   <string name="hide_lockscreen_date_summary_on">Näita kuupäeva kella vidina all</string>
   <string name="hide_lockscreen_date_summary_off">Ära näita kuupäeva kella vidina all </string>
   <string name="hide_lockscreen_alarm_title">Alarmi tekst</string>
+  <string name="hide_lockscreen_alarm_summary_on">Alarmi tekst kellavidina all on nähtav</string>
+  <string name="hide_lockscreen_alarm_summary_off">Alarmi tekst kellavidina all on peidetud</string>
   <!-- Emergency button -->
   <string name="emergency_button_title">Hädaabi nupp</string>
   <string name="emergency_button_summary_on">Hädaabi nuppu näidatakse lukustuse ekraanil</string>
   <string name="emergency_button_summary_off">Hädaabi nuppu ei näidata lukustuse ekraanil</string>
   <!-- Fingerprint authentication vibration -->
+  <string name="fprint_sucess_vib_title">Vibratsioon sõrmejälje autentimisel</string>
+  <string name="fprint_sucess_vib_summary">Vibreeri edukal sõrmejälje autentimisel</string>
   <!-- Fingerprint unlock keystore -->
+  <string name="fp_unlock_keystore_title">Sõrmejäljega avamine peale taaskäivitamist</string>
+  <string name="fp_unlock_keystore_summary">Luba seadet alati avada sõrmejäljega, isegi peale taaskäivitust</string>
   <!-- Hide Statusbar on Lockscreen -->
+  <string name="lockscreen_hide_status_bar_title">Peita olekuriba</string>
+  <string name="lockscreen_hide_status_bar_summary">Puuduta olekuriba, et lülitada nähtavust sisse või välja</string>
   <!-- Force authorize substratum packages -->
+  <string name="force_authorize_substratum_packages_title">Teema rakendusi jõuga autoriseerima</string>
+  <string name="force_authorize_substratum_packages_summary">Luba teemarakendusi tundmatutelt allikatelt</string>
   <!-- QS tile labels visibility -->
+  <string name="qs_menu_item_titles">Kiirseade plaatide sildid</string>
+  <string name="qs_menu_item_titles_summaryOn">Sildid kuvatakse</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">Värvi valija</string>
   <string name="press_color_to_apply">Värvi rakendamiseks vajutage värvi peale</string>
