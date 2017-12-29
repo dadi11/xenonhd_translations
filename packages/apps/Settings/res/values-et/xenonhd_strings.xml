@@ -93,6 +93,7 @@
   <string name="qs_columns_title">Veerud</string>
   <string name="qs_easy_toggle_title">Täiustatud Kiirseadete lihtne vahetamine</string>
   <string name="qs_easy_toggle_summary">Võimalda ühe vajutusega lubada/keelata Wi-Fi, Mobiilne andmeside ja Bluetooth. Pikk vajutus näitab täpsemaid seadeid</string>
+  <string name="qs_tile_single_tap_title">Plaat ühe vajutusega</string>
   <!-- Quick unlock -->
   <string name="quick_unlock_warning">Kiiravamise hoiatus</string>
   <string name="quick_unlock_warning_summary">See funktsioon eirab olulisi kaitsemehhanisme ja peaaegu kindlasti häirib mitmik-kasutaja tuge. Kasutage omal vastutusel</string>
