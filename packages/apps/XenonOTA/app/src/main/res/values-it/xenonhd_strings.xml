@@ -39,4 +39,5 @@
   <string name="notification_message">È disponibile una nuova versione!</string>
   <string name="xenonota_channel">Notifiche di XenonOTA</string>
   <string name="xenonota_channel_description">Notifiche sui nuovi aggiornamenti di XenonHD</string>
+  <!-- Toast -->
 </resources>
