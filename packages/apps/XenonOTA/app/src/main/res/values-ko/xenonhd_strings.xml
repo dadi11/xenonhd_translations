@@ -16,6 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- App -->
+  <string name="app_name">XenonOTA</string>
   <!-- Categories -->
   <!-- Dialog -->
   <string name="dialog_message">업데이트 확인중, 기다려 주세요</string>
