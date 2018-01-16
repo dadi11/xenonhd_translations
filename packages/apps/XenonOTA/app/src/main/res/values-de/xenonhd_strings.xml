@@ -40,4 +40,5 @@
   <string name="xenonota_channel">XenonOTA-Benachrichtigungen</string>
   <string name="xenonota_channel_description">Benachrichtigungen über neue XenonHD-Updates</string>
   <!-- Toast -->
+  <string name="toast_message">Kein Browser installiert/Installation prüfen</string>
 </resources>
