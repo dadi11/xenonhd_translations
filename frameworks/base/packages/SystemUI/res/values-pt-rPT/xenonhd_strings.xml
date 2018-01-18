@@ -44,4 +44,5 @@
   <string name="accessibility_quick_settings_lock_screen_changed_off">O ecrã de bloqueio foi desligado</string>
   <string name="accessibility_quick_settings_lock_screen_changed_on">O ecrã de bloqueio foi ligado</string>
   <!-- VoLTE icon switch -->
+  <string name="status_bar_volte">VoLTE</string>
 </resources>
