@@ -13,7 +13,13 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
+  <string name="xenonhd_version">Versão XenonHD</string>
+  <string name="xenonhd_version_default">Desconhecido</string>
+  <string name="xenonhd_maintainer">Mantido por</string>
+  <string name="xenonhd_maintainer_default">Desconhecido</string>
   <!-- Changelog -->
+  <string name="changelog_xenonhd_title">Registo de alterações</string>
+  <string name="changelog_xenonhd_error">Não foi possível carregar a lista de alterações</string>
   <!-- Density category -->
   <!-- XenonOTA -->
   <!-- Dev Options Enabled by Default -->
