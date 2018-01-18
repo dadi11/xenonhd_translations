@@ -20,10 +20,16 @@
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Registo de alterações</string>
   <string name="changelog_xenonhd_error">Não foi possível carregar a lista de alterações</string>
+  <string name="changelog_xenonhd_summary">Verificar alterações na compilação atual</string>
   <!-- Density category -->
+  <string name="density_category">Opções de densidade</string>
   <!-- XenonOTA -->
+  <string name="xenonota_title">Actualizações XenonHD</string>
+  <string name="xenonota_summary">Verificar actualizações da ROM</string>
   <!-- Dev Options Enabled by Default -->
+  <string name="show_dev_already_enabled">Desnecessário, Configurações de desenvolvimento estão activadas por padrão</string>
   <!-- Phone info shortcut -->
+  <string name="device_info_title">Informações do telefone</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
   <!-- Notification sound timeout -->
   <!-- Randomize MAC addresses -->
