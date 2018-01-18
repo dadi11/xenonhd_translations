@@ -38,6 +38,7 @@
   <string name="qs_brightness_slider_enabled">Activado</string>
   <string name="qs_brightness_slider_disabled">Desactivado</string>
   <string name="brightness_icon_title">Ícone do brilho </string>
+  <string name="brightness_icon_summary">Mostrar um ícone de luminância à esquerda do controlo deslizante de brilho para definir o brilho automático</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">Paleta de cores</string>
   <string name="press_color_to_apply">Prima numa cor para aplicar</string>
@@ -60,6 +61,11 @@
   <string name="show_network_traffic_1000">1000 ms</string>
   <string name="show_network_traffic_1500">1500 ms</string>
   <string name="show_network_traffic_2000">2000 ms</string>
+  <string name="network_traffic_autohide">Ocultar automaticamente</string>
+  <string name="network_traffic_autohide_summary">Ocultar o monitor de tráfego quando não há actividade</string>
+  <string name="network_traffic_autohide_threshold">Limite de inactividade</string>
+  <string name="network_traffic_hidearrow">Ocultar as setas</string>
+  <string name="network_traffic_hidearrow_summary">Ocultar as setas do indicador de tráfego</string>
   <!-- Superuser indicator on status bar -->
   <!--Status bar date -->
   <string name="status_bar_clock_category">Relógio</string>
