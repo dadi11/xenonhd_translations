@@ -67,6 +67,9 @@
   <string name="network_traffic_hidearrow">Ocultar as setas</string>
   <string name="network_traffic_hidearrow_summary">Ocultar as setas do indicador de tráfego</string>
   <!-- Superuser indicator on status bar -->
+  <string name="su_indicator">Indicador de Super-Utilizador</string>
+  <string name="su_indicator_summary_on">O indicador de Super-Utilizador é visível quando uma sessão está activa</string>
+  <string name="su_indicator_summary_off">Alternar para mostrar o indicador de Super-Utilizador quando uma sessão está activa</string>
   <!--Status bar date -->
   <string name="status_bar_clock_category">Relógio</string>
   <string name="status_bar_date_title">Data</string>
@@ -85,7 +88,11 @@
   <string name="menu_cancel">Rejeitar</string>
   <!-- Navbar Animation -->
   <string name="pixel_navbar_anim_title">Animação da barra de navegação</string>
+  <string name="pixel_navbar_anim_summary">Re-activar a barra de navegação ou reiniciar para aplicar. Temas poderão substituir esta configuração</string>
   <!-- Torch -->
+  <string name="torch_long_press_power_gesture_title">Toque longo no botão ligar/desligar para lanterna</string>
+  <string name="torch_long_press_power_gesture_desc">Activar a lanterna ao pressionar longamente no botão de ligar/desligar quando o ecrã estiver desligado</string>
   <!-- One-handed mode -->
   <string name="one_handed_mode_title">Modo Uma Mão</string>
+  <string name="one_handed_mode_summary">Deslizaz na barra de navegação para activar o modo de uma mão</string>
 </resources>
