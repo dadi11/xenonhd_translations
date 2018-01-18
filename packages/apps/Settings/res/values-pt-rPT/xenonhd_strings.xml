@@ -64,8 +64,17 @@
   <string name="screenshot_sound_summary">Reproduz efeito de som quando a captura de ecrã é tirada</string>
   <!-- Manage applications: show substratum overlays -->
   <string name="filter_substratum_apps">Camadas do Substratum</string>
+  <string name="menu_show_substratum">Mostrar camadas</string>
+  <string name="menu_hide_substratum">Ocultar camadas</string>
   <!-- Manage applications: show substratum icon overlays -->
+  <string name="filter_substratum_icons">Sobreposições de ícones do Substratum</string>
+  <string name="menu_show_substratum_icons">Mostrar sobreposições de ícones</string>
+  <string name="menu_hide_substratum_icons">Ocultar sobreposições de ícones</string>
   <!-- XenonHD Configurations-->
+  <string name="xenonhd_title">Configurações</string>
+  <string name="xenonhd_misc_title">Diversos</string>
+  <string name="xenonhd_lockscreen_title">Ecrã de bloqueio</string>
+  <string name="xenonhd_ui_title">Interface do Utilizador</string>
   <!-- Selinux Switch -->
   <!-- Recents Membar -->
   <!-- Quick settings config -->
@@ -75,8 +84,34 @@
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">Activado</string>
   <string name="summary_doze_disabled">Desactivado</string>
+  <string name="threehalf_second">3.5 s</string>
+  <string name="four_second">4 s</string>
+  <string name="fourhalf_second">4.5 s</string>
+  <string name="five_second">5 s</string>
+  <string name="doze_notification_color_invert_title">Inversão de notificação</string>
+  <string name="doze_notification_color_invert_summary_off">As notificações não serão invertidas. Usar em temas escuros</string>
+  <string name="doze_notification_color_invert_summary_on">As notificações serão invertidas. Usar em temas claros ou de origem</string>
+  <string name="ambient_display_show_battery_title">Estado da bateria</string>
+  <string name="ambient_display_show_battery_summary">Mostra indicador de bateria ao activar</string>
   <!-- Recents panel settings -->
+  <string name="show_clear_all_recents_button_title">Mostrar botão \"Limpar Tudo\"</string>
+  <string name="show_clear_all_recents_button_summary">Mostrar o botão de limpar tudo nas aplicações recentes</string>
+  <string name="recents_clear_all_location_title">Posição do botão de \"Limpar Tudo\"</string>
+  <string name="recents_clear_all_location_top_right">Superior direito</string>
+  <string name="recents_clear_all_location_top_left">Superior esquerdo</string>
+  <string name="recents_clear_all_location_top_center">Superior ao centro</string>
+  <string name="recents_clear_all_location_bottom_right">Inferior direito</string>
+  <string name="recents_clear_all_location_bottom_left">Inferior esquerdo</string>
+  <string name="recents_clear_all_location_bottom_center">Inferior ao Centro</string>
   <!-- Dashboard options -->
+  <string name="dashboard_category">Opções do painel de definições</string>
+  <string name="dashboard_suggestions_title">Sugestões</string>
+  <string name="summary_dashboard_suggestions_enabled">Sugestões do painel activadas</string>
+  <string name="summary_dashboard_suggestions_disabled">Sugestões do painel desactivadas</string>
+  <string name="remove_tile_summaries_title">Resumos</string>
+  <string name="remove_tile_summaries_summary_enabled">Resumos do painel de definições activados</string>
+  <string name="remove_tile_summaries_summary_disabled">Resumos do painel de definições desactivados</string>
+  <string name="dashboard_conditions_title">Condições</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
   <!-- Emergency button -->
   <!-- Fingerprint authentication vibration -->
