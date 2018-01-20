@@ -93,8 +93,11 @@
   <string name="qs_columns_title">列</string>
   <string name="qs_easy_toggle_title">高级快速设置切换</string>
   <string name="qs_easy_toggle_summary">启用单击以启用/禁用Wi-Fi、移动数据和蓝牙。长按以查看高级设置</string>
+  <string name="qs_tile_single_tap_title">平铺单击</string>
+  <string name="qs_tile_single_tap_summary">在设置里通过单击来增加或删除磁块</string>
   <!-- Quick unlock -->
   <string name="quick_unlock_warning">快速解锁警告</string>
+  <string name="quick_unlock_warning_summary">这个功能会绕过重要的安全机制，请注意他带来的风险</string>
   <string name="unlock_quick_unlock_control_title">快速解锁</string>
   <string name="unlock_quick_unlock_control_summary">当输入正确的 PIN 或密码后自动解锁</string>
   <!-- Three-fingers-swipe to screenshot -->
@@ -113,7 +116,10 @@
   <string name="doze_overwrite_value_summary">允许用户配置覆盖默认设置</string>
   <string name="doze_pulse_title">用户可配置的设置</string>
   <string name="doze_pulse_duration_in_title">淡入</string>
+  <string name="doze_pulse_duration_visible_title">可见的持续时间</string>
   <string name="doze_pulse_duration_out_title">淡出</string>
+  <string name="doze_trigger_pickup_title">拿起手机出发感应器</string>
+  <string name="doze_trigger_pickup_summary_off">手机拿起时不会出发</string>
   <string name="doze_brightness_level_title">亮度</string>
   <string name="onehundred_ms">100 毫秒</string>
   <string name="twofifty_ms">250 毫秒</string>
