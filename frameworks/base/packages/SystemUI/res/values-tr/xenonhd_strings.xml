@@ -13,7 +13,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Screenshot Delete Toast -->
-  <string name="delete_screenshot_toast">Ekran Görüntüsü Silindi</string>
+  <string name="delete_screenshot_toast">Ekran görüntüsü silindi</string>
   <!-- Status bar items tuner -->
   <string name="statusbar_icons_blacklist">Durum çubuğu simgeleri</string>
   <!-- Quick Settings tiles -->
@@ -28,7 +28,7 @@
          (greater than status_bar_notification_info_maxnum, defined in
          values/config.xml) and must be truncated. [CHAR LIMIT=4] -->
   <!-- Free RAM -->
-  <string name="free_ram">Boş Bellek:\u0020</string>
+  <string name="free_ram">Boş RAM:\u0020</string>
   <!-- Path data for Solid battery -->
   <!-- High Brightness Mode Tile -->
   <string name="quick_settings_high_brightness">Yüksek parlaklık</string>
@@ -44,4 +44,5 @@
   <string name="accessibility_quick_settings_lock_screen_changed_off">Kilit ekranında devre dışı</string>
   <string name="accessibility_quick_settings_lock_screen_changed_on">Kilit ekranında etkin</string>
   <!-- VoLTE icon switch -->
+  <string name="status_bar_volte">VoLTE</string>
 </resources>
