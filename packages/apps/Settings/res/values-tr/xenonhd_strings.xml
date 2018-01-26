@@ -27,30 +27,30 @@
   <string name="xenonota_title">XenonHD Güncelleştirmeleri</string>
   <string name="xenonota_summary">ROM Güncellemelerini kontrol et</string>
   <!-- Dev Options Enabled by Default -->
-  <string name="show_dev_already_enabled">Gerek yok, Geliştirme ayarları varsayılan olarak etkindir</string>
+  <string name="show_dev_already_enabled">Gerek yok, Geliştirme ayarları varsayılan olarak etkin</string>
   <!-- Phone info shortcut -->
-  <string name="device_info_title">Telefon Bilgileri</string>
+  <string name="device_info_title">Telefon bilgileri</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
-  <string name="local_backup_password_title">Masaüstü Şifresini Yedekle</string>
+  <string name="local_backup_password_title">Masaüstü şifresini yedekle</string>
   <!-- Notification sound timeout -->
   <string name="app_notification_sound_timeout_title">Bildirim sesleri arasında en az zaman</string>
   <string name="app_notification_sound_timeout_summary_template">Bir defadan fazla olmayacak şekilde her <xliff:g id="duration">%1$s</xliff:g>\'da bir titreme veya sese izin ver</string>
   <string name="app_notification_sound_timeout_value_none">Kısıtlama yok</string>
-  <string name="app_notification_sound_timeout_value_10_seconds">10 Saniye</string>
-  <string name="app_notification_sound_timeout_value_30_seconds">30 Saniye</string>
-  <string name="app_notification_sound_timeout_value_1_minute">1 Dakika</string>
-  <string name="app_notification_sound_timeout_value_5_minutes">5 Dakika</string>
-  <string name="app_notification_sound_timeout_value_15_minutes">10 Dakika</string>
+  <string name="app_notification_sound_timeout_value_10_seconds">10 saniye</string>
+  <string name="app_notification_sound_timeout_value_30_seconds">30 saniye</string>
+  <string name="app_notification_sound_timeout_value_1_minute">1 dakika</string>
+  <string name="app_notification_sound_timeout_value_5_minutes">5 dakika</string>
+  <string name="app_notification_sound_timeout_value_15_minutes">10 dakika</string>
   <string name="app_notification_sound_timeout_value_30_minutes">30 dakika</string>
   <!-- Randomize MAC addresses -->
   <string name="randomize_mac_title">Rastgele MAC adresleri</string>
   <string name="randomize_mac_summary">Cihaz bağlantısı sağlandığında rastgele MAC adresi ata. Rastgele MAC adresi ataması tarama aktif olsa da olmasa da yapılacaktır</string>
   <!-- Volume Steps -->
-  <string name="volume_steps_title">Ses Seviyeleri</string>
+  <string name="volume_steps_title">Ses seviyeleri</string>
   <string name="volume_steps_alarm_title">Çalar saat</string>
   <string name="volume_steps_dtmf_title">DTMF (çevirme)</string>
   <string name="volume_steps_music_title">Müzik</string>
-  <string name="volume_steps_notification_title">Bildirim</string>
+  <string name="volume_steps_notification_title">Bildirimler</string>
   <string name="volume_steps_ring_title">Zil sesi</string>
   <string name="volume_steps_system_title">Sistem</string>
   <string name="volume_steps_voice_call_title">Sesli arama</string>
@@ -60,27 +60,27 @@
   <string name="night_mode_no">Parlak</string>
   <string name="night_mode_yes">Koyu</string>
   <!-- Screenshot sound -->
-  <string name="screenshot_sound_title">Ekran Görüntüsü Sesi</string>
-  <string name="screenshot_sound_summary">Ekran görüntüsü alındığında bildirim çal</string>
+  <string name="screenshot_sound_title">Ekran görüntü sesi</string>
+  <string name="screenshot_sound_summary">Ekran görüntüsü alındığında ses efekti çıkar</string>
   <!-- Manage applications: show substratum overlays -->
-  <string name="filter_substratum_apps">Substratum bindirmeleri</string>
-  <string name="menu_show_substratum">Bindirmeleri göster</string>
-  <string name="menu_hide_substratum">Bindirmeleri gizle</string>
+  <string name="filter_substratum_apps">Substratum temaları</string>
+  <string name="menu_show_substratum">Temaları göster</string>
+  <string name="menu_hide_substratum">Temaları gizle</string>
   <!-- Manage applications: show substratum icon overlays -->
-  <string name="filter_substratum_icons">Substratum simge bindirmeleri</string>
-  <string name="menu_show_substratum_icons">Simge bindirmelerini göster</string>
-  <string name="menu_hide_substratum_icons">Simge bindirmelerini gizle</string>
+  <string name="filter_substratum_icons">Substratum simge temaları</string>
+  <string name="menu_show_substratum_icons">Tema simgelerini göster</string>
+  <string name="menu_hide_substratum_icons">Tema simgelerini gizle</string>
   <!-- XenonHD Configurations-->
-  <string name="xenonhd_title">Yapılandır</string>
+  <string name="xenonhd_title">Yapılandırma</string>
   <string name="xenonhd_misc_title">Çeşitler</string>
-  <string name="xenonhd_lockscreen_title">Kilit Ekranı</string>
+  <string name="xenonhd_lockscreen_title">Kilit ekranı</string>
   <string name="xenonhd_ui_title">Arayüz</string>
   <!-- Selinux Switch -->
   <string name="selinux_switch_title">Selinux\'a geçme uyarısı</string>
-  <string name="selinux_switch_summary">SELinux bir kernel modifikasyonları ve user-space araçlar kümesidir. Mod değiştirme kök erişimi gerektirir ve istenmeyen etkilere neden olabilir. Permissive mod önerilir. Kullanım riski sizin sorumluluğunuz altındadır</string>
+  <string name="selinux_switch_summary">SELinux bir kernel modifikasyonları ve araçlar kümesidir. Mod değiştirme root erişimi gerektirir ve istenmeyen etkilere neden olabilir. Permissive mod önerilir. Kullanım riski sizin sorumluluğunuz altındadır</string>
   <string name="selinux_title">SELinux modu</string>
-  <string name="selinux_permissive_title">İzinler</string>
-  <string name="selinux_enforcing_title">Zorunlu</string>
+  <string name="selinux_permissive_title">Permissive (Serbest)</string>
+  <string name="selinux_enforcing_title">Enforcing (Zorunlu)</string>
   <string name="selinux_permissive_toast_title">Selinux permissive moda ayarlandı!</string>
   <!-- Recents Membar -->
   <string name="recents_membar">Bellek Çubuğu</string>
@@ -93,6 +93,7 @@
   <string name="qs_columns_title">Sütunlar</string>
   <string name="qs_easy_toggle_title">Gelişmiş Hızlı Ayar Kolay Geçiş</string>
   <string name="qs_easy_toggle_summary">Tek tıkla Wi-Fi, mobil veri ve Bluetooth\'u etkinleştir/devre dışı bırak. Gelişmiş ayarları görmek için uzun basın</string>
+  <string name="qs_tile_single_tap_summary">Özelleştiricide kare üzerine tek dokunarak kare ekleme/kaldırma</string>
   <!-- Quick unlock -->
   <string name="quick_unlock_warning">Hızlı Ekran Kilidi Açma uyarısı</string>
   <string name="quick_unlock_warning_summary">Bu özellik önemli güvenlik mekanizmaları atlar ve neredeyse kesin birden çok kullanıcı desteğini kötüye kullanır. Sorumluluk size aittir</string>
