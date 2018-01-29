@@ -93,6 +93,7 @@
   <string name="qs_columns_title">Sütunlar</string>
   <string name="qs_easy_toggle_title">Gelişmiş Hızlı Ayar Kolay Geçiş</string>
   <string name="qs_easy_toggle_summary">Tek tıkla Wi-Fi, mobil veri ve Bluetooth\'u etkinleştir/devre dışı bırak. Gelişmiş ayarları görmek için uzun basın</string>
+  <string name="qs_tile_single_tap_title">Dokunurak ekle</string>
   <string name="qs_tile_single_tap_summary">Özelleştiricide kare üzerine tek dokunarak kare ekleme/kaldırma</string>
   <!-- Quick unlock -->
   <string name="quick_unlock_warning">Hızlı Ekran Kilidi Açma uyarısı</string>
