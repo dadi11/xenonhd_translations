@@ -271,6 +271,9 @@
   <string name="screen_state_toggles_twog">Trocar para 2G</string>
   <string name="screen_state_toggles_twog_summary">O modo de rede será alterado para 2G quando a tela for desligada</string>
   <string name="screen_state_toggles_gps">Desativar o GPS</string>
+  <string name="screen_state_toggles_gps_summary">O serviço de localização baseado em GPS será desativado quando a tela for desligada</string>
+  <string name="screen_state_toggles_mobile_data">Desativar dados móveis</string>
+  <string name="screen_state_toggles_mobile_data_summary">Dados móveis serão desativados quando a tela estiver desligada</string>
   <!-- Fingerprint max failed attempts -->
   <string name="fp_three_attempts">3 tentativas</string>
   <string name="fp_five_attempts">5 tentativas</string>
