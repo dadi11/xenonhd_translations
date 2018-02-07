@@ -22,10 +22,15 @@
   <!-- Development Settings -->
   <!-- [CHAR LIMIT=NONE] Device Info screen. Countdown for user taps to enable development settings -->
   <!-- [CHAR LIMIT=NONE] Device Info screen. Confirmation that developer settings are enabled -->
+  <string name="show_dev_on_custom">Fejlesztő beállítások engedélyezve! Legyen óvatos!</string>
   <!-- [CHAR LIMIT=NONE] Device Info screen. Okay we get it, stop pressing, you already have it on -->
+  <string name="show_dev_already_custom">A fejlesztő beállítások engedélyezése már megtörtént!</string>
   <!-- Phone info -->
   <string name="device_info_title">Telefon adatai</string>
+  <string name="custom_encryption_and_credential_settings_summary_on">A készülék titkosított</string>
+  <string name="custom_encryption_and_credential_settings_summary_off">A készülék titkosítása feloldva</string>
   <!-- Vendor version -->
+  <string name="vendor_version">Vendor verzió</string>
   <string name="vendor_version_default">Ismeretlen</string>
   <!-- XenonOTA -->
   <string name="xenonota_title">XenonOTA</string>
@@ -38,10 +43,14 @@
   <!-- Volume Steps -->
   <string name="volume_steps_title">Hangerő lépések</string>
   <string name="volume_steps_alarm_title">Riasztások</string>
+  <string name="volume_steps_dtmf_title">DTMF</string>
   <string name="volume_steps_music_title">Zene</string>
   <string name="volume_steps_notification_title">Értesítések</string>
   <string name="volume_steps_ring_title">Csengetés</string>
   <string name="volume_steps_system_title">Rendszer</string>
   <string name="volume_steps_voice_call_title">Hanghívás</string>
+  <string name="volume_steps_bluetooth_sco_title">Bluetooth hívás</string>
   <string name="volume_steps_reset">Visszaállitás</string>
+  <string name="link_volume_option_title">Csengetési és értesítési hangerő összekötése</string>
+  <string name="select_sim_for_sms">SIM kiválasztása az SMS-hez</string>
 </resources>
