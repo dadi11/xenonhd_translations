@@ -236,11 +236,18 @@
   <string name="status_bar_font_condensed_light">Condensado Leve</string>
   <string name="status_bar_font_condensed_light_italic">Itálico Condensado Claro</string>
   <string name="status_bar_font_condensed_bold">Negrito Condensado</string>
+  <string name="status_bar_font_condensed_bold_italic">Condensado negrito Itálico</string>
   <string name="status_bar_font_medium">Médio</string>
   <string name="status_bar_font_medium_italic">Itálico Médio</string>
   <string name="status_bar_font_black">Preto</string>
   <string name="status_bar_font_black_italic">Itálico Preto</string>
+  <string name="status_bar_font_dancingscript">DancingScript</string>
+  <string name="status_bar_font_dancingscript_bold">DancingScript Negrito</string>
   <string name="status_bar_font_comingsoon">Em breve</string>
+  <string name="status_bar_font_notoserif">NotoSerif Normal</string>
+  <string name="status_bar_font_notoserif_italic">NotoSerif itálico</string>
+  <string name="status_bar_font_notoserif_bold">NotoSerif Negrito</string>
+  <string name="status_bar_font_notoserif_bold_italic">NotoSerif Negrito Itálico</string>
   <!-- Lock Clock Fonts -->
   <string name="lock_clock_font_title">Opções de fonte</string>
   <string name="lock_clock_font_summary">Alterar a fonte padrão do widget de relógio na tela de bloqueio</string>
@@ -260,6 +267,7 @@
   <string name="lock_clock_font_condensed_normal">Condensado</string>
   <string name="lock_clock_font_condensed_italic">Itálico condensado</string>
   <string name="lock_clock_font_condensed_bold">Negrito Condensado</string>
+  <string name="lock_clock_font_condensed_bold_italic">Condensada Negrito Itálico</string>
   <string name="lock_clock_font_medium_normal">Médio</string>
   <string name="lock_clock_font_medium_italic">Itálico Médio</string>
   <!-- Screen state service -->
@@ -274,12 +282,18 @@
   <string name="screen_state_toggles_gps_summary">O serviço de localização baseado em GPS será desativado quando a tela for desligada</string>
   <string name="screen_state_toggles_mobile_data">Desativar dados móveis</string>
   <string name="screen_state_toggles_mobile_data_summary">Dados móveis serão desativados quando a tela estiver desligada</string>
+  <string name="screen_state_off_delay_title">Atraso das ações de tela desligada</string>
+  <string name="screen_state_off_delay_summary">Número de segundos a esperar antes de executar ações após o desligamento da tela</string>
+  <string name="screen_state_on_delay_title">Atraso nas ações com o ecrã ligado</string>
+  <string name="screen_state_on_delay_summary">Número de segundos para aguardar antes de executar as ações depois de ligar a tela</string>
   <!-- Fingerprint max failed attempts -->
+  <string name="fp_max_failed_attempts">Máximo de tentativas de leitura de impressão digital</string>
   <string name="fp_three_attempts">3 tentativas</string>
   <string name="fp_five_attempts">5 tentativas</string>
   <string name="fp_ten_attempts">10 tentativas</string>
   <string name="fp_fifteen_attempts">15 tentativas</string>
   <!-- Lockscreen battery info indicator  -->
+  <string name="lockscreen_battery_info_title">Informação de carregamento</string>
   <!-- Status bar - Battery saver color -->
   <!-- Reset battery stats -->
   <string name="ok">OK</string>
