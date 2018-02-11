@@ -294,6 +294,7 @@
   <string name="fp_fifteen_attempts">15 tentativas</string>
   <!-- Lockscreen battery info indicator  -->
   <string name="lockscreen_battery_info_title">Informação de carregamento</string>
+  <string name="lockscreen_battery_info_summary">Mostrar voltagem, nível e temperatura da bateria na tela de bloqueio durante o carregamento</string>
   <!-- Status bar - Battery saver color -->
   <!-- Reset battery stats -->
   <string name="ok">OK</string>
