@@ -196,6 +196,8 @@
   <string name="force_authorize_substratum_packages_summary">Permitir temas de fontes desconhecidas</string>
   <!-- QS tile labels visibility -->
   <string name="qs_menu_item_titles">Nomes visíveis das Tiles Qs</string>
+  <string name="qs_menu_item_titles_summaryOn">Rótulos são mostrados</string>
+  <string name="qs_menu_item_titles_summaryOff">Rótulos são ocultos</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">Selecionador de cores</string>
   <string name="press_color_to_apply">Pressione a cor abaixo para aplicar</string>
@@ -207,6 +209,7 @@
   <string name="carrier_options_summary">Personalizar nome de operadora</string>
   <string name="custom_carrier_label_title">Nome personalizado da operadora</string>
   <string name="custom_carrier_label_explain">Por favor, insira um novo texto ou deixe em branco para reverter ao original.</string>
+  <string name="custom_carrier_label_notset">Texto personalizado não definido</string>
   <string name="show_carrier_title">Nome da operadora</string>
   <string name="show_carrier_disabled">Desativado</string>
   <string name="show_carrier_keyguard">Apenas na tela de bloqueio</string>
@@ -233,13 +236,27 @@
   <string name="status_bar_font_condensed_light">Condensado Leve</string>
   <string name="status_bar_font_condensed_light_italic">Itálico Condensado Claro</string>
   <string name="status_bar_font_condensed_bold">Negrito Condensado</string>
+  <string name="status_bar_font_condensed_bold_italic">Condensado negrito Itálico</string>
   <string name="status_bar_font_medium">Médio</string>
   <string name="status_bar_font_medium_italic">Itálico Médio</string>
   <string name="status_bar_font_black">Preto</string>
   <string name="status_bar_font_black_italic">Itálico Preto</string>
+  <string name="status_bar_font_dancingscript">DancingScript</string>
+  <string name="status_bar_font_dancingscript_bold">DancingScript Negrito</string>
   <string name="status_bar_font_comingsoon">Em breve</string>
+  <string name="status_bar_font_notoserif">NotoSerif Normal</string>
+  <string name="status_bar_font_notoserif_italic">NotoSerif itálico</string>
+  <string name="status_bar_font_notoserif_bold">NotoSerif Negrito</string>
+  <string name="status_bar_font_notoserif_bold_italic">NotoSerif Negrito Itálico</string>
   <!-- Lock Clock Fonts -->
+  <string name="lock_clock_font_title">Opções de fonte</string>
+  <string name="lock_clock_font_summary">Alterar a fonte padrão do widget de relógio na tela de bloqueio</string>
+  <string name="lockdate_font_size_title">Tamanho da fonte da data</string>
+  <string name="lockclock_font_size_title">Tamanho da fonte de relógio</string>
+  <string name="lock_date_font_summary">Personalizar a fonte da data</string>
   <string name="lock_date_font_title">Data</string>
+  <string name="lock_clock_font_dialog_title">Selecione a fonte do relógio da tela de bloqueio</string>
+  <string name="lock_clock_font_stock">Normal (padrão)</string>
   <string name="lock_clock_font_bold">Negrito</string>
   <string name="lock_clock_font_light">Claro</string>
   <string name="lock_clock_font_italic">Itálico</string>
@@ -250,15 +267,34 @@
   <string name="lock_clock_font_condensed_normal">Condensado</string>
   <string name="lock_clock_font_condensed_italic">Itálico condensado</string>
   <string name="lock_clock_font_condensed_bold">Negrito Condensado</string>
+  <string name="lock_clock_font_condensed_bold_italic">Condensada Negrito Itálico</string>
   <string name="lock_clock_font_medium_normal">Médio</string>
   <string name="lock_clock_font_medium_italic">Itálico Médio</string>
   <!-- Screen state service -->
+  <string name="screen_state_toggles_title">Suspender as ações</string>
+  <string name="screen_state_toggles_enable_title">Ativar</string>
+  <string name="screen_state_toggles_enable_summary">As ações serão executadas com a tela desligada. O estado anterior será restaurado ao ligar a tela.</string>
+  <string name="screen_state_toggles_mobile_title">Redes móveis</string>
+  <string name="screen_state_toggles_location_title">Localização</string>
+  <string name="screen_state_toggles_twog">Trocar para 2G</string>
+  <string name="screen_state_toggles_twog_summary">O modo de rede será alterado para 2G quando a tela for desligada</string>
+  <string name="screen_state_toggles_gps">Desativar o GPS</string>
+  <string name="screen_state_toggles_gps_summary">O serviço de localização baseado em GPS será desativado quando a tela for desligada</string>
+  <string name="screen_state_toggles_mobile_data">Desativar dados móveis</string>
+  <string name="screen_state_toggles_mobile_data_summary">Dados móveis serão desativados quando a tela estiver desligada</string>
+  <string name="screen_state_off_delay_title">Atraso das ações de tela desligada</string>
+  <string name="screen_state_off_delay_summary">Número de segundos a esperar antes de executar ações após o desligamento da tela</string>
+  <string name="screen_state_on_delay_title">Atraso nas ações com o ecrã ligado</string>
+  <string name="screen_state_on_delay_summary">Número de segundos para aguardar antes de executar as ações depois de ligar a tela</string>
   <!-- Fingerprint max failed attempts -->
+  <string name="fp_max_failed_attempts">Máximo de tentativas de leitura de impressão digital</string>
   <string name="fp_three_attempts">3 tentativas</string>
   <string name="fp_five_attempts">5 tentativas</string>
   <string name="fp_ten_attempts">10 tentativas</string>
   <string name="fp_fifteen_attempts">15 tentativas</string>
   <!-- Lockscreen battery info indicator  -->
+  <string name="lockscreen_battery_info_title">Informação de carregamento</string>
+  <string name="lockscreen_battery_info_summary">Mostrar voltagem, nível e temperatura da bateria na tela de bloqueio durante o carregamento</string>
   <!-- Status bar - Battery saver color -->
   <!-- Reset battery stats -->
   <string name="ok">OK</string>

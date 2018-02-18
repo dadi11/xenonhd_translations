@@ -13,21 +13,68 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
+  <string name="xenonhd_version">Versão XenonHD</string>
+  <string name="xenonhd_version_default">Desconhecido</string>
+  <string name="xenonhd_maintainer">Mantido por</string>
+  <string name="xenonhd_maintainer_default">Desconhecido</string>
   <!-- Changelog -->
+  <string name="changelog_xenonhd_title">Registo de alterações</string>
+  <string name="changelog_xenonhd_error">Não foi possível carregar a lista de alterações</string>
+  <string name="changelog_xenonhd_summary">Verificar alterações na compilação atual</string>
   <!-- Density category -->
+  <string name="density_category">Opções de densidade</string>
   <!-- XenonOTA -->
+  <string name="xenonota_title">Actualizações XenonHD</string>
+  <string name="xenonota_summary">Verificar actualizações da ROM</string>
   <!-- Dev Options Enabled by Default -->
+  <string name="show_dev_already_enabled">Desnecessário, Configurações de desenvolvimento estão activadas por padrão</string>
   <!-- Phone info shortcut -->
+  <string name="device_info_title">Informações do telefone</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+  <string name="local_backup_password_title">Palavra-passe da cópia de segurança do ecrã principal</string>
   <!-- Notification sound timeout -->
+  <string name="app_notification_sound_timeout_title">Tempo mínimo entre sons de notificação</string>
+  <string name="app_notification_sound_timeout_summary_template">Permitir sons ou vibração, não mais de uma vez a cada <xliff:g id="duration">%1$s</xliff:g></string>
+  <string name="app_notification_sound_timeout_value_none">Sem restrição</string>
+  <string name="app_notification_sound_timeout_value_10_seconds">10 segundos</string>
+  <string name="app_notification_sound_timeout_value_30_seconds">30 segundos</string>
+  <string name="app_notification_sound_timeout_value_1_minute">1 minuto</string>
+  <string name="app_notification_sound_timeout_value_5_minutes">5 minutos</string>
+  <string name="app_notification_sound_timeout_value_15_minutes">10 minutos</string>
+  <string name="app_notification_sound_timeout_value_30_minutes">30 minutos</string>
   <!-- Randomize MAC addresses -->
+  <string name="randomize_mac_title">Aleatorizar endereços MAC</string>
+  <string name="randomize_mac_summary">Atribuir endereços MAC aleatórios quando os dispositivos de rede estão activados. Aleatorização MAC é utilizada durante a verificação quer a opção esteja activada ou não</string>
   <!-- Volume Steps -->
+  <string name="volume_steps_title">Níveis de volume</string>
+  <string name="volume_steps_alarm_title">Alarme</string>
+  <string name="volume_steps_dtmf_title">DTMF (marcação)</string>
   <string name="volume_steps_music_title">Música</string>
+  <string name="volume_steps_notification_title">Notificação</string>
+  <string name="volume_steps_ring_title">Toque</string>
+  <string name="volume_steps_system_title">Sistema</string>
+  <string name="volume_steps_voice_call_title">Chamada de voz</string>
+  <string name="volume_steps_reset">Repor</string>
   <!-- DayNight Theme -->
+  <string name="night_mode_title">Tema</string>
+  <string name="night_mode_no">Claro</string>
+  <string name="night_mode_yes">Escuro</string>
   <!-- Screenshot sound -->
+  <string name="screenshot_sound_title">Som da captura de ecrã</string>
+  <string name="screenshot_sound_summary">Reproduz efeito de som quando a captura de ecrã é tirada</string>
   <!-- Manage applications: show substratum overlays -->
+  <string name="filter_substratum_apps">Camadas do Substratum</string>
+  <string name="menu_show_substratum">Mostrar camadas</string>
+  <string name="menu_hide_substratum">Ocultar camadas</string>
   <!-- Manage applications: show substratum icon overlays -->
+  <string name="filter_substratum_icons">Sobreposições de ícones do Substratum</string>
+  <string name="menu_show_substratum_icons">Mostrar sobreposições de ícones</string>
+  <string name="menu_hide_substratum_icons">Ocultar sobreposições de ícones</string>
   <!-- XenonHD Configurations-->
+  <string name="xenonhd_title">Configurações</string>
+  <string name="xenonhd_misc_title">Diversos</string>
+  <string name="xenonhd_lockscreen_title">Ecrã de bloqueio</string>
+  <string name="xenonhd_ui_title">Interface do Utilizador</string>
   <!-- Selinux Switch -->
   <!-- Recents Membar -->
   <!-- Quick settings config -->
@@ -37,8 +84,34 @@
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">Activado</string>
   <string name="summary_doze_disabled">Desactivado</string>
+  <string name="threehalf_second">3.5 s</string>
+  <string name="four_second">4 s</string>
+  <string name="fourhalf_second">4.5 s</string>
+  <string name="five_second">5 s</string>
+  <string name="doze_notification_color_invert_title">Inversão de notificação</string>
+  <string name="doze_notification_color_invert_summary_off">As notificações não serão invertidas. Usar em temas escuros</string>
+  <string name="doze_notification_color_invert_summary_on">As notificações serão invertidas. Usar em temas claros ou de origem</string>
+  <string name="ambient_display_show_battery_title">Estado da bateria</string>
+  <string name="ambient_display_show_battery_summary">Mostra indicador de bateria ao activar</string>
   <!-- Recents panel settings -->
+  <string name="show_clear_all_recents_button_title">Mostrar botão \"Limpar Tudo\"</string>
+  <string name="show_clear_all_recents_button_summary">Mostrar o botão de limpar tudo nas aplicações recentes</string>
+  <string name="recents_clear_all_location_title">Posição do botão de \"Limpar Tudo\"</string>
+  <string name="recents_clear_all_location_top_right">Superior direito</string>
+  <string name="recents_clear_all_location_top_left">Superior esquerdo</string>
+  <string name="recents_clear_all_location_top_center">Superior ao centro</string>
+  <string name="recents_clear_all_location_bottom_right">Inferior direito</string>
+  <string name="recents_clear_all_location_bottom_left">Inferior esquerdo</string>
+  <string name="recents_clear_all_location_bottom_center">Inferior ao Centro</string>
   <!-- Dashboard options -->
+  <string name="dashboard_category">Opções do painel de definições</string>
+  <string name="dashboard_suggestions_title">Sugestões</string>
+  <string name="summary_dashboard_suggestions_enabled">Sugestões do painel activadas</string>
+  <string name="summary_dashboard_suggestions_disabled">Sugestões do painel desactivadas</string>
+  <string name="remove_tile_summaries_title">Resumos</string>
+  <string name="remove_tile_summaries_summary_enabled">Resumos do painel de definições activados</string>
+  <string name="remove_tile_summaries_summary_disabled">Resumos do painel de definições desactivados</string>
+  <string name="dashboard_conditions_title">Condições</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
   <!-- Emergency button -->
   <!-- Fingerprint authentication vibration -->
@@ -69,6 +142,7 @@
   <!-- Lock Clock Fonts -->
   <string name="lock_date_font_title">Data</string>
   <string name="lock_clock_font_bold">Negrito</string>
+  <string name="lock_clock_font_light">Claro</string>
   <string name="lock_clock_font_italic">Itálico</string>
   <string name="lock_clock_font_bold_italic">Negrito e itálico</string>
   <string name="lock_clock_font_light_italic">Itálico claro</string>

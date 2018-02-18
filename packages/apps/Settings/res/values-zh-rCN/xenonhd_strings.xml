@@ -93,8 +93,11 @@
   <string name="qs_columns_title">列</string>
   <string name="qs_easy_toggle_title">高级快速设置切换</string>
   <string name="qs_easy_toggle_summary">启用单击以启用/禁用Wi-Fi、移动数据和蓝牙。长按以查看高级设置</string>
+  <string name="qs_tile_single_tap_title">平铺单击</string>
+  <string name="qs_tile_single_tap_summary">在设置里通过单击来增加或删除磁块</string>
   <!-- Quick unlock -->
   <string name="quick_unlock_warning">快速解锁警告</string>
+  <string name="quick_unlock_warning_summary">这个功能会绕过重要的安全机制，请注意他带来的风险</string>
   <string name="unlock_quick_unlock_control_title">快速解锁</string>
   <string name="unlock_quick_unlock_control_summary">当输入正确的 PIN 或密码后自动解锁</string>
   <!-- Three-fingers-swipe to screenshot -->
@@ -113,7 +116,13 @@
   <string name="doze_overwrite_value_summary">允许用户配置覆盖默认设置</string>
   <string name="doze_pulse_title">用户可配置的设置</string>
   <string name="doze_pulse_duration_in_title">淡入</string>
+  <string name="doze_pulse_duration_visible_title">可见的持续时间</string>
   <string name="doze_pulse_duration_out_title">淡出</string>
+  <string name="doze_trigger_pickup_title">拿起手机出发感应器</string>
+  <string name="doze_trigger_pickup_summary_off">手机拿起时不会出发</string>
+  <string name="doze_trigger_notification_title">触发通知</string>
+  <string name="doze_trigger_notification_summary_on">显示将会由通知触发</string>
+  <string name="doze_trigger_notification_summary_off">通知不会被触发</string>
   <string name="doze_brightness_level_title">亮度</string>
   <string name="onehundred_ms">100 毫秒</string>
   <string name="twofifty_ms">250 毫秒</string>
@@ -128,9 +137,14 @@
   <string name="four_second">4秒</string>
   <string name="fourhalf_second">4.5秒</string>
   <string name="five_second">5 秒</string>
+  <string name="doze_notification_color_invert_summary_off">当您使用暗色主题，将不会反转通知颜色</string>
+  <string name="doze_notification_color_invert_summary_on">当您使用 亮/原主题 时可以使用</string>
   <string name="ambient_display_show_battery_title">电池状态</string>
+  <string name="ambient_display_show_battery_summary">充电时显示电量指示（充电中）</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">显示“一键清除”按钮</string>
+  <string name="show_clear_all_recents_button_summary">在最近中显示\"一键清理\"</string>
+  <string name="recents_clear_all_location_title">\"一键清理\"位置</string>
   <string name="recents_clear_all_location_top_right">屏幕右上方</string>
   <string name="recents_clear_all_location_top_left">屏幕左上方</string>
   <string name="recents_clear_all_location_top_center">顶部居中</string>
@@ -138,10 +152,17 @@
   <string name="recents_clear_all_location_bottom_left">左下方</string>
   <string name="recents_clear_all_location_bottom_center">底部居中</string>
   <!-- Dashboard options -->
+  <string name="dashboard_category">面板选项</string>
   <string name="dashboard_suggestions_title">建议</string>
+  <string name="summary_dashboard_suggestions_enabled">通知面板建议已经启动：）</string>
+  <string name="summary_dashboard_suggestions_disabled">通知建议已禁用</string>
   <string name="remove_tile_summaries_title">摘要</string>
   <string name="remove_tile_summaries_summary_enabled">面板摘要已启用</string>
   <string name="remove_tile_summaries_summary_disabled">面板摘要已禁用</string>
+  <string name="dashboard_conditions_title">条件</string>
+  <string name="summary_dashboard_conditions_enabled">通知面板条件已启用:）</string>
+  <string name="summary_dashboard_conditions_disabled">通知面板的条件已禁用</string>
+  <string name="dashboard_columns_title">通知面板列数</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
   <string name="hide_lockscreen_alarm_title">闹钟文本</string>
   <!-- Emergency button -->
