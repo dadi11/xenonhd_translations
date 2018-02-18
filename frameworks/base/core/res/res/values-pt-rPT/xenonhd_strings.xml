@@ -23,4 +23,5 @@
   <!-- Pocket Lock -->
   <!-- Title of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
   <!-- Description of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
+  <string name="permdesc_fakePackageSignature">Permite que a aplicação finja ser uma aplicação diferente. Aplicações maliciosas podem ser capazes de usar isto para aceder a dados das aplicações. Conceda essa permissão com cautela!</string>
 </resources>
