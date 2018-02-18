@@ -55,6 +55,8 @@
   <string name="double_tap_sleep_navbar_summary">Падвойны націск на панэлі навігацыі, каб перайсці ў рэжым сну</string>
   <string name="pocket_judge_title">Рэжым \"У кішэні\"</string>
   <string name="pocket_judge_summary">Блакаваць экран і кнопкі, калі прылада знаходзіцца ў кішэні</string>
+  <string name="three_finger_gesture">Жэст трыма пальцамі</string>
+  <string name="three_finger_gesture_summary">Правядзіце трыма пальцамі для стварэння скрыншота</string>
   <!-- Lockscreen -->
   <string name="lockscreen_title">Экран блакавання</string>
   <string name="lockscreen_tuner_title">Значкі экрана блакавання</string>
@@ -63,6 +65,7 @@
   <string name="media_art_summary">Паказваць вокладку альбома на экране блакавання</string>
   <string name="lockscreen_qs_disabled_title">Адкл. хуткія налады на экр. блак.</string>
   <string name="lockscreen_qs_disabled_summary">Адключыць меню хуткіх налад на экране блакавання</string>
+  <string name="lockscreen_rotation_title">Кручэнне</string>
   <!-- Misc -->
   <string name="misc_title">Рознае</string>
   <string name="dashboard_category">Апавяшчэння ў галоўным меню</string>
