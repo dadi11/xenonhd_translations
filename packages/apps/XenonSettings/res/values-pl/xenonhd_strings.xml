@@ -15,9 +15,14 @@
   <!-- App Title -->
   <string name="xenonhd_settings_title">Ustawienia XenonHD</string>
   <!-- Categories -->
+  <string name="buttons_title">Przyciski</string>
   <string name="gestures_title">Gesty</string>
   <string name="lockscreen_title">Blokada ekranu</string>
   <string name="misc_title">Różne</string>
+  <string name="navigation_title">Pasek nawigacji</string>
+  <string name="power_title">Menu zasilania</string>
+  <string name="qs_title">Szybkie ustawienia</string>
+  <string name="recents_title">Ostatnie aplikacje</string>
   <string name="statusbar_title">Pasek stanu</string>
   <string name="notifications_title">Powiadomienia</string>
   <string name="xenonhd_title">Centrum XenonHD</string>
@@ -25,6 +30,7 @@
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Lista zmian</string>
   <string name="changelog_xenonhd_error">Nie można wczytać listy zmian</string>
+  <string name="changelog_xenonhd_summary">Sprawdź zmiany w bieżącej kompilacji</string>
   <!-- General strings -->
   <string name="ok">OK</string>
   <string name="reset">Resetuj</string>
@@ -43,10 +49,21 @@
   <string name="seekbar_default_string">Domyślny</string>
   <!-- XenonOTA -->
   <string name="xenonota_title">XenonOTA</string>
+  <string name="xenonota_summary">Sprawdź aktualizacje XenonHD</string>
   <!-- Launch music player when headset is connected -->
+  <string name="headset_connect_player_title">Uruchom odtwarzacz muzyki po podłączeniu zestawu słuchawkowego</string>
   <string name="headset_connect_player_disabled">Wyłączony</string>
+  <string name="headset_connect_player_wired">Gdy jest podłączony przewodowy zestaw słuchawkowy</string>
+  <string name="headset_connect_player_bt_no_carkit">Gdy jest podłączony zestaw słuchawkowy BT (nie zestaw głośnomówiący)</string>
+  <string name="headset_connect_player_bt">Bezprzewodowy zestaw słuchawkowy podłączony</string>
+  <string name="headset_connect_player_both_no_carkit">Podłączony zestaw słuchawkowy (nie zestaw głośnomówiący)</string>
+  <string name="headset_connect_player_both">Podłączony zestaw słuchawkowy</string>
   <!-- Power menu on secure lockscreen -->
+  <string name="lockscreen_power_menu_disabled_title">Menu zasilania gdy zablokowany</string>
+  <string name="lockscreen_power_menu_disabled_summary">Zablokuj menu zasilania, gdy ekran jest zablokowany</string>
   <!-- Wake on Plug -->
+  <string name="wake_when_plugged_or_unplugged_title">Wybudź przy podłączaniu</string>
+  <string name="wake_when_plugged_or_unplugged_summary">Włącz ekran podczas podłączania i odłączania źródła zasilania</string>
   <!-- QS rows and columns -->
   <string name="qs_category">Kafelki szybkich skrótów</string>
   <string name="qs_columns_landscape_title">Kolumny - poziomo</string>
@@ -57,12 +74,29 @@
   <string name="qs_rows_portrait_title">Wiersze - pionowo</string>
   <!-- Status bar - Battery saver color -->
   <string name="status_bar_battery_saver_color_title">Kolor paska w trybie oszczędzania baterii</string>
+  <string name="status_bar_battery_saver_color_summary">Uwaga: kolor zostanie zastosowany przy następnym włączeniu trybu oszczędzania baterii!</string>
   <!-- Statusbar Clock options -->
+  <string name="status_bar_clock_title">Opcje zegara</string>
+  <string name="status_bar_show_clock_title">Pokaż zegar i datę</string>
+  <string name="clock_title_enable">Pozycja</string>
+  <string name="right_clock">Po prawej</string>
+  <string name="center_clock">Na środku</string>
+  <string name="status_bar_clock_seconds_title">Pokaż sekundy</string>
+  <string name="status_bar_clock_seconds_summary">Wyświetlaj sekundy obok zegara na pasku stanu</string>
+  <string name="status_bar_am_pm_title">AM/PM</string>
+  <string name="status_bar_am_pm_info">24-godzinny zegar jest włączony</string>
+  <string name="am_pm_clock_normal">Normalna czcionka</string>
+  <string name="am_pm_clock_small">Mała czcionka</string>
+  <string name="am_pm_clock_none">Nie pokazuj</string>
   <string name="clock_date_display">Data</string>
+  <string name="clock_date_display_summary">Wyświetl własną datę przed czasem</string>
   <string name="clock_date_style">Wygląd daty</string>
   <string name="clock_date_format">Format daty</string>
   <string name="clock_date_string_edittext_title">Musi być w formacie MM/dd/rr</string>
   <string name="clock_date_string_edittext_summary">Wprowadź ciąg</string>
+  <string name="clock_date_display_none">Nie pokazuj</string>
+  <string name="clock_date_display_small">Mała czcionka</string>
+  <string name="clock_date_display_normal">Normalna czcionka</string>
   <string name="clock_date_style_normal">Normalny</string>
   <string name="clock_date_style_lowercase">Mała czcionka</string>
   <string name="clock_date_style_uppercase">Duża czcionka</string>
