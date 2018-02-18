@@ -16,6 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Strings for step option settins -->
+  <string name="bookmark_location">"Localização"</string>
   <!-- Toast if the muted video is not supported. [CHAR LIMIT=80] -->
   <!-- The tips of trimming video -->
   <!-- The label for the bass boost knob of the audio effects dialog. -->
