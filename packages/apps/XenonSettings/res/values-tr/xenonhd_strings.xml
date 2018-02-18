@@ -16,7 +16,23 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- App Title -->
+  <string name="xenonhd_settings_title">XenonHD Ayarları</string>
+  <string name="xenonhd_settings_summary">Ek seçenekler</string>
   <!-- Buttons -->
+  <string name="button_title">Tuşlar</string>
+  <string name="volume_title">Ses tuşları</string>
+  <string name="swap_volume_buttons">Ses düğmelerinin yerini değiştir</string>
+  <string name="swap_volume_buttons_summary">Cihazın yönüne göre ses düğmelerinin yerini değiştir</string>
+  <string name="volbtn_down_zen_title">Ses seviyesini azaltma DND için</string>
+  <string name="volbtn_down_zen_summary">Ses açıkken Rahatsız etmeyin modunu kapat</string>
+  <string name="volbtn_up_zen_title">Ses seviyesini arttırma DND için</string>
+  <string name="volbtn_up_zen_summary">Ses açıkken Rahatsız etmeyin modunu kapat</string>
+  <string name="volume_keys_control_media_stream_title">Medya sesini kontrol et</string>
+  <string name="volume_keys_control_media_stream_summary">Ses kontrol paneli varsayılan olarak medya ses düzeyi kaydırıcısını gösterecektir</string>
+  <string name="volume_rocker_music_controls_title">Oynatma kontrolü</string>
+  <string name="volume_rocker_music_controls_summary">Ses düğmeleri, ekran kapalı iken müzik parçalarını değiştirecek</string>
+  <string name="volume_rocker_wake_title">Ses tuşlarıyla uyandır</string>
+  <string name="volume_rocker_wake_summary">Ses tuşlarıyla cihazı uyandır</string>
   <!-- Color Picker -->
   <string name="color_default">Varsayılan</string>
   <string name="dialog_color_picker">Renk Seçici</string>
@@ -24,25 +40,111 @@
   <string name="press_color_to_apply">Uygulamak İstediğiniz Yere Basın</string>
   <string name="set">Ayarla</string>
   <!-- General strings -->
+  <string name="cancel">İptal</string>
+  <string name="ok">Tamam</string>
   <string name="reset">Sıfırla</string>
   <string name="save">Kaydet</string>
+  <string name="systemui_restart_title">Sistem Arayüzünü yeniden başlatma gerekli</string>
+  <string name="systemui_restart_message">Tüm değişikliklerin etkili olması için SystemUI\'nin yeniden başlatılması gerekiyor. SystemUI\'yi şimdi yeniden başlatmak ister misiniz?</string>
   <!-- Gestures -->
+  <string name="gestures_title">Hareketler</string>
+  <string name="dt2s_category">Çift dokunuşla uyutma</string>
+  <string name="gesture_preferences_title">Yerel hareketleri</string>
+  <string name="gesture_preferences_summary">Cihazınız için hareketleri yapılandırma</string>
+  <string name="double_tap_sleep_navbar">DT2S gezinti çubuğu</string>
+  <string name="double_tap_sleep_navbar_summary">Uyku geçmek için gezinti çubuğuna iki kez hafifçe dokunun</string>
+  <string name="pocket_judge_title">Cep algılama</string>
+  <string name="pocket_judge_summary">Cihaz cebinizdeyken ekran ve tuş girişlerini engeller</string>
+  <string name="three_finger_gesture">Üç parmak hareketi</string>
+  <string name="three_finger_gesture_summary">Ekran görüntüsü almak için üç parmağınızı kaydırın</string>
   <!-- Lockscreen -->
   <string name="lockscreen_title">Kilit ekranı</string>
+  <string name="lockscreen_tuner_title">Kilit ekran kısayolları</string>
+  <string name="lockscreen_tuner_summary">Kilit ekranına kısayol ayarlama</string>
+  <string name="media_art_title">Medya kapak resmi</string>
+  <string name="media_art_summary">Kilit ekranında medya albüm kapağını göster</string>
+  <string name="lockscreen_qs_disabled_title">Kilit ekranında QS gösterme</string>
+  <string name="lockscreen_qs_disabled_summary">Güvenli kilit ekranında hızlı ayarları devre dışı bırak</string>
+  <string name="lockscreen_rotation_title">Döndürme</string>
+  <string name="lockscreen_rotation_summary_on">Ekran kilidini döndürme açık</string>
+  <string name="lockscreen_rotation_summary_off">Ekran kilidini döndürme kapalı</string>
   <!-- Misc -->
   <string name="misc_title">Çeşitler</string>
+  <string name="dashboard_category">Kontrol paneli</string>
+  <string name="dashboard_conditions_title">Kontrol paneli ayarları</string>
+  <string name="dashboard_suggestions_title">Kontrol paneli ayarları</string>
   <string name="summary_dashboard_suggestions_enabled">Etkin</string>
   <string name="summary_dashboard_suggestions_disabled">Devre Dışı</string>
   <string name="summary_dashboard_conditions_disabled">Devre Dışı</string>
   <string name="summary_dashboard_conditions_enabled">Etkin</string>
+  <string name="toast_icon_title">Toast uygulama simgesi</string>
+  <string name="toast_icon_summary">Tost ile gelen uygulama simgesini görüntüle</string>
+  <string name="sensor_block_title">Uygulama başına sensör engelleme</string>
+  <string name="sensor_block_summary">Pil tasarrufu için bazı uygulamaların belirli sensörlere erişimini engelle</string>
   <!-- Navbar -->
+  <string name="navbar_title">Gezinti çubuğu</string>
+  <string name="navbar_tuner_title">Gezinti çubuğu tuşları</string>
+  <string name="navbar_tuner_summary">Gezinti çubuğu ayarları</string>
   <!-- Notifications -->
-  <string name="screenshot_sound_title">Ekran Görüntüsü Sesi</string>
+  <string name="notifications_title">Bildirimler</string>
+  <string name="ime_switcher_notify">IME bildirin seçimi</string>
+  <string name="ime_switcher_notify_summary">Giriş yöntemi düzenleyici seçici bildirimini göster</string>
+  <string name="screenshot_sound_title">Ekran görüntü sesi</string>
+  <string name="screenshot_sound_summary">Ekran görüntüsü alındığında ses efekti çıkar</string>
   <!-- Power -->
+  <string name="powermenu_title">Güç menüsü</string>
+  <string name="powermenu_category">Güç menüsü seçenekleri</string>
+  <string name="power_look">Güç menüsü görünümü</string>
+  <string name="powermenu_airplane">Uçuş modu</string>
+  <string name="powermenu_lockdown">Şimdi kilitle</string>
+  <string name="powermenu_power">Güç</string>
+  <string name="powermenu_restart">Yeniden başlat</string>
+  <string name="powermenu_restart_recovery">Gelişmiş yeniden başlatma</string>
   <string name="powermenu_screenshot">Ekran Görüntüsü</string>
+  <string name="powermenu_settings">Ayarlar</string>
+  <string name="powermenu_soundpanel">Ses paneli</string>
+  <string name="powermenu_users">Kullanıcılar</string>
+  <string name="power">Güç menüsü özelleştirmeleri</string>
+  <string name="power_menu_transparency">Güç menüsü şeffaflığı</string>
+  <string name="power_menu_dialog_dim">Güç menüsü karanlık arka plan miktarı</string>
   <!-- QS -->
+  <string name="quicksettings_title">Hızlı Ayarlar</string>
+  <string name="qs_category">Hızlı Ayar Kareleri</string>
+  <string name="pulldown_category">Aşağı çek</string>
+  <string name="brightness_category">Parlaklık</string>
+  <string name="qqs_scroll_title">Küçük Hızlı Ayar karelerini kaydır</string>
+  <string name="qqs_scroll_summary">Küçük hızlı ayarlar kareleri boyunca kaydırmaya izin verin</string>
+  <string name="qs_columns_landscape_title">Sütunlar - yatay</string>
+  <string name="qs_columns_portrait_title">Sütunlar - dikey</string>
+  <string name="qs_music_tile_track_optional_title">Müzik karesinde şarkı başlığı</string>
+  <string name="qs_music_tile_track_optional_summary">Müzik parçasının başlığını Hızlı Ayarlar da göster</string>
+  <string name="qs_rows_columns_title">Hızlı ayarlar satır ve sütunlar</string>
+  <string name="qs_rows_columns_summary">Satır ve sütun sayısını seç</string>
+  <string name="qs_rows_landscape_title">Satırlar - yatay</string>
+  <string name="qs_rows_portrait_title">Satırlar - dikey</string>
+  <string name="smart_pulldown_title">Akıllı aşağı çekme</string>
+  <string name="smart_pulldown_dismissable">kapatılabilir yok</string>
+  <string name="smart_pulldown_none">bildirim yok</string>
+  <string name="smart_pulldown_none_summary">Bildirim olmadığında hızlı ayarları genişlet</string>
+  <string name="smart_pulldown_off">Kapalı</string>
+  <string name="smart_pulldown_ongoing">devam eden yok</string>
+  <string name="smart_pulldown_summary">%1$s bildirim mevcut olduğunda Hızlı Ayarları aç</string>
+  <string name="status_bar_quick_qs_pulldown">Hızlı aşağı kaydırma</string>
+  <string name="status_bar_quick_qs_pulldown_summary">Durum çubuğunu genişletmek sağ tarafında aşağı doğru çekin</string>
+  <string name="qs_footer_warnings_title">Hızlı ayarlar bilgi uyarıları</string>
+  <string name="qs_footer_warnings_summary">Ağ harici uygulamalar veya VPN ile izlendiğinde Hızli ayarlar panelinin altına bir uyarı göster</string>
+  <string name="qs_tile_title_visibility_title">Simge başlıklarını göster</string>
+  <string name="qs_tile_title_visibility_summary">Başlıkları kare altında göster</string>
   <string name="brightness_slider_switch">Parlaklık kaydırıcı</string>
+  <string name="brightness_slider_summary">Durum çubuğunda parlaklık kaydırıcısını göster</string>
+  <string name="brightness_icon_title">Parlaklık simgesi</string>
+  <string name="brightness_icon_summary">Parlaklık kaydırıcının yanında otomatik parlaklığı ayarlamak için bir simge göster</string>
+  <string name="brightness_icon_position_title">Parlaklık simge konumu</string>
+  <string name="brightness_icon_position_on_summary">Sağ tarafta göster</string>
+  <string name="brightness_icon_position_off_summary">Sol tarafta göster</string>
+  <string name="qs_style_dark_title">Koyu renk stili</string>
   <!-- Recents -->
+  <string name="recents_title">Son uygulamalar</string>
   <string name="recents_clear_all_location_title">Tümünü temizle butonu konumu</string>
   <string name="recents_clear_all_location_bottom_center">Alt orta</string>
   <string name="recents_clear_all_location_bottom_left">Sol alt</string>
@@ -50,20 +152,54 @@
   <string name="recents_clear_all_location_top_center">Üst orta</string>
   <string name="recents_clear_all_location_top_left">Sol üst</string>
   <string name="recents_clear_all_location_top_right">Sağ üst</string>
+  <string name="show_clear_all_recents_button_title">Tümünü temizle tuşu</string>
+  <string name="show_clear_all_recents_button_summary">Tümünü temizle tuşunu göster</string>
   <!-- Seekbar -->
+  <string name="seekbar_no_default_value">Varsayılan değer yok</string>
+  <string name="seekbar_default_value_set">Değer <xliff:g id="number">%d</xliff:g>\'in varsayılanına eşitlendi</string>
+  <string name="seekbar_default_value_already_set">Varsayılan değer zaten var</string>
   <string name="seekbar_default_string">Varsayılan</string>
   <!-- Statusbar -->
+  <string name="statusbar_title">Durum çubuğu</string>
+  <string name="battery_saver_color_title">Pil tasarruf rengi</string>
+  <string name="battery_saver_color_summary">Pil tasarrufu aktif olduğunda, turuncu durum ve gezinti çubuklarını etkinleştir</string>
+  <string name="bluetooth_battery_title">Bluetooth pil durumunu göster</string>
+  <string name="bluetooth_battery_summary">Eğer mümkün ise bağlı olan bluetooth cihazı için pil durumunu gösterir</string>
+  <string name="network_traffic_autohide_threshold_title">Ağ trafiği otomatik gizleme eşiği</string>
   <string name="network_traffic_state_title">Ağ Trafiği</string>
+  <string name="network_traffic_state_summary">Durum çubuğunda ağ etkinliği göster</string>
   <string name="statusbar_items_title">Durum çubuğu simgeleri</string>
+  <string name="statusbar_items_summary">Durum çubuğu görünümünü ayarla</string>
   <string name="battery_bar_title">Pil Çubuğu</string>
+  <string name="battery_bar_summary">Pil çubuğu konumu</string>
   <string name="battery_bar_position_title">Konum</string>
+  <string name="battery_bar_position_hidden">Gizle</string>
+  <string name="battery_bar_position_statusbar">Durum çubuğu</string>
+  <string name="battery_bar_color_title">Renk</string>
+  <string name="battery_bar_charging_color_title">Şarj rengi</string>
+  <string name="battery_bar_battery_low_color_title">Düşük pil rengi</string>
+  <string name="battery_bar_style_title">Hizalama</string>
+  <string name="battery_bar_thickness_title">Kalınlık</string>
   <string name="battery_bar_animate_title">ŞarJ Animasyonu</string>
   <string name="battery_bar_style_regular">Kurallı</string>
   <string name="battery_bar_style_center_mirrored">Merkez Ayna Yansıması</string>
   <string name="battery_bar_style_reversed">Zıt</string>
+  <string name="battery_bar_use_charging_color_title">Özel şarj olma rengi</string>
+  <string name="battery_bar_blend_color_title">Renkleri karıştır</string>
+  <string name="battery_bar_blend_color_summary">Pil yüzdesine karşılık gelen tam/boş renkleri karıştır</string>
+  <string name="battery_bar_blend_color_reverse_title">Renk yönünü ters çevir</string>
+  <string name="battery_bar_blend_color_reverse_summary_off">Tam &#8594; boş: kırmızı &#8592; yeşil &#8592; mavi &#8592; kırmızı</string>
+  <string name="battery_bar_blend_color_reverse_summary_on">Tam &#8594; boş: kırmızı &#8594; yeşil &#8594; mavi &#8594; kırmızı</string>
+  <string name="volte_icon_title">VoLTE simgesi</string>
+  <string name="volte_icon_summary">VoLTE simgesini göster</string>
   <string name="carrier_category">Operatör etiketi</string>
+  <string name="carrier_options">Ekran konumunu seç</string>
   <string name="custom_carrier_label_title">Özel Operatör Etiketi</string>
+  <string name="custom_carrier_label_explain">Lütfen yeni bir etiket girin. Varsayılan etikete dönmek için boş bırakın</string>
   <string name="custom_carrier_label_notset">Şu anda özel etiket etkin değil</string>
+  <string name="show_carrier_title">Ekran açık</string>
+  <string name="show_carrier_disabled">Gösterme</string>
   <string name="show_carrier_keyguard">Sadece kilit ekranı</string>
   <string name="show_carrier_statusbar">Yalnızca durum çubuğu</string>
+  <string name="show_carrier_enabled">Kilit ekranı &amp; durum çubuğu</string>
 </resources>
