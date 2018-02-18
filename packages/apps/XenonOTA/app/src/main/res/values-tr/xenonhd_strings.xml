@@ -41,4 +41,11 @@
   <string name="xenonota_channel_description">Yeni XenonHD güncellemeleri ile ilgili bildirimler</string>
   <!-- Toast -->
   <string name="toast_message">Tarayıcı yüklü değil Tarayıcı yükleyici uygulamasını kontrol et</string>
+  <!-- Update interval -->
+  <string name="disabled">Devre Dışı</string>
+  <string name="hour">Saat başı </string>
+  <string name="twelve_hours">12 saatte bir</string>
+  <string name="twentyfour_hours">24 saatte bir</string>
+  <!-- Links -->
+  <string name="links_changelog_title">Değişiklikler</string>
 </resources>
