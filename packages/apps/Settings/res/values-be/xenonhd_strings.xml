@@ -57,4 +57,5 @@
   <string name="volume_steps_bluetooth_sco_title">Bluetooth выклік</string>
   <string name="volume_steps_reset">Скінуць</string>
   <string name="link_volume_option_title">Звязаць гучнасць рынгтону і апавяшчэнняў</string>
+  <string name="select_sim_for_sms">Выбар SIM-карткі для SMS</string>
 </resources>
