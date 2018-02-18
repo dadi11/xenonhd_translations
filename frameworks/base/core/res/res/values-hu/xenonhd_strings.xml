@@ -18,7 +18,11 @@
   <!-- Whether to enable doze always on -->
   <!-- Reboot action -->
   <string name="reboot_to_recovery_title">Recovery</string>
+  <string name="reboot_to_recovery_message">Újraindítás a Recoveryben</string>
+  <string name="reboot_to_bootloader_title">Bootloader</string>
+  <string name="reboot_to_bootloader_message">Újraindítás a Bootloaderben</string>
   <string name="reboot_title">Újraindítás</string>
+  <string name="reboot_message">Rendszer újraindítása</string>
   <!-- Vendor mismatched fingerprint warning [CHAR LIMIT=NONE] -->
   <!-- Pocket Lock -->
   <!-- Title of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
