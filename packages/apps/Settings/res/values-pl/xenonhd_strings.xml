@@ -18,6 +18,8 @@
   <string name="xenonhd_maintainer">Opiekun</string>
   <string name="device_info_title">Informacje o telefonie</string>
   <!-- XenonHD Settings -->
+  <string name="xenonhd_settings_title">Centrum XenonHD</string>
+  <string name="xenonhd_settings_summary">Dodatkowe ustawienia</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">Poziomy głośności</string>
   <string name="volume_steps_alarm_title">Budzik</string>
