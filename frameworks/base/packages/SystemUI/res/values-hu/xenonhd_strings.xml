@@ -18,15 +18,38 @@
   <!-- Lockscreen -->
   <string name="lockscreen_default">Alapértelmezett</string>
   <!-- Reboot -->
+  <string name="global_action_restart_advanced">Speciális újraindítás</string>
+  <string name="global_action_restart_bootloader">Újraindítás bootloader módban</string>
+  <string name="global_action_restart_recovery">Újraindítás Recovery módban</string>
   <!-- Screenshot -->
   <string name="delete_screenshot_toast">Képernyőkép törölve</string>
+  <string name="screenshot_abort_text">Művelet megszakítva</string>
   <!-- Status bar -->
+  <string name="status_bar_volte">VoLTE</string>
   <string name="statusbar_items_title">Állapotsor ikonjai</string>
   <!-- Tiles -->
+  <string name="accessibility_quick_settings_ambient_display_off">Környezeti kijelző ki</string>
+  <string name="accessibility_quick_settings_ambient_display_on">Környezeti kijelző be</string>
+  <string name="accessibility_quick_settings_compass_changed_off">Iránytű kikapcsolva</string>
+  <string name="accessibility_quick_settings_compass_changed_on">Iránytű bekapcsolva</string>
+  <string name="accessibility_quick_settings_compass_off">Iránytű ki</string>
+  <string name="accessibility_quick_settings_compass_on">Iránytű be</string>
+  <string name="accessibility_quick_settings_usb_tether_off">USB internetmegosztás ki</string>
+  <string name="accessibility_quick_settings_usb_tether_on">USB internetmegosztás be</string>
+  <string name="accessibility_quick_settings_usb_tether_changed_off">USB internetmegosztás kikapcsolva</string>
+  <string name="accessibility_quick_settings_usb_tether_changed_on">USB internetmegosztás bekapcsolva</string>
+  <string name="quick_settings_ambient_display_label">Környezeti kijelző</string>
+  <string name="quick_settings_compass_label">Iránytű</string>
+  <string name="quick_settings_ime_label">IME</string>
+  <string name="quick_settings_locale_label">Nyelv</string>
   <string name="quick_settings_music_label">Zene</string>
   <string name="quick_settings_music_play">Indítás</string>
   <string name="quick_settings_music_pause">Szünet</string>
   <string name="quick_settings_reboot_label">Újraindítás</string>
   <string name="quick_settings_reboot_recovery_label">Recovery</string>
   <string name="quick_settings_screenshot_label">Képernyőkép</string>
+  <string name="quick_settings_sound_dnd">Ne zavarjanak</string>
+  <string name="quick_settings_sound_label">Hangok</string>
+  <string name="quick_settings_sound_ring">Csengetés</string>
+  <string name="quick_settings_sound_vibrate">Rezgés</string>
 </resources>
