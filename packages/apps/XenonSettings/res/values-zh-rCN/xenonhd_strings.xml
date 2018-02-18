@@ -43,6 +43,7 @@
   <!-- QS -->
   <string name="brightness_slider_switch">亮度滑块</string>
   <!-- Recents -->
+  <string name="recents_clear_all_location_title">\"一键清理\"位置</string>
   <string name="recents_clear_all_location_bottom_center">底部居中</string>
   <string name="recents_clear_all_location_bottom_left">左下方</string>
   <string name="recents_clear_all_location_bottom_right">右下角</string>
