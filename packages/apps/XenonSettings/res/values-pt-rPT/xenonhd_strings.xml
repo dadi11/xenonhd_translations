@@ -16,7 +16,15 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- App Title -->
+  <string name="xenonhd_settings_title">Configurações XenonHD</string>
+  <string name="xenonhd_settings_summary">Opções adicionais</string>
   <!-- Buttons -->
+  <string name="button_title">Botões</string>
+  <string name="volume_title">Botões de volume</string>
+  <string name="swap_volume_buttons">Trocar os botões de volume</string>
+  <string name="swap_volume_buttons_summary">Trocar os botões de volume de acordo com a rotação do dispositivo</string>
+  <string name="volbtn_down_zen_title">Diminuir o volume para \"Não Perturbar\"</string>
+  <string name="volbtn_down_zen_summary">Activar o modo \"Não perturbar\" com a tecla de volume para baixo</string>
   <!-- Color Picker -->
   <string name="color_default">Predefinida</string>
   <string name="dialog_color_picker">Paleta de cores</string>
@@ -24,22 +32,32 @@
   <string name="press_color_to_apply">Prima numa cor para aplicar</string>
   <string name="set">Definir</string>
   <!-- General strings -->
+  <string name="reset">Repor</string>
   <string name="save">Guardar</string>
   <!-- Gestures -->
   <!-- Lockscreen -->
   <string name="lockscreen_title">Ecrã de bloqueio</string>
   <!-- Misc -->
+  <string name="misc_title">Diversos</string>
   <string name="summary_dashboard_suggestions_enabled">Activado</string>
   <string name="summary_dashboard_suggestions_disabled">Desactivado</string>
   <string name="summary_dashboard_conditions_disabled">Desactivado</string>
   <string name="summary_dashboard_conditions_enabled">Activado</string>
   <!-- Navbar -->
   <!-- Notifications -->
+  <string name="screenshot_sound_title">Som da captura de ecrã</string>
   <!-- Power -->
   <string name="powermenu_screenshot">Captura de ecrã</string>
   <!-- QS -->
   <string name="brightness_slider_switch">Controlo do brilho</string>
   <!-- Recents -->
+  <string name="recents_clear_all_location_title">Posição do botão de \"Limpar Tudo\"</string>
+  <string name="recents_clear_all_location_bottom_center">Inferior ao Centro</string>
+  <string name="recents_clear_all_location_bottom_left">Inferior esquerdo</string>
+  <string name="recents_clear_all_location_bottom_right">Inferior direito</string>
+  <string name="recents_clear_all_location_top_center">Superior ao centro</string>
+  <string name="recents_clear_all_location_top_left">Superior esquerdo</string>
+  <string name="recents_clear_all_location_top_right">Superior direito</string>
   <!-- Seekbar -->
   <string name="seekbar_default_string">Predefinida</string>
   <!-- Statusbar -->
