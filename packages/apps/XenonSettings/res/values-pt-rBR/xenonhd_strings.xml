@@ -16,7 +16,15 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- App Title -->
+  <string name="xenonhd_settings_title">Configurações XenonHD</string>
+  <string name="xenonhd_settings_summary">Opções adicionais</string>
   <!-- Buttons -->
+  <string name="button_title">Botões</string>
+  <string name="volume_title">Botões de volume</string>
+  <string name="swap_volume_buttons">Trocar os botões de volume</string>
+  <string name="swap_volume_buttons_summary">Trocar os botões de volume de acordo com a rotação do dispositivo</string>
+  <string name="volbtn_down_zen_title">Diminuir o volume para \"Não Perturbar\"</string>
+  <string name="volbtn_down_zen_summary">Activar o modo \"Não perturbar\" com a tecla de volume para baixo</string>
   <!-- Color Picker -->
   <string name="color_default">Padrão</string>
   <string name="dialog_color_picker">Selecionador de cores</string>
@@ -56,12 +64,14 @@
   <string name="network_traffic_state_title">Tráfego de rede</string>
   <string name="statusbar_items_title">Ícones da barra de status</string>
   <string name="battery_bar_title">Barra da bateria</string>
+  <string name="battery_bar_position_title">Localização</string>
   <string name="battery_bar_animate_title">Animação de carregamento</string>
   <string name="battery_bar_style_regular">Regular</string>
   <string name="battery_bar_style_center_mirrored">Centro-espelhado</string>
   <string name="battery_bar_style_reversed">Invertido</string>
   <string name="carrier_category">Nome da operadora</string>
   <string name="custom_carrier_label_title">Nome personalizado da operadora</string>
+  <string name="custom_carrier_label_notset">Texto personalizado não definido</string>
   <string name="show_carrier_keyguard">Apenas na tela de bloqueio</string>
   <string name="show_carrier_statusbar">Apenas na barra de status</string>
 </resources>
