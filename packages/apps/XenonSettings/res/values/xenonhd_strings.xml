@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2017 XenonHD
 
-     Licensed under the Apache License, Version 2.0 (the "License");
+<!-- Copyright (C) 2012-2017 Team Horizon
+	 Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
-
           http://www.apache.org/licenses/LICENSE-2.0
-
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -14,159 +12,44 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
     <!-- App Title -->
     <string name="xenonhd_settings_title">XenonHD Settings</string>
-    <string name="xenonhd_settings_summary">Additional options</string>
 
-    <!-- Buttons -->
-    <string name="button_title">Buttons</string>
-    <string name="volume_title">Volume buttons</string>
-    <string name="swap_volume_buttons">Swap volume buttons</string>
-    <string name="swap_volume_buttons_summary">Swap volume buttons according to device rotation</string>
-    <string name="volbtn_down_zen_title">Volume down for DND</string>
-    <string name="volbtn_down_zen_summary">Turn on Do Not Disturb mode with volume down</string>
-    <string name="volbtn_up_zen_title">Volume up in DND</string>
-    <string name="volbtn_up_zen_summary">Turn off Do Not Disturb mode with volume up</string>
-    <string name="volume_keys_control_media_stream_title">Control media volume</string>
-    <string name="volume_keys_control_media_stream_summary">Volume panel will show media volume slider by default</string>
-    <string name="volume_rocker_music_controls_title">Playback control</string>
-    <string name="volume_rocker_music_controls_summary">Volume buttons will change music tracks on locked device</string>
-    <string name="volume_rocker_wake_title">Volume rocker wake</string>
-    <string name="volume_rocker_wake_summary">Wake device with volume buttons</string>
-	
-    <!-- Color Picker -->
-    <string name="arrow_down" translatable="false">↓</string>
-    <string name="arrow_right" translatable="false">→</string>
-    <string name="color_default">Default</string>
-    <string name="dialog_color_picker">Color Picker</string>
-    <string name="hex">Hex:</string>
-    <string name="hex_hint" translatable="false">#ff000000</string>
-    <string name="press_color_to_apply">Press on color below to apply</string>
-    <string name="set">Set</string>
-	
+    <!-- Categories -->
+    <string name="buttons_title">Buttons</string>
+    <string name="gestures_title">Gestures</string>
+    <string name="lockscreen_title">Lock screen</string>
+    <string name="misc_title">Miscellaneous</string>
+    <string name="navigation_title">Navigation bar</string>
+    <string name="power_title">Power menu</string>
+    <string name="qs_title">Quick Settings</string>
+    <string name="recents_title">Recents apps</string>
+    <string name="statusbar_title">Status bar</string>
+    <string name="notifications_title">Notifications</string>
+    <string name="xenonhd_title">XenonHD Hub</string>
+    <string name="xenonsettings_title">XenonHD Settings</string>
+
+    <!-- Changelog -->
+    <string name="changelog_xenonhd_title">Changelog</string>
+    <string name="changelog_xenonhd_error">Unable to load changelog</string>
+    <string name="changelog_xenonhd_summary">View changes in curent release</string>
+
     <!-- General strings -->
-    <string name="cancel">Cancel</string>
     <string name="ok">OK</string>
     <string name="reset">Reset</string>
+    <string name="cancel">Cancel</string>
     <string name="save">Save</string>
-    <string name="systemui_restart_title">SystemUI restart required</string>
-    <string name="systemui_restart_message">For all changes to take effect, a SystemUI restart is required. Restart SystemUI now?</string>
 
-    <!-- Gestures -->
-    <string name="gestures_title">Gestures</string>
-    <string name="dt2s_category">Double tap to sleep</string>
-    <string name="gesture_preferences_title">Native gestures</string>
-    <string name="gesture_preferences_summary">Configure the gestures available for your device</string>
-    <string name="double_tap_sleep_navbar">DT2S on navbar</string>
-    <string name="double_tap_sleep_navbar_summary">Double tap on navbar to sleep device</string>
-    <string name="pocket_judge_title">Pocket detection</string>
-    <string name="pocket_judge_summary">Block screen and button inputs when device is in pocket</string>
-    <string name="three_finger_gesture">Three finger gesture</string>
-    <string name="three_finger_gesture_summary">Swipe three finger to screenshot</string>
-
-    <!-- Lockscreen -->
-    <string name="lockscreen_title">Lock screen</string>
-    <string name="lockscreen_tuner_title">Lock screen shortcuts</string>
-    <string name="lockscreen_tuner_summary">Set shortcuts at the bottom of lock screen</string>
-    <string name="media_art_title">Media cover art</string>
-    <string name="media_art_summary">Enable media cover art on lock screen</string>
-    <string name="lockscreen_qs_disabled_title">No QS when secured</string>
-    <string name="lockscreen_qs_disabled_summary">Disable quick settings tiles on secured lockscreen</string>
-    <string name="lockscreen_rotation_title">Rotation</string>
-    <string name="lockscreen_rotation_summary_on">Lockscreen rotation is enabled</string>
-    <string name="lockscreen_rotation_summary_off">Lockscreen rotation is disabled</string>
-
-    <!-- Misc -->
-    <string name="misc_title">Miscellaneous</string>
-    <string name="dashboard_category">Dashboard</string>
-    <string name="dashboard_conditions_title">Dashboard conditions</string>
-    <string name="dashboard_suggestions_title">Dashboard suggestions</string>
-    <string name="summary_dashboard_suggestions_enabled">Enabled</string>
-    <string name="summary_dashboard_suggestions_disabled">Disabled</string>
-    <string name="summary_dashboard_conditions_disabled">Disabled</string>
-    <string name="summary_dashboard_conditions_enabled">Enabled</string>
-    <string name="toast_icon_title">Toast app icon</string>
-    <string name="toast_icon_summary">Display the app\'s icon corresponding with the toast</string>
-    <string name="sensor_block_title">Sensor block per-package</string>
-    <string name="sensor_block_summary">Block access to certain sensors for some apps to save battery</string>
-
-    <!-- Navbar -->
-    <string name="navbar_title">Navigation bar</string>
-    <string name="navbar_tuner_title">Navigation bar buttons</string>
-    <string name="navbar_tuner_summary">Configure navigation bar setup</string>
-
-    <!-- Notifications -->
-    <string name="notifications_title">Notifications</string>
-    <string name="ime_switcher_notify">IME selector notification</string>
-    <string name="ime_switcher_notify_summary">Show Input Method Editor selector notification</string>
-    <string name="screenshot_sound_title">Screenshot sound</string>
-    <string name="screenshot_sound_summary">Play sound effect when screenshot is taken</string>
-	
-    <!-- Power -->
-    <string name="powermenu_title">Power menu</string>
-    <string name="powermenu_category">Power menu contents</string>
-    <string name="power_look">Power menu appearance</string>
-    <string name="powermenu_airplane">Airplane</string>
-    <string name="powermenu_lockdown">Lock now</string>
-    <string name="powermenu_power">Power</string>
-    <string name="powermenu_restart">Restart</string>
-    <string name="powermenu_restart_recovery">Advanced restart</string>
-    <string name="powermenu_screenshot">Screenshot</string>
-    <string name="powermenu_settings">Settings</string>
-    <string name="powermenu_soundpanel">Sound Panel</string>
-    <string name="powermenu_users">Users</string>
-    <string name="power">Power Menu tweaks</string>
-    <string name="power_menu_transparency">Power menu opacity</string>
-    <string name="power_menu_dialog_dim">Dialog background dim amount</string>
-
-    <!-- QS -->
-    <string name="quicksettings_title">Quick Settings</string>
-    <string name="qs_category">QS Tiles</string>
-    <string name="pulldown_category">Pull down</string>
-    <string name="brightness_category">Brightness</string>
-    <string name="qqs_scroll_title">Scroll small QS tiles</string>
-    <string name="qqs_scroll_summary">Allow scrolling through the small QS tiles</string>
-    <string name="qs_columns_landscape_title">Columns - landscape</string>
-    <string name="qs_columns_portrait_title">Columns - portrait</string>
-    <string name="qs_music_tile_track_optional_title">Music tile track title</string>
-    <string name="qs_music_tile_track_optional_summary">Show the music track title as the QS tile title</string>
-    <string name="qs_rows_columns_title">Rows and columns</string>
-    <string name="qs_rows_columns_summary">Adjust number of QS rows and columns</string>
-    <string name="qs_rows_landscape_title">Rows - landscape</string>
-    <string name="qs_rows_portrait_title">Rows - portrait</string>
-    <string name="smart_pulldown_title">Smart pull-down</string>
-    <string name="smart_pulldown_dismissable">no dismissable</string>
-    <string name="smart_pulldown_none">no notifications</string>
-    <string name="smart_pulldown_none_summary">Expand QS panel when there are no notifications</string>
-    <string name="smart_pulldown_off">Off</string>
-    <string name="smart_pulldown_ongoing">no ongoing</string>
-    <string name="smart_pulldown_summary">Expand QS panel when there are %1$s notifications</string>
-    <string name="status_bar_quick_qs_pulldown">Quick pull-down</string>
-    <string name="status_bar_quick_qs_pulldown_summary">Pull down on the right side of statusbar to expand QS panel</string>
-    <string name="qs_footer_warnings_title">QS footer warnings</string>
-    <string name="qs_footer_warnings_summary">Display a warning at bottom of QS panel when network is monitored by external apps or VPN</string>
-    <string name="qs_tile_title_visibility_title">Show tile titles</string>
-    <string name="qs_tile_title_visibility_summary">Display titles underneath tiles</string>
-    <string name="brightness_slider_switch">Brightness slider</string>
-    <string name="brightness_slider_summary">Show brightness slider in the QS panel</string>
-    <string name="brightness_icon_title">Brightness icon</string>
-    <string name="brightness_icon_summary">Show a brightness icon next to the brighness slider to switch auto-brightness</string>
-    <string name="brightness_icon_position_title">Brightness icon position</string>
-    <string name="brightness_icon_position_on_summary">On the right</string>
-    <string name="brightness_icon_position_off_summary">On the left</string>
-    <string name="qs_style_dark_title">Dark QS style</string>
-
-    <!-- Recents -->
-    <string name="recents_title">Recent apps</string>
-    <string name="recents_clear_all_location_title">Clear all button location</string>
-    <string name="recents_clear_all_location_bottom_center">Bottom center</string>
-    <string name="recents_clear_all_location_bottom_left">Bottom left</string>
-    <string name="recents_clear_all_location_bottom_right">Bottom right</string>
-    <string name="recents_clear_all_location_top_center">Top center</string>
-    <string name="recents_clear_all_location_top_left">Top left</string>
-    <string name="recents_clear_all_location_top_right">Top right</string>
-    <string name="show_clear_all_recents_button_title">Clear all button</string>
-    <string name="show_clear_all_recents_button_summary">Show clear all button</string>
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Color Picker</string>
+    <string name="press_color_to_apply">Press on color below to apply</string>
+    <string name="arrow_right">→</string>
+    <string name="arrow_down">↓</string>
+    <string name="hex">Hex:</string>
+    <string name="hex_hint">#ff000000</string>
+    <string name="set">Set</string>
+    <string name="color_default">Default</string>
 
     <!-- Seekbar -->
     <string name="seekbar_no_default_value">No default value set</string>
@@ -174,47 +57,65 @@
     <string name="seekbar_default_value_already_set">Default value is already set</string>
     <string name="seekbar_default_string">Default</string>
 
-    <!-- Statusbar -->
-    <string name="statusbar_title">Status bar</string>
-    <string name="battery_saver_color_title">Battery Saver color</string>
-    <string name="battery_saver_color_summary">Enable orange status/navigation bar color when Battery Saver is on</string>
-    <string name="bluetooth_battery_title">Bluetooth battery status</string>
-    <string name="bluetooth_battery_summary">Show battery status of currently connected bluetooth device if available</string>
-    <string name="network_traffic_autohide_threshold_title">Network traffic autohide threshold</string>
-    <string name="network_traffic_state_title">Network traffic</string>
-    <string name="network_traffic_state_summary">Show data usage activity in statusbar</string>
-    <string name="statusbar_items_title">Status bar icons</string>
-    <string name="statusbar_items_summary">Set the appearance of status bar</string>
-    <string name="battery_bar_title">Battery bar</string>
-    <string name="battery_bar_summary">Battery bar configuration</string>
-    <string name="battery_bar_position_title">Location</string>
-    <string name="battery_bar_position_hidden">Hidden</string>
-    <string name="battery_bar_position_statusbar">Status bar</string>
-    <string name="battery_bar_color_title">Color</string>
-    <string name="battery_bar_charging_color_title">Charging color</string>
-    <string name="battery_bar_battery_low_color_title">Low battery color</string>
-    <string name="battery_bar_style_title">Alignment</string>
-    <string name="battery_bar_thickness_title">Thickness</string>
-    <string name="battery_bar_animate_title">Charging animation</string>
-    <string name="battery_bar_style_regular">Regular</string>
-    <string name="battery_bar_style_center_mirrored">Center-mirrored</string>
-    <string name="battery_bar_style_reversed">Reversed</string>
-    <string name="battery_bar_use_charging_color_title">Custom charging color</string>
-    <string name="battery_bar_blend_color_title">Blend colors</string>
-    <string name="battery_bar_blend_color_summary">Blend full/empty colors corresponding to battery percentage</string>
-    <string name="battery_bar_blend_color_reverse_title">Reverse color direction</string>
-    <string name="battery_bar_blend_color_reverse_summary_off">Full &#8594; empty: red &#8592; green &#8592; blue &#8592; red</string>
-    <string name="battery_bar_blend_color_reverse_summary_on">Full &#8594; empty: red &#8594; green &#8594; blue &#8594; red</string>
-    <string name="volte_icon_title">VoLTE icon</string>
-    <string name="volte_icon_summary">Display VoLTE icon when available</string>
-    <string name="carrier_category">Carrier label</string>
-    <string name="carrier_options">Select display locations</string>
-    <string name="custom_carrier_label_title">Custom carrier label</string>
-    <string name="custom_carrier_label_explain">Please enter a new label. Leave blank to revert to stock label</string>
-    <string name="custom_carrier_label_notset">Custom label currently not set</string>
-    <string name="show_carrier_title">Display on</string>
-    <string name="show_carrier_disabled">Nowhere</string>
-    <string name="show_carrier_keyguard">Lockscreen only</string>
-    <string name="show_carrier_statusbar">Statusbar only</string>
-    <string name="show_carrier_enabled">Lockscreen &amp; statusbar</string>
+    <!-- XenonOTA -->
+    <string name="xenonota_title">XenonOTA</string>
+    <string name="xenonota_summary">Check for XenonHD updates</string>
+
+    <!-- Launch music player when headset is connected -->
+    <string name="headset_connect_player_title">Launch music app on headset connection</string>
+    <string name="headset_connect_player_disabled">Disabled</string>
+    <string name="headset_connect_player_wired">Wired headset plugged in</string>
+    <string name="headset_connect_player_bt_no_carkit">BT headset (no carkit) plugged in</string>
+    <string name="headset_connect_player_bt">BT headset plugged in</string>
+    <string name="headset_connect_player_both_no_carkit">Any headset (no carkit) plugged in</string>
+    <string name="headset_connect_player_both">Any headset plugged in</string>
+
+    <!-- Power menu on secure lockscreen -->
+    <string name="lockscreen_power_menu_disabled_title">No power menu when locked</string>
+    <string name="lockscreen_power_menu_disabled_summary">Disable power menu on secure lockscreen</string>
+
+    <!-- Wake on Plug -->
+    <string name="wake_when_plugged_or_unplugged_title">Wake on plug</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Turn the screen on when connecting or disconnecting a power source</string>
+
+    <!-- QS rows and columns -->
+    <string name="qs_category">QS Tiles</string>
+    <string name="qs_columns_landscape_title">Columns - landscape</string>
+    <string name="qs_columns_portrait_title">Columns - portrait</string>
+    <string name="qs_rows_columns_title">Rows and columns</string>
+    <string name="qs_rows_columns_summary">Adjust number of QS rows and columns</string>
+    <string name="qs_rows_landscape_title">Rows - landscape</string>
+    <string name="qs_rows_portrait_title">Rows - portrait</string>
+
+    <!-- Status bar - Battery saver color -->
+    <string name="status_bar_battery_saver_color_title">Battery saver color</string>
+    <string name="status_bar_battery_saver_color_summary">Note: If battery saver already enabled, for new color to be effective, toggle battery saver!</string>
+
+    <!-- Statusbar Clock options -->
+    <string name="status_bar_clock_title">Clock options</string>
+    <string name="status_bar_show_clock_title">Show clock &amp; date</string>
+    <string name="clock_title_enable">Alignment</string>
+    <string name="right_clock">Right clock</string>
+    <string name="center_clock">Center clock</string>
+    <string name="status_bar_clock_seconds_title">Clock seconds</string>
+    <string name="status_bar_clock_seconds_summary">Display seconds next to clock in status bar</string>
+    <string name="status_bar_am_pm_title">AM/PM</string>
+    <string name="status_bar_am_pm_info">24-hour clock is enabled</string>
+    <string name="am_pm_clock_normal">Normal font size</string>
+    <string name="am_pm_clock_small">Small font size</string>
+    <string name="am_pm_clock_none">Don\'t show</string>
+    <string name="clock_date_display">Date</string>
+    <string name="clock_date_display_summary">Display custom date before the clock</string>
+    <string name="clock_date_style">Date style</string>
+    <string name="clock_date_format">Date format</string>
+    <string name="clock_date_string_edittext_title">Must be in DateFormat eg. MM/dd/yy</string>
+    <string name="clock_date_string_edittext_summary">Enter string</string>
+    <string name="clock_date_display_none">Don\'t show</string>
+    <string name="clock_date_display_small">Small font size</string>
+    <string name="clock_date_display_normal">Normal font size</string>
+    <string name="clock_date_style_normal">Normal</string>
+    <string name="clock_date_style_lowercase">Lowercase</string>
+    <string name="clock_date_style_uppercase">Uppercase</string>
+    <string name="clock_date_format_custom">Custom java format</string>
+    <string name="menu_cancel">Cancel</string>
 </resources>
