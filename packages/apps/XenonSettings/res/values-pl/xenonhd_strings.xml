@@ -20,6 +20,7 @@
   <string name="misc_title">Różne</string>
   <string name="statusbar_title">Pasek stanu</string>
   <string name="notifications_title">Powiadomienia</string>
+  <string name="xenonhd_title">Centrum XenonHD</string>
   <string name="xenonsettings_title">Ustawienia XenonHD</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Lista zmian</string>
