@@ -21,6 +21,7 @@
   <!-- Dialog -->
   <string name="dialog_message">A verificar actualizações. Por favor, aguarde…</string>
   <!-- ROM info -->
+  <string name="unknown">Desconhecido</string>
   <!-- Check update -->
   <!-- Notification -->
   <string name="notification_title">Actualização XenonHD</string>
