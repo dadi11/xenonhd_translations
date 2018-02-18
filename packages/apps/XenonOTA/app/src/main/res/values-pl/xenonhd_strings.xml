@@ -47,5 +47,6 @@
   <string name="twelve_hours">Co 12 godzin</string>
   <string name="twentyfour_hours">Co 24 godziny</string>
   <!-- Links -->
+  <string name="links_gapps_title">Gapps</string>
   <string name="links_changelog_title">Lista zmian</string>
 </resources>
