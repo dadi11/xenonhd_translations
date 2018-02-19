@@ -24,4 +24,5 @@
   <!-- Pirate alert -->
   <!-- QS Lockscreen Tile -->
   <!-- VoLTE icon switch -->
+  <string name="status_bar_volte">VoLTE</string>
 </resources>
