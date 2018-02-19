@@ -20,6 +20,7 @@
   <string name="misc_title">Verschiedenes</string>
   <string name="statusbar_title">Benachrichtigungsleiste</string>
   <string name="notifications_title">Benachrichtigungen</string>
+  <string name="xenonhd_title">XenonHD Hub</string>
   <string name="xenonsettings_title">XenonHD-Einstellungen</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Änderungsprotokoll</string>
