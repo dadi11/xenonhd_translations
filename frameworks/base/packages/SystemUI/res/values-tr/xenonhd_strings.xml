@@ -17,8 +17,10 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Screenshot Delete Toast -->
+  <string name="delete_screenshot_toast">Ekran görüntüsü silindi</string>
   <!-- Partial Screenshot -->
   <string name="screenshot_abort_title">Ekran görüntüsü alınamadı</string>
+  <string name="screenshot_abort_text">İşlem iptal edildi</string>
   <!-- QS Tiles -->
   <string name="quick_settings_screenshot_label">Ekran Görüntüsü</string>
   <string name="quick_settings_region_screenshot_label">Kısmi ekran görüntüsü</string>
