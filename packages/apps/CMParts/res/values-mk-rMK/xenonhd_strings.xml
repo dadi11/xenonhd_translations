@@ -36,8 +36,18 @@
   <!-- Brightness slider -->
   <string name="qs_brightness_slider_title">Лизгач за осветленост</string>
   <string name="qs_brightness_slider_enabled">Овозможено</string>
+  <string name="qs_brightness_slider_disabled">Оневозможено</string>
+  <string name="brightness_icon_title">Икона за осветленоста </string>
+  <string name="brightness_icon_summary">Прикажете ја иконата за осветленост лево од лизгачот за осветленост за да ја прилагодите авто-осветленоста</string>
   <!-- Color Picker -->
+  <string name="dialog_color_picker">Бирач на боја</string>
+  <string name="press_color_to_apply">Притиснете на бојата подолу за да ја поставите</string>
+  <string name="hex">Hex:</string>
+  <string name="set">Постави</string>
+  <string name="color_default">Стандардно</string>
   <!-- Network traffic -->
+  <string name="traffic_category">Индикатори за податочен пренос</string>
+  <string name="show_network_traffic_disable">Оневозможено</string>
   <!-- Superuser indicator on status bar -->
   <!--Status bar date -->
   <!-- Navbar Animation -->
