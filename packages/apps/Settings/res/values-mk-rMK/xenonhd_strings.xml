@@ -68,8 +68,12 @@
   <string name="three_second_default">3 с (стандардно)</string>
   <string name="threehalf_second">3.5 с</string>
   <string name="four_second">4 с</string>
+  <string name="fourhalf_second">4.5 с</string>
+  <string name="five_second">5 с</string>
   <!-- Recents panel settings -->
   <!-- Dashboard options -->
+  <string name="dashboard_suggestions_title">Сугестии</string>
+  <string name="dashboard_conditions_title">Услови</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
   <!-- Emergency button -->
   <!-- Fingerprint authentication vibration -->
