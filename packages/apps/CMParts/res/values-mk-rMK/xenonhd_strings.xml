@@ -14,6 +14,17 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Battery Bar -->
+  <string name="battery_bar_title">Лента за батеријата</string>
+  <string name="battery_bar">Локација за лентата на батеријата</string>
+  <string name="battery_bar_no_navbar">Локација за лентата на батеријата</string>
+  <string name="battery_bar_color">Боја за лентата на батеријата</string>
+  <string name="battery_bar_charging_color">Боја за лентата на батеријата при полнење</string>
+  <string name="battery_bar_battery_low_color">Боја за лентата на батеријата при слаба батерија</string>
+  <string name="battery_bar_cat">Стил за лентата на батеријата</string>
+  <string name="battery_bar_style_title">Местопозиција на лентата на батеријата</string>
+  <string name="battery_bar_thickness_title">Дебелина на лентата на батеријата</string>
+  <string name="battery_bar_animate_title">Анимација при полнење</string>
+  <string name="battery_bar_style_regular">Регуларно</string>
   <!-- Battery icon -->
   <!-- Brightness slider -->
   <!-- Color Picker -->
