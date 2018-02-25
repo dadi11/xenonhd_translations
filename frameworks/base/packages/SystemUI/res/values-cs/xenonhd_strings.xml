@@ -17,8 +17,10 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Screenshot Delete Toast -->
+  <string name="delete_screenshot_toast">Snímek obrazovky byl odstraněn</string>
   <!-- Partial Screenshot -->
   <string name="screenshot_abort_title">Žádný snímek obrazovky</string>
+  <string name="screenshot_abort_text">Operace přerušena</string>
   <!-- QS Tiles -->
   <string name="quick_settings_screenshot_label">Snímek obrazovky</string>
   <string name="quick_settings_region_screenshot_label">Částečný snímek obrazovky</string>

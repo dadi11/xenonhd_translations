@@ -23,6 +23,7 @@
   <string name="links_category">Sekcja pobierania</string>
   <!-- Dialog -->
   <string name="dialog_message">Sprawdzam aktualizacje, proszę czekać...</string>
+  <string name="reboot_recovery">Restart do recovery</string>
   <!-- ROM info -->
   <string name="latest_version">Aktualizacja dostępna!\nNajnowsza wersja: %1$s</string>
   <string name="unknown">Nieznana</string>
