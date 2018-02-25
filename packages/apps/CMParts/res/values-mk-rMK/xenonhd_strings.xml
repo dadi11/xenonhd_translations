@@ -14,19 +14,28 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Battery Bar -->
-  <string name="battery_bar_title">Лента за батеријата</string>
-  <string name="battery_bar">Локација за лентата на батеријата</string>
-  <string name="battery_bar_no_navbar">Локација за лентата на батеријата</string>
-  <string name="battery_bar_color">Боја за лентата на батеријата</string>
-  <string name="battery_bar_charging_color">Боја за лентата на батеријата при полнење</string>
-  <string name="battery_bar_battery_low_color">Боја за лентата на батеријата при слаба батерија</string>
-  <string name="battery_bar_cat">Стил за лентата на батеријата</string>
-  <string name="battery_bar_style_title">Местопозиција на лентата на батеријата</string>
-  <string name="battery_bar_thickness_title">Дебелина на лентата на батеријата</string>
+  <string name="battery_bar_title">Индикатор-лента за батеријата</string>
+  <string name="battery_bar">Локација за индикатор-лента на батеријата</string>
+  <string name="battery_bar_no_navbar">Локација за индикатор-лента на батеријата</string>
+  <string name="battery_bar_color">Боја за индикатор-лентата на батеријата</string>
+  <string name="battery_bar_charging_color">Боја за индикатор-лентата на батеријата при полнење</string>
+  <string name="battery_bar_battery_low_color">Боја за индикатор-лентата на батеријата при слаба батерија</string>
+  <string name="battery_bar_cat">Стил за индикатор-лента на батеријата</string>
+  <string name="battery_bar_style_title">Местопозиција на индикатор-лентата на батеријата</string>
+  <string name="battery_bar_thickness_title">Дебелина на индикатор-лентата на батеријата</string>
   <string name="battery_bar_animate_title">Анимација при полнење</string>
-  <string name="battery_bar_style_regular">Регуларно</string>
+  <string name="battery_bar_style_regular">Нормално</string>
+  <string name="battery_bar_style_center_mirrored">Централно-огледално</string>
+  <string name="battery_bar_style_reversed">Обратно</string>
+  <string name="battery_bar_use_gradient_color">Користете градиент боја</string>
+  <string name="battery_bar_gradient_color_summary">Користете градиент боја како скала за нивото на наполнетост на батеријата</string>
+  <string name="battery_bar_high_color">Боја за високо ниво</string>
+  <string name="battery_bar_low_color">Боја за ниско ниво</string>
   <!-- Battery icon -->
+  <string name="status_bar_battery_style_solid">Целосно</string>
   <!-- Brightness slider -->
+  <string name="qs_brightness_slider_title">Лизгач за осветленост</string>
+  <string name="qs_brightness_slider_enabled">Овозможено</string>
   <!-- Color Picker -->
   <!-- Network traffic -->
   <!-- Superuser indicator on status bar -->
