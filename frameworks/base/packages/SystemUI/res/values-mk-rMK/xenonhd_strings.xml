@@ -19,16 +19,16 @@
   <!-- Quick Settings tiles -->
   <string name="quick_settings_screenshot_label">Слика од екранот</string>
   <string name="quick_settings_reboot_label">Рестарт</string>
-  <string name="quick_settings_reboot_recovery_label">Режим за обновување</string>
+  <string name="quick_settings_reboot_recovery_label">Recovery</string>
   <string name="quick_settings_music_label">Музика</string>
-  <string name="quick_settings_music_play">Пушти</string>
+  <string name="quick_settings_music_play">Репродуцирај</string>
   <string name="quick_settings_music_pause">Пауза</string>
   <string name="quick_settings_ime_tile_label">Метод за внесување</string>
   <!-- Text to use when the number in a notification info is too large
          (greater than status_bar_notification_info_maxnum, defined in
          values/config.xml) and must be truncated. [CHAR LIMIT=4] -->
   <!-- Free RAM -->
-  <string name="free_ram">Слободна РАМ меморија:\u0020</string>
+  <string name="free_ram">Слободна РАМ:\u0020</string>
   <!-- Path data for Solid battery -->
   <!-- High Brightness Mode Tile -->
   <string name="quick_settings_high_brightness">Висока осветленост</string>
@@ -38,6 +38,7 @@
   <string name="pirate_spec">пират</string>
   <!-- QS Lockscreen Tile -->
   <string name="quick_settings_lockscreen_label">Заклучен екран</string>
+  <string name="quick_settings_lockscreen_label_enforced">Принудено заклучување на екран</string>
   <string name="accessibility_quick_settings_lock_screen_off">Оневозможи заклучување на екранот</string>
   <string name="accessibility_quick_settings_lock_screen_on">Овозможи заклучување на екранот</string>
   <string name="accessibility_quick_settings_lock_screen_changed_off">Оневозможено е заклучување на екранот</string>
