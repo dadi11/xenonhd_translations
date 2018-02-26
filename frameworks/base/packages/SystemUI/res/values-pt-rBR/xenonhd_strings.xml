@@ -16,14 +16,27 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Screenshot Delete Toast -->
+  <string name="delete_screenshot_toast">Captura de tela excluída</string>
   <!-- Partial Screenshot -->
+  <string name="screenshot_abort_title">Nenhuma captura de tela tirada</string>
+  <string name="screenshot_abort_text">Operação cancelada</string>
   <!-- QS Tiles -->
   <string name="quick_settings_screenshot_label">Captura de tela</string>
+  <string name="quick_settings_region_screenshot_label">Captura de tela parcial</string>
   <!-- Language toggle tile -->
+  <string name="quick_settings_locale_label">Linguagem</string>
+  <string name="quick_settings_locale_more_locales_toast">Por favor, configure vários idiomas para usar essa função</string>
   <!-- PiP Tile -->
+  <string name="quick_settings_pip_label">Imagem na imagem</string>
+  <string name="quick_settings_pip_tile_app_na">O aplicativo não suporta Imagem na imagem</string>
   <!-- Reboot/Recovery QS Tile -->
   <string name="quick_settings_reboot_label">Reiniciar</string>
   <string name="quick_settings_reboot_recovery_label">Recuperação			</string>
   <!-- Sound QS Tile -->
+  <string name="quick_settings_sound_label">Som</string>
+  <string name="quick_settings_sound_ring">Toque</string>
+  <string name="quick_settings_sound_vibrate">Vibrar</string>
+  <string name="quick_settings_sound_dnd">Não perturbe</string>
   <!-- volte icon switch -->
+  <string name="status_bar_volte">VoLTE</string>
 </resources>
