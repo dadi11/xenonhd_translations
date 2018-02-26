@@ -31,7 +31,7 @@
   <string name="free_ram">RAM:\u0020 livre</string>
   <!-- Path data for Solid battery -->
   <!-- High Brightness Mode Tile -->
-  <string name="quick_settings_high_brightness">Alto brilho</string>
+  <string name="quick_settings_high_brightness">Brilho alto</string>
   <string name="high_brightness_warning">Modo Alto Brilho ativado, substituindo a configuração de brilho atual</string>
   <!-- Pirate alert -->
   <string name="pirate_label">Grrrrrrrr</string>
@@ -44,4 +44,5 @@
   <string name="accessibility_quick_settings_lock_screen_changed_off">Tela de bloqueio desligada</string>
   <string name="accessibility_quick_settings_lock_screen_changed_on">Tela de Bloqueio ligada</string>
   <!-- VoLTE icon switch -->
+  <string name="status_bar_volte">VoLTE</string>
 </resources>
