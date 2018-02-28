@@ -241,8 +241,20 @@
   <string name="status_bar_font_medium_italic">Keskmine kursiiv</string>
   <string name="status_bar_font_black">Must</string>
   <string name="status_bar_font_black_italic">Must kursiiv</string>
+  <string name="status_bar_font_comingsoon">Varsti tulekul</string>
+  <string name="status_bar_font_notoserif">NotoSerif tavaline</string>
+  <string name="status_bar_font_notoserif_italic">Notoserif kursiiv</string>
+  <string name="status_bar_font_notoserif_bold">NotoSerif Rasvane</string>
+  <string name="status_bar_font_notoserif_bold_italic">Notoserif Rasvane Kursiiv</string>
   <!-- Lock Clock Fonts -->
+  <string name="lock_clock_font_title">Fondisuvandid</string>
+  <string name="lock_clock_font_summary">Lukustuskuva kellavidina vaikefondi muutmine</string>
+  <string name="lockdate_font_size_title">Kuupäeva fondi suurus</string>
+  <string name="lockclock_font_size_title">Kella fondi suurus</string>
+  <string name="lock_date_font_summary">Kohanda kuupäeva font</string>
   <string name="lock_date_font_title">Kuupäev</string>
+  <string name="lock_clock_font_dialog_title">Lukustuskuva kella fondi valimine</string>
+  <string name="lock_clock_font_stock">Tavaline (vaikimisi)</string>
   <string name="lock_clock_font_bold">Rasvane</string>
   <string name="lock_clock_font_light">Valgus</string>
   <string name="lock_clock_font_italic">Kursiiv</string>
@@ -253,9 +265,16 @@
   <string name="lock_clock_font_condensed_normal">Lühendatud</string>
   <string name="lock_clock_font_condensed_italic">Lühendatud kursiiv</string>
   <string name="lock_clock_font_condensed_bold">Lühendatud rasvane</string>
+  <string name="lock_clock_font_condensed_bold_italic">Lühendatud rasvane kursiiv</string>
   <string name="lock_clock_font_medium_normal">Keskmine</string>
   <string name="lock_clock_font_medium_italic">Keskmine kursiiv</string>
   <!-- Screen state service -->
+  <string name="screen_state_toggles_title">Peata tegevused</string>
+  <string name="screen_state_toggles_enable_title">Luba</string>
+  <string name="screen_state_toggles_enable_summary">Tegevused sooritatakse väljalülitatud ekraaniga. Ekraani sisselülitamisel eelmine olukord taastatakse.</string>
+  <string name="screen_state_toggles_mobile_title">Mobiilivõrgud</string>
+  <string name="screen_state_toggles_location_title">Asukoht</string>
+  <string name="screen_state_toggles_twog">2G-le ümberlülitamine</string>
   <!-- Fingerprint max failed attempts -->
   <!-- Lockscreen battery info indicator  -->
   <!-- Status bar - Battery saver color -->
