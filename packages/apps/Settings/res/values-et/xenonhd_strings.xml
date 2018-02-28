@@ -20,7 +20,7 @@
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Muudatuste logi</string>
   <string name="changelog_xenonhd_error">Muudatuste logi ei saanud laadida</string>
-  <string name="changelog_xenonhd_summary">Muudatusi näete praeguses ehituses</string>
+  <string name="changelog_xenonhd_summary">Muudatusi näete praeguses versioonis</string>
   <!-- Density category -->
   <string name="density_category">Ekraanitiheduse valikud</string>
   <!-- XenonOTA -->
@@ -241,6 +241,8 @@
   <string name="status_bar_font_medium_italic">Keskmine kursiiv</string>
   <string name="status_bar_font_black">Must</string>
   <string name="status_bar_font_black_italic">Must kursiiv</string>
+  <string name="status_bar_font_dancingscript">DancingScript</string>
+  <string name="status_bar_font_dancingscript_bold">DancingScript Rasvane</string>
   <string name="status_bar_font_comingsoon">Varsti tulekul</string>
   <string name="status_bar_font_notoserif">NotoSerif tavaline</string>
   <string name="status_bar_font_notoserif_italic">Notoserif kursiiv</string>
@@ -275,8 +277,29 @@
   <string name="screen_state_toggles_mobile_title">Mobiilivõrgud</string>
   <string name="screen_state_toggles_location_title">Asukoht</string>
   <string name="screen_state_toggles_twog">2G-le ümberlülitamine</string>
+  <string name="screen_state_toggles_twog_summary">Kui ekraan on kustus, lülitatakse võrgurežiim 2G peale</string>
+  <string name="screen_state_toggles_gps">Keela GPS</string>
+  <string name="screen_state_toggles_gps_summary">Asukohapõhine GPS lülitatakse välja, kui seadme ekraan on välja lülitatud</string>
+  <string name="screen_state_toggles_mobile_data">Mobiilse andmeside keelamine</string>
+  <string name="screen_state_toggles_mobile_data_summary">Mobiilse andmeside lülitatakse välja, kui ekraan on väljalülitatud</string>
+  <string name="screen_state_off_delay_title">Tegevuste viivitus väljalülitatud ekraaniga</string>
+  <string name="screen_state_off_delay_summary">Mitu sekundit peab ootama enne toimingute sooritamist pärast ekraani väljalülitamist</string>
+  <string name="screen_state_on_delay_title">Tegevuste viivitus sisselülitatud ekraaniga</string>
+  <string name="screen_state_on_delay_summary">Mitu sekundit peab ootama enne toimingute sooritamist pärast ekraani sisselülitamist</string>
   <!-- Fingerprint max failed attempts -->
+  <string name="fp_max_failed_attempts">Sõrmejäljelugemise maksimaalsed korrad</string>
+  <string name="fp_three_attempts">3 korda</string>
+  <string name="fp_five_attempts">5 korda</string>
+  <string name="fp_ten_attempts">10 korda</string>
+  <string name="fp_fifteen_attempts">15 korda</string>
   <!-- Lockscreen battery info indicator  -->
+  <string name="lockscreen_battery_info_title">Laadimisinfo</string>
+  <string name="lockscreen_battery_info_summary">Kuva lukustuskuval laadija vool, pinge ja akutemperatuur, kui seadet laetakse</string>
   <!-- Status bar - Battery saver color -->
+  <string name="status_bar_battery_saver_color_title">Akusäästja värv</string>
+  <string name="status_bar_battery_saver_color_summary">Märkus: Kui akusäästja on juba lubatud, tuleb uue värvi jaoks lülitada akusäästja uuesti sisse ja välja!</string>
   <!-- Reset battery stats -->
+  <string name="ok">Ok</string>
+  <string name="menu_stats_reset">Nulli näidud</string>
+  <string name="reset_stats_msg">Akukasutamise ajalugu nullitakse</string>
 </resources>
