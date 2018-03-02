@@ -19,6 +19,7 @@
   <string name="delete_screenshot_toast">Скриншот удален</string>
   <!-- Partial Screenshot -->
   <string name="screenshot_abort_title">Скриншот не был создан</string>
+  <string name="screenshot_abort_text">Операция прервана</string>
   <!-- QS Tiles -->
   <string name="quick_settings_screenshot_label">Скриншот</string>
   <string name="quick_settings_region_screenshot_label">Скриншот выбранной области</string>
