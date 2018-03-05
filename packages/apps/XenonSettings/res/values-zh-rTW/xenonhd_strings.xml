@@ -64,9 +64,6 @@
   <!-- Power menu on secure lockscreen -->
   <string name="lockscreen_power_menu_disabled_title">當電源選單已鎖定</string>
   <string name="lockscreen_power_menu_disabled_summary">停用安全鎖定畫面上顯示電源選單</string>
-  <!-- Wake on Plug -->
-  <string name="wake_when_plugged_or_unplugged_title">接上或移除電源時喚醒</string>
-  <string name="wake_when_plugged_or_unplugged_summary">接上或拔除電源時喚醒螢幕</string>
   <!-- QS rows and columns -->
   <string name="qs_category">快速設定圖塊</string>
   <string name="qs_columns_landscape_title">列 - 橫</string>
@@ -105,4 +102,7 @@
   <string name="clock_date_style_uppercase">大寫</string>
   <string name="clock_date_format_custom">自訂 java 格式</string>
   <string name="menu_cancel">取消</string>
+  <!-- Quick unlock -->
+  <string name="unlock_quick_unlock_control_title">快速解鎖</string>
+  <string name="unlock_quick_unlock_control_summary">當正確輸入 PIN 碼/密碼時自動解鎖</string>
 </resources>
