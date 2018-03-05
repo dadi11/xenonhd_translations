@@ -17,7 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen -->
   <string name="xenonhd_version">Versão XenonHD</string>
-  <string name="xenonhd_maintainer">Mantedor</string>
+  <string name="xenonhd_maintainer">Mantenedor</string>
   <string name="device_info_title">Informações do telefone</string>
   <!-- XenonHD Settings -->
   <string name="xenonhd_settings_title">XenonHD Cubo</string>
@@ -28,7 +28,7 @@
   <string name="volume_steps_dtmf_title">DTMF</string>
   <string name="volume_steps_music_title">Música</string>
   <string name="volume_steps_notification_title">Notificação</string>
-  <string name="volume_steps_ring_title">Campainha</string>
+  <string name="volume_steps_ring_title">Toque</string>
   <string name="volume_steps_system_title">Sisitema</string>
   <string name="volume_steps_voice_call_title">Chamada de voz</string>
   <string name="volume_steps_bluetooth_sco_title">Chamada Bluetooth</string>
