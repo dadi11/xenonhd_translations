@@ -51,4 +51,7 @@
   <!-- Encryption and credential -->
   <string name="custom_encryption_and_credential_settings_summary_on">Cihaz şifrelenmiş</string>
   <string name="custom_encryption_and_credential_settings_summary_off">Cihaz şifresi çözülmüş</string>
+  <!-- AmbientDisplay music ticker -->
+  <string name="force_ambient_for_media_off">Devre Dışı</string>
+  <string name="force_ambient_for_media_on">Etkin</string>
 </resources>
