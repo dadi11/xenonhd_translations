@@ -64,9 +64,6 @@
   <!-- Power menu on secure lockscreen -->
   <string name="lockscreen_power_menu_disabled_title">Žádné menu napájení na zabezpečené zamykací obrazovce</string>
   <string name="lockscreen_power_menu_disabled_summary">Zakázat menu napájení na zabezpečené zamykací obrazovce</string>
-  <!-- Wake on Plug -->
-  <string name="wake_when_plugged_or_unplugged_title">Probudit při nabíjení</string>
-  <string name="wake_when_plugged_or_unplugged_summary">Zapnout obrazovku při připojení nebo odpojení nabíječky</string>
   <!-- QS rows and columns -->
   <string name="qs_category">QS dlaždice</string>
   <string name="qs_columns_landscape_title">Sloupce - na šířku</string>
@@ -105,4 +102,7 @@
   <string name="clock_date_style_uppercase">Velká písmena</string>
   <string name="clock_date_format_custom">Vlastní formát java</string>
   <string name="menu_cancel">Zrušit</string>
+  <!-- Quick unlock -->
+  <string name="unlock_quick_unlock_control_title">Rychlé odemknutí</string>
+  <string name="unlock_quick_unlock_control_summary">Automatické odemknutí, pokud je zadán správný PIN/heslo</string>
 </resources>

@@ -64,9 +64,6 @@
   <!-- Power menu on secure lockscreen -->
   <string name="lockscreen_power_menu_disabled_title">Menu zasilania gdy zablokowany</string>
   <string name="lockscreen_power_menu_disabled_summary">Zablokuj menu zasilania, gdy ekran jest zablokowany</string>
-  <!-- Wake on Plug -->
-  <string name="wake_when_plugged_or_unplugged_title">Wybudź przy podłączaniu</string>
-  <string name="wake_when_plugged_or_unplugged_summary">Włącz ekran podczas podłączania i odłączania źródła zasilania</string>
   <!-- QS rows and columns -->
   <string name="qs_category">Kafelki szybkich skrótów</string>
   <string name="qs_columns_landscape_title">Kolumny - poziomo</string>
@@ -105,4 +102,7 @@
   <string name="clock_date_style_uppercase">Duża czcionka</string>
   <string name="clock_date_format_custom">Własny format (java)</string>
   <string name="menu_cancel">Anuluj</string>
+  <!-- Quick unlock -->
+  <string name="unlock_quick_unlock_control_title">Szybkie odblokowywanie</string>
+  <string name="unlock_quick_unlock_control_summary">Odblokuj automatycznie, gdy wprowadzony zostanie poprawny PIN/hasło</string>
 </resources>

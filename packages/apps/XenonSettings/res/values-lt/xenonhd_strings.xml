@@ -34,7 +34,6 @@
   <!-- Launch music player when headset is connected -->
   <string name="headset_connect_player_disabled">Išjungta</string>
   <!-- Power menu on secure lockscreen -->
-  <!-- Wake on Plug -->
   <!-- QS rows and columns -->
   <!-- Status bar - Battery saver color -->
   <!-- Statusbar Clock options -->
@@ -44,4 +43,6 @@
   <string name="clock_date_style_normal">Normalus</string>
   <string name="clock_date_style_lowercase">Mažosios raidės</string>
   <string name="clock_date_style_uppercase">Didžiosios raidės</string>
+  <!-- Quick unlock -->
+  <string name="unlock_quick_unlock_control_title">Greitas atrakinimas</string>
 </resources>

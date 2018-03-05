@@ -42,10 +42,10 @@
   <string name="xenonota_title">XenonOTA</string>
   <!-- Launch music player when headset is connected -->
   <!-- Power menu on secure lockscreen -->
-  <!-- Wake on Plug -->
   <!-- QS rows and columns -->
   <string name="qs_category">Ô cài đặt nhanh</string>
   <!-- Status bar - Battery saver color -->
   <!-- Statusbar Clock options -->
   <string name="menu_cancel">Hủy bỏ</string>
+  <!-- Quick unlock -->
 </resources>

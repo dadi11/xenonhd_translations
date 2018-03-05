@@ -64,9 +64,6 @@
   <!-- Power menu on secure lockscreen -->
   <string name="lockscreen_power_menu_disabled_title">Kilit ekranında güç menüsü kapalı</string>
   <string name="lockscreen_power_menu_disabled_summary">Güvenli kilit ekranında güç menüsünü devre dışı bırak</string>
-  <!-- Wake on Plug -->
-  <string name="wake_when_plugged_or_unplugged_title">Takıp çıkarmada uyan</string>
-  <string name="wake_when_plugged_or_unplugged_summary">Şarj aleti takıldığında ya da çıkarıldığında ekranı aç</string>
   <!-- QS rows and columns -->
   <string name="qs_category">Hızlı Ayar Kareleri</string>
   <string name="qs_columns_landscape_title">Sütunlar - yatay</string>
@@ -105,4 +102,7 @@
   <string name="clock_date_style_uppercase">Büyük harf</string>
   <string name="clock_date_format_custom">Özel java formatı</string>
   <string name="menu_cancel">İptal</string>
+  <!-- Quick unlock -->
+  <string name="unlock_quick_unlock_control_title">Hızlı kilit aç</string>
+  <string name="unlock_quick_unlock_control_summary">Doğru PIN/Şifre girildiğinde otomatik olarak kilidi aç</string>
 </resources>

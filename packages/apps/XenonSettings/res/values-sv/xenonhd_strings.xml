@@ -37,7 +37,6 @@
   <!-- Launch music player when headset is connected -->
   <string name="headset_connect_player_disabled">Inaktiverad</string>
   <!-- Power menu on secure lockscreen -->
-  <!-- Wake on Plug -->
   <!-- QS rows and columns -->
   <!-- Status bar - Battery saver color -->
   <!-- Statusbar Clock options -->
@@ -50,4 +49,5 @@
   <string name="clock_date_style_lowercase">Gemener</string>
   <string name="clock_date_style_uppercase">Versaler</string>
   <string name="clock_date_format_custom">Anpassat java-format</string>
+  <!-- Quick unlock -->
 </resources>

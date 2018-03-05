@@ -39,7 +39,6 @@
   <!-- Launch music player when headset is connected -->
   <string name="headset_connect_player_disabled">Désactivé</string>
   <!-- Power menu on secure lockscreen -->
-  <!-- Wake on Plug -->
   <!-- QS rows and columns -->
   <!-- Status bar - Battery saver color -->
   <string name="status_bar_battery_saver_color_title">Couleur de la barre d\'économiseur de batterie</string>
@@ -53,4 +52,7 @@
   <string name="clock_date_style_lowercase">Minuscule</string>
   <string name="clock_date_style_uppercase">Majuscule</string>
   <string name="clock_date_format_custom">Personnalisée (format java)</string>
+  <!-- Quick unlock -->
+  <string name="unlock_quick_unlock_control_title">Déverrouillage rapide</string>
+  <string name="unlock_quick_unlock_control_summary">Déverouille automatiquement l\'appareil lorsque le PIN/mot de passe correct est entré</string>
 </resources>

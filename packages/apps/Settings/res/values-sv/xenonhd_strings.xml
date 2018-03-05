@@ -34,4 +34,7 @@
   <!-- Format string for fingerprint location message -->
   <!-- Fingerprint sensor locations -->
   <!-- Encryption and credential -->
+  <!-- AmbientDisplay music ticker -->
+  <string name="force_ambient_for_media_off">Inaktiverad</string>
+  <string name="force_ambient_for_media_on">Aktiverad</string>
 </resources>

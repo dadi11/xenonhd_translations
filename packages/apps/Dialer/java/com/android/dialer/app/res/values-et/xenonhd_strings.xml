@@ -16,6 +16,24 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- In-call vibrations -->
+  <string name="incall_vibration_category_title">Vibratsiooni kõne ajal</string>
+  <string name="incall_vibrate_outgoing_title">Vibreeri vastamisel</string>
+  <string name="incall_vibrate_call_waiting_title">Vibreeri kõne koputusel</string>
+  <string name="incall_vibrate_hangup_title">Vibreeri kõne katkestamisel</string>
+  <string name="incall_vibrate_45_title">Vibreeri iga minuti tagant</string>
+  <string name="incall_vibrate_45_summary">Vibreerib 45 sekundi tagant igas minutis väljaminevate kõnede puhul</string>
   <!-- Smart Options -->
+  <string name="smart_category_title">Muud valikud</string>
+  <string name="smart_mute_title">Tark vaigistus</string>
+  <string name="smart_mute_summary">Seadme ümberpööramine vaigistab sissetuleva kõne</string>
   <!-- Proximity speaker -->
+  <string name="speaker_settings_label">Lähedusele reageeriv kõlar</string>
+  <string name="prox_auto_speaker_title">Automaatne lähedusele reageeriv kõlar</string>
+  <string name="prox_auto_speaker_summary">Kõlari automaatne lubamine, kui teie telefon on kõrva äärest eemal</string>
+  <string name="prox_auto_speaker_delay_title">Kõlari viivitus</string>
+  <string name="prox_auto_speaker_delay_dialog_title">Kõlari viivitus (millisekundites)</string>
+  <string name="prox_auto_speaker_delay_summary">Kõlar aktiveeritakse <xliff:g id="number">%d</xliff:g> ms</string>
+  <string name="prox_auto_speaker_incall_only_title">Ainult kõnede ajal</string>
+  <string name="prox_auto_speaker_incall_only_summary_on">Väljaminevate kõnede puhul, kuulaja muutub aktiivseks ainult siis, kui vastuvõtja pool vastab</string>
+  <string name="prox_auto_speaker_incall_only_summary_off">Kuulaja on aktiivne kõikide ootele pandud kõnede puhul (vaikimisi)</string>
 </resources>

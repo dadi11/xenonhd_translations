@@ -23,6 +23,7 @@
   <string name="links_category">Раздел загрузок</string>
   <!-- Dialog -->
   <string name="dialog_message">Проверка наличия обновлений, пожалуйста подождите...</string>
+  <string name="reboot_recovery">Перезагрузить в рекавери</string>
   <!-- ROM info -->
   <string name="latest_version">Доступно обновление! Последняя версия</string>
   <string name="unknown">Неизвестно</string>
@@ -42,10 +43,22 @@
   <!-- Toast -->
   <string name="toast_message">Нет установленного браузера\nПроверьте приложение BrowserInstaller</string>
   <!-- Update interval -->
+  <string name="interval_title">Автоматически проверять наличие обновлений</string>
+  <string name="autoupdate_enabled">Автоматическая проверка наличия обновлений включена</string>
+  <string name="autoupdate_disabled">Автоматическая проверка наличия обновлений выключена</string>
   <string name="disabled">Отключено</string>
   <string name="hour">Каждый час</string>
   <string name="twelve_hours">Каждые 12 часов</string>
   <string name="twentyfour_hours">Каждые 24 часа</string>
   <!-- Links -->
+  <string name="links_rom_title">Прошивка</string>
+  <string name="links_rom_summary">Скачать последнюю версию</string>
+  <string name="links_md5_title">MD5</string>
+  <string name="links_md5_summary">Скачать контрольную сумму последней сборки</string>
+  <string name="links_gapps_title">Gapps</string>
+  <string name="links_gapps_summary">Скачать Open Gapps</string>
   <string name="links_changelog_title">Список изменений</string>
+  <string name="links_changelog_summary">Просмотр последних изменений</string>
+  <string name="links_donate_title">Поддержка</string>
+  <string name="links_donate_summary">Пожертвования для сопровождающего вашего устройства</string>
 </resources>

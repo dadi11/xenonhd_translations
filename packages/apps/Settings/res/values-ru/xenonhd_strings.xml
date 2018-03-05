@@ -51,4 +51,7 @@
   <!-- Encryption and credential -->
   <string name="custom_encryption_and_credential_settings_summary_on">Устройство зашифровано</string>
   <string name="custom_encryption_and_credential_settings_summary_off">Устройство не зашифровано</string>
+  <!-- AmbientDisplay music ticker -->
+  <string name="force_ambient_for_media_off">Отключено</string>
+  <string name="force_ambient_for_media_on">Включено</string>
 </resources>

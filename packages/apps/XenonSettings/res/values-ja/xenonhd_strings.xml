@@ -36,7 +36,6 @@
   <!-- Launch music player when headset is connected -->
   <string name="headset_connect_player_disabled">無効</string>
   <!-- Power menu on secure lockscreen -->
-  <!-- Wake on Plug -->
   <!-- QS rows and columns -->
   <!-- Status bar - Battery saver color -->
   <!-- Statusbar Clock options -->
@@ -49,4 +48,7 @@
   <string name="clock_date_style_lowercase">小文字</string>
   <string name="clock_date_style_uppercase">大文字</string>
   <string name="clock_date_format_custom">カスタムjava形式</string>
+  <!-- Quick unlock -->
+  <string name="unlock_quick_unlock_control_title">クイックロック解除</string>
+  <string name="unlock_quick_unlock_control_summary">正しいPIN/パスワードが入力されたときはロックを自動的に解除する</string>
 </resources>

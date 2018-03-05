@@ -44,7 +44,13 @@
   <!-- Format string for fingerprint location message -->
   <!-- Fingerprint sensor locations -->
   <string name="security_settings_fingerprint_sensor_location_back">zurück</string>
+  <string name="security_settings_fingerprint_sensor_location_front">Vorderseite</string>
+  <string name="security_settings_fingerprint_sensor_location_left">linken Seite</string>
+  <string name="security_settings_fingerprint_sensor_location_right">rechten Seite</string>
   <!-- Encryption and credential -->
   <string name="custom_encryption_and_credential_settings_summary_on">Gerät ist verschlüsselt</string>
   <string name="custom_encryption_and_credential_settings_summary_off">Gerät ist unverschlüsselt</string>
+  <!-- AmbientDisplay music ticker -->
+  <string name="force_ambient_for_media_off">Deaktiviert</string>
+  <string name="force_ambient_for_media_on">Aktiviert</string>
 </resources>
