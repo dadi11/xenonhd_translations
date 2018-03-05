@@ -48,7 +48,6 @@
   <!-- Launch music player when headset is connected -->
   <string name="headset_connect_player_disabled">Адключана</string>
   <!-- Power menu on secure lockscreen -->
-  <!-- Wake on Plug -->
   <!-- QS rows and columns -->
   <string name="qs_category">Пліткі хуткіх налад</string>
   <string name="qs_columns_landscape_title">Калонкі (ландшафт)</string>
@@ -70,4 +69,7 @@
   <string name="clock_date_style_uppercase">Прапісныя</string>
   <string name="clock_date_format_custom">Карыстацкі java фармат</string>
   <string name="menu_cancel">Скасаваць</string>
+  <!-- Quick unlock -->
+  <string name="unlock_quick_unlock_control_title">Хуткая разблакоўка</string>
+  <string name="unlock_quick_unlock_control_summary">Аўтаматычная разблакоўка пры ўводзе правільнага пароля або PIN-кода</string>
 </resources>
