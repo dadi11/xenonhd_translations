@@ -64,9 +64,6 @@
   <!-- Power menu on secure lockscreen -->
   <string name="lockscreen_power_menu_disabled_title">Nenhum menu liga/desliga está bloqueado</string>
   <string name="lockscreen_power_menu_disabled_summary">Desativar o menu liga/desliga na tela de bloqueio segura</string>
-  <!-- Wake on Plug -->
-  <string name="wake_when_plugged_or_unplugged_title">Acordar ao conectar</string>
-  <string name="wake_when_plugged_or_unplugged_summary">Ativar a tela quando conectar ou desconectar o carregador</string>
   <!-- QS rows and columns -->
   <string name="qs_category">Blocos de configurações rápidas</string>
   <string name="qs_columns_landscape_title">Colunas (paisagem)</string>
@@ -105,4 +102,7 @@
   <string name="clock_date_style_uppercase">Maiúsculas</string>
   <string name="clock_date_format_custom">Formato java personalizado</string>
   <string name="menu_cancel">Cancelar</string>
+  <!-- Quick unlock -->
+  <string name="unlock_quick_unlock_control_title">Desbloqueio rápido</string>
+  <string name="unlock_quick_unlock_control_summary">Desbloquear automaticamente quando o PIN/senha correto for inserido</string>
 </resources>
