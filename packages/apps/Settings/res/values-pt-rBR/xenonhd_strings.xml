@@ -13,13 +13,13 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
-  <string name="xenonhd_version">Versão Da Rom XenonHD</string>
+  <string name="xenonhd_version">Versão XenonHD</string>
   <string name="xenonhd_version_default">Desconhecido</string>
-  <string name="xenonhd_maintainer">Mantedor</string>
+  <string name="xenonhd_maintainer">Mantenedor</string>
   <string name="xenonhd_maintainer_default">Desconhecido</string>
   <!-- Changelog -->
-  <string name="changelog_xenonhd_title">Registro de Alterações</string>
-  <string name="changelog_xenonhd_error">Não foi possível carregar o registro de alterações</string>
+  <string name="changelog_xenonhd_title">Registro de mudanças</string>
+  <string name="changelog_xenonhd_error">Não foi possível carregar o registro de mudanças</string>
   <string name="changelog_xenonhd_summary">Verificar alterações na compilação atual</string>
   <!-- Density category -->
   <string name="density_category">Opções de densidade</string>
@@ -296,7 +296,10 @@
   <string name="lockscreen_battery_info_title">Informação de carregamento</string>
   <string name="lockscreen_battery_info_summary">Mostrar voltagem, nível e temperatura da bateria na tela de bloqueio durante o carregamento</string>
   <!-- Status bar - Battery saver color -->
+  <string name="status_bar_battery_saver_color_title">Cor da economia de bateria</string>
+  <string name="status_bar_battery_saver_color_summary">Nota: Se a economia de bateria já estiver ativada, para que a nova cor funcione, desative a economia de bateria!</string>
   <!-- Reset battery stats -->
   <string name="ok">OK</string>
   <string name="menu_stats_reset">Repor estatísticas</string>
+  <string name="reset_stats_msg">As estatísticas do histórico da bateria serão reiniciados</string>
 </resources>
