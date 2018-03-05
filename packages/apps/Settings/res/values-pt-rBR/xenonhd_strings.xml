@@ -51,4 +51,7 @@
   <!-- Encryption and credential -->
   <string name="custom_encryption_and_credential_settings_summary_on">O dispositivo está criptografado</string>
   <string name="custom_encryption_and_credential_settings_summary_off">O dispositivo não está criptografado</string>
+  <!-- AmbientDisplay music ticker -->
+  <string name="force_ambient_for_media_off">Desativado</string>
+  <string name="force_ambient_for_media_on">Ativado</string>
 </resources>
