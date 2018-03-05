@@ -64,9 +64,6 @@
   <!-- Power menu on secure lockscreen -->
   <string name="lockscreen_power_menu_disabled_title">Χωρίς μενού ενέργειας όταν είναι κλειδωμένο</string>
   <string name="lockscreen_power_menu_disabled_summary">Απενεργοποίηση μενού ενέργειας σε ασφαλή οθόνη κλειδώματος</string>
-  <!-- Wake on Plug -->
-  <string name="wake_when_plugged_or_unplugged_title">Αφύπνιση κατά τη σύνδεση</string>
-  <string name="wake_when_plugged_or_unplugged_summary">Ενεργοποίηση της οθόνης κατά την σύνδεση ή αποσύνδεση μιας πηγής ισχύος</string>
   <!-- QS rows and columns -->
   <string name="qs_category">Πλακίδια γρήγορων ρυθμίσεων</string>
   <string name="qs_columns_landscape_title">Στήλες- λειτουργία τοπίου</string>
@@ -105,4 +102,7 @@
   <string name="clock_date_style_uppercase">Κεφαλαία</string>
   <string name="clock_date_format_custom">Προσαρμοσμένη μορφή java</string>
   <string name="menu_cancel">Ακύρωση</string>
+  <!-- Quick unlock -->
+  <string name="unlock_quick_unlock_control_title">Γρήγορο ξεκλείδωμα</string>
+  <string name="unlock_quick_unlock_control_summary">Αυτόματο ξεκλείδωμα όταν εισάγεται το σωστό PIN ή ο σωστός κωδικός</string>
 </resources>
