@@ -64,9 +64,6 @@
   <!-- Power menu on secure lockscreen -->
   <string name="lockscreen_power_menu_disabled_title">锁屏时不显示电源菜单</string>
   <string name="lockscreen_power_menu_disabled_summary">安全锁屏时禁用电源菜单</string>
-  <!-- Wake on Plug -->
-  <string name="wake_when_plugged_or_unplugged_title">充电唤醒</string>
-  <string name="wake_when_plugged_or_unplugged_summary">连接或断开电源时点亮屏幕</string>
   <!-- QS rows and columns -->
   <string name="qs_category">快速设置瓷块</string>
   <string name="qs_columns_landscape_title">横屏列数</string>
@@ -105,4 +102,7 @@
   <string name="clock_date_style_uppercase">大写字母</string>
   <string name="clock_date_format_custom">自定义java格式</string>
   <string name="menu_cancel">取消</string>
+  <!-- Quick unlock -->
+  <string name="unlock_quick_unlock_control_title">快速解锁</string>
+  <string name="unlock_quick_unlock_control_summary">当输入正确的 PIN 或密码后自动解锁</string>
 </resources>
