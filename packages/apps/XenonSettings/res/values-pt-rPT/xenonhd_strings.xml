@@ -40,7 +40,6 @@
   <!-- Launch music player when headset is connected -->
   <string name="headset_connect_player_disabled">Desactivado</string>
   <!-- Power menu on secure lockscreen -->
-  <!-- Wake on Plug -->
   <!-- QS rows and columns -->
   <!-- Status bar - Battery saver color -->
   <!-- Statusbar Clock options -->
@@ -53,4 +52,5 @@
   <string name="clock_date_style_lowercase">Minúsculas</string>
   <string name="clock_date_style_uppercase">Maiúsculas</string>
   <string name="clock_date_format_custom">Formato java personalizado</string>
+  <!-- Quick unlock -->
 </resources>
