@@ -23,7 +23,7 @@
   <!-- PiP Tile -->
   <!-- Reboot/Recovery QS Tile -->
   <string name="quick_settings_reboot_label">Рестарт</string>
-  <string name="quick_settings_reboot_recovery_label">Режим за обновување</string>
+  <string name="quick_settings_reboot_recovery_label">Recovery</string>
   <!-- Sound QS Tile -->
   <!-- volte icon switch -->
 </resources>
