@@ -50,4 +50,7 @@
   <!-- Encryption and credential -->
   <string name="custom_encryption_and_credential_settings_summary_on">Gerät ist verschlüsselt</string>
   <string name="custom_encryption_and_credential_settings_summary_off">Gerät ist unverschlüsselt</string>
+  <!-- AmbientDisplay music ticker -->
+  <string name="force_ambient_for_media_off">Deaktiviert</string>
+  <string name="force_ambient_for_media_on">Aktiviert</string>
 </resources>
