@@ -60,7 +60,6 @@
   <string name="headset_connect_player_both_no_carkit">Kopfhörer (keine Freisprecheinrichtung) verbunden</string>
   <string name="headset_connect_player_both">Kopfhörer verbunden</string>
   <!-- Power menu on secure lockscreen -->
-  <!-- Wake on Plug -->
   <!-- QS rows and columns -->
   <string name="qs_category">Schnelleinstellungs-Kacheln</string>
   <string name="qs_columns_landscape_title">Spalten (Querformat)</string>
@@ -97,4 +96,7 @@
   <string name="clock_date_style_uppercase">Großbuchstaben</string>
   <string name="clock_date_format_custom">Benutzerdefiniertes Java-Format</string>
   <string name="menu_cancel">Abbrechen</string>
+  <!-- Quick unlock -->
+  <string name="unlock_quick_unlock_control_title">Schnelles entsperren</string>
+  <string name="unlock_quick_unlock_control_summary">Automatisch entsperren, wenn PIN/Passwort korrekt eingegeben wird</string>
 </resources>
