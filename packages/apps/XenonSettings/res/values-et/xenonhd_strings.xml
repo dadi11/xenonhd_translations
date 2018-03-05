@@ -64,9 +64,6 @@
   <!-- Power menu on secure lockscreen -->
   <string name="lockscreen_power_menu_disabled_title">Toitemenüü pole saadaval, kui seade on lukus</string>
   <string name="lockscreen_power_menu_disabled_summary">Keela toitemenüü turvalisel lukustuskuval</string>
-  <!-- Wake on Plug -->
-  <string name="wake_when_plugged_or_unplugged_title">Ärka juhtme ühendamisel</string>
-  <string name="wake_when_plugged_or_unplugged_summary">Ärata ekraan toiteallika juhtme ühendamisel või eemaldamisel</string>
   <!-- QS rows and columns -->
   <string name="qs_category">Kiirseadete plaadid</string>
   <string name="qs_columns_landscape_title">Veerud - horisontaalpaigutus</string>
@@ -105,4 +102,7 @@
   <string name="clock_date_style_uppercase">Suurtähed</string>
   <string name="clock_date_format_custom">Kohandatud java formaat</string>
   <string name="menu_cancel">Tühista</string>
+  <!-- Quick unlock -->
+  <string name="unlock_quick_unlock_control_title">Kiiravamine</string>
+  <string name="unlock_quick_unlock_control_summary">Ava automaatselt kui õige PIN/parool on sisestatud</string>
 </resources>
