@@ -64,9 +64,6 @@
   <!-- Power menu on secure lockscreen -->
   <string name="lockscreen_power_menu_disabled_title">Меню питания на заблокированном экране</string>
   <string name="lockscreen_power_menu_disabled_summary">Отключить меню питания на заблокированном экране</string>
-  <!-- Wake on Plug -->
-  <string name="wake_when_plugged_or_unplugged_title">Включение экрана при подключении зарядки</string>
-  <string name="wake_when_plugged_or_unplugged_summary">Включать экран при подключении или отключении зарядного устройства</string>
   <!-- QS rows and columns -->
   <string name="qs_category">Плитки быстрых настроек</string>
   <string name="qs_columns_landscape_title">Колонки (ландшафтный режим)</string>
@@ -105,4 +102,7 @@
   <string name="clock_date_style_uppercase">Прописными</string>
   <string name="clock_date_format_custom">Пользовательский java формат</string>
   <string name="menu_cancel">Отмена</string>
+  <!-- Quick unlock -->
+  <string name="unlock_quick_unlock_control_title">Быстрая разблокировка</string>
+  <string name="unlock_quick_unlock_control_summary">Автоматическая разблокировка при вводе правильного пароля или PIN-кода</string>
 </resources>
