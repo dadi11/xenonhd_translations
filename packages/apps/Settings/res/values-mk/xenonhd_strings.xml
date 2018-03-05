@@ -16,9 +16,14 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen -->
+  <string name="device_info_title">Информации за телефонот</string>
   <!-- XenonHD Settings -->
   <!-- Volume Steps -->
+  <string name="volume_steps_alarm_title">Аларм</string>
   <string name="volume_steps_music_title">Музика</string>
+  <string name="volume_steps_notification_title">Нотификација</string>
+  <string name="volume_steps_system_title">Систем</string>
+  <string name="volume_steps_reset">Ресетирај</string>
   <!-- Vendor version -->
   <!-- Screenshot sound -->
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
