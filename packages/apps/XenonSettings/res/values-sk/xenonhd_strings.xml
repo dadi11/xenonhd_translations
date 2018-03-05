@@ -100,7 +100,7 @@
   <string name="clock_date_display_none">Nezobrazovať</string>
   <string name="clock_date_display_small">Malá veľkosť písma</string>
   <string name="clock_date_display_normal">Normálna veľkosť písma</string>
-  <string name="clock_date_style_normal">Normalny</string>
+  <string name="clock_date_style_normal">Normálny</string>
   <string name="clock_date_style_lowercase">Malé písmená</string>
   <string name="clock_date_style_uppercase">Veľké písmená</string>
   <string name="clock_date_format_custom">Vlastný java formát</string>
