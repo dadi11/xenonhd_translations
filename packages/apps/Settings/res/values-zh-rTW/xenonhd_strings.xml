@@ -51,4 +51,7 @@
   <!-- Encryption and credential -->
   <string name="custom_encryption_and_credential_settings_summary_on">裝置已加密</string>
   <string name="custom_encryption_and_credential_settings_summary_off">裝置已解密</string>
+  <!-- AmbientDisplay music ticker -->
+  <string name="force_ambient_for_media_off">已停用</string>
+  <string name="force_ambient_for_media_on">已啟用</string>
 </resources>
