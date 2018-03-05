@@ -34,8 +34,8 @@
   <!-- Launch music player when headset is connected -->
   <string name="headset_connect_player_disabled">Оневозможено</string>
   <!-- Power menu on secure lockscreen -->
-  <!-- Wake on Plug -->
   <!-- QS rows and columns -->
   <!-- Status bar - Battery saver color -->
   <!-- Statusbar Clock options -->
+  <!-- Quick unlock -->
 </resources>
