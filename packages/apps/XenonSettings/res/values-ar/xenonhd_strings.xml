@@ -37,7 +37,6 @@
   <!-- Launch music player when headset is connected -->
   <string name="headset_connect_player_disabled">غير مفعل</string>
   <!-- Power menu on secure lockscreen -->
-  <!-- Wake on Plug -->
   <!-- QS rows and columns -->
   <!-- Status bar - Battery saver color -->
   <!-- Statusbar Clock options -->
@@ -50,4 +49,7 @@
   <string name="clock_date_style_lowercase">احرف صغيرة</string>
   <string name="clock_date_style_uppercase">احرف كبيرة</string>
   <string name="clock_date_format_custom">نسق جاڤا مخصص</string>
+  <!-- Quick unlock -->
+  <string name="unlock_quick_unlock_control_title">إلغاء قفل سريع</string>
+  <string name="unlock_quick_unlock_control_summary">فتح تلقائياً عندما يتم إدخال PIN/كلمة السر صحيحة</string>
 </resources>
