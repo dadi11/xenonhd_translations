@@ -91,12 +91,12 @@
   <string name="qs_rows_portrait_title">Satırlar (dikey)</string>
   <string name="qs_rows_landscape_title">Satırlar (yatay)</string>
   <string name="qs_columns_title">Sütunlar</string>
-  <string name="qs_easy_toggle_title">Gelişmiş Hızlı Ayar Kolay Geçiş</string>
+  <string name="qs_easy_toggle_title">Gelişmiş kare kolay ğeçiş</string>
   <string name="qs_easy_toggle_summary">Tek tıkla Wi-Fi, mobil veri ve Bluetooth\'u etkinleştir/devre dışı bırak. Gelişmiş ayarları görmek için uzun basın</string>
   <string name="qs_tile_single_tap_title">Dokunurak ekle</string>
   <string name="qs_tile_single_tap_summary">Özelleştiricide kare üzerine tek dokunarak kare ekleme/kaldırma</string>
   <!-- Quick unlock -->
-  <string name="quick_unlock_warning">Hızlı Ekran Kilidi Açma uyarısı</string>
+  <string name="quick_unlock_warning">Hızlı ekran kilidi açma uyarısı</string>
   <string name="quick_unlock_warning_summary">Bu özellik önemli güvenlik mekanizmaları atlar ve neredeyse kesin birden çok kullanıcı desteğini kötüye kullanır. Sorumluluk size aittir</string>
   <string name="unlock_quick_unlock_control_title">Hızlı kilit aç</string>
   <string name="unlock_quick_unlock_control_summary">Doğru PIN/Şifre girildiğinde otomatik olarak kilidi aç</string>
@@ -111,7 +111,7 @@
   <string name="timeout_500">0.5 saniye</string>
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">Etkin</string>
-  <string name="summary_doze_disabled">Devre Dışı</string>
+  <string name="summary_doze_disabled">Devre dışı</string>
   <string name="doze_overwrite_value_title">Varsayılanların üzerine yaz</string>
   <string name="doze_overwrite_value_summary">Varsayılan değerleri kullanıcı yapılandırması ile geçersiz kılmaya izin ver</string>
   <string name="doze_pulse_title">Kullanıcı yapılandırılabilir ayarları</string>
@@ -138,10 +138,10 @@
   <string name="four_second">4 s</string>
   <string name="fourhalf_second">4.5 s</string>
   <string name="five_second">5 s</string>
-  <string name="doze_notification_color_invert_title">Bildirim rengini tersine döndür</string>
-  <string name="doze_notification_color_invert_summary_off">Bildirim renkleri tersine çevrilecek. Koyu temalar için kullanın</string>
-  <string name="doze_notification_color_invert_summary_on">Bildirim renkleri tersine çevrilmeyek. Açık temalar için kullanın</string>
-  <string name="ambient_display_show_battery_title">Pil Durumu</string>
+  <string name="doze_notification_color_invert_title">Bildirimleri ters çevir</string>
+  <string name="doze_notification_color_invert_summary_off">Bildirimler tersine çevrilmeyecek. Koyu temalar için kullanın</string>
+  <string name="doze_notification_color_invert_summary_on">Bildirimler tersine çevrilmeyecek. Açık temalar için kullanın</string>
+  <string name="ambient_display_show_battery_title">Pil durumu</string>
   <string name="ambient_display_show_battery_summary">Yanıp sönme sırasında pil göstergesini göster</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Tümünü temizle düğmesini etkinleştir</string>
