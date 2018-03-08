@@ -259,7 +259,7 @@
   <string name="lock_clock_font_stock">Normal (standart)</string>
   <string name="lock_clock_font_bold">Kalın</string>
   <string name="lock_clock_font_light">Parlak</string>
-  <string name="lock_clock_font_italic">Eğik</string>
+  <string name="lock_clock_font_italic">İtalik</string>
   <string name="lock_clock_font_bold_italic">Kalın Eğik</string>
   <string name="lock_clock_font_light_italic">İnce italik</string>
   <string name="lock_clock_font_thin_italic">İnce İtalik</string>
@@ -277,11 +277,11 @@
   <string name="screen_state_toggles_mobile_title">Mobil ağlar</string>
   <string name="screen_state_toggles_location_title">Konum</string>
   <string name="screen_state_toggles_twog">2G\'ye geç</string>
-  <string name="screen_state_toggles_twog_summary">Ağ modu ekran kapalıyken 2G olacak</string>
-  <string name="screen_state_toggles_gps">GPS\'i Devre Dışı Bırak</string>
-  <string name="screen_state_toggles_gps_summary">GPS tabanlı konum hizmetleri ekran kapanınca devre dışı bırakılacak</string>
+  <string name="screen_state_toggles_twog_summary">Ekran kapalıyken ağ modu 2G\'ye geçecek</string>
+  <string name="screen_state_toggles_gps">GPS kapat</string>
+  <string name="screen_state_toggles_gps_summary">GPS tabanlı konum hizmetleri ekran kapanınca devre dışı kalacak</string>
   <string name="screen_state_toggles_mobile_data">Mobil veriyi devre dışı bırak</string>
-  <string name="screen_state_toggles_mobile_data_summary">Mobil veri ekran kapanınca devre dışı bırakılsın</string>
+  <string name="screen_state_toggles_mobile_data_summary">Mobil veri ekran kapanınca devre dışı bırakılacak</string>
   <string name="screen_state_off_delay_title">Ekran Kapandığında eylemlerin gecikmesi</string>
   <string name="screen_state_off_delay_summary">Ekran kapandıktan sonra eylemleri gerçekleştirmek için beklenecek saniye miktarı</string>
   <string name="screen_state_on_delay_title">Açık ekran eylem gecikmesi</string>
@@ -294,7 +294,7 @@
   <string name="fp_fifteen_attempts">15 deneme</string>
   <!-- Lockscreen battery info indicator  -->
   <string name="lockscreen_battery_info_title">Şarj bilgisi</string>
-  <string name="lockscreen_battery_info_summary">Şarj olurken voltaj, batarya sıcaklığı ve akım bilgilerini görüntüle</string>
+  <string name="lockscreen_battery_info_summary">Şarj olurken kilit ekranında şarj cihazını akımını, voltajını ve pil sıcaklığını görüntüle</string>
   <!-- Status bar - Battery saver color -->
   <string name="status_bar_battery_saver_color_title">Pil tasarrufu rengi</string>
   <string name="status_bar_battery_saver_color_summary">Not: Pil tasarrufu zaten etkinleştirildiyse, yeni rengin etkili olması için pil tasarrufunu değiştirin!</string>
