@@ -24,7 +24,7 @@
   <string name="links_category">İndirme linkleri</string>
   <!-- ROM info -->
   <string name="latest_version">Son sürüm: %1$s</string>
-  <string name="unknown">Bilinmeyen</string>
+  <string name="unknown">Bilinmiyor</string>
   <string name="system_uptodate">Sisteminiz güncel</string>
   <!-- Check update -->
   <string name="check_update_title">Güncellemeleri kontrol et</string>
@@ -36,12 +36,12 @@
   <string name="interval_title">Otomatik güncelleştirme aralığı</string>
   <string name="autoupdate_enabled">Otomatik güncelleştirme etkin</string>
   <string name="autoupdate_disabled">Otomatik güncelleştirme devre dışı</string>
-  <string name="disabled">Devredışı</string>
+  <string name="disabled">Devre dışı</string>
   <string name="hour">Saat başı </string>
   <string name="twelve_hours">12 saatte bir</string>
   <string name="twentyfour_hours">24 saatte bir</string>
   <!-- Notification -->
-  <string name="notification_title">XenonHD güncelleştirme</string>
+  <string name="notification_title">XenonHD Güncellemeleri</string>
   <string name="notification_message">Yeni bir sürüm kullanılabilir!</string>
   <!-- Dialog -->
   <string name="dialog_message">Güncellemeler kontrol ediliyor, lütfen bekleyin&#8230;</string>
