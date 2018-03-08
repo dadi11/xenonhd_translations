@@ -62,12 +62,12 @@
   <string name="show_network_traffic_1500">1500 ms</string>
   <string name="show_network_traffic_2000">2000 ms</string>
   <string name="network_traffic_autohide">Otomatik gizle</string>
-  <string name="network_traffic_autohide_summary">Veri Akışı Olmadığında Ağ Trafiğini Gizle</string>
-  <string name="network_traffic_autohide_threshold">Faaliyet Sınırı</string>
-  <string name="network_traffic_hidearrow">Okları Gizle</string>
-  <string name="network_traffic_hidearrow_summary">Ok Göstergelerini Ve Ağ Trafiğini Gizle</string>
+  <string name="network_traffic_autohide_summary">Etkinlik olmadığında ağ etkinliğini gizle</string>
+  <string name="network_traffic_autohide_threshold">Hareketsizlik eşiği</string>
+  <string name="network_traffic_hidearrow">Okları gizle</string>
+  <string name="network_traffic_hidearrow_summary">Ağ trafiği göstergesindeki okları gizler</string>
   <!-- Superuser indicator on status bar -->
-  <string name="su_indicator">Superuser Göstergesi</string>
+  <string name="su_indicator">Superuser göstergesi</string>
   <string name="su_indicator_summary_on">Bir oturum etkin olduğunda superuser göstergesi görünür</string>
   <string name="su_indicator_summary_off">Bir oturumu etkin olduğunda yetkili kullanıcı göstergesi göstermek için Değiştir</string>
   <!--Status bar date -->
@@ -90,9 +90,9 @@
   <string name="pixel_navbar_anim_title">Gezinti çubuğu animasyonu</string>
   <string name="pixel_navbar_anim_summary">Uygulamak için gezinti çubuğunu yeniden aktif edin veya yeniden başlatın. Temalar bu ayarı geçersiz kılabilir</string>
   <!-- Torch -->
-  <string name="torch_long_press_power_gesture_title">El feneri için güç tuşuna uzun basma</string>
+  <string name="torch_long_press_power_gesture_title">Güç tuşu ile fener aç</string>
   <string name="torch_long_press_power_gesture_desc">El fenerini etkinleştirmek için ekran kapalıyken güç düğmesine uzun basın</string>
   <!-- One-handed mode -->
   <string name="one_handed_mode_title">Tek el modu</string>
-  <string name="one_handed_mode_summary">Tek el modunu etkinleştirmek için navigasyon barında kaydır</string>
+  <string name="one_handed_mode_summary">Tek el modu etkinleştirmek için gezinme çubuğunda kaydırmaya izin verir</string>
 </resources>
