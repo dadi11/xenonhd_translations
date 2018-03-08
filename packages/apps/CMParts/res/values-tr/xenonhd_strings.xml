@@ -14,21 +14,21 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Battery Bar -->
-  <string name="battery_bar_title">Pil Çubuğu</string>
-  <string name="battery_bar">Pil Çubuğu Konumu</string>
-  <string name="battery_bar_no_navbar">Pil Çubuğu Konumu</string>
-  <string name="battery_bar_color">Pil Çubuğu Rengi</string>
-  <string name="battery_bar_charging_color">Pil Çubuğu Şarj Rengi</string>
-  <string name="battery_bar_battery_low_color">Pil Çubuğu Düşük Pil Rengi</string>
-  <string name="battery_bar_cat">Pil Çubuğu Stili</string>
-  <string name="battery_bar_style_title">Pil Çubuğunu Hizala</string>
-  <string name="battery_bar_thickness_title">Pil Çubuğu Kalınlığı</string>
-  <string name="battery_bar_animate_title">ŞarJ Animasyonu</string>
-  <string name="battery_bar_style_regular">Kurallı</string>
-  <string name="battery_bar_style_center_mirrored">Merkez Ayna Yansıması</string>
-  <string name="battery_bar_style_reversed">Zıt</string>
-  <string name="battery_bar_use_gradient_color">Gradyan rengi kullan</string>
-  <string name="battery_bar_gradient_color_summary">Pil seviyesi için bir ölçek olarak gradyan renk kullanın</string>
+  <string name="battery_bar_title">Pil çubuğu</string>
+  <string name="battery_bar">Pil çubuğu konumu</string>
+  <string name="battery_bar_no_navbar">Pil çubuğu konumu</string>
+  <string name="battery_bar_color">Pil çubuğu rengi</string>
+  <string name="battery_bar_charging_color">Pil çubuğu şarj rengi</string>
+  <string name="battery_bar_battery_low_color">Pil çubuğu düşük pil rengi</string>
+  <string name="battery_bar_cat">Pil çubuğu stili</string>
+  <string name="battery_bar_style_title">Pil çubuğunu hizlama</string>
+  <string name="battery_bar_thickness_title">Pil çubuğu kalınlığı</string>
+  <string name="battery_bar_animate_title">Şarj animasyonu</string>
+  <string name="battery_bar_style_regular">Düzenli</string>
+  <string name="battery_bar_style_center_mirrored">Merkez aynalı</string>
+  <string name="battery_bar_style_reversed">Ters</string>
+  <string name="battery_bar_use_gradient_color">Eğim rengi kullan</string>
+  <string name="battery_bar_gradient_color_summary">Pil seviyesi için bir ölçek olarak eğim rengi kullanın</string>
   <string name="battery_bar_high_color">Yüksek düzey renk</string>
   <string name="battery_bar_low_color">Düşük düzey renk</string>
   <!-- Battery icon -->
@@ -36,32 +36,32 @@
   <!-- Brightness slider -->
   <string name="qs_brightness_slider_title">Parlaklık kaydırıcı</string>
   <string name="qs_brightness_slider_enabled">Etkin</string>
-  <string name="qs_brightness_slider_disabled">Devre Dışı</string>
-  <string name="brightness_icon_title">Parlaklık Simgesi </string>
+  <string name="qs_brightness_slider_disabled">Devre dışı</string>
+  <string name="brightness_icon_title">Parlaklık simgesi </string>
   <string name="brightness_icon_summary">Parlaklık kaydırıcının yanında otomatik parlaklığı ayarlamak için bir simge göster</string>
   <!-- Color Picker -->
-  <string name="dialog_color_picker">Renk Seçici</string>
-  <string name="press_color_to_apply">Uygulamak İstediğiniz Yere Basın</string>
+  <string name="dialog_color_picker">Renk seçici</string>
+  <string name="press_color_to_apply">Uygulamak İstediğiniz renge basın</string>
   <string name="hex">Hex:</string>
   <string name="set">Ayarla</string>
   <string name="color_default">Varsayılan</string>
   <!-- Network traffic -->
-  <string name="traffic_category">Trafik Göstergeleri</string>
-  <string name="network_traffic_title">Ağ Trafiği</string>
-  <string name="show_network_traffic_state">Ağ Trafiğini Durum Çubuğunda Göster</string>
-  <string name="show_network_traffic_unit">Ekran Birimi</string>
-  <string name="show_network_traffic_frequency">Güncelleme Sıklığı</string>
-  <string name="show_network_traffic_disable">Devre Dışı</string>
-  <string name="show_network_traffic_up">Giden</string>
-  <string name="show_network_traffic_down">Gelen</string>
-  <string name="show_network_traffic_all">Giden Ve Gelen</string>
-  <string name="show_network_traffic_bit">Bit/Saniye</string>
-  <string name="show_network_traffic_byte">Bayt/Saniye</string>
+  <string name="traffic_category">Trafik göstergeleri</string>
+  <string name="network_traffic_title">Ağ etkinliği</string>
+  <string name="show_network_traffic_state">Ağ etkinliğini durum çubuğunda göster</string>
+  <string name="show_network_traffic_unit">Görüntüleme ünitesi</string>
+  <string name="show_network_traffic_frequency">Güncelleme sıklığı</string>
+  <string name="show_network_traffic_disable">Devre dışı</string>
+  <string name="show_network_traffic_up">İndirme</string>
+  <string name="show_network_traffic_down">Yükleme</string>
+  <string name="show_network_traffic_all">İndirme ve Yükleme</string>
+  <string name="show_network_traffic_bit">Saniye başına bit</string>
+  <string name="show_network_traffic_byte">Saniye başına bayt</string>
   <string name="show_network_traffic_500">500 ms</string>
   <string name="show_network_traffic_1000">1000 ms</string>
   <string name="show_network_traffic_1500">1500 ms</string>
   <string name="show_network_traffic_2000">2000 ms</string>
-  <string name="network_traffic_autohide">Otomatik Gizle</string>
+  <string name="network_traffic_autohide">Otomatik gizle</string>
   <string name="network_traffic_autohide_summary">Veri Akışı Olmadığında Ağ Trafiğini Gizle</string>
   <string name="network_traffic_autohide_threshold">Faaliyet Sınırı</string>
   <string name="network_traffic_hidearrow">Okları Gizle</string>
