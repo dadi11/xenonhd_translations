@@ -21,7 +21,7 @@
   <string name="buttons_title">Tuşlar</string>
   <string name="gestures_title">Hareketler</string>
   <string name="lockscreen_title">Kilit ekranı</string>
-  <string name="misc_title">Çeşitler</string>
+  <string name="misc_title">Çeşitli</string>
   <string name="navigation_title">Gezinti çubuğu</string>
   <string name="power_title">Güç menüsü</string>
   <string name="qs_title">Hızlı ayarlar</string>
@@ -40,8 +40,8 @@
   <string name="cancel">İptal</string>
   <string name="save">Kaydet</string>
   <!-- Color Picker -->
-  <string name="dialog_color_picker">Renk Seçici</string>
-  <string name="press_color_to_apply">Uygulamak İstediğiniz Yere Basın</string>
+  <string name="dialog_color_picker">Renk seçici</string>
+  <string name="press_color_to_apply">Uygulamak İstediğiniz renge basın</string>
   <string name="hex">Hex:</string>
   <string name="set">Ayarla</string>
   <string name="color_default">Varsayılan</string>
@@ -55,20 +55,20 @@
   <string name="xenonota_summary">XenonHD Güncelleştirmelerini denetle</string>
   <!-- Launch music player when headset is connected -->
   <string name="headset_connect_player_title">Kulaklık bağlandığında müzik uygulamasını başlat</string>
-  <string name="headset_connect_player_disabled">Devre Dışı</string>
+  <string name="headset_connect_player_disabled">Devre dışı</string>
   <string name="headset_connect_player_wired">Kablolu kulaklık takıldığında</string>
   <string name="headset_connect_player_bt_no_carkit">BT kulaklık takıldığında (araç kiti değil)</string>
   <string name="headset_connect_player_bt">Bluetooth kulaklık takıldığında</string>
   <string name="headset_connect_player_both_no_carkit">Herhangi bir kulaklık takıldığında (araç kiti değil)</string>
   <string name="headset_connect_player_both">Herhangi bir kulaklık takıldığında</string>
   <!-- Power menu on secure lockscreen -->
-  <string name="lockscreen_power_menu_disabled_title">Kilit ekranında güç menüsü kapalı</string>
+  <string name="lockscreen_power_menu_disabled_title">Kilit ekranında güç menüsü</string>
   <string name="lockscreen_power_menu_disabled_summary">Güvenli kilit ekranında güç menüsünü devre dışı bırak</string>
   <!-- QS rows and columns -->
-  <string name="qs_category">Hızlı Ayar Kareleri</string>
+  <string name="qs_category">Hızlı ayarlar kareleri</string>
   <string name="qs_columns_landscape_title">Sütunlar - yatay</string>
   <string name="qs_columns_portrait_title">Sütunlar - dikey</string>
-  <string name="qs_rows_columns_title">Hızlı ayarlar satır ve sütunlar</string>
+  <string name="qs_rows_columns_title">Satırlar ve sütunlar</string>
   <string name="qs_rows_columns_summary">Satır ve sütun sayısını seç</string>
   <string name="qs_rows_landscape_title">Satırlar - yatay</string>
   <string name="qs_rows_portrait_title">Satırlar - dikey</string>
@@ -79,8 +79,8 @@
   <string name="status_bar_clock_title">Saat seçenekleri</string>
   <string name="status_bar_show_clock_title">Saati &amp; tarihi göster</string>
   <string name="clock_title_enable">Konum</string>
-  <string name="right_clock">Sağ</string>
-  <string name="center_clock">Merkez</string>
+  <string name="right_clock">Saat sağda</string>
+  <string name="center_clock">Saat ortada</string>
   <string name="status_bar_clock_seconds_title">Saniye göster</string>
   <string name="status_bar_clock_seconds_summary">Durum çubuğundaki saatin yanında bir saniye gösterir</string>
   <string name="status_bar_am_pm_title">AM/PM</string>
