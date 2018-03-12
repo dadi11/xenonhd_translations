@@ -37,7 +37,7 @@
   <string name="vendor_version">Vendor sürümü</string>
   <string name="vendor_version_default">Bilinmiyor</string>
   <!-- Screenshot sound -->
-  <string name="screenshot_sound_title">Ekran görüntüsü sesi</string>
+  <string name="screenshot_sound_title">Ekran görüntü sesi</string>
   <string name="screenshot_sound_summary">Ekran görüntüsü alındığında ses efekti çıkar</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
   <string name="local_backup_password_title">Masaüstü yedekleme şifresi</string>
