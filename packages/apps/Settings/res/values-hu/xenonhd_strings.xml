@@ -93,6 +93,8 @@
   <string name="qs_columns_title">Oszlopok</string>
   <string name="qs_easy_toggle_title">Haladó gyorskapcsoló csempe</string>
   <string name="qs_easy_toggle_summary">Engedélyezése után egy érintéssel kapcsolja ki/be a Wi-Fi-t, mobil adatkapcsolatot és Bluetooth-t. Hosszan nyomásukra visz a haladó beállításokba</string>
+  <string name="qs_tile_single_tap_title">Csempe egyszeri érintése</string>
+  <string name="qs_tile_single_tap_summary">Kezelje a csempéket egyszeri érintésükkel a szerkesztő nézetben</string>
   <!-- Quick unlock -->
   <string name="quick_unlock_warning">Gyors feloldási figyelmeztetés</string>
   <string name="quick_unlock_warning_summary">Ez a funkció mellőzi a fontos biztonsági mechanizmusokat és majdnem biztosan rosszul kezeli a többfelhasználós módot. Használja saját felelősségre</string>
