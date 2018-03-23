@@ -19,9 +19,9 @@
   <!-- Quick Settings tiles -->
   <string name="quick_settings_screenshot_label">Screenshot</string>
   <string name="quick_settings_reboot_label">Riavvia</string>
-  <string name="quick_settings_reboot_recovery_label">Riavvia in recovery</string>
+  <string name="quick_settings_reboot_recovery_label">Riavvia in modalità di ripristino</string>
   <string name="quick_settings_music_label">Musica</string>
-  <string name="quick_settings_music_play">Riproduci musica</string>
+  <string name="quick_settings_music_play">Riproduci</string>
   <string name="quick_settings_music_pause">Pausa</string>
   <string name="quick_settings_ime_tile_label">Metodo di immissione</string>
   <!-- Text to use when the number in a notification info is too large
@@ -38,11 +38,11 @@
   <string name="pirate_spec">pirata</string>
   <!-- QS Lockscreen Tile -->
   <string name="quick_settings_lockscreen_label">Schermata di blocco</string>
-  <string name="quick_settings_lockscreen_label_enforced">Blocco schermo forzata</string>
+  <string name="quick_settings_lockscreen_label_enforced">Schermata di blocco forzata</string>
   <string name="accessibility_quick_settings_lock_screen_off">Schermata di blocco disattivata</string>
-  <string name="accessibility_quick_settings_lock_screen_on">Schermata di blocco attiva</string>
+  <string name="accessibility_quick_settings_lock_screen_on">Schermata di blocco attivata</string>
   <string name="accessibility_quick_settings_lock_screen_changed_off">Schermata di blocco spenta</string>
-  <string name="accessibility_quick_settings_lock_screen_changed_on">Schermata di blocco accesa</string>
+  <string name="accessibility_quick_settings_lock_screen_changed_on">Schermata di blocco attivata</string>
   <!-- VoLTE icon switch -->
   <string name="status_bar_volte">VoLTE</string>
 </resources>
