@@ -16,13 +16,24 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- In-call vibrations -->
+  <string name="incall_vibration_category_title">Hívás közbeni rezgés</string>
+  <string name="incall_vibrate_outgoing_title">Válaszkor rezgés</string>
+  <string name="incall_vibrate_call_waiting_title">Hívásvárakoztatáskor rezgés</string>
+  <string name="incall_vibrate_hangup_title">Hívás bontásakor rezgés</string>
   <string name="incall_vibrate_45_title">Percenként rezeg</string>
+  <string name="incall_vibrate_45_summary">Minden perc 45. másodpercében rezeg a kimenő hívások során</string>
   <!-- Smart Options -->
   <string name="smart_category_title">Egyéb lehetőségek</string>
   <string name="smart_mute_title">Intelligens némítás</string>
+  <string name="smart_mute_summary">A készülék megfordítása elnémítja a bejövő hívást</string>
   <!-- Proximity speaker -->
+  <string name="speaker_settings_label">Kihangosítás távolság alapján</string>
+  <string name="prox_auto_speaker_title">Kihangosítás távolság alapján automatikusan</string>
   <string name="prox_auto_speaker_summary">Kihangosítás automatikus engedélyezése, ha a telefon eltávolodik a fültől</string>
   <string name="prox_auto_speaker_delay_title">Kihangosítás késleltetése</string>
   <string name="prox_auto_speaker_delay_dialog_title">Kihangosítás késleltetése (ms)</string>
+  <string name="prox_auto_speaker_delay_summary">Kihangosító aktiválódik <xliff:g id="number">%d</xliff:g> ms múlva</string>
   <string name="prox_auto_speaker_incall_only_title">Csak hívás közben</string>
+  <string name="prox_auto_speaker_incall_only_summary_on">A kimenő hívások esetén a hallgató csak akkor lesz aktív, miután a fogadó fél válaszolt</string>
+  <string name="prox_auto_speaker_incall_only_summary_off">Hallgató aktív lesz az összes felvett telefonállapot alatt (alapértelmezett)</string>
 </resources>
