@@ -14,9 +14,9 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
   <string name="xenonhd_version">XenonHD Sürümü</string>
-  <string name="xenonhd_version_default">Bilinmeyen</string>
+  <string name="xenonhd_version_default">Bilinmiyor</string>
   <string name="xenonhd_maintainer">Sorumlu</string>
-  <string name="xenonhd_maintainer_default">Bilinmeyen</string>
+  <string name="xenonhd_maintainer_default">Bilinmiyor</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Değişiklikler</string>
   <string name="changelog_xenonhd_error">Değişiklik kaydı yüklenemedi</string>
@@ -91,12 +91,12 @@
   <string name="qs_rows_portrait_title">Satırlar (dikey)</string>
   <string name="qs_rows_landscape_title">Satırlar (yatay)</string>
   <string name="qs_columns_title">Sütunlar</string>
-  <string name="qs_easy_toggle_title">Gelişmiş Hızlı Ayar Kolay Geçiş</string>
+  <string name="qs_easy_toggle_title">Gelişmiş kare kolay ğeçiş</string>
   <string name="qs_easy_toggle_summary">Tek tıkla Wi-Fi, mobil veri ve Bluetooth\'u etkinleştir/devre dışı bırak. Gelişmiş ayarları görmek için uzun basın</string>
   <string name="qs_tile_single_tap_title">Dokunurak ekle</string>
   <string name="qs_tile_single_tap_summary">Özelleştiricide kare üzerine tek dokunarak kare ekleme/kaldırma</string>
   <!-- Quick unlock -->
-  <string name="quick_unlock_warning">Hızlı Ekran Kilidi Açma uyarısı</string>
+  <string name="quick_unlock_warning">Hızlı ekran kilidi açma uyarısı</string>
   <string name="quick_unlock_warning_summary">Bu özellik önemli güvenlik mekanizmaları atlar ve neredeyse kesin birden çok kullanıcı desteğini kötüye kullanır. Sorumluluk size aittir</string>
   <string name="unlock_quick_unlock_control_title">Hızlı kilit aç</string>
   <string name="unlock_quick_unlock_control_summary">Doğru PIN/Şifre girildiğinde otomatik olarak kilidi aç</string>
@@ -111,7 +111,7 @@
   <string name="timeout_500">0.5 saniye</string>
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">Etkin</string>
-  <string name="summary_doze_disabled">Devre Dışı</string>
+  <string name="summary_doze_disabled">Devre dışı</string>
   <string name="doze_overwrite_value_title">Varsayılanların üzerine yaz</string>
   <string name="doze_overwrite_value_summary">Varsayılan değerleri kullanıcı yapılandırması ile geçersiz kılmaya izin ver</string>
   <string name="doze_pulse_title">Kullanıcı yapılandırılabilir ayarları</string>
@@ -138,15 +138,15 @@
   <string name="four_second">4 s</string>
   <string name="fourhalf_second">4.5 s</string>
   <string name="five_second">5 s</string>
-  <string name="doze_notification_color_invert_title">Bildirim rengini tersine döndür</string>
-  <string name="doze_notification_color_invert_summary_off">Bildirim renkleri tersine çevrilecek. Koyu temalar için kullanın</string>
-  <string name="doze_notification_color_invert_summary_on">Bildirim renkleri tersine çevrilmeyek. Açık temalar için kullanın</string>
-  <string name="ambient_display_show_battery_title">Pil Durumu</string>
+  <string name="doze_notification_color_invert_title">Bildirimleri ters çevir</string>
+  <string name="doze_notification_color_invert_summary_off">Bildirimler tersine çevrilmeyecek. Koyu temalar için kullanın</string>
+  <string name="doze_notification_color_invert_summary_on">Bildirimler tersine çevrilmeyecek. Açık temalar için kullanın</string>
+  <string name="ambient_display_show_battery_title">Pil durumu</string>
   <string name="ambient_display_show_battery_summary">Yanıp sönme sırasında pil göstergesini göster</string>
   <!-- Recents panel settings -->
-  <string name="show_clear_all_recents_button_title">Tümünü temizle düğmesini etkinleştir</string>
-  <string name="show_clear_all_recents_button_summary">Tümünü temizle düğmesini göster</string>
-  <string name="recents_clear_all_location_title">Tümünü temizle butonu konumu</string>
+  <string name="show_clear_all_recents_button_title">Tümünü temizle tuşunu göster</string>
+  <string name="show_clear_all_recents_button_summary">Son uygulamalar kullanırken tümünü temizle tuşunu göster</string>
+  <string name="recents_clear_all_location_title">Tuş konumu</string>
   <string name="recents_clear_all_location_top_right">Sağ üst</string>
   <string name="recents_clear_all_location_top_left">Sol üst</string>
   <string name="recents_clear_all_location_top_center">Üst orta</string>
@@ -154,7 +154,7 @@
   <string name="recents_clear_all_location_bottom_left">Sol alt</string>
   <string name="recents_clear_all_location_bottom_center">Alt orta</string>
   <!-- Dashboard options -->
-  <string name="dashboard_category">Kontrol paneli ayarları</string>
+  <string name="dashboard_category">Ayarlar menüsü seçenekleri</string>
   <string name="dashboard_suggestions_title">Öneriler</string>
   <string name="summary_dashboard_suggestions_enabled">Ayarlar menüsü önerileri etkin</string>
   <string name="summary_dashboard_suggestions_disabled">Ayarlar menüsü önerileri devre dışı</string>
@@ -164,14 +164,14 @@
   <string name="dashboard_conditions_title">Durumlar</string>
   <string name="summary_dashboard_conditions_enabled">Ayarlar menüsü durumları etkin</string>
   <string name="summary_dashboard_conditions_disabled">Ayarlar menüsü durumları devre dışı</string>
-  <string name="dashboard_columns_title">Kontrol paneli sütunları</string>
-  <string name="dashboard_columns_summary">Kontrol panelinin sütun sayısını değiştirme</string>
+  <string name="dashboard_columns_title">Ayarlar menüsü sütunları</string>
+  <string name="dashboard_columns_summary">Ayarlar menüsü sütun sayısını değiştirme</string>
   <string name="dashboard_columns_portrait_title">Sütunlar (dikey)</string>
   <string name="dashboard_columns_landscape_title">Sütunlar (yatay)</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
   <string name="hide_lockscreen_clock_title">Saat widgeti</string>
-  <string name="hide_lockscreen_clock_summary_on">Saat widgeti lockscreen üzerinde gösteriliyor</string>
-  <string name="hide_lockscreen_clock_summary_off">Saat widgeti lockscreen üzerinde gizlendi</string>
+  <string name="hide_lockscreen_clock_summary_on">Saat widgeti kilit ekranı üzerinde gösteriliyor</string>
+  <string name="hide_lockscreen_clock_summary_off">Saat widgeti kilit ekranı üzerinde gösterilmiyor</string>
   <string name="hide_lockscreen_date_title">Tarih widgeti</string>
   <string name="hide_lockscreen_date_summary_on">Gösterilen saat widget altında tarih açık</string>
   <string name="hide_lockscreen_date_summary_off">Saat widget altında tarih gizli</string>
@@ -179,14 +179,14 @@
   <string name="hide_lockscreen_alarm_summary_on">Alarm metin altında gösterilen saat widgeti açık</string>
   <string name="hide_lockscreen_alarm_summary_off">Alarm metin altında saat widgeti gizli</string>
   <!-- Emergency button -->
-  <string name="emergency_button_title">Acil durum butonu</string>
-  <string name="emergency_button_summary_on">Acil durum butonu kilit ekranında gösterilir</string>
-  <string name="emergency_button_summary_off">Acil durum butonu kilit ekranında gizlenir</string>
+  <string name="emergency_button_title">Acil durum tuşu</string>
+  <string name="emergency_button_summary_on">Acil durum tuşu kilit ekranında gösteriliyor</string>
+  <string name="emergency_button_summary_off">Acil durum tuşu kilit ekranında gösterilmiyor</string>
   <!-- Fingerprint authentication vibration -->
   <string name="fprint_sucess_vib_title">Parmak izi doğrulama titreşimi</string>
   <string name="fprint_sucess_vib_summary">Başarılı parmak izi kimlik doğrulanmasında titre</string>
   <!-- Fingerprint unlock keystore -->
-  <string name="fp_unlock_keystore_title">Yeniden başlatmadan sonra parmakizi ile kilit açma</string>
+  <string name="fp_unlock_keystore_title">Yeniden başlatmadan sonra parmak izi ile kilit açma</string>
   <string name="fp_unlock_keystore_summary">Her zaman, yeniden başlatıldıktan sonra bile parmak izi ile kilit açma</string>
   <!-- Hide Statusbar on Lockscreen -->
   <string name="lockscreen_hide_status_bar_title">Durum çubuğunu gizle</string>
@@ -195,38 +195,38 @@
   <string name="force_authorize_substratum_packages_title">Her tema uygulamasını zorla yetkilendir</string>
   <string name="force_authorize_substratum_packages_summary">Bilinmeyen kaynaklardan tema uygulamalarına izin ver</string>
   <!-- QS tile labels visibility -->
-  <string name="qs_menu_item_titles">QS başlıkları</string>
+  <string name="qs_menu_item_titles">Hızlı ayarlar kare başlıkları</string>
   <string name="qs_menu_item_titles_summaryOn">Etiketler açık</string>
   <string name="qs_menu_item_titles_summaryOff">Etiketler gizli</string>
   <!-- Color Picker -->
-  <string name="dialog_color_picker">Renk Seçici</string>
-  <string name="press_color_to_apply">Uygulamak İstediğiniz Yere Basın</string>
+  <string name="dialog_color_picker">Renk seçici</string>
+  <string name="press_color_to_apply">Uygulamak İstediğiniz renge basın</string>
   <string name="hex">Hex:</string>
   <string name="set">Ayarla</string>
   <string name="color_default">Varsayılan</string>
   <!-- Carrier label -->
-  <string name="carrier_title">Operatör Etiketi</string>
+  <string name="carrier_title">Operatör etiketi</string>
   <string name="carrier_options_summary">Operatör etiketini özelleştir</string>
-  <string name="custom_carrier_label_title">Özel Operatör Etiketi</string>
+  <string name="custom_carrier_label_title">Özel operatör etiketi</string>
   <string name="custom_carrier_label_explain">Lütfen yeni bir etiket girin. Varsayılan etikete dönmek için boş bırakın.</string>
   <string name="custom_carrier_label_notset">Şu anda özel etiket etkin değil</string>
   <string name="show_carrier_title">Operatör etiketi</string>
-  <string name="show_carrier_disabled">Devre Dışı</string>
-  <string name="show_carrier_keyguard">Sadece kilit ekranı</string>
+  <string name="show_carrier_disabled">Devre dışı</string>
+  <string name="show_carrier_keyguard">Yalnızca kilit ekranı</string>
   <string name="show_carrier_statusbar">Yalnızca durum çubuğu</string>
-  <string name="show_carrier_both">Kilit ekranı ve durum çubuğu</string>
-  <string name="show_carrier_enabled">Kilit ekranı ve durum çubuğu</string>
-  <string name="status_bar_carrier_color">Operatör Etiket Rengi</string>
+  <string name="show_carrier_both">Kilit ekranı ve Durum çubuğu</string>
+  <string name="show_carrier_enabled">Kilit ekranı ve Durum çubuğu</string>
+  <string name="status_bar_carrier_color">Operatör etiket rengi</string>
   <string name="status_bar_carrier_size">Operatör etiketi yazı boyutu</string>
   <string name="status_bar_carrier_font_style_title">Operatör etiketi fontu</string>
   <string name="number_of_notifications_title">Bildirim sayısı</string>
-  <string name="carrier_label_hide_label_title">Bildirim gelince gizlenir</string>
-  <string name="carrier_label_number_of_notification_icons_title">Simgeleri gizlemeden önceki maks ikon sayısı</string>
+  <string name="carrier_label_hide_label_title">Bildirimlerde gizle</string>
+  <string name="carrier_label_number_of_notification_icons_title">Gizlemeden önce en fazla simge sayısı</string>
   <string name="status_bar_font_style_title">Yazı tipi</string>
   <string name="status_bar_font_normal">Normal</string>
-  <string name="status_bar_font_italic">Eğik</string>
+  <string name="status_bar_font_italic">İtalik</string>
   <string name="status_bar_font_bold">Kalın</string>
-  <string name="status_bar_font_bold_italic">Kalın Eğik</string>
+  <string name="status_bar_font_bold_italic">Kalın İtalik</string>
   <string name="status_bar_font_light">Parlak</string>
   <string name="status_bar_font_light_italic">İnce italik</string>
   <string name="status_bar_font_thin">Seyrek</string>
@@ -255,11 +255,11 @@
   <string name="lockclock_font_size_title">Saat yazı tipi boyutu</string>
   <string name="lock_date_font_summary">Tarih yazı tipini özelleştirme</string>
   <string name="lock_date_font_title">Tarih</string>
-  <string name="lock_clock_font_dialog_title">Kilit Ekranı Saat Yazı Tipini Seç</string>
+  <string name="lock_clock_font_dialog_title">Saat yazı tipini seç</string>
   <string name="lock_clock_font_stock">Normal (standart)</string>
   <string name="lock_clock_font_bold">Kalın</string>
   <string name="lock_clock_font_light">Parlak</string>
-  <string name="lock_clock_font_italic">Eğik</string>
+  <string name="lock_clock_font_italic">İtalik</string>
   <string name="lock_clock_font_bold_italic">Kalın Eğik</string>
   <string name="lock_clock_font_light_italic">İnce italik</string>
   <string name="lock_clock_font_thin_italic">İnce İtalik</string>
@@ -277,11 +277,11 @@
   <string name="screen_state_toggles_mobile_title">Mobil ağlar</string>
   <string name="screen_state_toggles_location_title">Konum</string>
   <string name="screen_state_toggles_twog">2G\'ye geç</string>
-  <string name="screen_state_toggles_twog_summary">Ağ modu ekran kapalıyken 2G olacak</string>
-  <string name="screen_state_toggles_gps">GPS\'i Devre Dışı Bırak</string>
-  <string name="screen_state_toggles_gps_summary">GPS tabanlı konum hizmetleri ekran kapanınca devre dışı bırakılacak</string>
+  <string name="screen_state_toggles_twog_summary">Ekran kapalıyken ağ modu 2G\'ye geçecek</string>
+  <string name="screen_state_toggles_gps">GPS kapat</string>
+  <string name="screen_state_toggles_gps_summary">GPS tabanlı konum hizmetleri ekran kapanınca devre dışı kalacak</string>
   <string name="screen_state_toggles_mobile_data">Mobil veriyi devre dışı bırak</string>
-  <string name="screen_state_toggles_mobile_data_summary">Mobil veri ekran kapanınca devre dışı bırakılsın</string>
+  <string name="screen_state_toggles_mobile_data_summary">Mobil veri ekran kapanınca devre dışı bırakılacak</string>
   <string name="screen_state_off_delay_title">Ekran Kapandığında eylemlerin gecikmesi</string>
   <string name="screen_state_off_delay_summary">Ekran kapandıktan sonra eylemleri gerçekleştirmek için beklenecek saniye miktarı</string>
   <string name="screen_state_on_delay_title">Açık ekran eylem gecikmesi</string>
@@ -294,7 +294,7 @@
   <string name="fp_fifteen_attempts">15 deneme</string>
   <!-- Lockscreen battery info indicator  -->
   <string name="lockscreen_battery_info_title">Şarj bilgisi</string>
-  <string name="lockscreen_battery_info_summary">Şarj olurken voltaj, batarya sıcaklığı ve akım bilgilerini görüntüle</string>
+  <string name="lockscreen_battery_info_summary">Şarj olurken kilit ekranında şarj cihazını akımını, voltajını ve pil sıcaklığını görüntüle</string>
   <!-- Status bar - Battery saver color -->
   <string name="status_bar_battery_saver_color_title">Pil tasarrufu rengi</string>
   <string name="status_bar_battery_saver_color_summary">Not: Pil tasarrufu zaten etkinleştirildiyse, yeni rengin etkili olması için pil tasarrufunu değiştirin!</string>

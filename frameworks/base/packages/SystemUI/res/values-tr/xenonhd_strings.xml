@@ -17,11 +17,11 @@
   <!-- Status bar items tuner -->
   <string name="statusbar_icons_blacklist">Durum çubuğu simgeleri</string>
   <!-- Quick Settings tiles -->
-  <string name="quick_settings_screenshot_label">Ekran Görüntüsü</string>
-  <string name="quick_settings_reboot_label">Yeniden Başlat</string>
+  <string name="quick_settings_screenshot_label">Ekran görüntüsü</string>
+  <string name="quick_settings_reboot_label">Yeniden başlat</string>
   <string name="quick_settings_reboot_recovery_label">Kurtarma modu (Recovery)</string>
   <string name="quick_settings_music_label">Müzik</string>
-  <string name="quick_settings_music_play">Yürüt</string>
+  <string name="quick_settings_music_play">Oynat</string>
   <string name="quick_settings_music_pause">Duraklat</string>
   <string name="quick_settings_ime_tile_label">Giriş yöntemi</string>
   <!-- Text to use when the number in a notification info is too large
