@@ -55,8 +55,8 @@
   <string name="ambient_display_media_cat">In riproduzione</string>
   <string name="force_ambient_for_media_pref_title">Ticker musica Ambient</string>
   <string name="force_ambient_for_media_off">Disabilitato</string>
-  <string name="force_ambient_for_media_on">Attivo</string>
-  <string name="force_ambient_for_media_on_forced">Attivo e forzato</string>
-  <string name="force_ambient_for_media_on_forced_clean">Attivo e minimale</string>
+  <string name="force_ambient_for_media_on">Abilitato</string>
+  <string name="force_ambient_for_media_on_forced">Forzato</string>
+  <string name="force_ambient_for_media_on_forced_clean">Abilitato con stile minimale</string>
   <string name="ambient_ticker_footer">Il Ticker Musica Ambient permette di mostrare il nome del brano riprodotto sulla schermata di blocco con o senza aver abilitato il display Ambient.\nPuoi selezionare fino a due layout: normale e minimale. Seppur questa funzione utilizza il Display Ambient, questa funzione è indipendente da esso.</string>
 </resources>
