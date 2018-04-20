@@ -76,6 +76,7 @@
   <string name="xenonhd_lockscreen_title">Ecrã de bloqueio</string>
   <string name="xenonhd_ui_title">Interface do Utilizador</string>
   <!-- Selinux Switch -->
+  <string name="selinux_switch_title">Precaução ao alterar o modo SELinux</string>
   <!-- Recents Membar -->
   <!-- Quick settings config -->
   <!-- Quick unlock -->
