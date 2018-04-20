@@ -17,20 +17,32 @@
   -->
 <resources>
   <!-- App -->
-  <string name="app_name">OTA Xenon</string>
-  <string name="app_title">Actualizações XenonHD</string>
+  <string name="app_name">XenonOTA</string>
+  <string name="app_title">Atualizações XenonHD</string>
   <!-- Categories -->
+  <string name="ota_category">Atualizar informações</string>
+  <string name="links_category">Links para download</string>
   <!-- ROM info -->
+  <string name="latest_version">Última versão: %1$s</string>
   <string name="unknown">Desconhecido</string>
+  <string name="system_uptodate">O seu sistema está atualizado</string>
   <!-- Check update -->
+  <string name="check_update_title">Procurar atualizações</string>
+  <string name="last_check_summary">Última verificação: %1$s</string>
+  <string name="last_check_never">Nunca</string>
+  <string name="check_update_failed">Não é possível procurar por atualizações, verifique se o seu dispositivo é suportado pelo XenonHD</string>
+  <string name="no_update_available">Sem atualizações disponíveis</string>
   <!-- Update interval -->
-  <string name="disabled">Desactivado</string>
+  <string name="interval_title">Intervalo de atualização automática</string>
+  <string name="autoupdate_enabled">A atualização automática está ativada</string>
+  <string name="autoupdate_disabled">A atualização automática está desativada</string>
+  <string name="disabled">Desativado</string>
   <string name="hour">A cada hora</string>
   <string name="twelve_hours">A cada 12 horas</string>
   <string name="twentyfour_hours">A cada 24 horas</string>
   <!-- Notification -->
-  <string name="notification_title">Actualização XenonHD</string>
+  <string name="notification_title">Atualização XenonHD</string>
   <string name="notification_message">Nova versão disponível!</string>
   <!-- Dialog -->
-  <string name="dialog_message">A verificar actualizações. Por favor, aguarde&#8230;</string>
+  <string name="dialog_message">A procurar por atualizações, por favor aguarde&#8230;</string>
 </resources>
