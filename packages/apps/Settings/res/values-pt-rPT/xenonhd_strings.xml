@@ -77,11 +77,27 @@
   <string name="xenonhd_ui_title">Interface do Utilizador</string>
   <!-- Selinux Switch -->
   <string name="selinux_switch_title">Precaução ao alterar o modo SELinux</string>
+  <string name="selinux_switch_summary">SELinux é um conjunto de modificações do kernel e ferramentas do user-space. Alterar os modos requer acesso root e pode causar efeitos indesejados. É recomendado o modo Permissive. Use por sua conta e risco</string>
+  <string name="selinux_title">Modo do SELinux</string>
+  <string name="selinux_permissive_title">Permissive</string>
+  <string name="selinux_enforcing_title">Enforcing</string>
+  <string name="selinux_permissive_toast_title">SELinux definido como Permissive!</string>
   <!-- Recents Membar -->
+  <string name="recents_membar">Barra de Memória</string>
+  <string name="systemui_recents_mem_display_title">Mostrar Barra de Memória</string>
+  <string name="systemui_recents_mem_display_summary">Mostrar RAM disponível na vista de apps recentes</string>
   <!-- Quick settings config -->
+  <string name="qs_layout_category">Opções de Quick Settings</string>
+  <string name="qs_rows_portrait_title">Linhas (retrato)</string>
+  <string name="qs_rows_landscape_title">Linhas (paisagem)</string>
+  <string name="qs_columns_title">Colunas</string>
   <!-- Quick unlock -->
   <!-- Three-fingers-swipe to screenshot -->
   <!-- Long press back to kill configurable timeout -->
+  <string name="timeout_2000">2 segundos (pré-definição)</string>
+  <string name="timeout_1500">1,5 segundos</string>
+  <string name="timeout_1000">1 segundo</string>
+  <string name="timeout_500">0,5 segundos</string>
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">Activado</string>
   <string name="summary_doze_disabled">Desactivado</string>
