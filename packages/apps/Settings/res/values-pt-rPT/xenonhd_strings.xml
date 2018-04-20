@@ -101,6 +101,10 @@
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">Activado</string>
   <string name="summary_doze_disabled">Desactivado</string>
+  <string name="one_second">1 s</string>
+  <string name="onehalf_second">1.5 s</string>
+  <string name="two_second">2 s</string>
+  <string name="three_second_default">3 s (predefinição)</string>
   <string name="threehalf_second">3.5 s</string>
   <string name="four_second">4 s</string>
   <string name="fourhalf_second">4.5 s</string>
