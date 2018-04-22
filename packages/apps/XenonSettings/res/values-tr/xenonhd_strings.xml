@@ -72,9 +72,6 @@
   <string name="qs_rows_columns_summary">Satır ve sütun sayısını seç</string>
   <string name="qs_rows_landscape_title">Satırlar - yatay</string>
   <string name="qs_rows_portrait_title">Satırlar - dikey</string>
-  <!-- Status bar - Battery saver color -->
-  <string name="status_bar_battery_saver_color_title">Pil tasarrufu rengi</string>
-  <string name="status_bar_battery_saver_color_summary">Not: Pil tasarrufu zaten etkin ise, yeni renk efektinin aktif olması için, pil tasarrufunu kapatıp tekrar açın!</string>
   <!-- Statusbar Clock options -->
   <string name="status_bar_clock_title">Saat seçenekleri</string>
   <string name="status_bar_show_clock_title">Saati &amp; tarihi göster</string>
@@ -105,4 +102,18 @@
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Hızlı kilit aç</string>
   <string name="unlock_quick_unlock_control_summary">Doğru PIN/Şifre girildiğinde otomatik olarak kilidi aç</string>
+  <!-- Recents Membar -->
+  <!-- Clear all recents -->
+  <string name="recents_clear_all_location_title">Tuş konumu</string>
+  <string name="recents_clear_all_location_top_right">Sağ üst</string>
+  <string name="recents_clear_all_location_top_left">Sol üst</string>
+  <string name="recents_clear_all_location_top_center">Üst orta</string>
+  <string name="recents_clear_all_location_bottom_right">Sağ alt</string>
+  <string name="recents_clear_all_location_bottom_left">Sol alt</string>
+  <string name="recents_clear_all_location_bottom_center">Alt orta</string>
+  <!-- Battery Styles -->
+  <string name="battery_percent_none">Gösterme</string>
+  <!-- Quick Settings brightness icon -->
+  <!-- Option to show brightness bar in quick settings -->
+  <string name="show_brightness_title">Parlaklık kaydırıcı</string>
 </resources>
