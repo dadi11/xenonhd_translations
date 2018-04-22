@@ -20,6 +20,7 @@
   <!-- Categories -->
   <string name="lockscreen_title">Ecrã de bloqueio</string>
   <string name="misc_title">Diversos</string>
+  <string name="xenonhd_title">Hub XenonHD</string>
   <string name="xenonsettings_title">Configurações XenonHD</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Registo de alterações</string>
