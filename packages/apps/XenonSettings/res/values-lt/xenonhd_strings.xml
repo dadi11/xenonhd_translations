@@ -35,7 +35,6 @@
   <string name="headset_connect_player_disabled">Išjungta</string>
   <!-- Power menu on secure lockscreen -->
   <!-- QS rows and columns -->
-  <!-- Status bar - Battery saver color -->
   <!-- Statusbar Clock options -->
   <string name="clock_date_display">Data</string>
   <string name="clock_date_style">Datos stilius</string>
@@ -45,4 +44,15 @@
   <string name="clock_date_style_uppercase">Didžiosios raidės</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Greitas atrakinimas</string>
+  <!-- Recents Membar -->
+  <!-- Clear all recents -->
+  <string name="recents_clear_all_location_top_right">Viršuje dešinėje</string>
+  <string name="recents_clear_all_location_top_left">Viršuje kairėje</string>
+  <string name="recents_clear_all_location_top_center">Viršuje per vidurį</string>
+  <string name="recents_clear_all_location_bottom_right">Apačioje dešinėje</string>
+  <string name="recents_clear_all_location_bottom_left">Apačioje kairėje</string>
+  <string name="recents_clear_all_location_bottom_center">Apačioje per vidurį</string>
+  <!-- Battery Styles -->
+  <!-- Quick Settings brightness icon -->
+  <!-- Option to show brightness bar in quick settings -->
 </resources>
