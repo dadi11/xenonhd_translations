@@ -72,9 +72,6 @@
   <string name="qs_rows_columns_summary">Ajuste o número de linhas das configurações rápidas e colunas</string>
   <string name="qs_rows_landscape_title">Linhas (paisagem)</string>
   <string name="qs_rows_portrait_title">Linhas (retrato)</string>
-  <!-- Status bar - Battery saver color -->
-  <string name="status_bar_battery_saver_color_title">Cor de economia de bateria</string>
-  <string name="status_bar_battery_saver_color_summary">Nota: Se a economia de bateria já estiver ativada, para que a nova cor funcione, desative a economia de bateria!</string>
   <!-- Statusbar Clock options -->
   <string name="status_bar_clock_title">Opções do relógio</string>
   <string name="status_bar_show_clock_title">Mostrar o relógio e data</string>
@@ -105,4 +102,18 @@
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Desbloqueio rápido</string>
   <string name="unlock_quick_unlock_control_summary">Desbloquear automaticamente quando o PIN/senha correto for inserido</string>
+  <!-- Recents Membar -->
+  <!-- Clear all recents -->
+  <string name="recents_clear_all_location_title">Posição do botão Limpar Tudo</string>
+  <string name="recents_clear_all_location_top_right">Superior Direito</string>
+  <string name="recents_clear_all_location_top_left">Superior esquerdo</string>
+  <string name="recents_clear_all_location_top_center">Centro superior</string>
+  <string name="recents_clear_all_location_bottom_right">Inferior direito</string>
+  <string name="recents_clear_all_location_bottom_left">Inferior esquerdo</string>
+  <string name="recents_clear_all_location_bottom_center">Centro inferior</string>
+  <!-- Battery Styles -->
+  <string name="battery_percent_none">Não mostrar</string>
+  <!-- Quick Settings brightness icon -->
+  <!-- Option to show brightness bar in quick settings -->
+  <string name="show_brightness_title">Controle de brilho</string>
 </resources>
