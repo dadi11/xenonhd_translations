@@ -72,9 +72,6 @@
   <string name="qs_rows_columns_summary">选择快速设置行数和列数</string>
   <string name="qs_rows_landscape_title">横屏行数</string>
   <string name="qs_rows_portrait_title">竖屏行数</string>
-  <!-- Status bar - Battery saver color -->
-  <string name="status_bar_battery_saver_color_title">省电模式状态栏颜色</string>
-  <string name="status_bar_battery_saver_color_summary">注意: 如果已启用电池保护程序, 为了应用新的颜色, 请重新打开电池保护程序！</string>
   <!-- Statusbar Clock options -->
   <string name="status_bar_clock_title">时钟设置</string>
   <string name="status_bar_show_clock_title">显示时钟和日期</string>
@@ -105,4 +102,18 @@
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">快速解锁</string>
   <string name="unlock_quick_unlock_control_summary">当输入正确的 PIN 或密码后自动解锁</string>
+  <!-- Recents Membar -->
+  <!-- Clear all recents -->
+  <string name="recents_clear_all_location_title">\"一键清理\"位置</string>
+  <string name="recents_clear_all_location_top_right">屏幕右上方</string>
+  <string name="recents_clear_all_location_top_left">屏幕左上方</string>
+  <string name="recents_clear_all_location_top_center">顶部居中</string>
+  <string name="recents_clear_all_location_bottom_right">右下角</string>
+  <string name="recents_clear_all_location_bottom_left">左下方</string>
+  <string name="recents_clear_all_location_bottom_center">底部居中</string>
+  <!-- Battery Styles -->
+  <string name="battery_percent_none">隐藏</string>
+  <!-- Quick Settings brightness icon -->
+  <!-- Option to show brightness bar in quick settings -->
+  <string name="show_brightness_title">亮度滑块</string>
 </resources>
