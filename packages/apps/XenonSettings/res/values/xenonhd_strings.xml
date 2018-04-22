@@ -84,10 +84,6 @@
     <string name="qs_rows_landscape_title">Rows - landscape</string>
     <string name="qs_rows_portrait_title">Rows - portrait</string>
 
-    <!-- Status bar - Battery saver color -->
-    <string name="status_bar_battery_saver_color_title">Battery saver color</string>
-    <string name="status_bar_battery_saver_color_summary">Note: If battery saver already enabled, for new color to be effective, toggle battery saver!</string>
-
     <!-- Statusbar Clock options -->
     <string name="status_bar_clock_title">Clock options</string>
     <string name="status_bar_show_clock_title">Show clock &amp; date</string>
@@ -119,4 +115,44 @@
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Quick unlock</string>
     <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered</string>
+
+    <!-- Recents Membar -->
+    <string name="systemui_recents_mem_display_title">Enable memory bar</string>
+    <string name="systemui_recents_mem_display_summary">Show memory usage bar in recents</string>
+
+    <!-- Clear all recents -->
+    <string name="show_clear_all_recents_button_title">Custom clear all button</string>
+    <string name="show_clear_all_recents_button_summary">Use custom clear all button</string>
+    <string name="recents_clear_all_location_title">Clear all button location</string>
+    <string name="recents_clear_all_location_top_right">Top right</string>
+    <string name="recents_clear_all_location_top_left">Top left</string>
+    <string name="recents_clear_all_location_top_center">Top center</string>
+    <string name="recents_clear_all_location_bottom_right">Bottom right</string>
+    <string name="recents_clear_all_location_bottom_left">Bottom left</string>
+    <string name="recents_clear_all_location_bottom_center">Bottom center</string>
+
+    <!-- Battery Styles -->
+    <string name="status_bar_battery_style_title">Statusbar battery style</string>
+    <string name="battery_style_title">Battery icon style</string>
+    <string name="battery_style_port">Portrait</string>
+    <string name="battery_style_land">Landscape</string>
+    <string name="battery_style_circle">Circle</string>
+    <string name="battery_style_dotted_circle">Dotted circle</string>
+    <string name="battery_style_big_circle">Big circle</string>
+    <string name="battery_style_big_dotted_circle">Big dotted circle</string>
+    <string name="battery_style_square">Square</string>
+    <string name="battery_style_text">Text</string>
+    <string name="battery_style_hidden">Hidden</string>
+    <string name="show_battery_percent_title">Show battery percentage</string>
+    <string name="battery_percent_none">Don\'t show</string>
+    <string name="battery_percent_outside">Show near icon</string>
+    <string name="battery_percent_inside">Show inside icon</string>
+
+    <!-- Quick Settings brightness icon -->
+    <string name="brightness_icon_title">Auto-brightness icon</string>
+    <string name="brightness_icon_summary">Show a auto-brightness icon to the right of the brightness slider to toggle auto-brightness</string>
+
+    <!-- Option to show brightness bar in quick settings -->
+    <string name="show_brightness_title">Brightness slider</string>
+    <string name="show_brightness_summary">Show the brightness slider</string>
 </resources>
