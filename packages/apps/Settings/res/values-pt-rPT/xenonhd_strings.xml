@@ -55,4 +55,9 @@
   <string name="ambient_display_media_cat">Em reprodução</string>
   <string name="force_ambient_for_media_off">Desactivado</string>
   <string name="force_ambient_for_media_on">Activado</string>
+  <!-- Force authorize substratum packages -->
+  <!-- Manage applications: show substratum overlays -->
+  <string name="filter_substratum_apps">Camadas do Substratum</string>
+  <string name="menu_show_substratum">Mostrar camadas</string>
+  <string name="menu_hide_substratum">Ocultar camadas</string>
 </resources>
