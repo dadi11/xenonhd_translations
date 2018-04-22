@@ -69,9 +69,6 @@
   <string name="qs_rows_columns_summary">Anzahl der Zeilen und Spalten anpassen</string>
   <string name="qs_rows_landscape_title">Zeilen (Querformat)</string>
   <string name="qs_rows_portrait_title">Zeilen (Hochformat)</string>
-  <!-- Status bar - Battery saver color -->
-  <string name="status_bar_battery_saver_color_title">Farbe der Akkuleiste</string>
-  <string name="status_bar_battery_saver_color_summary">Hinweis: Bei aktivem Energiesparmodus, diesen bitte einmal de- und reaktivieren, damit die neue Farbe übernommen wird!</string>
   <!-- Statusbar Clock options -->
   <string name="status_bar_show_clock_title">Uhr &amp; Datum anzeigen</string>
   <string name="clock_title_enable">Ausrichtung</string>
@@ -101,4 +98,18 @@
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Schnelles entsperren</string>
   <string name="unlock_quick_unlock_control_summary">Automatisch entsperren, wenn PIN/Passwort korrekt eingegeben wird</string>
+  <!-- Recents Membar -->
+  <!-- Clear all recents -->
+  <string name="recents_clear_all_location_title">Position der Alle-Schließen Taste</string>
+  <string name="recents_clear_all_location_top_right">Oben rechts</string>
+  <string name="recents_clear_all_location_top_left">Oben links</string>
+  <string name="recents_clear_all_location_top_center">Oben in der Mitte</string>
+  <string name="recents_clear_all_location_bottom_right">Unten rechts</string>
+  <string name="recents_clear_all_location_bottom_left">Unten links</string>
+  <string name="recents_clear_all_location_bottom_center">Unten in der Mitte</string>
+  <!-- Battery Styles -->
+  <string name="battery_percent_none">Nicht anzeigen</string>
+  <!-- Quick Settings brightness icon -->
+  <!-- Option to show brightness bar in quick settings -->
+  <string name="show_brightness_title">Helligkeitsregler</string>
 </resources>
