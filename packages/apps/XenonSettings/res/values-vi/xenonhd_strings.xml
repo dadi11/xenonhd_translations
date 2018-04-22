@@ -44,8 +44,12 @@
   <!-- Power menu on secure lockscreen -->
   <!-- QS rows and columns -->
   <string name="qs_category">Ô cài đặt nhanh</string>
-  <!-- Status bar - Battery saver color -->
   <!-- Statusbar Clock options -->
   <string name="menu_cancel">Hủy bỏ</string>
   <!-- Quick unlock -->
+  <!-- Recents Membar -->
+  <!-- Clear all recents -->
+  <!-- Battery Styles -->
+  <!-- Quick Settings brightness icon -->
+  <!-- Option to show brightness bar in quick settings -->
 </resources>
