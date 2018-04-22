@@ -72,9 +72,6 @@
   <string name="qs_rows_columns_summary">Sorok és oszlopok számának beállítása</string>
   <string name="qs_rows_landscape_title">Sorok (fekvő)</string>
   <string name="qs_rows_portrait_title">Sorok (álló)</string>
-  <!-- Status bar - Battery saver color -->
-  <string name="status_bar_battery_saver_color_title">Akkumulátorkímélő mód színe</string>
-  <string name="status_bar_battery_saver_color_summary">Megjegyzés: ha az akkumulátorkímélő már be van kapcsolva, az új szín alkalmazásához kapcsolja ki/be az akkumulátorkímélőt!</string>
   <!-- Statusbar Clock options -->
   <string name="status_bar_clock_title">Óra elhelyezkedése</string>
   <string name="status_bar_show_clock_title">Óra és dátum mutatása</string>
@@ -105,4 +102,18 @@
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Gyors feloldás</string>
   <string name="unlock_quick_unlock_control_summary">Automatikus feloldás a helyes jelszó/PIN kód megadásakor</string>
+  <!-- Recents Membar -->
+  <!-- Clear all recents -->
+  <string name="recents_clear_all_location_title">Összes törlése gomb helye</string>
+  <string name="recents_clear_all_location_top_right">Jobb fent</string>
+  <string name="recents_clear_all_location_top_left">Bal fent</string>
+  <string name="recents_clear_all_location_top_center">Fent középen</string>
+  <string name="recents_clear_all_location_bottom_right">Jobb alul</string>
+  <string name="recents_clear_all_location_bottom_left">Bal alul</string>
+  <string name="recents_clear_all_location_bottom_center">Alul középen</string>
+  <!-- Battery Styles -->
+  <string name="battery_percent_none">Ne mutassa</string>
+  <!-- Quick Settings brightness icon -->
+  <!-- Option to show brightness bar in quick settings -->
+  <string name="show_brightness_title">Fényerő csúszka</string>
 </resources>
