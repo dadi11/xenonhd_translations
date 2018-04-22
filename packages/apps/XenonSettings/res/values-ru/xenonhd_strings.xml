@@ -41,7 +41,7 @@
   <string name="save">Сохранить</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">Выбор цвета</string>
-  <string name="press_color_to_apply">Нажмите на цвет снизу, чтобы применить</string>
+  <string name="press_color_to_apply">Нажмите на цвет ниже, чтобы применить</string>
   <string name="hex">Hex код:</string>
   <string name="set">Применить</string>
   <string name="color_default">По умолчанию</string>
@@ -72,9 +72,6 @@
   <string name="qs_rows_columns_summary">Выберите количество строк и столбцов</string>
   <string name="qs_rows_landscape_title">Строки (ландшафтный режим)</string>
   <string name="qs_rows_portrait_title">Строки (портретный режим)</string>
-  <!-- Status bar - Battery saver color -->
-  <string name="status_bar_battery_saver_color_title">Цвет светового индикатора режима энергосбережения</string>
-  <string name="status_bar_battery_saver_color_summary">Примечание: Если включен режим энергосбережения батареи, то для активации нового цвета индикатора необходимо выключить и снова включить режим энергосбережения!</string>
   <!-- Statusbar Clock options -->
   <string name="status_bar_clock_title">Параметры часов</string>
   <string name="status_bar_show_clock_title">Показывать часы и дату</string>
@@ -105,4 +102,18 @@
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Быстрая разблокировка</string>
   <string name="unlock_quick_unlock_control_summary">Автоматическая разблокировка при вводе правильного пароля или PIN-кода</string>
+  <!-- Recents Membar -->
+  <!-- Clear all recents -->
+  <string name="recents_clear_all_location_title">Расположение кнопки \"Очистить всё\"</string>
+  <string name="recents_clear_all_location_top_right">Вверху справа</string>
+  <string name="recents_clear_all_location_top_left">Вверху слева</string>
+  <string name="recents_clear_all_location_top_center">Вверху по центру</string>
+  <string name="recents_clear_all_location_bottom_right">Внизу справа</string>
+  <string name="recents_clear_all_location_bottom_left">Внизу слева</string>
+  <string name="recents_clear_all_location_bottom_center">Внизу по центру</string>
+  <!-- Battery Styles -->
+  <string name="battery_percent_none">Не отображать</string>
+  <!-- Quick Settings brightness icon -->
+  <!-- Option to show brightness bar in quick settings -->
+  <string name="show_brightness_title">Слайдер яркости</string>
 </resources>

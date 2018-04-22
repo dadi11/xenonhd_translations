@@ -59,4 +59,11 @@
   <string name="force_ambient_for_media_on_forced">Etkin ve zorla</string>
   <string name="force_ambient_for_media_on_forced_clean">Etkin ve en az zorla</string>
   <string name="ambient_ticker_footer">Ortam ekranı ekrandaki geçerli müzik parçası bilgilerini gösterebilme olanağı sunar.\nNormal ve minimum iki düzen arasından seçim yapabilirsiniz. Bu özellik ortam görüntüsünü kullanırken, buna bağlı değildir.</string>
+  <!-- Force authorize substratum packages -->
+  <string name="force_authorize_substratum_packages_title">Her tema uygulamasını zorla yetkilendir</string>
+  <string name="force_authorize_substratum_packages_summary">Bilinmeyen kaynaklardan tema uygulamalarına izin ver</string>
+  <!-- Manage applications: show substratum overlays -->
+  <string name="filter_substratum_apps">Substratum temaları</string>
+  <string name="menu_show_substratum">Temaları göster</string>
+  <string name="menu_hide_substratum">Temaları gizle</string>
 </resources>
