@@ -58,4 +58,9 @@
   <string name="force_ambient_for_media_on">已启用</string>
   <string name="force_ambient_for_media_on_forced">强制并启用</string>
   <string name="force_ambient_for_media_on_forced_clean">强制并启用最小化</string>
+  <!-- Force authorize substratum packages -->
+  <!-- Manage applications: show substratum overlays -->
+  <string name="filter_substratum_apps">Substratum 叠加层</string>
+  <string name="menu_show_substratum">显示叠加层</string>
+  <string name="menu_hide_substratum">隐藏叠加层</string>
 </resources>
