@@ -23,6 +23,7 @@
   <string name="misc_title">Рознае</string>
   <string name="statusbar_title">Радок стану</string>
   <string name="notifications_title">Апавяшчэнні</string>
+  <string name="xenonhd_title">XenonHD Hub</string>
   <string name="xenonsettings_title">Параметры XenonHD</string>
   <!-- Changelog -->
   <string name="changelog_xenonhd_title">Спіс змен</string>
