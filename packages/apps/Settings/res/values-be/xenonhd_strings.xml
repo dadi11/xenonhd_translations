@@ -54,4 +54,11 @@
   <!-- AmbientDisplay music ticker -->
   <string name="force_ambient_for_media_off">Адключана</string>
   <string name="force_ambient_for_media_on">Уключана</string>
+  <!-- Force authorize substratum packages -->
+  <string name="force_authorize_substratum_packages_title">Прымусова аўтарызаўваць усе тэмы праграм</string>
+  <string name="force_authorize_substratum_packages_summary">Дазволіць усталёўку тэм праграм з невядомых крыніц</string>
+  <!-- Manage applications: show substratum overlays -->
+  <string name="filter_substratum_apps">Пласты Substratum</string>
+  <string name="menu_show_substratum">Паказваць пласты</string>
+  <string name="menu_hide_substratum">Схаваць пласты</string>
 </resources>
