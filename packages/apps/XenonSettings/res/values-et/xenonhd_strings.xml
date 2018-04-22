@@ -72,9 +72,6 @@
   <string name="qs_rows_columns_summary">Seadista kiirsätete plaatide ridade ja veergude arv</string>
   <string name="qs_rows_landscape_title">Veerud - horisontaalpaigutus</string>
   <string name="qs_rows_portrait_title">Veerud - vertikaalpaigutus</string>
-  <!-- Status bar - Battery saver color -->
-  <string name="status_bar_battery_saver_color_title">Akusäästja värv</string>
-  <string name="status_bar_battery_saver_color_summary">Märkus: Kui akusäästja on juba lubatud, tuleb uue värvi jaoks lülitada akusäästja uuesti sisse ja välja!</string>
   <!-- Statusbar Clock options -->
   <string name="status_bar_clock_title">Kella valikud</string>
   <string name="status_bar_show_clock_title">Näita kella &amp; kuupäev</string>
@@ -105,4 +102,18 @@
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Kiiravamine</string>
   <string name="unlock_quick_unlock_control_summary">Ava automaatselt kui õige PIN/parool on sisestatud</string>
+  <!-- Recents Membar -->
+  <!-- Clear all recents -->
+  <string name="recents_clear_all_location_title">Tühjenda kõik nupu asukoht</string>
+  <string name="recents_clear_all_location_top_right">Paremal ülanurgas</string>
+  <string name="recents_clear_all_location_top_left">Vasakul ülanurgas</string>
+  <string name="recents_clear_all_location_top_center">Ülal keskel</string>
+  <string name="recents_clear_all_location_bottom_right">Paremal allnurgas</string>
+  <string name="recents_clear_all_location_bottom_left">Vasakul allnurgas</string>
+  <string name="recents_clear_all_location_bottom_center">All keskel</string>
+  <!-- Battery Styles -->
+  <string name="battery_percent_none">Ära näita</string>
+  <!-- Quick Settings brightness icon -->
+  <!-- Option to show brightness bar in quick settings -->
+  <string name="show_brightness_title">Ereduse liugur</string>
 </resources>
