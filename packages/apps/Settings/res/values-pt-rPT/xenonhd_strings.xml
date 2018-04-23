@@ -95,6 +95,7 @@
   <string name="unlock_quick_unlock_control_title">Desbloqueio rápido</string>
   <!-- Three-fingers-swipe to screenshot -->
   <string name="three_finger_gesture">Deslizar para capturar o ecrã</string>
+  <string name="three_finger_gesture_summary">Deslizar três dedos para realizar captura de ecrã</string>
   <!-- Long press back to kill configurable timeout -->
   <string name="timeout_2000">2 segundos (pré-definição)</string>
   <string name="timeout_1500">1,5 segundos</string>
@@ -142,7 +143,12 @@
   <string name="remove_tile_summaries_summary_enabled">Resumos do painel de definições activados</string>
   <string name="remove_tile_summaries_summary_disabled">Resumos do painel de definições desactivados</string>
   <string name="dashboard_conditions_title">Condições</string>
+  <string name="dashboard_columns_portrait_title">Colunas (retrato)</string>
+  <string name="dashboard_columns_landscape_title">Colunas (paisagem)</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
+  <string name="hide_lockscreen_clock_title">Widget de relógio</string>
+  <string name="hide_lockscreen_clock_summary_on">Widget de relógio mostrado no ecrã de bloqueio</string>
+  <string name="hide_lockscreen_clock_summary_off">Widget de relógio ocultado no ecrã de bloqueio</string>
   <string name="hide_lockscreen_date_title">Widget da data</string>
   <string name="hide_lockscreen_date_summary_on">Data por baixo o widget do relógio mostrada</string>
   <string name="hide_lockscreen_date_summary_off">Data por baixo o widget do relógio ocultada </string>
