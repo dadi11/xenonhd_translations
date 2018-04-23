@@ -158,6 +158,7 @@
   <string name="carrier_title">Etiqueta da operadora</string>
   <string name="carrier_options_summary">Personalizar etiqueta da operadora</string>
   <string name="custom_carrier_label_title">Etiqueta da operadora personalizada</string>
+  <string name="custom_carrier_label_explain">Inserir uma nova etiqueta. Deixar em branco para reverter ao nome por defeito.</string>
   <string name="show_carrier_disabled">Desactivado</string>
   <string name="status_bar_font_style_title">Tipo de letra</string>
   <string name="status_bar_font_normal">Normal</string>
