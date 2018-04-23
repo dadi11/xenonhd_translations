@@ -135,8 +135,14 @@
   <string name="dashboard_conditions_title">Condições</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
   <!-- Emergency button -->
+  <string name="emergency_button_title">Botão de emergência</string>
+  <string name="emergency_button_summary_on">Botão de emergência visível no ecrã de bloqueio</string>
+  <string name="emergency_button_summary_off">Botão de emergência oculto no ecrã de bloqueio</string>
   <!-- Fingerprint authentication vibration -->
+  <string name="fprint_sucess_vib_title">Vibração na autenticação de impressão digital</string>
+  <string name="fprint_sucess_vib_summary">Vibrar na autenticação de impressão digital bem-sucedida</string>
   <!-- Fingerprint unlock keystore -->
+  <string name="fp_unlock_keystore_title">Desbloquear através de impressão digital após reinicialização</string>
   <!-- Hide Statusbar on Lockscreen -->
   <!-- Force authorize substratum packages -->
   <!-- QS tile labels visibility -->
@@ -147,6 +153,7 @@
   <string name="set">Definir</string>
   <string name="color_default">Predefinida</string>
   <!-- Carrier label -->
+  <string name="carrier_title">Etiqueta da operadora</string>
   <string name="show_carrier_disabled">Desactivado</string>
   <string name="status_bar_font_style_title">Tipo de letra</string>
   <string name="status_bar_font_normal">Normal</string>
