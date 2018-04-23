@@ -220,6 +220,11 @@
   <string name="lock_clock_font_condensed_bold_italic">Condensed Negrito Itálico</string>
   <string name="lock_clock_font_medium_normal">Média</string>
   <!-- Screen state service -->
+  <string name="screen_state_toggles_enable_title">Ativar</string>
+  <string name="screen_state_toggles_enable_summary">Estas ações serão executadas com o ecrã desligado. O estado anterior será restaurado ao ligar o ecrã.</string>
+  <string name="screen_state_toggles_mobile_title">Redes móveis</string>
+  <string name="screen_state_toggles_location_title">Localização</string>
+  <string name="screen_state_toggles_twog">Alterar para 2G</string>
   <string name="screen_state_toggles_twog_summary">O modo de rede será alterado para 2G enquanto o ecrã estiver desligado</string>
   <string name="screen_state_toggles_gps">Desativar o GPS</string>
   <string name="screen_state_toggles_gps_summary">O serviço de localização baseado em GPS será desativado enquanto o ecrã estiver desligado</string>
