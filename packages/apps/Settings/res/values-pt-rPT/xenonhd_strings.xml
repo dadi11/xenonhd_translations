@@ -198,8 +198,15 @@
   <string name="status_bar_font_condensed">Condensado</string>
   <string name="status_bar_font_condensed_italic">Itálico condensado</string>
   <string name="status_bar_font_medium">Média</string>
+  <string name="status_bar_font_notoserif">NotoSerif Normal</string>
+  <string name="status_bar_font_notoserif_italic">NotoSerif Itálico</string>
+  <string name="status_bar_font_notoserif_bold">NotoSerif Negrito</string>
+  <string name="status_bar_font_notoserif_bold_italic">NotoSerif Negrito Itálico</string>
   <!-- Lock Clock Fonts -->
+  <string name="lock_clock_font_title">Opções de tipo de letra</string>
+  <string name="lock_date_font_summary">Personalizar tipo de letra da data</string>
   <string name="lock_date_font_title">Data</string>
+  <string name="lock_clock_font_stock">Normal (padrão)</string>
   <string name="lock_clock_font_bold">Negrito</string>
   <string name="lock_clock_font_light">Claro</string>
   <string name="lock_clock_font_italic">Itálico</string>
@@ -209,8 +216,15 @@
   <string name="lock_clock_font_thin">Fino</string>
   <string name="lock_clock_font_condensed_normal">Condensado</string>
   <string name="lock_clock_font_condensed_italic">Itálico condensado</string>
+  <string name="lock_clock_font_condensed_bold">Condensed Negrito</string>
+  <string name="lock_clock_font_condensed_bold_italic">Condensed Negrito Itálico</string>
   <string name="lock_clock_font_medium_normal">Média</string>
   <!-- Screen state service -->
+  <string name="screen_state_toggles_twog_summary">O modo de rede será alterado para 2G enquanto o ecrã estiver desligado</string>
+  <string name="screen_state_toggles_gps">Desativar o GPS</string>
+  <string name="screen_state_toggles_gps_summary">O serviço de localização baseado em GPS será desativado enquanto o ecrã estiver desligado</string>
+  <string name="screen_state_toggles_mobile_data">Desativar dados móveis</string>
+  <string name="screen_state_toggles_mobile_data_summary">Os dados móveis serão desativados enquanto o ecrã estiver desligado</string>
   <string name="screen_state_off_delay_title">Atraso das acções ao desligar ecrã</string>
   <string name="screen_state_off_delay_summary">Segundos de espera antes de executar acções depois do ecrã ser desligado</string>
   <string name="screen_state_on_delay_title">Atraso das acções ao ligar ecrã</string>
