@@ -133,7 +133,6 @@
   <string name="battery_percent_inside">Pokaż wewnątrz ikony</string>
   <!-- Quick Settings brightness icon -->
   <string name="brightness_icon_title">Ikona Automatyczna jasność</string>
-  <string name="brightness_icon_summary">Pokaż ikonę auto-jasności po prawej stronie suwaka jasności żeby dostosować automatyczną jasność</string>
   <!-- Option to show brightness bar in quick settings -->
   <string name="show_brightness_title">Pasek jasności</string>
   <string name="show_brightness_summary">Pokaż suwak jasności</string>
