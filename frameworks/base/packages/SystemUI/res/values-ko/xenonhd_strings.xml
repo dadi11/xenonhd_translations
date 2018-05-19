@@ -39,7 +39,10 @@
   <!-- QS Lockscreen Tile -->
   <string name="quick_settings_lockscreen_label">잠금 화면</string>
   <string name="quick_settings_lockscreen_label_enforced">잠금 화면 적용</string>
-  <string name="accessibility_quick_settings_lock_screen_off">잠금 화면 해제</string>
+  <string name="accessibility_quick_settings_lock_screen_off">잠금 화면 끄기</string>
+  <string name="accessibility_quick_settings_lock_screen_on">잠금 화면 켜기</string>
+  <string name="accessibility_quick_settings_lock_screen_changed_off">잠금 화면 꺼짐</string>
+  <string name="accessibility_quick_settings_lock_screen_changed_on">잠금 화면 켜짐</string>
   <!-- VoLTE icon switch -->
   <string name="status_bar_volte">VoLTE</string>
 </resources>
