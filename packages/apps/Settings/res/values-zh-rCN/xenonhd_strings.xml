@@ -180,6 +180,8 @@
   <string name="lockscreen_hide_status_bar_summary">触摸状态栏以切换可见性</string>
   <!-- Force authorize substratum packages -->
   <!-- QS tile labels visibility -->
+  <string name="qs_menu_item_titles_summaryOn">显示名称</string>
+  <string name="qs_menu_item_titles_summaryOff">隐藏名称</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">颜色选择</string>
   <string name="press_color_to_apply">按选颜色以应用</string>
@@ -187,6 +189,7 @@
   <string name="set">应用</string>
   <string name="color_default">默认</string>
   <!-- Carrier label -->
+  <string name="carrier_title">运营商名称</string>
   <string name="show_carrier_title">运营商标签</string>
   <string name="show_carrier_disabled">已禁用</string>
   <string name="show_carrier_keyguard">仅在锁屏界面显示</string>
