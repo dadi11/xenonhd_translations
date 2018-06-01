@@ -114,5 +114,10 @@
   <!-- Fingerprint max failed attempts -->
   <!-- Lockscreen battery info indicator  -->
   <!-- Status bar - Battery saver color -->
+  <string name="status_bar_battery_saver_color_title">Колір рядка стану при активному режимі енергозбереження</string>
+  <string name="status_bar_battery_saver_color_summary">Примітка: Якщо увімкнений режим енергозбереження батареї, то для активації нового кольору індикатора необхідно вимкнути та знову увімкнути режим енергозбереження!</string>
   <!-- Reset battery stats -->
+  <string name="ok">Добре</string>
+  <string name="menu_stats_reset">Скинути статистику</string>
+  <string name="reset_stats_msg">Історія використання батареї буде скинута</string>
 </resources>
