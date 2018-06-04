@@ -16,6 +16,24 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- In-call vibrations -->
+  <string name="incall_vibration_category_title">Вібрацыя падчас выкліку</string>
+  <string name="incall_vibrate_outgoing_title">Вібрацыя пры адказе</string>
+  <string name="incall_vibrate_call_waiting_title">Вібрацыя падчас чакання выкліку</string>
+  <string name="incall_vibrate_hangup_title">Вібрацыя пасля раз\'яднання</string>
+  <string name="incall_vibrate_45_title">Вібрацыя штохвіліну</string>
+  <string name="incall_vibrate_45_summary">Вібрацыя штохвілінна на 45 секундзе падчас уваходнаго выкліку</string>
   <!-- Smart Options -->
+  <string name="smart_category_title">Іншыя налады</string>
+  <string name="smart_mute_title">Разумнае адключэнне гуку</string>
+  <string name="smart_mute_summary">Адключаць гук уваходнага выкліку пераваротам прылады</string>
   <!-- Proximity speaker -->
+  <string name="speaker_settings_label">Гучная сувязь пры набліжэнні</string>
+  <string name="prox_auto_speaker_title">Уключэнне гучнай сувязі па датчыку набліжэння</string>
+  <string name="prox_auto_speaker_summary">Аўтаматычнае ўключэнне гучнай сувязі пры аддаленні тэлефона ад вуха</string>
+  <string name="prox_auto_speaker_delay_title">Затрымка ўключэння гучнай сувязі</string>
+  <string name="prox_auto_speaker_delay_dialog_title">Затрымка ўключэння гучнай сувязі (мс)</string>
+  <string name="prox_auto_speaker_delay_summary">Гучная сувязь будзе ўключана праз <xliff:g id="number">%d</xliff:g> мс</string>
+  <string name="prox_auto_speaker_incall_only_title">Толькі падчас званка</string>
+  <string name="prox_auto_speaker_incall_only_summary_on">Пры выходных званках функцыя актывуецца толькі пасля адказу на выклік</string>
+  <string name="prox_auto_speaker_incall_only_summary_off">Функцыя актыўная пры любых выкліках (па змаўчанні)</string>
 </resources>
