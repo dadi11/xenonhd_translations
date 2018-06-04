@@ -90,6 +90,7 @@
     <string name="clock_title_enable">Alignment</string>
     <string name="right_clock">Right clock</string>
     <string name="center_clock">Center clock</string>
+    <string name="left_clock">Left clock</string>
     <string name="status_bar_clock_seconds_title">Clock seconds</string>
     <string name="status_bar_clock_seconds_summary">Display seconds next to clock in status bar</string>
     <string name="status_bar_am_pm_title">AM/PM</string>
@@ -150,7 +151,7 @@
 
     <!-- Quick Settings brightness icon -->
     <string name="brightness_icon_title">Auto-brightness icon</string>
-    <string name="brightness_icon_summary">Show an auto-brightness icon to the right of the brightness slider to toggle auto-brightness</string>
+    <string name="brightness_icon_summary">Show a auto-brightness icon to the right of the brightness slider to toggle auto-brightness</string>
 
     <!-- Option to show brightness bar in quick settings -->
     <string name="show_brightness_title">Brightness slider</string>
