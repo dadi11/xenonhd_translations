@@ -136,6 +136,7 @@
   <string name="battery_percent_inside">Simge içinde göster</string>
   <!-- Quick Settings brightness icon -->
   <string name="brightness_icon_title">Otomatik parlaklık simgesi</string>
+  <string name="brightness_icon_summary">Hızlı ayarlar panelinde otomatik parlaklık simgesini göster</string>
   <!-- Option to show brightness bar in quick settings -->
   <string name="show_brightness_title">Parlaklık kaydırıcı</string>
   <string name="show_brightness_summary">Parlaklık kaydırıcısını göster</string>
