@@ -133,6 +133,7 @@
   <string name="battery_percent_inside">Zobrazit uvnitř ikony</string>
   <!-- Quick Settings brightness icon -->
   <string name="brightness_icon_title">Ikona automatického jasu</string>
+  <string name="brightness_icon_summary">Zobrazit ikonu jasu na pravé straně posuvníku k nastavení automatického jasu</string>
   <!-- Option to show brightness bar in quick settings -->
   <string name="show_brightness_title">Posuvník jasu</string>
   <string name="show_brightness_summary">Zobrazit posuvník jasu</string>

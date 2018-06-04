@@ -133,6 +133,7 @@
   <string name="battery_percent_inside">All\'interno dell\'icona</string>
   <!-- Quick Settings brightness icon -->
   <string name="brightness_icon_title">Icona luminosità automatica</string>
+  <string name="brightness_icon_summary">Mostra l\'icona della luminosità automatica a destra del cursore della luminosità per attivare o disattivare la luminosità automatica</string>
   <!-- Option to show brightness bar in quick settings -->
   <string name="show_brightness_title">Cursore luminosità</string>
   <string name="show_brightness_summary">Mostra la barra livello luminosità</string>

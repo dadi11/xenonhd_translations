@@ -133,6 +133,7 @@
   <string name="battery_percent_inside">Mostrar dentro do ícone</string>
   <!-- Quick Settings brightness icon -->
   <string name="brightness_icon_title">Botão do brilho automático</string>
+  <string name="brightness_icon_summary">Mostrar um ícone de brilho automático à direita da barra de brilho para ativar o brilho automático</string>
   <!-- Option to show brightness bar in quick settings -->
   <string name="show_brightness_title">Controle de brilho</string>
   <string name="show_brightness_summary">Mostrar o controle deslizante de brilho</string>

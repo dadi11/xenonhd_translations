@@ -133,6 +133,7 @@
   <string name="battery_percent_inside">Ikonon belül</string>
   <!-- Quick Settings brightness icon -->
   <string name="brightness_icon_title">Automatikus fényerő ikonja</string>
+  <string name="brightness_icon_summary">Fényerő ikon megjelenítése a fényerőcsúszka bal oldalán az automatikus fényerő kapcsolásához</string>
   <!-- Option to show brightness bar in quick settings -->
   <string name="show_brightness_title">Fényerő csúszka</string>
   <string name="show_brightness_summary">Fényerőszabályzó-csúszka megjelenítése</string>

@@ -133,6 +133,7 @@
   <string name="battery_percent_inside">在圖示內顯示</string>
   <!-- Quick Settings brightness icon -->
   <string name="brightness_icon_title">自動亮度圖示</string>
+  <string name="brightness_icon_summary">顯示亮度滑動條右側的自動亮度圖示以切換自動亮度</string>
   <!-- Option to show brightness bar in quick settings -->
   <string name="show_brightness_title">亮度滑桿</string>
   <string name="show_brightness_summary">顯示亮度滑動條</string>

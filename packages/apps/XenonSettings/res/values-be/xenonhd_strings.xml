@@ -133,6 +133,7 @@
   <string name="battery_percent_inside">Паказаць значок унутры</string>
   <!-- Quick Settings brightness icon -->
   <string name="brightness_icon_title">Значок аўтаматычнай яркасці</string>
+  <string name="brightness_icon_summary">Паказаць значок аўтаматычнай яркасці справа ад паўзунка яркасці для пераключэння аўтаматычнай яркасці</string>
   <!-- Option to show brightness bar in quick settings -->
   <string name="show_brightness_title">Рэгулятар яркасці</string>
   <string name="show_brightness_summary">Паказаць паўзунок яркасці</string>
