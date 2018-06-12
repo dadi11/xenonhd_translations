@@ -118,9 +118,37 @@
   <string name="doze_pulse_duration_in_title">تتلاشى</string>
   <string name="doze_pulse_duration_visible_title">مدة الرؤية</string>
   <string name="doze_pulse_duration_out_title">تلاشي</string>
-  <string name="doze_trigger_pickup_title">مفتاح استشعار الإلتقاط</string>
+  <string name="doze_trigger_pickup_title">تفعيل مستشعر النبض</string>
   <string name="doze_trigger_pickup_summary_on">سيتم تشغيل النبض عن طريق جهاز استشعار الالتقاط</string>
+  <string name="doze_trigger_pickup_summary_off">لن يتم استخدام جهاز الإستشعار كمحرك</string>
+  <string name="doze_trigger_notification_title">مستشعر الاشعارات</string>
+  <string name="doze_trigger_notification_summary_on">النبض سيفعّل مع الاشعارات</string>
+  <string name="doze_trigger_notification_summary_off">النبض لن يفعّل مع الاشعارات</string>
+  <string name="doze_brightness_level_title">مستوى السطوع</string>
+  <string name="onehundred_ms">100 م. ث</string>
+  <string name="twofifty_ms">250 م. ث</string>
+  <string name="fivehundred_ms_default">500 م. ث (افتراضي)</string>
+  <string name="sevenfifty_ms">750 م. ث</string>
+  <string name="one_second">1 ث</string>
+  <string name="onehalf_second">1.5 ث</string>
+  <string name="two_second">2 ث</string>
+  <string name="twohalf_second">2.5 ث</string>
+  <string name="three_second_default">3 ث (افتراضي)</string>
+  <string name="threehalf_second">3.5 ث</string>
+  <string name="four_second">4 ث</string>
+  <string name="fourhalf_second">4.5 ث</string>
+  <string name="five_second">5 ث</string>
+  <string name="doze_notification_color_invert_title">عكس الإشعارات</string>
+  <string name="doze_notification_color_invert_summary_off">التنبيهات لن يتم عكسها. إستخدمها في السمات الداكنة</string>
+  <string name="doze_notification_color_invert_summary_on">التنبيهات سيتم عكسها. إستخدمها للسمة الفاتحة/الأصلية</string>
+  <string name="ambient_display_show_battery_title">حالة البطارية</string>
+  <string name="ambient_display_show_battery_summary">إعرض مؤشر البطارية أثناء النبض</string>
   <!-- Recents panel settings -->
+  <string name="show_clear_all_recents_button_title">تمكين زر مسح كل شيء</string>
+  <string name="show_clear_all_recents_button_summary">اظهار زر مسح كل شيء عند عرض التطبيقات الاخيرة</string>
+  <string name="recents_clear_all_location_title">موقع زر مسح كل شيء</string>
+  <string name="recents_clear_all_location_top_right">أعلى اليمين</string>
+  <string name="recents_clear_all_location_top_left">اعلي اليسار</string>
   <string name="recents_clear_all_location_top_center">أعلى الوسط</string>
   <string name="recents_clear_all_location_bottom_right">اسفل اليمين</string>
   <string name="recents_clear_all_location_bottom_left">اسفل اليسار</string>
@@ -167,6 +195,7 @@
   <string name="force_authorize_substratum_packages_title">أجبار تصريح كل تطبيق ثيمات</string>
   <string name="force_authorize_substratum_packages_summary">السماح لتطبيقات من المصادر غير المعروفة</string>
   <!-- QS tile labels visibility -->
+  <string name="qs_menu_item_titles">تسميات مربعات الإعدادات السريعة</string>
   <string name="qs_menu_item_titles_summaryOn">اظهار التسميات</string>
   <string name="qs_menu_item_titles_summaryOff">إخفاء التسميات</string>
   <!-- Color Picker -->
@@ -187,11 +216,60 @@
   <string name="show_carrier_statusbar">شريط الحالة فقط</string>
   <string name="show_carrier_both">شاشة القفل وشريط الحالة</string>
   <string name="show_carrier_enabled">شاشة القفل وشريط الحالة</string>
+  <string name="status_bar_carrier_color">لون علامة مشغل الشبكة</string>
+  <string name="status_bar_carrier_size">حجم نص علامة مشغل الشبكة</string>
+  <string name="status_bar_carrier_font_style_title">خط علامة مشغل الشبكة</string>
+  <string name="number_of_notifications_title">عدد الاشعـارات</string>
+  <string name="carrier_label_hide_label_title">أخفِ عند التنبيهات</string>
+  <string name="carrier_label_number_of_notification_icons_title">حد الرموز الأقصى قبل الإخفاء</string>
+  <string name="status_bar_font_style_title">الخط</string>
   <string name="status_bar_font_normal">عادي</string>
+  <string name="status_bar_font_italic">مائل</string>
+  <string name="status_bar_font_bold">عريض</string>
+  <string name="status_bar_font_bold_italic">عريض مائل</string>
   <string name="status_bar_font_light">فاتح (ابيض)</string>
+  <string name="status_bar_font_light_italic">خفيف مائل</string>
+  <string name="status_bar_font_thin">نحيف</string>
+  <string name="status_bar_font_thin_italic">نحيف مائل</string>
+  <string name="status_bar_font_condensed">مكثف</string>
+  <string name="status_bar_font_condensed_italic">مكثف مائل</string>
+  <string name="status_bar_font_condensed_light">مكثف خفيف</string>
+  <string name="status_bar_font_condensed_light_italic">مكثف خفيف مائل</string>
+  <string name="status_bar_font_condensed_bold">مكثف عريض</string>
+  <string name="status_bar_font_condensed_bold_italic">مكثف عريض مائل</string>
+  <string name="status_bar_font_medium">متوسط</string>
+  <string name="status_bar_font_medium_italic">متوسط مائل</string>
+  <string name="status_bar_font_black">أسود</string>
+  <string name="status_bar_font_black_italic">أسود مائل</string>
+  <string name="status_bar_font_dancingscript">DancingScript</string>
+  <string name="status_bar_font_dancingscript_bold">DancingScript عريض</string>
+  <string name="status_bar_font_comingsoon">ComingSoon</string>
+  <string name="status_bar_font_notoserif">NotoSerif عادي</string>
+  <string name="status_bar_font_notoserif_italic">NotoSerif مائل</string>
+  <string name="status_bar_font_notoserif_bold">NotoSerif عريض</string>
+  <string name="status_bar_font_notoserif_bold_italic">NotoSerif عريض مائل</string>
   <!-- Lock Clock Fonts -->
+  <string name="lock_clock_font_title">خيارات الخط</string>
+  <string name="lock_clock_font_summary">تغيير الخط الافتراضي لساعة شاشة القفل</string>
+  <string name="lockdate_font_size_title">حجم خط التاريخ</string>
+  <string name="lockclock_font_size_title">حجم خط الساعة</string>
+  <string name="lock_date_font_summary">تخصيص خط التاريخ</string>
   <string name="lock_date_font_title">التاريخ</string>
+  <string name="lock_clock_font_dialog_title">حدد خط ساعة القفل</string>
+  <string name="lock_clock_font_stock">عادي (إفتراضي)</string>
+  <string name="lock_clock_font_bold">عريض</string>
   <string name="lock_clock_font_light">فاتح (ابيض)</string>
+  <string name="lock_clock_font_italic">مائل</string>
+  <string name="lock_clock_font_bold_italic">عريض مائل</string>
+  <string name="lock_clock_font_light_italic">خفيف مائل</string>
+  <string name="lock_clock_font_thin_italic">نحيف مائل</string>
+  <string name="lock_clock_font_thin">نحيف</string>
+  <string name="lock_clock_font_condensed_normal">مكثف</string>
+  <string name="lock_clock_font_condensed_italic">مكثف مائل</string>
+  <string name="lock_clock_font_condensed_bold">مكثف عريض</string>
+  <string name="lock_clock_font_condensed_bold_italic">مكثف عريض مائل</string>
+  <string name="lock_clock_font_medium_normal">متوسط</string>
+  <string name="lock_clock_font_medium_italic">متوسط مائل</string>
   <!-- Screen state service -->
   <string name="screen_state_toggles_title">تعليق الإجراءات</string>
   <string name="screen_state_toggles_enable_title">تفعيل</string>
@@ -218,5 +296,6 @@
   <string name="lockscreen_battery_info_title">معلومات الشحن</string>
   <string name="lockscreen_battery_info_summary">عرض درجة الحرارة الحالية والجهد وبطارية شاحن على شاشة القفل أثناء الشحن</string>
   <!-- Status bar - Battery saver color -->
+  <string name="status_bar_battery_saver_color_title">لون موفّر البطارية</string>
   <!-- Reset battery stats -->
 </resources>
