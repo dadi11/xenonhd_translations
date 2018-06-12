@@ -297,5 +297,9 @@
   <string name="lockscreen_battery_info_summary">عرض درجة الحرارة الحالية والجهد وبطارية شاحن على شاشة القفل أثناء الشحن</string>
   <!-- Status bar - Battery saver color -->
   <string name="status_bar_battery_saver_color_title">لون موفّر البطارية</string>
+  <string name="status_bar_battery_saver_color_summary">ملاحظة: إذا كان موفّر البطارية مشغل بالفعل، الألوان الجديدة لتكون فعالة،قم بإعادة تشغيل موفّر البطارية!</string>
   <!-- Reset battery stats -->
+  <string name="ok">حسناً</string>
+  <string name="menu_stats_reset">إعادة تعيين</string>
+  <string name="reset_stats_msg">سيتم إعادة تعيين إحصاءات البطارية</string>
 </resources>
