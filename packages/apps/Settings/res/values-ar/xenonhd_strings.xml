@@ -93,6 +93,8 @@
   <string name="qs_columns_title">الأعمدة</string>
   <string name="qs_easy_toggle_title">تبديل سهل QS متقدمة</string>
   <string name="qs_easy_toggle_summary">تمكين عمل الضغطة واحدة لتمكين/تعطيل لاسلكي والبيانات المتنقلة وتقنية البلوتوث. اضغط لمدة طويلة لرؤية إعدادات متقدمة</string>
+  <string name="qs_tile_single_tap_title">ضغطة واحدة للمربعات</string>
+  <string name="qs_tile_single_tap_summary">إضافة/إزالة مربعات الإعدادات السريعة بالضغط مرة واحدة على المربع في التخصيص</string>
   <!-- Quick unlock -->
   <string name="quick_unlock_warning">تح\ير الغاء القفل السريع </string>
   <string name="quick_unlock_warning_summary">هذه الميزة يتجاوز آليات الأمان الهامة ويكاد ان لا يدعم المستخدمين المتعددة. استخدام على مسؤوليتك الخاصة</string>
@@ -116,6 +118,8 @@
   <string name="doze_pulse_duration_in_title">تتلاشى</string>
   <string name="doze_pulse_duration_visible_title">مدة الرؤية</string>
   <string name="doze_pulse_duration_out_title">تلاشي</string>
+  <string name="doze_trigger_pickup_title">مفتاح استشعار الإلتقاط</string>
+  <string name="doze_trigger_pickup_summary_on">سيتم تشغيل النبض عن طريق جهاز استشعار الالتقاط</string>
   <!-- Recents panel settings -->
   <string name="recents_clear_all_location_top_center">أعلى الوسط</string>
   <string name="recents_clear_all_location_bottom_right">اسفل اليمين</string>
