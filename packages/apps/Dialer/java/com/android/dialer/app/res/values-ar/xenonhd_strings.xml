@@ -16,6 +16,24 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- In-call vibrations -->
+  <string name="incall_vibration_category_title">الاهتزاز أثناء المكالمة</string>
+  <string name="incall_vibrate_outgoing_title">اهتزاز عند الرد</string>
+  <string name="incall_vibrate_call_waiting_title">الاهتزاز أثناء انتظار المكالمة</string>
+  <string name="incall_vibrate_hangup_title">الاهتزاز عند إنهاء المكالمة</string>
+  <string name="incall_vibrate_45_title">الاهتزاز كل دقيقة</string>
+  <string name="incall_vibrate_45_summary">الاهتزاز كل 45 ثانية من كل دقيقة أثناء المكالمات الصادرة</string>
   <!-- Smart Options -->
+  <string name="smart_category_title">خيارات أخرى</string>
+  <string name="smart_mute_title">الكتم الذكي</string>
+  <string name="smart_mute_summary">كتم المكالمات المستلمة بقلب الجهاز</string>
   <!-- Proximity speaker -->
+  <string name="speaker_settings_label">مكبر الصوت التقاربي</string>
+  <string name="prox_auto_speaker_title">تعيين تلقائي لمكبر الصوت</string>
+  <string name="prox_auto_speaker_summary">تفعيل مكبر الصوت تلقائياً عند إزالة الهاتف من أذنك</string>
+  <string name="prox_auto_speaker_delay_title">تأخير تفعيل مكبر الصوت</string>
+  <string name="prox_auto_speaker_delay_dialog_title">تأخير تفعيل مكبر الصوت (مللي ثانية)</string>
+  <string name="prox_auto_speaker_delay_summary">سيتم تفعيل مكبر الصوت بعد <xliff:g id="number">%d</xliff:g> مِلي ثانية</string>
+  <string name="prox_auto_speaker_incall_only_title">فقط عند اجراء مكالمة</string>
+  <string name="prox_auto_speaker_incall_only_summary_on">عند المكالمات الصادرة، مكبر الصوت سيصبح نشطاً فقط بعد أن يجيب الطرف المستلم</string>
+  <string name="prox_auto_speaker_incall_only_summary_off">تفعيل مكبر الصوت خلال اجراء مكالمة هاتفية ( افتراضي)</string>
 </resources>
