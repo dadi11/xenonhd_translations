@@ -138,4 +138,6 @@
   <!-- Option to show brightness bar in quick settings -->
   <string name="show_brightness_title">مزلاق السطوع</string>
   <string name="show_brightness_summary">إظهار شريط التحكم في السطوع</string>
+  <!-- Advanced restart options -->
+  <!-- Show 4G instead of LTE -->
 </resources>
