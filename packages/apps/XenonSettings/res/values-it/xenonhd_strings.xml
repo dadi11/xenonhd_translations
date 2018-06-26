@@ -138,4 +138,6 @@
   <!-- Option to show brightness bar in quick settings -->
   <string name="show_brightness_title">Cursore luminosità</string>
   <string name="show_brightness_summary">Mostra la barra livello luminosità</string>
+  <!-- Advanced restart options -->
+  <!-- Show 4G instead of LTE -->
 </resources>
