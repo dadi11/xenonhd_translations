@@ -78,6 +78,7 @@
   <string name="clock_title_enable">Alinhamento</string>
   <string name="right_clock">Relógio à direita</string>
   <string name="center_clock">Relógio ao centro</string>
+  <string name="left_clock">Relógio à esquerda</string>
   <string name="status_bar_clock_seconds_title">Segundos do relógio</string>
   <string name="status_bar_clock_seconds_summary">Exibir segundos ao lado do relógio na barra de status</string>
   <string name="status_bar_am_pm_title">AM/PM</string>
