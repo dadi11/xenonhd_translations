@@ -138,4 +138,6 @@
   <!-- Option to show brightness bar in quick settings -->
   <string name="show_brightness_title">亮度滑桿</string>
   <string name="show_brightness_summary">顯示亮度滑動條</string>
+  <!-- Advanced restart options -->
+  <!-- Show 4G instead of LTE -->
 </resources>
