@@ -1,1 +1,1 @@
-# xenonhd_translations
+# XenonHD crowdin translations
