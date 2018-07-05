@@ -111,8 +111,32 @@
   <string name="lock_date_font_title">Дата</string>
   <string name="lock_clock_font_light">Світла</string>
   <!-- Screen state service -->
+  <string name="screen_state_toggles_mobile_title">Мобільні мережі</string>
+  <string name="screen_state_toggles_location_title">Місцезнаходження</string>
+  <string name="screen_state_toggles_twog">Перемкнути на 2G</string>
+  <string name="screen_state_toggles_twog_summary">Режим мережі буде змінено на 2G після вимкнення екрану</string>
+  <string name="screen_state_toggles_gps">Вимкнути GPS</string>
+  <string name="screen_state_toggles_gps_summary">Розташування по GPS буде відключено при вимкненому екрані</string>
+  <string name="screen_state_toggles_mobile_data">Вимкнути передачу даних</string>
+  <string name="screen_state_toggles_mobile_data_summary">Вимкнути передачу даних після вимкнення екрану</string>
+  <string name="screen_state_off_delay_title">Затримка при вимкненні екрану</string>
+  <string name="screen_state_off_delay_summary">Кількість секунд очікування перед виконанням дій після вимкнення екрану</string>
+  <string name="screen_state_on_delay_title">Затримка при увімкненні екрану</string>
+  <string name="screen_state_on_delay_summary">Кількість секунд очікування перед виконанням дій після ввімкнення екрану</string>
   <!-- Fingerprint max failed attempts -->
+  <string name="fp_max_failed_attempts">Максимальна кількість спроб розблокування відбитком</string>
+  <string name="fp_three_attempts">3 спроби</string>
+  <string name="fp_five_attempts">5 спроб</string>
+  <string name="fp_ten_attempts">10 спроб</string>
+  <string name="fp_fifteen_attempts">15 спроб</string>
   <!-- Lockscreen battery info indicator  -->
+  <string name="lockscreen_battery_info_title">Інформація про зарядку</string>
+  <string name="lockscreen_battery_info_summary">Відображення напруги, струму та температуру акумулятора на екрані блокування під час зарядки</string>
   <!-- Status bar - Battery saver color -->
+  <string name="status_bar_battery_saver_color_title">Колір рядка стану при активному режимі енергозбереження</string>
+  <string name="status_bar_battery_saver_color_summary">Примітка: Якщо увімкнений режим енергозбереження батареї, то для активації нового кольору індикатора необхідно вимкнути та знову увімкнути режим енергозбереження!</string>
   <!-- Reset battery stats -->
+  <string name="ok">Добре</string>
+  <string name="menu_stats_reset">Скинути статистику</string>
+  <string name="reset_stats_msg">Історія використання батареї буде скинута</string>
 </resources>

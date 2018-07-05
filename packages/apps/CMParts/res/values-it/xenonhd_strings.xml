@@ -16,7 +16,7 @@
   <!-- Battery Bar -->
   <string name="battery_bar_title">Barra batteria</string>
   <string name="battery_bar">Posizione barra batteria</string>
-  <string name="battery_bar_no_navbar">Posizione barra batteria</string>
+  <string name="battery_bar_no_navbar">Posizione barra della batteria</string>
   <string name="battery_bar_color">Colore barra batteria</string>
   <string name="battery_bar_charging_color">Colore barra batteria durante la ricarica</string>
   <string name="battery_bar_battery_low_color">Colore barra della batteria quando la batteria è quasi scarica</string>

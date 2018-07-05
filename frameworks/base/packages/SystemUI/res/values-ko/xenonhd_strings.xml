@@ -13,16 +13,36 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Screenshot Delete Toast -->
+  <string name="delete_screenshot_toast">스크린샷이 삭제되었습니다</string>
   <!-- Status bar items tuner -->
+  <string name="statusbar_icons_blacklist">상태 표시줄 아이콘</string>
   <!-- Quick Settings tiles -->
+  <string name="quick_settings_screenshot_label">스크린샷</string>
+  <string name="quick_settings_reboot_label">재시작</string>
+  <string name="quick_settings_reboot_recovery_label">리커버리</string>
+  <string name="quick_settings_music_label">음악</string>
+  <string name="quick_settings_music_play">재생</string>
+  <string name="quick_settings_music_pause">일시정지</string>
+  <string name="quick_settings_ime_tile_label">입력 방법</string>
   <!-- Text to use when the number in a notification info is too large
          (greater than status_bar_notification_info_maxnum, defined in
          values/config.xml) and must be truncated. [CHAR LIMIT=4] -->
   <!-- Free RAM -->
+  <string name="free_ram">가용 RAM:\u0020</string>
   <!-- Path data for Solid battery -->
   <!-- High Brightness Mode Tile -->
+  <string name="quick_settings_high_brightness">높은 밝기</string>
+  <string name="high_brightness_warning">높은 밝기 모드가 활성화됨, 현재 밝기 설정 무시</string>
   <!-- Pirate alert -->
+  <string name="pirate_label">으아아아아아아</string>
+  <string name="pirate_spec">해적</string>
   <!-- QS Lockscreen Tile -->
+  <string name="quick_settings_lockscreen_label">잠금 화면</string>
+  <string name="quick_settings_lockscreen_label_enforced">잠금 화면 적용</string>
+  <string name="accessibility_quick_settings_lock_screen_off">잠금 화면 끄기</string>
+  <string name="accessibility_quick_settings_lock_screen_on">잠금 화면 켜기</string>
+  <string name="accessibility_quick_settings_lock_screen_changed_off">잠금 화면 꺼짐</string>
+  <string name="accessibility_quick_settings_lock_screen_changed_on">잠금 화면 켜짐</string>
   <!-- VoLTE icon switch -->
   <string name="status_bar_volte">VoLTE</string>
 </resources>

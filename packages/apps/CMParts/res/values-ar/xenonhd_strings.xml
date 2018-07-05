@@ -84,7 +84,15 @@
   <string name="status_bar_date_format_custom">نسق جاڤا مخصص</string>
   <string name="status_bar_date_string_edittext_title">يجب أن يكون بنسق التاريخ مثال. شهر/يوم/سنة</string>
   <string name="status_bar_date_string_edittext_summary">ادخل سلسلة</string>
+  <string name="menu_save">حفظ</string>
+  <string name="menu_cancel">تجاهل</string>
   <!-- Navbar Animation -->
+  <string name="pixel_navbar_anim_title">الرسوم المتحركة لشريط التنقل</string>
+  <string name="pixel_navbar_anim_summary">أعد تمكين شريط التنقل او قم بإعادة تشغيل هاتفك لتطبيق التغييرات. قد تقوم الثيمات بتغيير هذه الإعدادات</string>
   <!-- Torch -->
+  <string name="torch_long_press_power_gesture_title">اضغط زر الطاقة مطولا لتشغيل المصباح</string>
+  <string name="torch_long_press_power_gesture_desc">تشغيل المصباح بضغطة طويلة على زر الطاقة والشاشة مغلقة</string>
   <!-- One-handed mode -->
+  <string name="one_handed_mode_title">وضع اليد الواحدة</string>
+  <string name="one_handed_mode_summary">يسمح بالسحب على شريط التنقل لتفعيل وضع اليد الواحدة</string>
 </resources>

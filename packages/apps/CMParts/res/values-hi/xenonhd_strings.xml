@@ -14,6 +14,18 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Battery Bar -->
+  <string name="battery_bar_title">बैटरी बार</string>
+  <string name="battery_bar">बैटरी बार स्थान</string>
+  <string name="battery_bar_no_navbar">बैटरी बार स्थान</string>
+  <string name="battery_bar_color">बैटरी बार रंग</string>
+  <string name="battery_bar_charging_color">बैटरी बार चार्जिंग रंग</string>
+  <string name="battery_bar_battery_low_color">बैटरी कम होने पर बैटरी बार का रंग</string>
+  <string name="battery_bar_cat">बैटरी बार प्रकार</string>
+  <string name="battery_bar_style_title">बैटरी बार संरेखण</string>
+  <string name="battery_bar_thickness_title">बैटरी बार मोटाई</string>
+  <string name="battery_bar_animate_title">चार्जिंग एनीमेशन</string>
+  <string name="battery_bar_style_regular">नियमित</string>
+  <string name="battery_bar_style_center_mirrored">केंद्र में नजर आता</string>
   <!-- Battery icon -->
   <!-- Brightness slider -->
   <!-- Color Picker -->
