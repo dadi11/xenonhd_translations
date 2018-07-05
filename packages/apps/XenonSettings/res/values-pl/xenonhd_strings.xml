@@ -144,4 +144,5 @@
   <!-- Show 4G instead of LTE -->
   <string name="show_4g_title">Pokaż 4G</string>
   <string name="show_4g_summary">Pokaż ikonę 4G zamiast LTE</string>
+  <!-- Smart Pixels -->
 </resources>
