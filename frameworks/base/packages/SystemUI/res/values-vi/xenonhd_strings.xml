@@ -13,15 +13,31 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Screenshot Delete Toast -->
+  <string name="delete_screenshot_toast">Đã xóa ảnh chụp màn hình</string>
   <!-- Status bar items tuner -->
+  <string name="statusbar_icons_blacklist">Biểu tượng thanh trạng thái</string>
   <!-- Quick Settings tiles -->
+  <string name="quick_settings_screenshot_label">Ảnh chụp màn hình</string>
+  <string name="quick_settings_reboot_label">Khởi động lại</string>
+  <string name="quick_settings_reboot_recovery_label">Chế độ khôi phục</string>
+  <string name="quick_settings_music_label">Nhạc</string>
+  <string name="quick_settings_music_play">Phát</string>
+  <string name="quick_settings_music_pause">Tạm dừng</string>
+  <string name="quick_settings_ime_tile_label">Phương thức nhập</string>
   <!-- Text to use when the number in a notification info is too large
          (greater than status_bar_notification_info_maxnum, defined in
          values/config.xml) and must be truncated. [CHAR LIMIT=4] -->
   <!-- Free RAM -->
+  <string name="free_ram">RAM trống:\u0020</string>
   <!-- Path data for Solid battery -->
   <!-- High Brightness Mode Tile -->
+  <string name="quick_settings_high_brightness">Độ sáng cao</string>
+  <string name="high_brightness_warning">Chế độ Độ sáng cao đã được kích hoạt, ghi đè cài đặt độ sáng hiện tại</string>
   <!-- Pirate alert -->
+  <string name="pirate_label">Aaarrrggghhh</string>
   <!-- QS Lockscreen Tile -->
+  <string name="quick_settings_lockscreen_label">Màn hình khóa</string>
+  <string name="accessibility_quick_settings_lock_screen_on">Bật khoá màn hình.</string>
   <!-- VoLTE icon switch -->
+  <string name="status_bar_volte">VoLTE</string>
 </resources>
