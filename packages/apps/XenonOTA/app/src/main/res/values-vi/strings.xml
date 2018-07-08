@@ -20,6 +20,8 @@
   <string name="app_name">XenonOTA</string>
   <string name="app_title">Bản cập nhật XenonHD</string>
   <!-- Categories -->
+  <string name="ota_category">Thông tin cập nhật</string>
+  <string name="links_category">Liên kết tải xuống</string>
   <!-- ROM info -->
   <string name="latest_version">Phiên bản mới nhất: %1$s</string>
   <string name="unknown">Không rõ</string>
@@ -32,6 +34,7 @@
   <string name="no_update_available">Không có bản cập nhật mới hơn</string>
   <!-- Update interval -->
   <string name="autoupdate_enabled">Cập nhật tự động được bật</string>
+  <string name="autoupdate_disabled">Đã tắt cập nhật tự động</string>
   <string name="disabled">Tắt</string>
   <string name="hour">Hàng giờ</string>
   <string name="twelve_hours">Mỗi 12 tiếng</string>
