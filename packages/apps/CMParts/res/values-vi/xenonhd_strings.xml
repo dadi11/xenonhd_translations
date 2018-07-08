@@ -15,10 +15,25 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Battery Bar -->
   <string name="battery_bar_title">Thanh hiển thị pin</string>
+  <string name="battery_bar_color">Màu thanh hiển thị pin</string>
+  <string name="battery_bar_charging_color">Màu thanh hiển thị pin khi sạc</string>
+  <string name="battery_bar_battery_low_color">Màu thanh hiển thị pin khi pin yếu</string>
+  <string name="battery_bar_cat">Kiểu thanh hiển thị pin</string>
+  <string name="battery_bar_style_title">Vị trí thanh hiển thị pin</string>
+  <string name="battery_bar_thickness_title">Độ dày thanh pin</string>
+  <string name="battery_bar_animate_title">Hoạt ảnh sạc</string>
+  <string name="battery_bar_use_gradient_color">Sử dụng màu chuyển sắc</string>
+  <string name="battery_bar_gradient_color_summary">Sử dụng màu chuyển sắc làm tỷ lệ cho mức pin</string>
   <!-- Battery icon -->
   <!-- Brightness slider -->
+  <string name="qs_brightness_slider_enabled">Kích hoạt</string>
+  <string name="qs_brightness_slider_disabled">Vô hiệu hóa</string>
+  <string name="brightness_icon_title">Biểu tượng độ sáng </string>
   <!-- Color Picker -->
+  <string name="dialog_color_picker">Bảng chọn màu</string>
+  <string name="color_default">Mặc định</string>
   <!-- Network traffic -->
+  <string name="show_network_traffic_disable">Vô hiệu hóa</string>
   <!-- Superuser indicator on status bar -->
   <!--Status bar date -->
   <!-- Navbar Animation -->
