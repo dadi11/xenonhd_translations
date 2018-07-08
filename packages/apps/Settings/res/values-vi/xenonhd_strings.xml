@@ -44,20 +44,70 @@
   <string name="randomize_mac_title">Chọn ngẫu nhiên địa chỉ MAC</string>
   <!-- Volume Steps -->
   <string name="volume_steps_music_title">Nhạc</string>
+  <string name="volume_steps_notification_title">Thông báo</string>
+  <string name="volume_steps_system_title">Hệ thống</string>
+  <string name="volume_steps_voice_call_title">Cuộc gọi thoại</string>
+  <string name="volume_steps_reset">Reset</string>
   <!-- DayNight Theme -->
+  <string name="night_mode_title">Chủ đề</string>
+  <string name="night_mode_no">Sáng</string>
+  <string name="night_mode_yes">Tối</string>
   <!-- Screenshot sound -->
   <!-- Manage applications: show substratum overlays -->
   <!-- Manage applications: show substratum icon overlays -->
   <!-- XenonHD Configurations-->
+  <string name="xenonhd_ui_title">Giao diện người dùng</string>
   <!-- Selinux Switch -->
   <!-- Recents Membar -->
+  <string name="recents_membar">Thanh hiển thị bộ nhớ</string>
+  <string name="systemui_recents_mem_display_title">Hiển thị thanh bộ nhớ</string>
   <!-- Quick settings config -->
+  <string name="qs_rows_portrait_title">Hàng (màn hình dọc)</string>
+  <string name="qs_rows_landscape_title">Hàng (màn hình ngang)</string>
+  <string name="qs_columns_title">Cột</string>
   <!-- Quick unlock -->
   <!-- Three-fingers-swipe to screenshot -->
   <!-- Long press back to kill configurable timeout -->
   <!-- Doze pulse options -->
+  <string name="summary_doze_enabled">Kích hoạt</string>
+  <string name="summary_doze_disabled">Vô hiệu hóa</string>
+  <string name="doze_pulse_duration_out_title">Mờ dần</string>
+  <string name="onehundred_ms">100 ms</string>
+  <string name="twofifty_ms">250 ms</string>
+  <string name="fivehundred_ms_default">500 ms (mặc định)</string>
+  <string name="sevenfifty_ms">750 ms</string>
+  <string name="one_second">1 giây</string>
+  <string name="onehalf_second">1.5 giây</string>
+  <string name="two_second">2 giây</string>
+  <string name="twohalf_second">2,5 giây</string>
+  <string name="three_second_default">3 giây (mặc định)</string>
+  <string name="threehalf_second">3.5 giây</string>
+  <string name="four_second">4 giây</string>
+  <string name="fourhalf_second">4,5 giây</string>
+  <string name="five_second">5 giây</string>
+  <string name="doze_notification_color_invert_summary_off">Thông báo sẽ không thể đảo màu. Sử dụng cho các chủ đề tối</string>
+  <string name="doze_notification_color_invert_summary_on">Thông báo sẽ được đảo màu. Sử dụng cho các chủ đề sáng/gốc</string>
+  <string name="ambient_display_show_battery_title">Tình trạng pin</string>
+  <string name="ambient_display_show_battery_summary">Hiển thị chỉ số pin trong khi màn hình tự bật sáng</string>
   <!-- Recents panel settings -->
+  <string name="show_clear_all_recents_button_title">Hiện nút xóa tất cả</string>
+  <string name="show_clear_all_recents_button_summary">Hiện nút xóa tất cả khi mở ứng dụng gần đây</string>
+  <string name="recents_clear_all_location_title">Vị trí phím Xóa tất cả</string>
+  <string name="recents_clear_all_location_top_right">Trên cùng bên phải</string>
+  <string name="recents_clear_all_location_top_left">Trên cùng bên trái</string>
+  <string name="recents_clear_all_location_top_center">Chính giữa phía trên</string>
+  <string name="recents_clear_all_location_bottom_right">Dưới cùng bên phải</string>
+  <string name="recents_clear_all_location_bottom_left">Dưới cùng bên trái</string>
+  <string name="recents_clear_all_location_bottom_center">Chính giữa phía dưới</string>
   <!-- Dashboard options -->
+  <string name="dashboard_category">Bảng điều khiển tùy chọn</string>
+  <string name="dashboard_suggestions_title">Đề xuất</string>
+  <string name="summary_dashboard_suggestions_enabled">Đề xuất bảng điều khiển được bật</string>
+  <string name="summary_dashboard_suggestions_disabled">Đề xuất bảng điều khiển được tắt</string>
+  <string name="remove_tile_summaries_title">Tóm tắt</string>
+  <string name="remove_tile_summaries_summary_enabled">Tóm tắt bảng điều khiển được bật</string>
+  <string name="remove_tile_summaries_summary_disabled">Tóm tắt bảng điều khiển được tắt</string>
+  <string name="dashboard_conditions_title">Điều kiện</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
   <!-- Emergency button -->
   <!-- Fingerprint authentication vibration -->
@@ -66,8 +116,13 @@
   <!-- Force authorize substratum packages -->
   <!-- QS tile labels visibility -->
   <!-- Color Picker -->
+  <string name="dialog_color_picker">Bảng chọn màu</string>
+  <string name="color_default">Mặc định</string>
   <!-- Carrier label -->
+  <string name="show_carrier_disabled">Vô hiệu hóa</string>
+  <string name="status_bar_font_light">Sáng</string>
   <!-- Lock Clock Fonts -->
+  <string name="lock_clock_font_light">Sáng</string>
   <!-- Screen state service -->
   <!-- Fingerprint max failed attempts -->
   <!-- Lockscreen battery info indicator  -->
