@@ -226,4 +226,7 @@
   <!-- Lockscreen battery info indicator  -->
   <!-- Status bar - Battery saver color -->
   <!-- Reset battery stats -->
+  <string name="ok">确定</string>
+  <string name="menu_stats_reset">重置统计数据</string>
+  <string name="reset_stats_msg">电池的历史统计数据将被重置</string>
 </resources>
