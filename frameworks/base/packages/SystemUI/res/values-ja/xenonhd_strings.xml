@@ -38,5 +38,11 @@
   <string name="pirate_spec">海賊</string>
   <!-- QS Lockscreen Tile -->
   <string name="quick_settings_lockscreen_label">ロック画面</string>
+  <string name="quick_settings_lockscreen_label_enforced">ロック画面が強制的に有効になりました</string>
+  <string name="accessibility_quick_settings_lock_screen_off">ロック画面 オフ</string>
+  <string name="accessibility_quick_settings_lock_screen_on">ロック画面 オン</string>
+  <string name="accessibility_quick_settings_lock_screen_changed_off">ロック画面を無効にしました</string>
+  <string name="accessibility_quick_settings_lock_screen_changed_on">ロック画面を有効にしました</string>
   <!-- VoLTE icon switch -->
+  <string name="status_bar_volte">VoLTE</string>
 </resources>
