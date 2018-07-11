@@ -35,9 +35,14 @@
   <string name="high_brightness_warning">Chế độ Độ sáng cao đã được kích hoạt, ghi đè cài đặt độ sáng hiện tại</string>
   <!-- Pirate alert -->
   <string name="pirate_label">Aaarrrggghhh</string>
+  <string name="pirate_spec">cướp biển</string>
   <!-- QS Lockscreen Tile -->
   <string name="quick_settings_lockscreen_label">Màn hình khóa</string>
-  <string name="accessibility_quick_settings_lock_screen_on">Bật khoá màn hình.</string>
+  <string name="quick_settings_lockscreen_label_enforced">Màn hình khóa bắt buộc bật</string>
+  <string name="accessibility_quick_settings_lock_screen_off">Tắt khoá màn hình</string>
+  <string name="accessibility_quick_settings_lock_screen_on">Bật khoá màn hình</string>
+  <string name="accessibility_quick_settings_lock_screen_changed_off">Đã tắt khoá màn hình</string>
+  <string name="accessibility_quick_settings_lock_screen_changed_on">Đã bật khoá màn hình</string>
   <!-- VoLTE icon switch -->
   <string name="status_bar_volte">VoLTE</string>
 </resources>
