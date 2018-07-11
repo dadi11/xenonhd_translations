@@ -44,7 +44,7 @@
   <string name="press_color_to_apply">色を選択して適用</string>
   <string name="hex">16進数:</string>
   <string name="set">設定</string>
-  <string name="color_default">既定 （デフォルト）</string>
+  <string name="color_default">既定</string>
   <!-- Network traffic -->
   <string name="traffic_category">トラフィックインジケータ</string>
   <string name="network_traffic_title">ネットワークトラフィック</string>
@@ -73,7 +73,7 @@
   <!--Status bar date -->
   <string name="status_bar_clock_category">時刻</string>
   <string name="status_bar_date_title">日付</string>
-  <string name="status_bar_date_none">非表示 (デフォルト)</string>
+  <string name="status_bar_date_none">非表示（既定）</string>
   <string name="status_bar_date_small">小さい</string>
   <string name="status_bar_date_normal">普通</string>
   <string name="status_bar_date_format_title">日付の形式</string>
