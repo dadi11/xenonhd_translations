@@ -13,7 +13,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
-  <string name="xenonhd_version">XenonHDバージョン</string>
+  <string name="xenonhd_version">XenonHD バージョン</string>
   <string name="xenonhd_version_default">不明</string>
   <string name="xenonhd_maintainer">メンテナ</string>
   <string name="xenonhd_maintainer_default">不明</string>
@@ -70,10 +70,10 @@
   <string name="doze_pulse_duration_out_title">フェードアウト</string>
   <string name="doze_trigger_notification_title">通知トリガー</string>
   <string name="doze_brightness_level_title">明るさレベル</string>
-  <string name="onehundred_ms">100 ミリ秒</string>
-  <string name="twofifty_ms">250 ミリ秒</string>
-  <string name="fivehundred_ms_default">500 ミリ秒 (規定値)</string>
-  <string name="sevenfifty_ms">750 ミリ秒</string>
+  <string name="onehundred_ms">100ミリ秒</string>
+  <string name="twofifty_ms">250ミリ秒</string>
+  <string name="fivehundred_ms_default">500ミリ秒 (規定値)</string>
+  <string name="sevenfifty_ms">750ミリ秒</string>
   <string name="one_second">1秒</string>
   <string name="onehalf_second">1.5秒</string>
   <string name="two_second">2秒</string>
@@ -103,10 +103,10 @@
   <string name="press_color_to_apply">色を選択して適用</string>
   <string name="hex">16進数:</string>
   <string name="set">設定</string>
-  <string name="color_default">既定 （デフォルト）</string>
+  <string name="color_default">既定</string>
   <!-- Carrier label -->
   <string name="show_carrier_disabled">無効</string>
-  <string name="status_bar_font_normal">普通</string>
+  <string name="status_bar_font_normal">標準</string>
   <!-- Lock Clock Fonts -->
   <string name="lock_date_font_title">日付</string>
   <!-- Screen state service -->
