@@ -14,6 +14,11 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- LuckyPatcher carnt dialog -->
+  <string name="lucky_patcher_installed_title">LuckyPatcherを発見！</string>
+  <string name="lucky_patcher_installed_message">喜んで私が犯人で、泥棒で、海賊であることを認めます。私は勤勉な開発者からお金を盗み、それについて自慢するのが大好きです。</string>
+  <string name="lucky_patcher_admit">承認</string>
   <!-- Title of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
+  <string name="permlab_fakePackageSignature">パッケージ署名を偽装</string>
   <!-- Description of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
+  <string name="permdesc_fakePackageSignature">アプリが別のアプリになりすます事を許可します。 悪意のあるアプリケーションがこれを利用してアプリケーションの個人情報にアクセスする可能性があります。 慎重にこの許可を与えてください！</string>
 </resources>
