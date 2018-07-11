@@ -27,6 +27,10 @@
   <string name="battery_bar_style_regular">標準</string>
   <string name="battery_bar_style_center_mirrored">中央寄せ</string>
   <string name="battery_bar_style_reversed">反転</string>
+  <string name="battery_bar_use_gradient_color">グラデーションカラーを使用</string>
+  <string name="battery_bar_gradient_color_summary">バッテリーレベルの目盛りにグラデーションカラーを使用</string>
+  <string name="battery_bar_high_color">高残量時の色</string>
+  <string name="battery_bar_low_color">低残量時の色</string>
   <!-- Battery icon -->
   <string name="status_bar_battery_style_solid">ソリッド</string>
   <!-- Brightness slider -->
@@ -34,7 +38,7 @@
   <string name="qs_brightness_slider_enabled">有効</string>
   <string name="qs_brightness_slider_disabled">無効</string>
   <string name="brightness_icon_title">画面の明るさアイコン</string>
-  <string name="brightness_icon_summary">明るさスライダーの隣に「画面の明るさ」ボタンを表示する</string>
+  <string name="brightness_icon_summary">明るさスライダーの隣に画面の明るさボタンを表示する</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">色の選択</string>
   <string name="press_color_to_apply">色を選択して適用</string>
@@ -64,7 +68,7 @@
   <string name="network_traffic_hidearrow_summary">トラフィックモニターの矢印を隠す</string>
   <!-- Superuser indicator on status bar -->
   <string name="su_indicator">スーパーユーザーインジケーター</string>
-  <string name="su_indicator_summary_on">スーパーユーザー権限を使用するセッションがアクティブな時インジケーターを表示</string>
+  <string name="su_indicator_summary_on">スーパーユーザー権限を使用するセッションがアクティブな時にインジケーターを表示する</string>
   <string name="su_indicator_summary_off">セッションがアクティブなときにスーパーユーザーのインジケーターを表示するように切り替える</string>
   <!--Status bar date -->
   <string name="status_bar_clock_category">時刻</string>
@@ -83,8 +87,8 @@
   <string name="menu_save">保存</string>
   <string name="menu_cancel">破棄</string>
   <!-- Navbar Animation -->
-  <string name="pixel_navbar_anim_title">ナビバーのアニメーション</string>
-  <string name="pixel_navbar_anim_summary">ナビバーの再有効後または端末の再起動後に反映します。テーマがこの設定を上書きする可能性があります</string>
+  <string name="pixel_navbar_anim_title">ナビゲーションバーのアニメーション</string>
+  <string name="pixel_navbar_anim_summary">ナビゲーションバーの再有効後または端末の再起動後に反映します。テーマがこの設定を上書きする可能性があります</string>
   <!-- Torch -->
   <string name="torch_long_press_power_gesture_title">電源ボタンを長押しでトーチ点灯</string>
   <string name="torch_long_press_power_gesture_desc">画面オフ時に電源ボタンを長押しでトーチを点灯する</string>
