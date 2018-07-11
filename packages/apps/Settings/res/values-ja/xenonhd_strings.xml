@@ -24,6 +24,7 @@
   <!-- XenonOTA -->
   <string name="xenonota_title">XenonHDの更新</string>
   <!-- Dev Options Enabled by Default -->
+  <string name="show_dev_already_enabled">必要ありません。開発者向けオプションは既定で有効になっています。</string>
   <!-- Phone info shortcut -->
   <string name="device_info_title">携帯電話情報</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
@@ -60,6 +61,7 @@
   <string name="unlock_quick_unlock_control_summary">正しいPIN/パスワードが入力されたときはロックを自動的に解除する</string>
   <!-- Three-fingers-swipe to screenshot -->
   <!-- Long press back to kill configurable timeout -->
+  <string name="timeout_2000">2秒（既定）</string>
   <!-- Doze pulse options -->
   <string name="summary_doze_enabled">有効</string>
   <string name="summary_doze_disabled">無効</string>
@@ -72,13 +74,13 @@
   <string name="doze_brightness_level_title">明るさレベル</string>
   <string name="onehundred_ms">100ミリ秒</string>
   <string name="twofifty_ms">250ミリ秒</string>
-  <string name="fivehundred_ms_default">500ミリ秒 (規定値)</string>
+  <string name="fivehundred_ms_default">500ミリ秒（既定）</string>
   <string name="sevenfifty_ms">750ミリ秒</string>
   <string name="one_second">1秒</string>
   <string name="onehalf_second">1.5秒</string>
   <string name="two_second">2秒</string>
   <string name="twohalf_second">2.5秒</string>
-  <string name="three_second_default">3秒 (規定値)</string>
+  <string name="three_second_default">3秒（既定）</string>
   <string name="threehalf_second">3.5秒</string>
   <string name="four_second">4秒</string>
   <string name="fourhalf_second">4.5秒</string>
@@ -108,7 +110,9 @@
   <string name="show_carrier_disabled">無効</string>
   <string name="status_bar_font_normal">標準</string>
   <!-- Lock Clock Fonts -->
+  <string name="lock_clock_font_summary">ロック画面の時計ウィジェットの既定のフォントを変更します</string>
   <string name="lock_date_font_title">日付</string>
+  <string name="lock_clock_font_stock">通常（既定）</string>
   <!-- Screen state service -->
   <!-- Fingerprint max failed attempts -->
   <!-- Lockscreen battery info indicator  -->
