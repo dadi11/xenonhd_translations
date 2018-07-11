@@ -15,6 +15,10 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- LuckyPatcher carnt dialog -->
   <string name="lucky_patcher_installed_title">Đã tìm thấy LuckyPatcher!!!</string>
+  <string name="lucky_patcher_installed_message">Tôi từ chối thừa nhận rằng tôi là kẻ trộm và cướp biển. Tôi thích ăn cắp tiền từ các nhà phát triển làm việc chăm chỉ và khoe khoang về nó.</string>
+  <string name="lucky_patcher_admit">Tôi thừa nhận</string>
   <!-- Title of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
+  <string name="permlab_fakePackageSignature">Giả mạo chữ ký gói</string>
   <!-- Description of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
+  <string name="permdesc_fakePackageSignature">Cho phép ứng dụng giả mạo là một ứng dụng khác. Ứng dụng độc hại có thể sử dụng để truy cập vào dữ liệu riêng của ứng dụng khác. Hãy cấp quyền truy cập một cách thận trọng!</string>
 </resources>
