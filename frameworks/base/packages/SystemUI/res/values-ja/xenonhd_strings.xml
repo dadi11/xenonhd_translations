@@ -28,9 +28,15 @@
          (greater than status_bar_notification_info_maxnum, defined in
          values/config.xml) and must be truncated. [CHAR LIMIT=4] -->
   <!-- Free RAM -->
+  <string name="free_ram">空きメモリ：\u0020</string>
   <!-- Path data for Solid battery -->
   <!-- High Brightness Mode Tile -->
+  <string name="quick_settings_high_brightness">高輝度</string>
+  <string name="high_brightness_warning">高輝度モードが有効になり、現在の輝度設定を上書きします。</string>
   <!-- Pirate alert -->
+  <string name="pirate_label">アアー！</string>
+  <string name="pirate_spec">海賊</string>
   <!-- QS Lockscreen Tile -->
+  <string name="quick_settings_lockscreen_label">ロック画面</string>
   <!-- VoLTE icon switch -->
 </resources>
