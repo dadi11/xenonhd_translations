@@ -15,6 +15,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Battery Bar -->
   <string name="battery_bar_title">Thanh hiển thị pin</string>
+  <string name="battery_bar">Vị trí hiển thị thanh pin</string>
+  <string name="battery_bar_no_navbar">Vị trí hiển thị thanh pin</string>
   <string name="battery_bar_color">Màu thanh hiển thị pin</string>
   <string name="battery_bar_charging_color">Màu thanh hiển thị pin khi sạc</string>
   <string name="battery_bar_battery_low_color">Màu thanh hiển thị pin khi pin yếu</string>
