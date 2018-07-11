@@ -24,7 +24,7 @@
   <!-- XenonOTA -->
   <string name="xenonota_title">XenonHDの更新</string>
   <!-- Dev Options Enabled by Default -->
-  <string name="show_dev_already_enabled">必要ありません。開発者向けオプションは既定で有効になっています。</string>
+  <string name="show_dev_already_enabled">開発者向けオプションは既定で有効になっています</string>
   <!-- Phone info shortcut -->
   <string name="device_info_title">携帯電話情報</string>
   <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
