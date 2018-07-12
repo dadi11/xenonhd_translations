@@ -34,7 +34,7 @@
   <string name="local_backup_password_title">PCバックアップパスワード</string>
   <!-- Notification sound timeout -->
   <string name="app_notification_sound_timeout_title">通知音の最小間隔</string>
-  <string name="app_notification_sound_timeout_summary_template"><xliff:g id="duration">%1$s</xliff:g>間に1回以上の通知音またはバイブレーションを許可しない</string>
+  <string name="app_notification_sound_timeout_summary_template"><xliff:g id="duration">%1$s</xliff:g>間に1回以上の通知音または振動を許可しない</string>
   <string name="app_notification_sound_timeout_value_none">無制限</string>
   <string name="app_notification_sound_timeout_value_10_seconds">10秒</string>
   <string name="app_notification_sound_timeout_value_30_seconds">30秒</string>
@@ -201,7 +201,7 @@
   <!-- Color Picker -->
   <string name="dialog_color_picker">色の選択</string>
   <string name="press_color_to_apply">色を選択して適用</string>
-  <string name="hex">16進数:</string>
+  <string name="hex">16進数：</string>
   <string name="set">設定</string>
   <string name="color_default">既定</string>
   <!-- Carrier label -->
