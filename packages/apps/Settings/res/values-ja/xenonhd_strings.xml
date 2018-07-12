@@ -44,6 +44,7 @@
   <string name="app_notification_sound_timeout_value_30_minutes">30分</string>
   <!-- Randomize MAC addresses -->
   <string name="randomize_mac_title">MACアドレスをランダム化する</string>
+  <string name="randomize_mac_summary">ネットワークデバイスが有効になっているときにランダムなMACアドレスを割り当てます。 MACアドレスのランダム化はスキャンが有効かどうかにかかわらず使用されます。</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">ボリュームステップ</string>
   <string name="volume_steps_alarm_title">アラーム</string>
