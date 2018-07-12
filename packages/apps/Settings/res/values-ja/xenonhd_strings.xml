@@ -77,6 +77,7 @@
   <string name="xenonhd_ui_title">ユーザーインターフェース</string>
   <!-- Selinux Switch -->
   <string name="selinux_switch_title">SELinux切り替えの注意</string>
+  <string name="selinux_switch_summary">SELinuxは、カーネルの修正とユーザー空間ツールの組み合わせから成り立ちます。モードを変更するにはルートアクセスが必要であり、望ましくない影響を引き起こす可能性があります。Permissiveが推奨されます。自己責任の元実行してください。</string>
   <string name="selinux_title">SELinuxモード</string>
   <string name="selinux_permissive_title">Permissive</string>
   <string name="selinux_enforcing_title">Enforcing</string>
@@ -84,16 +85,19 @@
   <!-- Recents Membar -->
   <string name="recents_membar">メモリ使用量バー</string>
   <string name="systemui_recents_mem_display_title">メモリ使用量を表示する</string>
+  <string name="systemui_recents_mem_display_summary">アプリ履歴の画面に空きメモリバーを表示する</string>
   <!-- Quick settings config -->
   <string name="qs_layout_category">クイック設定オプション</string>
   <string name="qs_rows_portrait_title">行数（縦向き）</string>
   <string name="qs_rows_landscape_title">行数（横向き）</string>
   <string name="qs_columns_title">列数</string>
   <string name="qs_easy_toggle_title">クイック設定タイルの簡単切り替え</string>
+  <string name="qs_easy_toggle_summary">Wi-Fi、モバイルデータ、Bluetoothを有効/無効にするための1回のタップ操作を有効にします。長く押すと詳細設定が表示されます。</string>
   <string name="qs_tile_single_tap_title">シングルタップで変更</string>
   <string name="qs_tile_single_tap_summary">カスタマイズ中にタイルをシングルタップでタイルを追加、削除する</string>
   <!-- Quick unlock -->
   <string name="quick_unlock_warning">クイックアンロックの注意</string>
+  <string name="quick_unlock_warning_summary">この機能は重要なセキュリティメカニズムをバイパスし、ほぼ確実に複数のユーザーのサポートを間違って認証してしまいます。自己責任の元使用してください。</string>
   <string name="unlock_quick_unlock_control_title">クイックロック解除</string>
   <string name="unlock_quick_unlock_control_summary">正しいPIN/パスワードが入力されたときはロックを自動的に解除する</string>
   <!-- Three-fingers-swipe to screenshot -->
@@ -166,8 +170,14 @@
   <string name="dashboard_columns_landscape_title">列数（横向き）</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
   <string name="hide_lockscreen_clock_title">時計ウィジェット</string>
+  <string name="hide_lockscreen_clock_summary_on">時計ウィジェットはロック画面に表示されます</string>
+  <string name="hide_lockscreen_clock_summary_off">時計ウィジェットはロック画面に表示されません</string>
   <string name="hide_lockscreen_date_title">日付ウィジェット</string>
+  <string name="hide_lockscreen_date_summary_on">時計ウィジェットの下の日付を表示する</string>
+  <string name="hide_lockscreen_date_summary_off">時計ウィジェットの下の日付を表示しない</string>
   <string name="hide_lockscreen_alarm_title">アラームテキスト</string>
+  <string name="hide_lockscreen_alarm_summary_on">時計ウィジェットの下のアラームテキストを表示する</string>
+  <string name="hide_lockscreen_alarm_summary_off">時計ウィジェットの下のアラームテキストを表示しない</string>
   <!-- Emergency button -->
   <string name="emergency_button_title">緊急通報ボタン</string>
   <string name="emergency_button_summary_on">ロック画面上に緊急通報ボタンを表示する</string>
@@ -176,6 +186,8 @@
   <string name="fprint_sucess_vib_title">指紋認証時の振動</string>
   <string name="fprint_sucess_vib_summary">指紋認証が成功したときに振動させる</string>
   <!-- Fingerprint unlock keystore -->
+  <string name="fp_unlock_keystore_title">再起動後の指紋認証アンロック</string>
+  <string name="fp_unlock_keystore_summary">再起動後でも常に指紋でデバイスのロックを解除できるようにする</string>
   <!-- Hide Statusbar on Lockscreen -->
   <string name="lockscreen_hide_status_bar_title">ステータスバーを非表示</string>
   <string name="lockscreen_hide_status_bar_summary">ステータスバーのタップで表示を切り替える</string>
