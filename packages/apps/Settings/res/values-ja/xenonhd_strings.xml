@@ -115,7 +115,10 @@
   <string name="doze_pulse_duration_out_title">フェードアウト</string>
   <string name="doze_trigger_pickup_title">傾きセンサートリガー</string>
   <string name="doze_trigger_pickup_summary_on">傾きセンサーをトリガーとして点滅表示を実行する</string>
+  <string name="doze_trigger_pickup_summary_off">傾きセンサーをトリガーにしません</string>
   <string name="doze_trigger_notification_title">通知トリガー</string>
+  <string name="doze_trigger_notification_summary_on">通知をトリガーとして点滅表示を実行する</string>
+  <string name="doze_trigger_notification_summary_off">通知をトリガーにしません</string>
   <string name="doze_brightness_level_title">明るさレベル</string>
   <string name="onehundred_ms">100ミリ秒</string>
   <string name="twofifty_ms">250ミリ秒</string>
@@ -130,7 +133,15 @@
   <string name="four_second">4秒</string>
   <string name="fourhalf_second">4.5秒</string>
   <string name="five_second">5秒</string>
+  <string name="doze_notification_color_invert_title">通知の反転</string>
+  <string name="doze_notification_color_invert_summary_off">通知を反転させません。ダークテーマで使用してください。</string>
+  <string name="doze_notification_color_invert_summary_on">通知を反転させます。デフォルト/ライトテーマで使用してください。</string>
+  <string name="ambient_display_show_battery_title">バッテリー残量</string>
+  <string name="ambient_display_show_battery_summary">パルス中は電池残量インジケーターを表示する</string>
   <!-- Recents panel settings -->
+  <string name="show_clear_all_recents_button_title">全て終了ボタンを有効にする</string>
+  <string name="show_clear_all_recents_button_summary">アプリ履歴に全てを終了ボタンを表示する</string>
+  <string name="recents_clear_all_location_title">ボタンの位置</string>
   <string name="recents_clear_all_location_top_right">右上</string>
   <string name="recents_clear_all_location_top_left">左上</string>
   <string name="recents_clear_all_location_top_center">中央上</string>
@@ -138,12 +149,38 @@
   <string name="recents_clear_all_location_bottom_left">左下</string>
   <string name="recents_clear_all_location_bottom_center">中央下</string>
   <!-- Dashboard options -->
+  <string name="dashboard_category">ダッシュボード設定</string>
+  <string name="dashboard_suggestions_title">候補</string>
+  <string name="summary_dashboard_suggestions_enabled">ダッシュボードの候補の表示が有効です</string>
+  <string name="summary_dashboard_suggestions_disabled">ダッシュボードの候補の表示が無効です</string>
+  <string name="remove_tile_summaries_title">概要</string>
+  <string name="remove_tile_summaries_summary_enabled">ダッシュボードの概要の表示が有効です</string>
+  <string name="remove_tile_summaries_summary_disabled">ダッシュボードの概要の表示が無効です</string>
+  <string name="dashboard_conditions_title">状態</string>
+  <string name="summary_dashboard_conditions_enabled">ダッシュボードの状態の表示が有効です</string>
+  <string name="summary_dashboard_conditions_disabled">ダッシュボードの状態の表示が無効です</string>
+  <string name="dashboard_columns_title">ダッシュボードの列数</string>
+  <string name="dashboard_columns_summary">ダッシュボードで表示される列数を変更します</string>
+  <string name="dashboard_columns_portrait_title">列数（縦向き）</string>
+  <string name="dashboard_columns_landscape_title">列数（横向き）</string>
   <!-- Hide Lockscreen clock, date, & alarm -->
+  <string name="hide_lockscreen_clock_title">時計ウィジェット</string>
+  <string name="hide_lockscreen_date_title">日付ウィジェット</string>
+  <string name="hide_lockscreen_alarm_title">アラームテキスト</string>
   <!-- Emergency button -->
+  <string name="emergency_button_title">緊急通報ボタン</string>
+  <string name="emergency_button_summary_on">ロック画面上に緊急通報ボタンを表示する</string>
+  <string name="emergency_button_summary_off">ロック画面上に緊急通報ボタンを表示しない</string>
   <!-- Fingerprint authentication vibration -->
+  <string name="fprint_sucess_vib_title">指紋認証時の振動</string>
+  <string name="fprint_sucess_vib_summary">指紋認証が成功したときに振動させる</string>
   <!-- Fingerprint unlock keystore -->
   <!-- Hide Statusbar on Lockscreen -->
+  <string name="lockscreen_hide_status_bar_title">ステータスバーを非表示</string>
+  <string name="lockscreen_hide_status_bar_summary">ステータスバーのタップで表示を切り替える</string>
   <!-- Force authorize substratum packages -->
+  <string name="force_authorize_substratum_packages_title">すべてのテーマアプリを強制的に承認する</string>
+  <string name="force_authorize_substratum_packages_summary">提供元不明のテーマアプリのインストールを許可する</string>
   <!-- QS tile labels visibility -->
   <string name="qs_menu_item_titles">クイック設定タイルのラベル</string>
   <string name="qs_menu_item_titles_summaryOn">ラベルを表示します</string>
@@ -203,7 +240,9 @@
   <string name="lock_clock_font_summary">ロック画面の時計ウィジェットの既定のフォントを変更します</string>
   <string name="lockdate_font_size_title">日付のフォントサイズ</string>
   <string name="lockclock_font_size_title">時計のフォントサイズ</string>
+  <string name="lock_date_font_summary">日付のフォントをカスタマイズする</string>
   <string name="lock_date_font_title">日付</string>
+  <string name="lock_clock_font_dialog_title">ロック画面の時計のフォントを選択する</string>
   <string name="lock_clock_font_stock">通常（既定）</string>
   <string name="lock_clock_font_bold">Bold</string>
   <string name="lock_clock_font_light">ライト</string>
@@ -215,11 +254,39 @@
   <string name="lock_clock_font_condensed_normal">Condensed</string>
   <string name="lock_clock_font_condensed_italic">Condensed Italic</string>
   <string name="lock_clock_font_condensed_bold">Condensed Bold</string>
+  <string name="lock_clock_font_condensed_bold_italic">Roboto Condensed Bold Italic</string>
   <string name="lock_clock_font_medium_normal">Medium</string>
   <string name="lock_clock_font_medium_italic">Medium Italic</string>
   <!-- Screen state service -->
+  <string name="screen_state_toggles_title">スリープ時のアクション</string>
+  <string name="screen_state_toggles_enable_title">有効</string>
+  <string name="screen_state_toggles_enable_summary">アクションは画面オフのときに実行されオンにすると以前の状態が復元されます</string>
+  <string name="screen_state_toggles_mobile_title">モバイルネットワーク</string>
+  <string name="screen_state_toggles_location_title">位置情報</string>
+  <string name="screen_state_toggles_twog">2Gに切り替える</string>
+  <string name="screen_state_toggles_twog_summary">ネットワークモードは画面オフ時に2Gに切り替わります</string>
+  <string name="screen_state_toggles_gps">GPSの無効化</string>
+  <string name="screen_state_toggles_gps_summary">画面消灯時にGPSを使用した位置情報サービスを無効化します</string>
+  <string name="screen_state_toggles_mobile_data">モバイルデータの無効化</string>
+  <string name="screen_state_toggles_mobile_data_summary">画面消灯時にモバイルデータ通信を無効化します</string>
+  <string name="screen_state_off_delay_title">画面オフアクションの遅延</string>
+  <string name="screen_state_off_delay_summary">画面オフアクションを実行する前に待つ秒数</string>
+  <string name="screen_state_on_delay_title">画面点灯時アクションの遅延時間</string>
+  <string name="screen_state_on_delay_summary">画面オンアクションを実行する前に待つ秒数</string>
   <!-- Fingerprint max failed attempts -->
+  <string name="fp_max_failed_attempts">指紋認証の最大失敗回数</string>
+  <string name="fp_three_attempts">3回</string>
+  <string name="fp_five_attempts">5回</string>
+  <string name="fp_ten_attempts">10回</string>
+  <string name="fp_fifteen_attempts">15回</string>
   <!-- Lockscreen battery info indicator  -->
+  <string name="lockscreen_battery_info_title">充電情報</string>
+  <string name="lockscreen_battery_info_summary">充電中のロック画面に接続した充電器の最大電流・最大電圧・バッテリー温度を表示する</string>
   <!-- Status bar - Battery saver color -->
+  <string name="status_bar_battery_saver_color_title">バッテリーセーバーの色</string>
+  <string name="status_bar_battery_saver_color_summary">注意 : バッテリーセーバーが既に有効な場合は、一度無効化して有効化すると設定した色が反映されます</string>
   <!-- Reset battery stats -->
+  <string name="ok">OK</string>
+  <string name="menu_stats_reset">統計をリセット</string>
+  <string name="reset_stats_msg">バッテリの使用履歴はリセットされます</string>
 </resources>
