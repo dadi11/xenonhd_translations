@@ -13,7 +13,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, XenonHD version -->
-  <string name="xenonhd_version">XenonHD版本</string>
+  <string name="xenonhd_version">XenonHD 版本</string>
   <string name="xenonhd_version_default">未知</string>
   <string name="xenonhd_maintainer">维护者</string>
   <string name="xenonhd_maintainer_default">未知</string>
@@ -249,7 +249,14 @@
   <string name="status_bar_font_notoserif_bold">NotoSerif 粗体</string>
   <string name="status_bar_font_notoserif_bold_italic">NotoSerif 粗斜体</string>
   <!-- Lock Clock Fonts -->
+  <string name="lock_clock_font_title">字体选项</string>
+  <string name="lock_clock_font_summary">更改锁屏界面时钟小部件的默认字体</string>
+  <string name="lockdate_font_size_title">日期字体大小</string>
+  <string name="lockclock_font_size_title">时钟字体大小</string>
+  <string name="lock_date_font_summary">自定义日期字体</string>
   <string name="lock_date_font_title">日期</string>
+  <string name="lock_clock_font_dialog_title">选择锁定时钟字体</string>
+  <string name="lock_clock_font_stock">标准(默认)</string>
   <string name="lock_clock_font_bold">粗体</string>
   <string name="lock_clock_font_light">亮</string>
   <string name="lock_clock_font_italic">斜体</string>
@@ -260,22 +267,37 @@
   <string name="lock_clock_font_condensed_normal">紧凑</string>
   <string name="lock_clock_font_condensed_italic">紧凑斜体</string>
   <string name="lock_clock_font_condensed_bold">紧凑粗体</string>
+  <string name="lock_clock_font_condensed_bold_italic">Condensed 斜粗体</string>
   <string name="lock_clock_font_medium_normal">中等</string>
   <string name="lock_clock_font_medium_italic">中等斜体</string>
   <!-- Screen state service -->
+  <string name="screen_state_toggles_title">暂停动作</string>
+  <string name="screen_state_toggles_enable_title">启用</string>
+  <string name="screen_state_toggles_enable_summary">操作将在屏幕关闭时执行。屏幕上的当前状态将会被还原。</string>
+  <string name="screen_state_toggles_mobile_title">移动网络</string>
+  <string name="screen_state_toggles_location_title">定位</string>
   <string name="screen_state_toggles_twog">切换到 2G</string>
+  <string name="screen_state_toggles_twog_summary">网络将在屏幕关闭时切换至 2G</string>
   <string name="screen_state_toggles_gps">禁用 GPS</string>
   <string name="screen_state_toggles_gps_summary">GPS 定位服务将在屏幕关闭后禁用</string>
   <string name="screen_state_toggles_mobile_data">禁用移动数据</string>
   <string name="screen_state_toggles_mobile_data_summary">移动数据将在屏幕关闭后禁用</string>
   <string name="screen_state_off_delay_title">屏幕关闭操作延迟</string>
+  <string name="screen_state_off_delay_summary">在屏幕关闭后执行操作前等待的秒数</string>
+  <string name="screen_state_on_delay_title">屏幕点亮操作延迟</string>
+  <string name="screen_state_on_delay_summary">在屏幕点亮后执行操作前等待的秒数</string>
   <!-- Fingerprint max failed attempts -->
+  <string name="fp_max_failed_attempts">指纹最大失败尝试</string>
   <string name="fp_three_attempts">第 3 次尝试</string>
   <string name="fp_five_attempts">第 5 次尝试</string>
   <string name="fp_ten_attempts">第 10 次尝试</string>
   <string name="fp_fifteen_attempts">第 15 次尝试</string>
   <!-- Lockscreen battery info indicator  -->
+  <string name="lockscreen_battery_info_title">充电信息</string>
+  <string name="lockscreen_battery_info_summary">充电时，在锁屏界面上显示电流、 电压和电池温度</string>
   <!-- Status bar - Battery saver color -->
+  <string name="status_bar_battery_saver_color_title">省电模式状态栏颜色</string>
+  <string name="status_bar_battery_saver_color_summary">注意: 如果已启用电池保护程序, 为了应用新的颜色, 请重新打开电池保护程序!</string>
   <!-- Reset battery stats -->
   <string name="ok">确定</string>
   <string name="menu_stats_reset">重置统计数据</string>
