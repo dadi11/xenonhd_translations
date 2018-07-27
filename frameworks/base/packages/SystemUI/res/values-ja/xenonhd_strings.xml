@@ -16,15 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Screenshot Delete Toast -->
+  <string name="delete_screenshot_toast">スクリーンショットを削除しました</string>
   <!-- Partial Screenshot -->
+  <string name="screenshot_abort_title">スクリーンショットは撮影されていません</string>
+  <string name="screenshot_abort_text">操作を中止しました</string>
   <!-- QS Tiles -->
   <string name="quick_settings_screenshot_label">スクリーンショット</string>
+  <string name="quick_settings_region_screenshot_label">範囲を選択してスクリーンショット</string>
   <!-- Language toggle tile -->
+  <string name="quick_settings_locale_label">言語</string>
+  <string name="quick_settings_locale_more_locales_toast">言語の切り替えを有効にするために複数の言語を設定してください</string>
   <!-- PiP Tile -->
+  <string name="quick_settings_pip_label">ピクチャーインピクチャー</string>
+  <string name="quick_settings_pip_tile_app_na">このアプリはピクチャーインピクチャーに対応していません</string>
   <!-- Reboot/Recovery QS Tile -->
   <string name="quick_settings_reboot_label">再起動</string>
   <string name="quick_settings_reboot_recovery_label">リカバリー</string>
   <!-- Sound QS Tile -->
+  <string name="quick_settings_sound_label">音声</string>
+  <string name="quick_settings_sound_ring">着信音</string>
+  <string name="quick_settings_sound_vibrate">振動</string>
+  <string name="quick_settings_sound_dnd">マナーモード</string>
   <!-- volte icon switch -->
+  <string name="status_bar_volte">VoLTE</string>
   <!-- Smart pixels QS tile -->
+  <string name="quick_settings_smart_pixels">スマートピクセル</string>
+  <string name="quick_settings_smart_pixels_on_power_save">スマートピクセルを自動的に有効にする</string>
 </resources>
