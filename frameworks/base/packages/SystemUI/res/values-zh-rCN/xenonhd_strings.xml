@@ -40,4 +40,6 @@
   <!-- volte icon switch -->
   <string name="status_bar_volte">VoLTE</string>
   <!-- Smart pixels QS tile -->
+  <string name="quick_settings_smart_pixels">智能像素</string>
+  <string name="quick_settings_smart_pixels_on_power_save">自动启用智能像素</string>
 </resources>
