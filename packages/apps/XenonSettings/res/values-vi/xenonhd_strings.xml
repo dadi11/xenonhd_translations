@@ -38,9 +38,11 @@
   <string name="set">Thiết lập</string>
   <string name="color_default">Mặc định</string>
   <!-- Seekbar -->
+  <string name="seekbar_default_string">Mặc định</string>
   <!-- XenonOTA -->
   <string name="xenonota_title">XenonOTA</string>
   <!-- Launch music player when headset is connected -->
+  <string name="headset_connect_player_disabled">Vô hiệu hóa</string>
   <!-- Power menu on secure lockscreen -->
   <!-- QS rows and columns -->
   <string name="qs_category">Ô cài đặt nhanh</string>
@@ -49,6 +51,13 @@
   <!-- Quick unlock -->
   <!-- Recents Membar -->
   <!-- Clear all recents -->
+  <string name="recents_clear_all_location_title">Vị trí phím Xóa tất cả</string>
+  <string name="recents_clear_all_location_top_right">Trên cùng bên phải</string>
+  <string name="recents_clear_all_location_top_left">Trên cùng bên trái</string>
+  <string name="recents_clear_all_location_top_center">Chính giữa phía trên</string>
+  <string name="recents_clear_all_location_bottom_right">Dưới cùng bên phải</string>
+  <string name="recents_clear_all_location_bottom_left">Dưới cùng bên trái</string>
+  <string name="recents_clear_all_location_bottom_center">Chính giữa phía dưới</string>
   <!-- Battery Styles -->
   <!-- Quick Settings brightness icon -->
   <!-- Option to show brightness bar in quick settings -->
