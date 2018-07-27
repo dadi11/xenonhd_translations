@@ -78,6 +78,7 @@
   <string name="clock_title_enable">对齐方式</string>
   <string name="right_clock">时钟居右</string>
   <string name="center_clock">时钟居中</string>
+  <string name="left_clock">时钟居左</string>
   <string name="status_bar_clock_seconds_title">时钟秒数</string>
   <string name="status_bar_clock_seconds_summary">在状态栏时钟后面显示秒数</string>
   <string name="status_bar_am_pm_title">上午/下午</string>
@@ -103,7 +104,11 @@
   <string name="unlock_quick_unlock_control_title">快速解锁</string>
   <string name="unlock_quick_unlock_control_summary">当输入正确的 PIN 或密码后自动解锁</string>
   <!-- Recents Membar -->
+  <string name="systemui_recents_mem_display_title">启用内存条</string>
+  <string name="systemui_recents_mem_display_summary">在最近任务中显示内存使用情况</string>
   <!-- Clear all recents -->
+  <string name="show_clear_all_recents_button_title">“一键清理”按钮</string>
+  <string name="show_clear_all_recents_button_summary">显示“一键清理”按钮</string>
   <string name="recents_clear_all_location_title">\"一键清理\"位置</string>
   <string name="recents_clear_all_location_top_right">屏幕右上方</string>
   <string name="recents_clear_all_location_top_left">屏幕左上方</string>
@@ -112,11 +117,41 @@
   <string name="recents_clear_all_location_bottom_left">左下方</string>
   <string name="recents_clear_all_location_bottom_center">底部居中</string>
   <!-- Battery Styles -->
+  <string name="status_bar_battery_style_title">状态栏电池图标样式</string>
+  <string name="battery_style_title">电池图标样式</string>
+  <string name="battery_style_port">纵向</string>
+  <string name="battery_style_land">横向</string>
+  <string name="battery_style_circle">圆圈</string>
+  <string name="battery_style_dotted_circle">虚线圆圈</string>
+  <string name="battery_style_big_circle">大圆圈</string>
+  <string name="battery_style_big_dotted_circle">大虚线圆圈</string>
+  <string name="battery_style_square">正方形</string>
+  <string name="battery_style_text">文本</string>
+  <string name="battery_style_hidden">隐藏</string>
+  <string name="show_battery_percent_title">显示电量百分比</string>
   <string name="battery_percent_none">隐藏</string>
+  <string name="battery_percent_outside">在图标旁显示</string>
+  <string name="battery_percent_inside">在图标内显示</string>
   <!-- Quick Settings brightness icon -->
+  <string name="brightness_icon_title">自动亮度图标</string>
+  <string name="brightness_icon_summary">在亮度滑块右侧显示自动亮度图标以更改自动亮度</string>
   <!-- Option to show brightness bar in quick settings -->
   <string name="show_brightness_title">亮度滑块</string>
+  <string name="show_brightness_summary">显示亮度滑块</string>
   <!-- Advanced restart options -->
+  <string name="advanced_reboot_title">高级重启</string>
+  <string name="advanced_reboot_summary">设备已解锁时，在电源菜单的重启选项下加入重启至 Recovery 与 Bootloader 的选项</string>
   <!-- Show 4G instead of LTE -->
+  <string name="show_4g_title">显示 4G</string>
+  <string name="show_4g_summary">使用 4G 图标以替换 LTE 图标</string>
   <!-- Smart Pixels -->
+  <string name="smart_pixels_title">智能像素</string>
+  <string name="smart_pixels_summary">通过关闭额外的像素来节省电量</string>
+  <string name="smart_pixels_enable_title">自动启用智能像素</string>
+  <string name="smart_pixels_enable_summary">减少像素以降低功耗</string>
+  <string name="smart_pixels_on_power_save_title">省电模式时自动启用</string>
+  <string name="smart_pixels_on_power_save_summary">开启省电模式时自动启用智能像素</string>
+  <string name="smart_pixels_percent">禁用的像素数量</string>
+  <string name="smart_pixels_shift_title">烧屏保护</string>
+  <string name="smart_pixels_shift_summary">通过经常移动像素来防止 OLED 屏幕的设备发生烧屏</string>
 </resources>
