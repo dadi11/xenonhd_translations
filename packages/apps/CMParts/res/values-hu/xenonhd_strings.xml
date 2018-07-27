@@ -34,7 +34,7 @@
   <!-- Battery icon -->
   <string name="status_bar_battery_style_solid">Szilárd</string>
   <!-- Brightness slider -->
-  <string name="qs_brightness_slider_title">Fényerő csúszka</string>
+  <string name="qs_brightness_slider_title">Fényerőcsúszka</string>
   <string name="qs_brightness_slider_enabled">Engedélyezve</string>
   <string name="qs_brightness_slider_disabled">Kikapcsolva</string>
   <string name="brightness_icon_title">Fényerő ikon </string>
