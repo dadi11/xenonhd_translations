@@ -38,7 +38,7 @@
   <string name="qs_brightness_slider_enabled">Engedélyezve</string>
   <string name="qs_brightness_slider_disabled">Kikapcsolva</string>
   <string name="brightness_icon_title">Fényerő ikon </string>
-  <string name="brightness_icon_summary">Fényerő ikon megjelenítése a fényerőcsúszka bal oldalán az automatikus fényerő beállításához</string>
+  <string name="brightness_icon_summary">Fényerőikon megjelenítése a fényerőcsúszka bal oldalán az automatikus fényerő beállításához</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">Színválasztó</string>
   <string name="press_color_to_apply">Érintse meg a színt az alkalmazáshoz</string>
