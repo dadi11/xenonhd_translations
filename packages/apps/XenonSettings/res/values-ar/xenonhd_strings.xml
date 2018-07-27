@@ -139,6 +139,19 @@
   <string name="show_brightness_title">مزلاق السطوع</string>
   <string name="show_brightness_summary">إظهار شريط التحكم في السطوع</string>
   <!-- Advanced restart options -->
+  <string name="advanced_reboot_title">إعادة تشغيل متقدمة</string>
+  <string name="advanced_reboot_summary">عند إلغاء القفل، ستتضمن خيارات قائمة إعادة التشغيل الذهاب الى وضع الريكوفري او وضع البوت لودر</string>
   <!-- Show 4G instead of LTE -->
+  <string name="show_4g_title">إظهار 4G</string>
+  <string name="show_4g_summary">إظهار 4g بدلا من LTE في أيقونات الإشارة</string>
   <!-- Smart Pixels -->
+  <string name="smart_pixels_title">الدقة الذكية</string>
+  <string name="smart_pixels_summary">توفير الطاقة بإيقاف الدقة العالية</string>
+  <string name="smart_pixels_enable_title">تمكين الدقة الذكية</string>
+  <string name="smart_pixels_enable_summary">إيقاف الدقة لتقليل أستهلاك الطاقة</string>
+  <string name="smart_pixels_on_power_save_title">تشغيل تلقائي لتوفير الطاقة</string>
+  <string name="smart_pixels_on_power_save_summary">تمكين الدقة الذكية عندما يكون وضع توفير الطاقة قيد التشغيل</string>
+  <string name="smart_pixels_percent">نسبة الدقة لإيقافها</string>
+  <string name="smart_pixels_shift_title">حماية الاحتراق</string>
+  <string name="smart_pixels_shift_summary">منع الاحتراق في اجهزة OLED عن طريق نقل وحدات البكسل في كل مرة</string>
 </resources>
