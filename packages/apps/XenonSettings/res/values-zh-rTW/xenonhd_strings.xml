@@ -145,4 +145,13 @@
   <string name="show_4g_title">顯示 4 G</string>
   <string name="show_4g_summary">在訊號圖示中顯示 4G 而不是 LTE</string>
   <!-- Smart Pixels -->
+  <string name="smart_pixels_title">智慧 Pixels</string>
+  <string name="smart_pixels_summary">透過關閉多餘的 pixels 來節省電池電量</string>
+  <string name="smart_pixels_enable_title">自動啟用智慧 Pixels</string>
+  <string name="smart_pixels_enable_summary">關閉 pixels 以降低功耗</string>
+  <string name="smart_pixels_on_power_save_title">自動啟用省電模式</string>
+  <string name="smart_pixels_on_power_save_summary">啟用省電模式時啟用智慧 Pixels</string>
+  <string name="smart_pixels_percent">要停用的 pixels 的百分比</string>
+  <string name="smart_pixels_shift_title">螢幕烙印保護</string>
+  <string name="smart_pixels_shift_summary">透過經常移動像素塊來防止使用 OLED 螢幕的裝置烙印</string>
 </resources>

@@ -139,6 +139,19 @@
   <string name="show_brightness_title">Controle de brilho</string>
   <string name="show_brightness_summary">Mostrar o controle deslizante de brilho</string>
   <!-- Advanced restart options -->
+  <string name="advanced_reboot_title">Reinicialização avançada</string>
+  <string name="advanced_reboot_summary">Quando desbloqueado, incluir opções no menu liga/desliga para reiniciar o dispositivo em modo de recuperação ou bootloader</string>
   <!-- Show 4G instead of LTE -->
+  <string name="show_4g_title">Mostrar 4G</string>
+  <string name="show_4g_summary">Mostrar 4G em vez de LTE nos ícones de sinal</string>
   <!-- Smart Pixels -->
+  <string name="smart_pixels_title">Pixels Inteligentes</string>
+  <string name="smart_pixels_summary">Poupar bateria ao desligar pixels excedentes</string>
+  <string name="smart_pixels_enable_title">Ativar Pixels Inteligentes</string>
+  <string name="smart_pixels_enable_summary">Desliga alguns píxeis para reduzir o consumo de energia</string>
+  <string name="smart_pixels_on_power_save_title">Ativar automaticamente em economia de bateria</string>
+  <string name="smart_pixels_on_power_save_summary">Ativar os Pixels Inteligentes quando a economia de bateria estiver ativa</string>
+  <string name="smart_pixels_percent">Porcentagem de pixels a desativar</string>
+  <string name="smart_pixels_shift_title">Proteção contra Burn-in</string>
+  <string name="smart_pixels_shift_summary">Impede burn-in em dispositivos OLED, deslocando pixels de vez em quando</string>
 </resources>

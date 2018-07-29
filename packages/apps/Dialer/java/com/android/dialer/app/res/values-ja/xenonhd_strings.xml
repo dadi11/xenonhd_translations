@@ -16,6 +16,24 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- In-call vibrations -->
+  <string name="incall_vibration_category_title">着信時に振動する</string>
+  <string name="incall_vibrate_outgoing_title">着信応答時に振動する</string>
+  <string name="incall_vibrate_call_waiting_title">割込通話時に振動させる</string>
+  <string name="incall_vibrate_hangup_title">通話終了時に振動する</string>
+  <string name="incall_vibrate_45_title">1分ごとに振動する</string>
+  <string name="incall_vibrate_45_summary">発信中に45秒ごとに振動する</string>
   <!-- Smart Options -->
+  <string name="smart_category_title">その他のオプション</string>
+  <string name="smart_mute_title">スマートミュート</string>
+  <string name="smart_mute_summary">端末を裏返しにすると着信をミュートします</string>
   <!-- Proximity speaker -->
+  <string name="speaker_settings_label">近接スピーカーフォン</string>
+  <string name="prox_auto_speaker_title">自動近接スピーカーフォン</string>
+  <string name="prox_auto_speaker_summary">電話を耳から離したときにスピーカーフォンを自動的に有効にする</string>
+  <string name="prox_auto_speaker_delay_title">スピーカーフォンの遅延</string>
+  <string name="prox_auto_speaker_delay_dialog_title">スピーカーフォンの遅延（ミリ秒）</string>
+  <string name="prox_auto_speaker_delay_summary"><xliff:g id="number">%d</xliff:g>ミリ秒でスピーカーフォンが有効化されます</string>
+  <string name="prox_auto_speaker_incall_only_title">通話中のみ</string>
+  <string name="prox_auto_speaker_incall_only_summary_on">発信側では、受信側が応答した後にスピーカーがアクティブになります。</string>
+  <string name="prox_auto_speaker_incall_only_summary_off">リスナーは、通話時のすべての状態でアクティブになります。（既定）</string>
 </resources>

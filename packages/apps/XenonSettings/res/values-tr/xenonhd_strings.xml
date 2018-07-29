@@ -139,7 +139,7 @@
   <string name="brightness_icon_title">Otomatik parlaklık simgesi</string>
   <string name="brightness_icon_summary">Hızlı ayarlar panelinde otomatik parlaklık simgesini göster</string>
   <!-- Option to show brightness bar in quick settings -->
-  <string name="show_brightness_title">Parlaklık kaydırıcı</string>
+  <string name="show_brightness_title">Parlaklık kaydırıcısı</string>
   <string name="show_brightness_summary">Hızlı ayarlar panelinde parlaklık kaydırıcısını göster</string>
   <!-- Advanced restart options -->
   <string name="advanced_reboot_title">Gelişmiş yeniden başlatma</string>
@@ -148,4 +148,13 @@
   <string name="show_4g_title">4G simgesi</string>
   <string name="show_4g_summary">LTE yerine 4G simgesini göster</string>
   <!-- Smart Pixels -->
+  <string name="smart_pixels_title">Akıllı pikseller</string>
+  <string name="smart_pixels_summary">Fazladan pikselleri kapatarak pil tasarrufu sağlayın</string>
+  <string name="smart_pixels_enable_title">Akıllı pikselleri etkinleştir</string>
+  <string name="smart_pixels_enable_summary">Güç tüketimini azaltmak için pikselleri kapatın</string>
+  <string name="smart_pixels_on_power_save_title">Pil tasarrufu için otomatik etkinleştir</string>
+  <string name="smart_pixels_on_power_save_summary">Pil tasarrufu etkinleştirildiğinde akıllı pikseli etkinleştir</string>
+  <string name="smart_pixels_percent">Devre dışı bırakılan piksel yüzdesi</string>
+  <string name="smart_pixels_shift_title">Yanma koruması</string>
+  <string name="smart_pixels_shift_summary">OLED cihazlarda yanmaları önler ve sık sık pikselleri kaydırır</string>
 </resources>

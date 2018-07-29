@@ -78,6 +78,7 @@
   <string name="clock_title_enable">Становішча</string>
   <string name="right_clock">Гадзіннік справа</string>
   <string name="center_clock">Гадзіннік па цэнтры</string>
+  <string name="left_clock">Гадзіннік злева</string>
   <string name="status_bar_clock_seconds_title">Паказваць секунды</string>
   <string name="status_bar_clock_seconds_summary">Адлюстраванне секунд побач з гадзіннікам у радку стану</string>
   <string name="status_bar_am_pm_title">AM/PM</string>
@@ -138,6 +139,19 @@
   <string name="show_brightness_title">Рэгулятар яркасці</string>
   <string name="show_brightness_summary">Паказаць паўзунок яркасці</string>
   <!-- Advanced restart options -->
+  <string name="advanced_reboot_title">Варыянты перазагрузкі</string>
+  <string name="advanced_reboot_summary">Калі прылада разблакавана, у меню сілкавання даступны опцыі перазагрузкі ў рэжым аднаўлення і ў загрузнік</string>
   <!-- Show 4G instead of LTE -->
+  <string name="show_4g_title">Паказваць 4G</string>
+  <string name="show_4g_summary">Паказваць 4G замест LTE у значках сеткі</string>
   <!-- Smart Pixels -->
+  <string name="smart_pixels_title">Разумныя пікселі</string>
+  <string name="smart_pixels_summary">Эканомце зарад батарэі, адключаючы дадатковыя пікселі</string>
+  <string name="smart_pixels_enable_title">Уключыць разумныя пікселі</string>
+  <string name="smart_pixels_enable_summary">Для таго, каб паменшыць спажыванне энергіі, перакрыць пікселі</string>
+  <string name="smart_pixels_on_power_save_title">Аўтаматычнае ўключэнне пры энэргазахаванні</string>
+  <string name="smart_pixels_on_power_save_summary">Актываваць разумныя пікселі пры ўключэнні энэргазахавання</string>
+  <string name="smart_pixels_percent">Адсотак пікселяў, для адключэння</string>
+  <string name="smart_pixels_shift_title">Абарона ад выгарання</string>
+  <string name="smart_pixels_shift_summary">Пазбягайце выгаранне экрана OLED, перамяшчаючы час ад часу пікселі</string>
 </resources>
