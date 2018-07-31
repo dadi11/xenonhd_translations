@@ -72,6 +72,7 @@
   <string name="qs_rows_columns_summary">行と列の数を調節する</string>
   <string name="qs_rows_landscape_title">行数（横向き）</string>
   <string name="qs_rows_portrait_title">行数（縦向き）</string>
+  <string name="sysui_qqs_count_title">小さなタイル</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">クイックロック解除</string>
   <string name="unlock_quick_unlock_control_summary">正しいPIN/パスワードが入力されたときはロックを自動的に解除する</string>
@@ -129,6 +130,8 @@
   <!-- Gestures -->
   <string name="gestures_preference_title">ジェスチャー</string>
   <!-- Carbon gestures -->
+  <string name="carbon_gesture_preference_title">スワイプジェスチャー</string>
+  <string name="carbon_gestures_summary">カスタムグローバルジェスチャーを編集</string>
   <string name="carbon_gesture_disabled">無効</string>
   <string name="carbon_gesture_screenshot">スクリーンショット</string>
   <!-- Fingerprint authentication vibration -->
