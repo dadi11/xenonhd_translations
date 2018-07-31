@@ -72,6 +72,7 @@
   <string name="qs_rows_columns_summary">Dostosuj ilość kolumn i wierszy QS</string>
   <string name="qs_rows_landscape_title">Rzędy - poziomo</string>
   <string name="qs_rows_portrait_title">Wiersze - pionowo</string>
+  <string name="sysui_qqs_count_title">Małe kafelki Szybkich Ustawień</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Szybkie odblokowywanie</string>
   <string name="unlock_quick_unlock_control_summary">Odblokuj automatycznie, gdy wprowadzony zostanie poprawny PIN/hasło</string>
@@ -129,7 +130,19 @@
   <!-- Gestures -->
   <string name="gestures_preference_title">Gesty</string>
   <!-- Carbon gestures -->
+  <string name="carbon_gesture_preference_title">Gesty przeciągania</string>
+  <string name="carbon_gestures_summary">Konfigurowanie globalnych gestów</string>
+  <string name="carbon_gestures_fingers_title">Palce używane do gestów (domyślnie 2)</string>
+  <string name="carbon_gestures_fingers_unit">palce</string>
+  <string name="carbon_gestures_right_title">Gest w prawo</string>
+  <string name="carbon_gestures_left_title">Gest w lewo</string>
+  <string name="carbon_gestures_up_title">Gest w górę</string>
+  <string name="carbon_gestures_down_title">Gest w dół</string>
   <string name="carbon_gesture_disabled">Wyłączony</string>
+  <string name="carbon_gesture_back">Wstecz</string>
+  <string name="carbon_gesture_home">Strona główna</string>
+  <string name="carbon_gesture_recents">Ostatnie</string>
+  <string name="carbon_gesture_power">Zasilanie</string>
   <string name="carbon_gesture_screenshot">Zrzut ekranu</string>
   <!-- Fingerprint authentication vibration -->
   <string name="fprint_sucess_vib_title">Wibracja uwierzytelniania odcisku palca</string>
