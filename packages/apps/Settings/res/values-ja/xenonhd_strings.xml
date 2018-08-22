@@ -294,7 +294,7 @@
   <string name="fp_fifteen_attempts">15回</string>
   <!-- Lockscreen battery info indicator  -->
   <string name="lockscreen_battery_info_title">充電情報</string>
-  <string name="lockscreen_battery_info_summary">充電中のロック画面に接続した充電器の最大電流・最大電圧・バッテリー温度を表示する</string>
+  <string name="lockscreen_battery_info_summary">充電中のロック画面に接続した充電器の最大電流/最大電圧/バッテリー温度を表示する</string>
   <!-- Status bar - Battery saver color -->
   <string name="status_bar_battery_saver_color_title">バッテリーセーバーの色</string>
   <string name="status_bar_battery_saver_color_summary">注意 : バッテリーセーバーが既に有効な場合は、一度無効化して有効化すると設定した色が反映されます</string>
