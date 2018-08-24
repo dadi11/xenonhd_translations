@@ -92,7 +92,7 @@
   <string name="qs_rows_landscape_title">行数（横向き）</string>
   <string name="qs_columns_title">列数</string>
   <string name="qs_easy_toggle_title">クイック設定タイルの簡単切り替え</string>
-  <string name="qs_easy_toggle_summary">Wi-Fi、モバイルデータ、Bluetoothを有効/無効にするための1回のタップ操作を有効にします。長く押すと詳細設定が表示されます。</string>
+  <string name="qs_easy_toggle_summary">Wi-Fi、モバイルデータ、Bluetoothを1回のタップで切り替わるようにします。長く押すと詳細設定が表示されます。</string>
   <string name="qs_tile_single_tap_title">シングルタップで変更</string>
   <string name="qs_tile_single_tap_summary">編集中にタイルをシングルタップでタイルを追加、削除する</string>
   <!-- Quick unlock -->
