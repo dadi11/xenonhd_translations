@@ -192,7 +192,7 @@
   <string name="lockscreen_hide_status_bar_title">ステータスバーを非表示</string>
   <string name="lockscreen_hide_status_bar_summary">ステータスバーのタップで表示を切り替える</string>
   <!-- Force authorize substratum packages -->
-  <string name="force_authorize_substratum_packages_title">すべてのテーマアプリを強制的に承認する</string>
+  <string name="force_authorize_substratum_packages_title">全てのテーマアプリを強制的に承認する</string>
   <string name="force_authorize_substratum_packages_summary">提供元不明のテーマアプリのインストールを許可する</string>
   <!-- QS tile labels visibility -->
   <string name="qs_menu_item_titles">クイック設定タイルのラベル</string>
