@@ -35,5 +35,5 @@
   <string name="prox_auto_speaker_delay_summary"><xliff:g id="number">%d</xliff:g>ミリ秒でスピーカーフォンが有効化されます</string>
   <string name="prox_auto_speaker_incall_only_title">通話中のみ</string>
   <string name="prox_auto_speaker_incall_only_summary_on">発信側では、受信側が応答した後にスピーカーがアクティブになります。</string>
-  <string name="prox_auto_speaker_incall_only_summary_off">リスナーは、通話時のすべての状態でアクティブになります。（既定）</string>
+  <string name="prox_auto_speaker_incall_only_summary_off">リスナーは、通話時の全ての状態でアクティブになります。（既定）</string>
 </resources>
