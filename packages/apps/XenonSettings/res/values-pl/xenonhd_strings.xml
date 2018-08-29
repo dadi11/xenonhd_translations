@@ -162,4 +162,7 @@
   <!-- Quick QS scroller -->
   <string name="qqs_scroll_title">Przewijanie małych kafelków Szybkich Ustawień</string>
   <string name="qqs_scroll_summary">Zezwól na przewijanie małych kafelków Szybkich Ustawień</string>
+  <!-- Data Disabled Icon -->
+  <!-- Gestures -->
+  <!-- Toggle navigation bar -->
 </resources>
