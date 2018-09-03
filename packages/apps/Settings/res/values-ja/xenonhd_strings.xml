@@ -271,7 +271,7 @@
   <string name="lock_clock_font_medium_normal">Medium</string>
   <string name="lock_clock_font_medium_italic">Medium Italic</string>
   <!-- Screen state service -->
-  <string name="screen_state_toggles_title">スリープ時のアクション</string>
+  <string name="screen_state_toggles_title">スリープ時アクション</string>
   <string name="screen_state_toggles_enable_title">有効</string>
   <string name="screen_state_toggles_enable_summary">アクションは画面オフのときに実行されオンにすると以前の状態が復元されます</string>
   <string name="screen_state_toggles_mobile_title">モバイルネットワーク</string>
@@ -279,12 +279,12 @@
   <string name="screen_state_toggles_twog">2Gに切り替える</string>
   <string name="screen_state_toggles_twog_summary">ネットワークモードは画面オフ時に2Gに切り替わります</string>
   <string name="screen_state_toggles_gps">GPSの無効化</string>
-  <string name="screen_state_toggles_gps_summary">画面消灯時にGPSを使用した位置情報サービスを無効化します</string>
+  <string name="screen_state_toggles_gps_summary">画面オフ時にGPSを使用した位置情報サービスを無効化する</string>
   <string name="screen_state_toggles_mobile_data">モバイルデータの無効化</string>
-  <string name="screen_state_toggles_mobile_data_summary">画面消灯時にモバイルデータ通信を無効化します</string>
+  <string name="screen_state_toggles_mobile_data_summary">画面オフ時にモバイルデータ通信を無効化する</string>
   <string name="screen_state_off_delay_title">画面オフアクションの遅延</string>
   <string name="screen_state_off_delay_summary">画面オフアクションを実行する前に待つ秒数</string>
-  <string name="screen_state_on_delay_title">画面点灯時アクションの遅延時間</string>
+  <string name="screen_state_on_delay_title">画面オンアクションの遅延時間</string>
   <string name="screen_state_on_delay_summary">画面オンアクションを実行する前に待つ秒数</string>
   <!-- Fingerprint max failed attempts -->
   <string name="fp_max_failed_attempts">指紋認証の最大失敗回数</string>
