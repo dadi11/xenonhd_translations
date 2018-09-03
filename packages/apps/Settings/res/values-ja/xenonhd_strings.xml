@@ -83,9 +83,9 @@
   <string name="selinux_enforcing_title">Enforcing</string>
   <string name="selinux_permissive_toast_title">SELinuxは Permissive に設定されました！</string>
   <!-- Recents Membar -->
-  <string name="recents_membar">メモリ使用量バー</string>
-  <string name="systemui_recents_mem_display_title">メモリ使用量を表示する</string>
-  <string name="systemui_recents_mem_display_summary">アプリ履歴の画面に空きメモリバーを表示する</string>
+  <string name="recents_membar">メモリバー</string>
+  <string name="systemui_recents_mem_display_title">メモリバーを表示する</string>
+  <string name="systemui_recents_mem_display_summary">アプリ履歴の画面にメモリバーを表示する</string>
   <!-- Quick settings config -->
   <string name="qs_layout_category">クイック設定オプション</string>
   <string name="qs_rows_portrait_title">行数（縦向き）</string>
