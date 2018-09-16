@@ -69,7 +69,7 @@
   <!-- Superuser indicator on status bar -->
   <string name="su_indicator">スーパーユーザーインジケーター</string>
   <string name="su_indicator_summary_on">スーパーユーザー権限を使用するセッションがアクティブな時にインジケーターを表示する</string>
-  <string name="su_indicator_summary_off">セッションがアクティブなときにスーパーユーザーのインジケーターを表示するように切り替える</string>
+  <string name="su_indicator_summary_off">セッションがアクティブな時にスーパーユーザーのインジケーターを表示するように切り替える</string>
   <!--Status bar date -->
   <string name="status_bar_clock_category">時刻</string>
   <string name="status_bar_date_title">日付</string>
