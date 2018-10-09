@@ -13,7 +13,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Screenshot Delete Toast -->
-  <string name="delete_screenshot_toast">تم حذف صورة الشاشة</string>
+  <string name="delete_screenshot_toast">تم حذف لقطة الشاشة</string>
   <!-- Status bar items tuner -->
   <string name="statusbar_icons_blacklist">أيقونات شريط الحالة</string>
   <!-- Quick Settings tiles -->
