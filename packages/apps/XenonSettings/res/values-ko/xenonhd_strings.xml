@@ -56,4 +56,5 @@
   <string name="smart_pixels_on_power_save_title">배터리 절약 기능으로 자동 실행</string>
   <string name="smart_pixels_on_power_save_summary">배터리 절약 기능이 활성화 된 경우 스마트 픽셀 사용</string>
   <string name="smart_pixels_percent">사용 중지 할 픽셀 비율</string>
+  <!-- Dashboard -->
 </resources>
