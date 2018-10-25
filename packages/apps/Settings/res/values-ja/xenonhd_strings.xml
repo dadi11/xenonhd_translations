@@ -21,9 +21,4 @@
   <!-- XenonHD Hub -->
   <string name="xenonhd_settings_title">XenonHDハブ</string>
   <string name="xenonhd_settings_summary">その他の設定</string>
-  <!-- Dashboard -->
-  <string name="summary_dashboard_conditions_enabled">ダッシュボードの状態の表示が有効です</string>
-  <string name="summary_dashboard_conditions_disabled">ダッシュボードの状態の表示が無効です</string>
-  <string name="summary_dashboard_suggestions_enabled">ダッシュボードの候補の表示が有効です</string>
-  <string name="summary_dashboard_suggestions_disabled">ダッシュボードの候補の表示が無効です</string>
 </resources>
