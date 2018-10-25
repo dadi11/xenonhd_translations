@@ -76,4 +76,9 @@
   <string name="smart_pixels_shift_times_5min">5 minút</string>
   <string name="smart_pixels_shift_times_10min">10 minút</string>
   <string name="smart_pixels_shift_times_30min">30 minút</string>
+  <!-- Dashboard -->
+  <string name="summary_dashboard_conditions_enabled">Podmienky hlavného panela sú povolené</string>
+  <string name="summary_dashboard_conditions_disabled">Podmienky hlavného panela sú zakázané</string>
+  <string name="summary_dashboard_suggestions_enabled">Návrhy hlavného panela sú povolené</string>
+  <string name="summary_dashboard_suggestions_disabled">Návrhy hlavného panela sú zakázané</string>
 </resources>
