@@ -21,9 +21,4 @@
   <!-- XenonHD Hub -->
   <string name="xenonhd_settings_title">XenonHD keskus</string>
   <string name="xenonhd_settings_summary">Täiendavad sätted</string>
-  <!-- Dashboard -->
-  <string name="summary_dashboard_conditions_enabled">Armatuurlaua tingimused on lubatud</string>
-  <string name="summary_dashboard_conditions_disabled">Armatuurlaua tingimused on keelatud</string>
-  <string name="summary_dashboard_suggestions_enabled">Armatuurlaua soovitused on lubatud</string>
-  <string name="summary_dashboard_suggestions_disabled">Armatuurlaua soovitused on keelatud</string>
 </resources>
