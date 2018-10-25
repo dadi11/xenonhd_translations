@@ -21,9 +21,4 @@
   <!-- XenonHD Hub -->
   <string name="xenonhd_settings_title">XenonHD Hub</string>
   <string name="xenonhd_settings_summary">Impostazioni aggiuntive</string>
-  <!-- Dashboard -->
-  <string name="summary_dashboard_conditions_enabled">Condizioni pannello impostazioni abilitate</string>
-  <string name="summary_dashboard_conditions_disabled">Condizioni pannello impostazioni disabilitate</string>
-  <string name="summary_dashboard_suggestions_enabled">Suggerimenti pannello impostazioni abilitati</string>
-  <string name="summary_dashboard_suggestions_disabled">Suggerimenti pannello impostazioni disabilitati</string>
 </resources>
