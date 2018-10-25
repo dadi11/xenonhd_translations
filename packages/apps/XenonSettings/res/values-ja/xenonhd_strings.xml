@@ -22,8 +22,11 @@
   <string name="gestures_title">ジェスチャー</string>
   <string name="lockscreen_title">ロック画面</string>
   <string name="misc_title">その他</string>
+  <string name="navigation_title">ナビゲーション</string>
   <string name="power_title">電源メニュー</string>
   <string name="qs_title">クイック設定</string>
+  <string name="recents_title">アプリ履歴</string>
+  <string name="statusbar_title">ステータスバー</string>
   <string name="notifications_title">通知</string>
   <string name="xenonhd_title">XenonHDハブ</string>
   <string name="xenonsettings_title">XenonHDの設定</string>
@@ -49,8 +52,18 @@
   <string name="advanced_reboot_title">高度な再起動</string>
   <string name="advanced_reboot_summary">ロック解除時にリカバリーやブートローダーで再起動するオプションを電源メニューに含める</string>
   <!-- Face Unlock -->
+  <string name="face_auto_unlock_title">フェイスアンロック</string>
+  <string name="face_auto_unlock_summary">顔認証した時ロック画面をスキップする</string>
   <!-- Tuners -->
+  <string name="statusbar_items_title">ステータスバーアイコン</string>
+  <string name="lockscreen_tuner_title">ロック画面のショートカット</string>
+  <string name="navbar_tuner_title">ナビゲーションバーボタン</string>
+  <string name="buttons_settings">ボタン設定</string>
+  <string name="statusbar_settings">ステータスバーの設定</string>
   <!-- Recents panel settings -->
+  <string name="show_clear_all_recents_button_title">全て終了ボタン</string>
+  <string name="show_clear_all_recents_button_summary">全て終了ボタンを表示する</string>
+  <string name="recents_clear_all_location_title">ボタンの表示位置</string>
   <string name="recents_clear_all_location_top_right">右上</string>
   <string name="recents_clear_all_location_top_left">左上</string>
   <string name="recents_clear_all_location_top_center">中央上</string>
@@ -58,9 +71,13 @@
   <string name="recents_clear_all_location_bottom_left">左下</string>
   <string name="recents_clear_all_location_bottom_center">中央下</string>
   <!-- ADB debugging notifications -->
+  <string name="adb_notify">ADBの通知</string>
+  <string name="adb_notify_summary">Androidデバッグが有効になっている時に通知を表示する</string>
   <!-- QuickSettings Panel Transparency -->
+  <string name="qs_panel_alpha_title">透明度</string>
   <!-- Quick Settings brightness slider -->
   <string name="qs_show_brightness_title">明るさスライダー</string>
+  <string name="qs_show_brightness_summary">クイック設定パネルに明るさスライダーを表示する</string>
   <!-- Navigation gestures -->
   <string name="use_bottom_gesture_title">上スワイプジェスチャー</string>
   <!-- QS footer warnings -->
@@ -78,4 +95,9 @@
   <string name="smart_pixels_shift_times_5min">5分</string>
   <string name="smart_pixels_shift_times_10min">10分</string>
   <string name="smart_pixels_shift_times_30min">30分</string>
+  <!-- Dashboard -->
+  <string name="summary_dashboard_conditions_enabled">ダッシュボードの状態の表示が有効です</string>
+  <string name="summary_dashboard_conditions_disabled">ダッシュボードの状態の表示が無効です</string>
+  <string name="summary_dashboard_suggestions_enabled">ダッシュボードの候補の表示が有効です</string>
+  <string name="summary_dashboard_suggestions_disabled">ダッシュボードの候補の表示が無効です</string>
 </resources>
