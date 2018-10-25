@@ -21,9 +21,4 @@
   <!-- XenonHD Hub -->
   <string name="xenonhd_settings_title">XenonHD Hub</string>
   <string name="xenonhd_settings_summary">Дополнительные параметры</string>
-  <!-- Dashboard -->
-  <string name="summary_dashboard_conditions_enabled">Уведомления в главном меню включены</string>
-  <string name="summary_dashboard_conditions_disabled">Уведомления в главном меню выключены</string>
-  <string name="summary_dashboard_suggestions_enabled">Подсказки меню настроек включены</string>
-  <string name="summary_dashboard_suggestions_disabled">Подсказки меню настроек выключены</string>
 </resources>
