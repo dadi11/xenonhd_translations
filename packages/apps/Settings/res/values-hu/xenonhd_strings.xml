@@ -92,14 +92,14 @@
   <string name="qs_rows_landscape_title">Sorok (fekvő)</string>
   <string name="qs_columns_title">Oszlopok</string>
   <string name="qs_easy_toggle_title">Haladó gyorskapcsoló csempe</string>
-  <string name="qs_easy_toggle_summary">Engedélyezése után egy érintéssel kapcsolja ki/be a Wi-Fi-t, a mobiladat-kapcsolatot és a Bluetooth-t. Hosszan nyomásukra visz a haladó beállításokba</string>
+  <string name="qs_easy_toggle_summary">Engedélyezése után egy érintéssel kapcsolja ki/be a Wi-Fi-t, mobil adatkapcsolatot és Bluetooth-t. Hosszan nyomásukra visz a haladó beállításokba</string>
   <string name="qs_tile_single_tap_title">Csempe egyszeri érintése</string>
   <string name="qs_tile_single_tap_summary">Kezelje a csempéket egyszeri érintésükkel a szerkesztő nézetben</string>
   <!-- Quick unlock -->
   <string name="quick_unlock_warning">Gyors feloldási figyelmeztetés</string>
   <string name="quick_unlock_warning_summary">Ez a funkció mellőzi a fontos biztonsági mechanizmusokat és majdnem biztosan rosszul kezeli a többfelhasználós módot. Használja saját felelősségre</string>
   <string name="unlock_quick_unlock_control_title">Gyors feloldás</string>
-  <string name="unlock_quick_unlock_control_summary">Automatikus feloldás a helyes jelszó/PIN-kód megadásakor</string>
+  <string name="unlock_quick_unlock_control_summary">Automatikus feloldás a helyes jelszó/PIN kód megadásakor</string>
   <!-- Three-fingers-swipe to screenshot -->
   <string name="three_finger_gesture">Képernyőkép csúsztatással</string>
   <string name="three_finger_gesture_summary">Csúsztasson három ujjal képernyőkép készítéséhez</string>
@@ -192,7 +192,7 @@
   <string name="lockscreen_hide_status_bar_title">Állapotsáv elrejtése</string>
   <string name="lockscreen_hide_status_bar_summary">Érintse meg az állapotsávot a láthatóság kapcsolásához</string>
   <!-- Force authorize substratum packages -->
-  <string name="force_authorize_substratum_packages_title">Minden témaalkalmazás engedélyezésének kényszerítése</string>
+  <string name="force_authorize_substratum_packages_title">Minden téma alkalmazás engedélyezésének kényszerítése</string>
   <string name="force_authorize_substratum_packages_summary">Az ismeretlen forrásból származó témák telepítésének engedélyezése</string>
   <!-- QS tile labels visibility -->
   <string name="qs_menu_item_titles">Gyorsbeállítás csempék címkéi</string>
