@@ -18,8 +18,6 @@
   <string name="lockscreen_default">Varsayılan</string>
   <!-- QS Config -->
   <string name="qs_menu_item_columns">Sütunlar</string>
-  <string name="qs_menu_item_columns_five">5</string>
-  <string name="qs_menu_item_columns_seven">7</string>
   <string name="qs_menu_item_reset">Sıfırla</string>
   <!-- Screenshot QS tile -->
   <string name="quick_settings_screenshot_label">Ekran görüntüsü</string>
