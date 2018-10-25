@@ -76,4 +76,9 @@
   <string name="smart_pixels_shift_times_5min">5 хвілін</string>
   <string name="smart_pixels_shift_times_10min">10 хвілін</string>
   <string name="smart_pixels_shift_times_30min">30 хвілін</string>
+  <!-- Dashboard -->
+  <string name="summary_dashboard_conditions_enabled">Апавяшчэнні ў галоўным меню ўключаны</string>
+  <string name="summary_dashboard_conditions_disabled">Апавяшчэнні ў галоўным меню выключаны</string>
+  <string name="summary_dashboard_suggestions_enabled">Прапановы меню налад уключаны</string>
+  <string name="summary_dashboard_suggestions_disabled">Прапановы меню налад выключаны</string>
 </resources>
