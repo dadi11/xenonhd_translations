@@ -76,4 +76,9 @@
   <string name="smart_pixels_shift_times_5min">5 minuti</string>
   <string name="smart_pixels_shift_times_10min">10 minuti</string>
   <string name="smart_pixels_shift_times_30min">30 minuti</string>
+  <!-- Dashboard -->
+  <string name="summary_dashboard_conditions_enabled">Condizioni pannello impostazioni abilitate</string>
+  <string name="summary_dashboard_conditions_disabled">Condizioni pannello impostazioni disabilitate</string>
+  <string name="summary_dashboard_suggestions_enabled">Suggerimenti pannello impostazioni abilitati</string>
+  <string name="summary_dashboard_suggestions_disabled">Suggerimenti pannello impostazioni disabilitati</string>
 </resources>
