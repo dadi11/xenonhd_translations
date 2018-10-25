@@ -55,4 +55,7 @@
   <string name="smart_pixels_shift_times_5min">5 phút</string>
   <string name="smart_pixels_shift_times_10min">10 phút</string>
   <string name="smart_pixels_shift_times_30min">30 phút</string>
+  <!-- Dashboard -->
+  <string name="summary_dashboard_suggestions_enabled">Đề xuất bảng điều khiển được bật</string>
+  <string name="summary_dashboard_suggestions_disabled">Đề xuất bảng điều khiển được tắt</string>
 </resources>
