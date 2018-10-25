@@ -21,9 +21,4 @@
   <!-- XenonHD Hub -->
   <string name="xenonhd_settings_title">XenonHD Hub</string>
   <string name="xenonhd_settings_summary">Další nastavení</string>
-  <!-- Dashboard -->
-  <string name="summary_dashboard_conditions_enabled">Podmínky hlavního panelu jsou povoleny</string>
-  <string name="summary_dashboard_conditions_disabled">Podmínky hlavního panelu jsou zakázány</string>
-  <string name="summary_dashboard_suggestions_enabled">Návrhy hlavního panelu jsou povoleny</string>
-  <string name="summary_dashboard_suggestions_disabled">Návrhy hlavního panelu jsou zakázány</string>
 </resources>
