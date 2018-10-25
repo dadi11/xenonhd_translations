@@ -15,7 +15,14 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="statusbar_items_title">ステータスバーアイコン</string>
+  <string name="lockscreen_tuner_title">ロック画面のショートカット</string>
   <string name="lockscreen_default">既定</string>
+  <string name="lockscreen_hidden">なし</string>
+  <string name="custom_hint">アイコンをスワイプして起動</string>
+  <string name="status_bar_vpn">VPN</string>
+  <string name="status_bar_roaming">ローミング中</string>
+  <string name="status_bar_data_saver">データセーバー</string>
   <!-- QS Config -->
   <string name="qs_menu_item_columns">列数</string>
   <string name="qs_menu_item_reset">リセット</string>
