@@ -78,4 +78,9 @@
   <string name="smart_pixels_shift_times_5min">5 分鐘</string>
   <string name="smart_pixels_shift_times_10min">10 分鐘</string>
   <string name="smart_pixels_shift_times_30min">30 分鐘</string>
+  <!-- Dashboard -->
+  <string name="summary_dashboard_conditions_enabled">面板條件已啟用</string>
+  <string name="summary_dashboard_conditions_disabled">面板條件已停用</string>
+  <string name="summary_dashboard_suggestions_enabled">面板建議已停用</string>
+  <string name="summary_dashboard_suggestions_disabled">面板建議已啟用</string>
 </resources>
