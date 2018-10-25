@@ -66,4 +66,7 @@
   <string name="smart_pixels_shift_times_5min">5 minutos</string>
   <string name="smart_pixels_shift_times_10min">10 minutos</string>
   <string name="smart_pixels_shift_times_30min">30 minutos</string>
+  <!-- Dashboard -->
+  <string name="summary_dashboard_suggestions_enabled">Sugestões do painel activadas</string>
+  <string name="summary_dashboard_suggestions_disabled">Sugestões do painel desactivadas</string>
 </resources>
