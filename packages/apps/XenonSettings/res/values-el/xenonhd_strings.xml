@@ -68,4 +68,9 @@
   <string name="smart_pixels_shift_times_5min">5 λεπτά</string>
   <string name="smart_pixels_shift_times_10min">10 λεπτά</string>
   <string name="smart_pixels_shift_times_30min">30 λεπτά</string>
+  <!-- Dashboard -->
+  <string name="summary_dashboard_conditions_enabled">Οι συνθήκες του ταμπλό είναι ενεργοποιημένες</string>
+  <string name="summary_dashboard_conditions_disabled">Οι συνθήκες του ταμπλό είναι απενεργοποιημένες</string>
+  <string name="summary_dashboard_suggestions_enabled">Οι προτάσεις του ταμπλό είναι ενεργοποιημένες</string>
+  <string name="summary_dashboard_suggestions_disabled">Οι προτάσεις του ταμπλό είναι απενεργοποιημένες</string>
 </resources>
