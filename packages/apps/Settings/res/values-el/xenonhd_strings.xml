@@ -21,9 +21,4 @@
   <!-- XenonHD Hub -->
   <string name="xenonhd_settings_title">Κόμβος XenonHD</string>
   <string name="xenonhd_settings_summary">Επιπλέον ρυθμίσεις</string>
-  <!-- Dashboard -->
-  <string name="summary_dashboard_conditions_enabled">Οι συνθήκες του ταμπλό είναι ενεργοποιημένες</string>
-  <string name="summary_dashboard_conditions_disabled">Οι συνθήκες του ταμπλό είναι απενεργοποιημένες</string>
-  <string name="summary_dashboard_suggestions_enabled">Οι προτάσεις του ταμπλό είναι ενεργοποιημένες</string>
-  <string name="summary_dashboard_suggestions_disabled">Οι προτάσεις του ταμπλό είναι απενεργοποιημένες</string>
 </resources>
