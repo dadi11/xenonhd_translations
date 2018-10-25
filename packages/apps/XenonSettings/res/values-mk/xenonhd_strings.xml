@@ -45,4 +45,5 @@
   <string name="smart_pixels_shift_times_5min">5 минути</string>
   <string name="smart_pixels_shift_times_10min">10 минути</string>
   <string name="smart_pixels_shift_times_30min">30 минути</string>
+  <!-- Dashboard -->
 </resources>
