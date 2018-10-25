@@ -163,6 +163,12 @@
   <string name="qqs_scroll_title">快速滚动磁块</string>
   <string name="qqs_scroll_summary">允许滚动小型快速设置瓷贴</string>
   <!-- Data Disabled Icon -->
+  <string name="data_disabled_icon_title">显示数据已禁用图标</string>
+  <string name="data_disabled_icon_summary">当数据禁用时，显示图标旁边的 “×“ 图标</string>
   <!-- Gestures -->
+  <string name="use_bottom_gesture_title">滑动手势</string>
+  <string name="use_bottom_gesture_summary">首先禁用导航栏. 
+从屏幕左滑或者右滑返回上一级。在中间向上滑动返回主页。向上滑动并停止以打开 \"最近\" 菜单</string>
   <!-- Toggle navigation bar -->
+  <string name="navigation_bar_enabled_title">启用导航栏</string>
 </resources>
