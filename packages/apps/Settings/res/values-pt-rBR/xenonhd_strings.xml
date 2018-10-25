@@ -21,9 +21,4 @@
   <!-- XenonHD Hub -->
   <string name="xenonhd_settings_title">XenonHD Cubo</string>
   <string name="xenonhd_settings_summary">Configurações adicionais</string>
-  <!-- Dashboard -->
-  <string name="summary_dashboard_conditions_enabled">Condições do painel de controle estão habilitadas</string>
-  <string name="summary_dashboard_conditions_disabled">Condições do painel de controle estão desabilitadas</string>
-  <string name="summary_dashboard_suggestions_enabled">Sugestões de painel de controle estão habilitadas</string>
-  <string name="summary_dashboard_suggestions_disabled">Sugestões do painel de controle estão desabilitadas</string>
 </resources>
