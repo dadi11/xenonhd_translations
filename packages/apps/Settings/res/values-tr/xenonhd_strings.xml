@@ -21,9 +21,4 @@
   <!-- XenonHD Hub -->
   <string name="xenonhd_settings_title">XenonHD Hub</string>
   <string name="xenonhd_settings_summary">Ek ayarlar</string>
-  <!-- Dashboard -->
-  <string name="summary_dashboard_conditions_enabled">Ayarlar menüsü durumları etkin</string>
-  <string name="summary_dashboard_conditions_disabled">Ayarlar menüsü durumları devre dışı</string>
-  <string name="summary_dashboard_suggestions_enabled">Ayarlar menüsü önerileri etkin</string>
-  <string name="summary_dashboard_suggestions_disabled">Ayarlar menüsü önerileri devre dışı</string>
 </resources>
