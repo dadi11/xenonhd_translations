@@ -78,4 +78,9 @@
   <string name="smart_pixels_shift_times_5min">5 دقائق</string>
   <string name="smart_pixels_shift_times_10min">10 دقائق</string>
   <string name="smart_pixels_shift_times_30min">30 دقيقة</string>
+  <!-- Dashboard -->
+  <string name="summary_dashboard_conditions_enabled">شروط تطبيق الإعدادات مفعّلة</string>
+  <string name="summary_dashboard_conditions_disabled">شروط تطبيق الإعدادات معطّلة</string>
+  <string name="summary_dashboard_suggestions_enabled">إقتراحات تطبيق الإعدادات مفعّلة</string>
+  <string name="summary_dashboard_suggestions_disabled">إقتراحات تطبيق الإعدادات معطّلة</string>
 </resources>
