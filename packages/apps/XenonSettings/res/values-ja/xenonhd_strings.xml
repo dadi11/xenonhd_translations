@@ -58,6 +58,7 @@
   <string name="statusbar_items_title">ステータスバーアイコン</string>
   <string name="lockscreen_tuner_title">ロック画面のショートカット</string>
   <string name="navbar_tuner_title">ナビゲーションバーボタン</string>
+  <string name="gesture_preference">ネイティブジェスチャー</string>
   <string name="buttons_settings">ボタン設定</string>
   <string name="statusbar_settings">ステータスバーの設定</string>
   <!-- Recents panel settings -->
@@ -78,9 +79,15 @@
   <!-- Quick Settings brightness slider -->
   <string name="qs_show_brightness_title">明るさスライダー</string>
   <string name="qs_show_brightness_summary">クイック設定パネルに明るさスライダーを表示する</string>
+  <string name="qs_brightness_position_bottom_title">下部の明るさスライダー</string>
+  <string name="qs_brightness_position_bottom_summary">クイック設定下部に明るさスライダーを表示する</string>
   <!-- Navigation gestures -->
+  <string name="gesture_settings_title">ナビゲーションジェスチャー</string>
+  <string name="gesture_settings_summary">ナビゲーションに下部から上スワイプジェスチャーを使用する</string>
   <string name="use_bottom_gesture_title">上スワイプジェスチャー</string>
   <!-- QS footer warnings -->
+  <string name="qs_footer_warnings_title">クイック設定下部の警告</string>
+  <string name="qs_footer_warnings_summary">外部アプリやVPNでネットワーク監視されている時にクイック設定パネルの下部に警告を表示する</string>
   <!-- Toggle navigation bar -->
   <string name="navigation_bar_enabled_title">ナビゲーションバーを有効化</string>
   <!-- Smart Pixels -->
@@ -90,14 +97,21 @@
   <string name="smart_pixels_on_power_save_title">バッテリーセーバー時に自動的に有効化</string>
   <string name="smart_pixels_on_power_save_summary">バッテリーセーバー起動時はスマートピクセルを自動的に有効にする</string>
   <string name="smart_pixels_percent">無効にする画素の割合</string>
+  <string name="smart_pixels_shift">使う画素を移し替えて画面の焼付きを避ける</string>
+  <string name="smart_pixels_shift_times_15s">15秒</string>
   <string name="smart_pixels_shift_times_30s">30秒</string>
   <string name="smart_pixels_shift_times_1min">1分</string>
+  <string name="smart_pixels_shift_times_2min">2分</string>
   <string name="smart_pixels_shift_times_5min">5分</string>
   <string name="smart_pixels_shift_times_10min">10分</string>
+  <string name="smart_pixels_shift_times_20min">20分</string>
   <string name="smart_pixels_shift_times_30min">30分</string>
+  <string name="smart_pixels_shift_times_1h">1時間</string>
   <!-- Dashboard -->
+  <string name="dashboard_conditions_title">ダッシュボードの状態</string>
   <string name="summary_dashboard_conditions_enabled">ダッシュボードの状態の表示が有効です</string>
   <string name="summary_dashboard_conditions_disabled">ダッシュボードの状態の表示が無効です</string>
+  <string name="dashboard_suggestions_title">ダッシュボードの候補表示</string>
   <string name="summary_dashboard_suggestions_enabled">ダッシュボードの候補の表示が有効です</string>
   <string name="summary_dashboard_suggestions_disabled">ダッシュボードの候補の表示が無効です</string>
 </resources>
