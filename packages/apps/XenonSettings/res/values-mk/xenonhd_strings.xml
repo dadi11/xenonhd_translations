@@ -21,6 +21,7 @@
   <!-- Changelog -->
   <!-- General strings -->
   <string name="reset">Ресетирај</string>
+  <string name="save">Зачувај</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">Бирач на боја</string>
   <string name="press_color_to_apply">Притиснете на бојата подолу за да ја поставите</string>
