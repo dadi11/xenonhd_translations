@@ -15,7 +15,25 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- In-call vibrations -->
-  <!-- Smart Options -->
-  <!-- Proximity speaker -->
+    <!-- In-call vibrations -->
+    <string name="incall_vibration_category_title">Vibración en llamadas</string>
+    <string name="incall_vibrate_outgoing_title">Vibrar al contestar</string>
+    <string name="incall_vibrate_call_waiting_title">Vibrar en llamada en espera</string>
+    <string name="incall_vibrate_hangup_title">Vibrar al colgar</string>
+    <string name="incall_vibrate_45_title">Vibrar cada minuto</string>
+    <string name="incall_vibrate_45_summary">Vibrar en el segundo 45 de cada minuto durante las llamadas salientes</string>
+    <!-- Smart Options -->
+    <string name="smart_category_title">Otras opciones</string>
+    <string name="smart_mute_title">Silenciado inteligente</string>
+    <string name="smart_mute_summary">Silenciar las llamadas entrantes al voltear el dispositivo</string>
+    <!-- Proximity speaker -->
+    <string name="speaker_settings_label">Altavoz al alejar</string>
+    <string name="prox_auto_speaker_title">Detectar proximidad al altavoz de llamada automáticamente</string>
+    <string name="prox_auto_speaker_summary">Activa el altavoz automáticamente cuando el teléfono se retira de la oreja</string>
+    <string name="prox_auto_speaker_delay_title">Retraso de altavoz</string>
+    <string name="prox_auto_speaker_delay_dialog_title">Retraso de altavoz en (ms)</string>
+    <string name="prox_auto_speaker_delay_summary">El Altavoz se activará en <xliff:g id="number">%d</xliff:g> ms</string>
+    <string name="prox_auto_speaker_incall_only_title">Solo durante la llamada</string>
+    <string name="prox_auto_speaker_incall_only_summary_on">En llamadas salientes, el altavoz solo se activará cuando la otra persona conteste</string>
+    <string name="prox_auto_speaker_incall_only_summary_off">El altavoz estará activo durante cualquier estado de la llamada (por defecto)</string>
 </resources>
