@@ -15,158 +15,159 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- App Title -->
-  <string name="xenonhd_settings_title">Nastavení XenonHD</string>
-  <!-- Categories -->
-  <string name="buttons_title">Tlačítka</string>
-  <string name="gestures_title">Gesta</string>
-  <string name="lockscreen_title">Zamykací obrazovka</string>
-  <string name="misc_title">Různé</string>
-  <string name="navigation_title">Navigační panel</string>
-  <string name="power_title">Menu napájení</string>
-  <string name="qs_title">Rychlá nastavení</string>
-  <string name="recents_title">Nedávné aplikace</string>
-  <string name="statusbar_title">Stavová lišta</string>
-  <string name="notifications_title">Oznámení</string>
-  <string name="xenonhd_title">XenonHD Hub</string>
-  <string name="xenonsettings_title">Nastavení XenonHD</string>
-  <!-- Changelog -->
-  <string name="changelog_xenonhd_title">Protokol změn</string>
-  <string name="changelog_xenonhd_error">Chyba při načítání seznamu změn</string>
-  <string name="changelog_xenonhd_summary">Zobrazit změny v aktuální verzi</string>
-  <!-- General strings -->
-  <string name="ok">OK</string>
-  <string name="reset">Resetovat</string>
-  <string name="cancel">Zrušit</string>
-  <string name="save">Uložit</string>
-  <!-- Color Picker -->
-  <string name="dialog_color_picker">Výběr barvy</string>
-  <string name="press_color_to_apply">Klikněte na barvu pro její výběr</string>
-  <string name="hex">Hex:</string>
-  <string name="set">Nastavit</string>
-  <string name="color_default">Výchozí</string>
-  <!-- Seekbar -->
-  <string name="seekbar_no_default_value">Nejsou nastaveny žádné výchozí hodnoty</string>
-  <string name="seekbar_default_value_set">Hodnota nastavena na výchozí <xliff:g id="number">%d </xliff:g></string>
-  <string name="seekbar_default_value_already_set">Výchozí hodnota je již nastavena</string>
-  <string name="seekbar_default_string">Výchozí</string>
-  <!-- XenonOTA -->
-  <string name="xenonota_title">XenonOTA</string>
-  <string name="xenonota_summary">Ověřit aktualizace XenonHD</string>
-  <!-- Launch music player when headset is connected -->
-  <string name="headset_connect_player_title">Spustit aplikaci pro přehrávání hudby při připojení sluchátek s mikrofonem</string>
-  <string name="headset_connect_player_disabled">Vypnuto</string>
-  <string name="headset_connect_player_wired">Kabelová sluchátka jsou připojena</string>
-  <string name="headset_connect_player_bt_no_carkit">Bluetooth sluchátka (ne připojení v autě) jsou připojena</string>
-  <string name="headset_connect_player_bt">Bluetooth sluchátka jsou připojena</string>
-  <string name="headset_connect_player_both_no_carkit">Jakákoliv sluchátka (ne připojení v autě) jsou připojena</string>
-  <string name="headset_connect_player_both">Jakákoliv sluchátka jsou připojena</string>
-  <!-- Power menu on secure lockscreen -->
-  <string name="lockscreen_power_menu_disabled_title">Žádné menu napájení na zabezpečené zamykací obrazovce</string>
-  <string name="lockscreen_power_menu_disabled_summary">Zakázat menu napájení na zabezpečené zamykací obrazovce</string>
-  <!-- QS rows and columns -->
-  <string name="qs_category">QS dlaždice</string>
-  <string name="qs_columns_landscape_title">Sloupce - na šířku</string>
-  <string name="qs_columns_portrait_title">Sloupce - na výšku</string>
-  <string name="qs_rows_columns_title">Řady a sloupce</string>
-  <string name="qs_rows_columns_summary">Upravit počet QS řad a sloupců</string>
-  <string name="qs_rows_landscape_title">Řady - na šířku</string>
-  <string name="qs_rows_portrait_title">Řady - na výšku</string>
-  <string name="sysui_qqs_count_title">Malé dlaždice</string>
-  <!-- Quick unlock -->
-  <string name="unlock_quick_unlock_control_title">Rychlé odemknutí</string>
-  <string name="unlock_quick_unlock_control_summary">Automatické odemknutí, pokud je zadán správný PIN/heslo</string>
-  <!-- Recents Membar -->
-  <string name="systemui_recents_mem_display_title">Povolit ukazatel paměti</string>
-  <string name="systemui_recents_mem_display_summary">Zobrazit ukazatele využití paměti v panelu nedávných</string>
-  <!-- Clear all recents -->
-  <string name="show_clear_all_recents_button_title">Vlastní tlačítko \"Vyčistit vše\"</string>
-  <string name="show_clear_all_recents_button_summary">Použít vlastní tlačítko \"Vyčistit vše\"</string>
-  <string name="recents_clear_all_location_title">Pozice tlačítka \"Vyčistit vše\"</string>
-  <string name="recents_clear_all_location_top_right">Vpravo nahoře</string>
-  <string name="recents_clear_all_location_top_left">Vlevo nahoře</string>
-  <string name="recents_clear_all_location_top_center">Nahoře uprostřed</string>
-  <string name="recents_clear_all_location_bottom_right">Vpravo dole</string>
-  <string name="recents_clear_all_location_bottom_left">Vlevo dole</string>
-  <string name="recents_clear_all_location_bottom_center">Dole uprostřed</string>
-  <!-- Battery Styles -->
-  <string name="status_bar_battery_style_title">Styl baterie ve stavové liště</string>
-  <string name="battery_style_title">Styl ikony baterie</string>
-  <string name="battery_style_port">Na výšku</string>
-  <string name="battery_style_land">Na šířku</string>
-  <string name="battery_style_circle">Kruh</string>
-  <string name="battery_style_dotted_circle">Tečkovaný kruh</string>
-  <string name="battery_style_big_circle">Velký kruh</string>
-  <string name="battery_style_big_dotted_circle">Velký tečkovaný kruh</string>
-  <string name="battery_style_square">Čtverec</string>
-  <string name="battery_style_text">Text</string>
-  <string name="battery_style_hidden">Nezobrazovat</string>
-  <string name="show_battery_percent_title">Zobrazit stav baterie v procentech</string>
-  <string name="battery_percent_none">Nezobrazovat</string>
-  <string name="battery_percent_outside">Zobrazit vedle ikony</string>
-  <string name="battery_percent_inside">Zobrazit uvnitř ikony</string>
-  <!-- Quick Settings brightness icon -->
-  <string name="brightness_icon_title">Ikona automatického jasu</string>
-  <string name="brightness_icon_summary">Zobrazit ikonu jasu na pravé straně posuvníku k nastavení automatického jasu</string>
-  <!-- Option to show brightness bar in quick settings -->
-  <string name="show_brightness_title">Posuvník jasu</string>
-  <string name="show_brightness_summary">Zobrazit posuvník jasu</string>
-  <!-- Advanced restart options -->
-  <string name="advanced_reboot_title">Rozšířený restart</string>
-  <string name="advanced_reboot_summary">Pokud je povoleno, v nabídce vypnutí jsou také možnosti restartovat zařízení do recovery nebo bootloaderu</string>
-  <!-- Show 4G instead of LTE -->
-  <string name="show_4g_title">Zobrazit 4G</string>
-  <string name="show_4g_summary">Zobrazit 4G místo LTE</string>
-  <!-- Smart Pixels -->
-  <string name="smart_pixels_title">Smart Pixels</string>
-  <string name="smart_pixels_summary">Ušetření baterie vypnutím pixelů</string>
-  <string name="smart_pixels_enable_title">Povolit Smart Pixels</string>
-  <string name="smart_pixels_enable_summary">Chcete-li snížit spotřebu energie, vypněte pixely</string>
-  <string name="smart_pixels_on_power_save_title">Automatické zapnutí při spořiči baterie</string>
-  <string name="smart_pixels_on_power_save_summary">Povolit Smart Pixels, pokud je aktivován spořič baterie</string>
-  <string name="smart_pixels_percent">Procenta pixelů k vypnutí</string>
-  <string name="smart_pixels_shift_title">Ochrana před vypálením obrazovky</string>
-  <string name="smart_pixels_shift_summary">Zabraňuje vypalování zařízení OLED častým přepínáním pixelů</string>
-  <!-- Gestures -->
-  <string name="gestures_preference_title">Gesta</string>
-  <!-- Carbon gestures -->
-  <string name="carbon_gesture_preference_title">Gesta přejetím</string>
-  <string name="carbon_gestures_summary">Nastavit vlastní obecné gesta</string>
-  <string name="carbon_gestures_fingers_title">Gesta prstů (výchozí 2)</string>
-  <string name="carbon_gestures_fingers_unit">prsty</string>
-  <string name="carbon_gestures_right_title">Gesto vpravo</string>
-  <string name="carbon_gestures_left_title">Gesto vlevo</string>
-  <string name="carbon_gestures_up_title">Gesto nahoru</string>
-  <string name="carbon_gestures_down_title">Gesto dolů</string>
-  <string name="carbon_gesture_disabled">Vypnuto</string>
-  <string name="carbon_gesture_back">Zpět</string>
-  <string name="carbon_gesture_home">Domů</string>
-  <string name="carbon_gesture_recents">Nedávné</string>
-  <string name="carbon_gesture_power">Napájení</string>
-  <string name="carbon_gesture_volume_down">Hlasitost dolů</string>
-  <string name="carbon_gesture_volume_up">Hlasitost nahoru</string>
-  <string name="carbon_gesture_volume_mute">Ztišit hlasitost</string>
-  <string name="carbon_gesture_screenshot">Snímek obrazovky</string>
-  <string name="carbon_gesture_media_play_pause">Přehrávat/pozastavit skladbu</string>
-  <string name="carbon_gesture_media_skip">Přeskočit skladbu</string>
-  <string name="carbon_gesture_media_previous">Předchozí skladba</string>
-  <string name="carbon_gesture_customapp">Spustit aplikaci</string>
-  <string name="carbon_gesture_launch">Spustit</string>
-  <!-- Fingerprint authentication vibration -->
-  <string name="fprint_sucess_vib_title">Vibrovat při ověření otisků prstů</string>
-  <string name="fprint_sucess_vib_summary_on">Vibrace při úspěšném otisku prstu jsou povoleny</string>
-  <string name="fprint_sucess_vib_summary_off">Vibrace při úspěšném otisku prstu jsou zakázány</string>
-  <!-- Fingerprint unlock keystore -->
-  <string name="fp_unlock_keystore_title">Odemknutí otiskem prstu</string>
-  <string name="fp_unlock_keystore_summary">Odemknutí zařízení pomocí otisku prstu po restartu bez zadání PINu/hesla/Vzoru\nUpozornění: na vlastní nebezpečí!</string>
-  <!-- Quick QS scroller -->
-  <string name="qqs_scroll_title">Rychlé rolování malých dlaždic</string>
-  <string name="qqs_scroll_summary">Umožňuje rolování malých dlaždic QS</string>
-  <!-- Data Disabled Icon -->
-  <string name="data_disabled_icon_title">Zobrazit ikonu při vypnutí dat</string>
-  <string name="data_disabled_icon_summary">Pokud jsou data zakázána, zobrazí se vedle stavové lišty křížek</string>
-  <!-- Gestures -->
-  <string name="use_bottom_gesture_title">Gesta přejetím nahoru</string>
-  <!-- Toggle navigation bar -->
-  <string name="navigation_bar_enabled_title">Povolit navigační panel</string>
+    <!-- App Title -->
+    <string name="xenonhd_settings_title">Nastavení XenonHD</string>
+    <!-- Categories -->
+    <string name="buttons_title">Tlačítka</string>
+    <string name="gestures_title">Gesta</string>
+    <string name="lockscreen_title">Zamykací obrazovka</string>
+    <string name="misc_title">Různé</string>
+    <string name="navigation_title">Navigační panel</string>
+    <string name="power_title">Menu napájení</string>
+    <string name="qs_title">Rychlá nastavení</string>
+    <string name="recents_title">Nedávné aplikace</string>
+    <string name="statusbar_title">Stavová lišta</string>
+    <string name="notifications_title">Oznámení</string>
+    <string name="xenonhd_title">XenonHD Hub</string>
+    <string name="xenonsettings_title">Nastavení XenonHD</string>
+    <!-- Changelog -->
+    <string name="changelog_xenonhd_title">Protokol změn</string>
+    <string name="changelog_xenonhd_error">Chyba při načítání seznamu změn</string>
+    <string name="changelog_xenonhd_summary">Zobrazit změny v aktuální verzi</string>
+    <!-- General strings -->
+    <string name="ok">OK</string>
+    <string name="reset">Resetovat</string>
+    <string name="cancel">Zrušit</string>
+    <string name="save">Uložit</string>
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Výběr barvy</string>
+    <string name="press_color_to_apply">Klikněte na barvu pro její výběr</string>
+    <string name="hex">Hex:</string>
+    <string name="set">Nastavit</string>
+    <string name="color_default">Výchozí</string>
+    <!-- Seekbar -->
+    <string name="seekbar_no_default_value">Nejsou nastaveny žádné výchozí hodnoty</string>
+    <string name="seekbar_default_value_set">Hodnota nastavena na výchozí <xliff:g id="number">%d </xliff:g></string>
+    <string name="seekbar_default_value_already_set">Výchozí hodnota je již nastavena</string>
+    <string name="seekbar_default_string">Výchozí</string>
+    <!-- XenonOTA -->
+    <string name="xenonota_title">XenonOTA</string>
+    <string name="xenonota_summary">Ověřit aktualizace XenonHD</string>
+    <!-- Launch music player when headset is connected -->
+    <string name="headset_connect_player_title">Spustit aplikaci pro přehrávání hudby při připojení sluchátek s mikrofonem</string>
+    <string name="headset_connect_player_disabled">Vypnuto</string>
+    <string name="headset_connect_player_wired">Kabelová sluchátka jsou připojena</string>
+    <string name="headset_connect_player_bt_no_carkit">Bluetooth sluchátka (ne připojení v autě) jsou připojena</string>
+    <string name="headset_connect_player_bt">Bluetooth sluchátka jsou připojena</string>
+    <string name="headset_connect_player_both_no_carkit">Jakákoliv sluchátka (ne připojení v autě) jsou připojena</string>
+    <string name="headset_connect_player_both">Jakákoliv sluchátka jsou připojena</string>
+    <!-- Power menu on secure lockscreen -->
+    <string name="lockscreen_power_menu_disabled_title">Žádné menu napájení na zabezpečené zamykací obrazovce</string>
+    <string name="lockscreen_power_menu_disabled_summary">Zakázat menu napájení na zabezpečené zamykací obrazovce</string>
+    <!-- QS rows and columns -->
+    <string name="qs_category">QS dlaždice</string>
+    <string name="qs_columns_landscape_title">Sloupce - na šířku</string>
+    <string name="qs_columns_portrait_title">Sloupce - na výšku</string>
+    <string name="qs_rows_columns_title">Řady a sloupce</string>
+    <string name="qs_rows_columns_summary">Upravit počet QS řad a sloupců</string>
+    <string name="qs_rows_landscape_title">Řady - na šířku</string>
+    <string name="qs_rows_portrait_title">Řady - na výšku</string>
+    <string name="sysui_qqs_count_title">Malé dlaždice</string>
+    <!-- Quick unlock -->
+    <string name="unlock_quick_unlock_control_title">Rychlé odemknutí</string>
+    <string name="unlock_quick_unlock_control_summary">Automatické odemknutí, pokud je zadán správný PIN/heslo</string>
+    <!-- Recents Membar -->
+    <string name="systemui_recents_mem_display_title">Povolit ukazatel paměti</string>
+    <string name="systemui_recents_mem_display_summary">Zobrazit ukazatele využití paměti v panelu nedávných</string>
+    <!-- Clear all recents -->
+    <string name="show_clear_all_recents_button_title">Vlastní tlačítko \"Vyčistit vše\"</string>
+    <string name="show_clear_all_recents_button_summary">Použít vlastní tlačítko \"Vyčistit vše\"</string>
+    <string name="recents_clear_all_location_title">Pozice tlačítka \"Vyčistit vše\"</string>
+    <string name="recents_clear_all_location_top_right">Vpravo nahoře</string>
+    <string name="recents_clear_all_location_top_left">Vlevo nahoře</string>
+    <string name="recents_clear_all_location_top_center">Nahoře uprostřed</string>
+    <string name="recents_clear_all_location_bottom_right">Vpravo dole</string>
+    <string name="recents_clear_all_location_bottom_left">Vlevo dole</string>
+    <string name="recents_clear_all_location_bottom_center">Dole uprostřed</string>
+    <!-- Battery Styles -->
+    <string name="status_bar_battery_style_title">Styl baterie ve stavové liště</string>
+    <string name="battery_style_title">Styl ikony baterie</string>
+    <string name="battery_style_port">Na výšku</string>
+    <string name="battery_style_land">Na šířku</string>
+    <string name="battery_style_circle">Kruh</string>
+    <string name="battery_style_dotted_circle">Tečkovaný kruh</string>
+    <string name="battery_style_big_circle">Velký kruh</string>
+    <string name="battery_style_big_dotted_circle">Velký tečkovaný kruh</string>
+    <string name="battery_style_square">Čtverec</string>
+    <string name="battery_style_text">Text</string>
+    <string name="battery_style_hidden">Nezobrazovat</string>
+    <string name="show_battery_percent_title">Zobrazit stav baterie v procentech</string>
+    <string name="battery_percent_none">Nezobrazovat</string>
+    <string name="battery_percent_outside">Zobrazit vedle ikony</string>
+    <string name="battery_percent_inside">Zobrazit uvnitř ikony</string>
+    <!-- Quick Settings brightness icon -->
+    <string name="brightness_icon_title">Ikona automatického jasu</string>
+    <string name="brightness_icon_summary">Zobrazit ikonu jasu na pravé straně posuvníku k nastavení automatického jasu</string>
+    <!-- Option to show brightness bar in quick settings -->
+    <string name="show_brightness_title">Posuvník jasu</string>
+    <string name="show_brightness_summary">Zobrazit posuvník jasu</string>
+    <!-- Advanced restart options -->
+    <string name="advanced_reboot_title">Rozšířený restart</string>
+    <string name="advanced_reboot_summary">Pokud je povoleno, v nabídce vypnutí jsou také možnosti restartovat zařízení do recovery nebo bootloaderu</string>
+    <!-- Show 4G instead of LTE -->
+    <string name="show_4g_title">Zobrazit 4G</string>
+    <string name="show_4g_summary">Zobrazit 4G místo LTE</string>
+    <!-- Smart Pixels -->
+    <string name="smart_pixels_title">Smart Pixels</string>
+    <string name="smart_pixels_summary">Ušetření baterie vypnutím pixelů</string>
+    <string name="smart_pixels_enable_title">Povolit Smart Pixels</string>
+    <string name="smart_pixels_enable_summary">Chcete-li snížit spotřebu energie, vypněte pixely</string>
+    <string name="smart_pixels_on_power_save_title">Automatické zapnutí při spořiči baterie</string>
+    <string name="smart_pixels_on_power_save_summary">Povolit Smart Pixels, pokud je aktivován spořič baterie</string>
+    <string name="smart_pixels_percent">Procenta pixelů k vypnutí</string>
+    <string name="smart_pixels_shift_title">Ochrana před vypálením obrazovky</string>
+    <string name="smart_pixels_shift_summary">Zabraňuje vypalování zařízení OLED častým přepínáním pixelů</string>
+    <!-- Gestures -->
+    <string name="gestures_preference_title">Gesta</string>
+    <!-- Carbon gestures -->
+    <string name="carbon_gesture_preference_title">Gesta přejetím</string>
+    <string name="carbon_gestures_summary">Nastavit vlastní obecné gesta</string>
+    <string name="carbon_gestures_fingers_title">Gesta prstů (výchozí 2)</string>
+    <string name="carbon_gestures_fingers_unit">prsty</string>
+    <string name="carbon_gestures_right_title">Gesto vpravo</string>
+    <string name="carbon_gestures_left_title">Gesto vlevo</string>
+    <string name="carbon_gestures_up_title">Gesto nahoru</string>
+    <string name="carbon_gestures_down_title">Gesto dolů</string>
+    <string name="carbon_gesture_disabled">Vypnuto</string>
+    <string name="carbon_gesture_back">Zpět</string>
+    <string name="carbon_gesture_home">Domů</string>
+    <string name="carbon_gesture_recents">Nedávné</string>
+    <string name="carbon_gesture_power">Napájení</string>
+    <string name="carbon_gesture_volume_down">Hlasitost dolů</string>
+    <string name="carbon_gesture_volume_up">Hlasitost nahoru</string>
+    <string name="carbon_gesture_volume_mute">Ztišit hlasitost</string>
+    <string name="carbon_gesture_screenshot">Snímek obrazovky</string>
+    <string name="carbon_gesture_media_play_pause">Přehrávat/pozastavit skladbu</string>
+    <string name="carbon_gesture_media_skip">Přeskočit skladbu</string>
+    <string name="carbon_gesture_media_previous">Předchozí skladba</string>
+    <string name="carbon_gesture_customapp">Spustit aplikaci</string>
+    <string name="carbon_gesture_launch">Spustit</string>
+    <!-- Fingerprint authentication vibration -->
+    <string name="fprint_sucess_vib_title">Vibrovat při ověření otisků prstů</string>
+    <string name="fprint_sucess_vib_summary_on">Vibrace při úspěšném otisku prstu jsou povoleny</string>
+    <string name="fprint_sucess_vib_summary_off">Vibrace při úspěšném otisku prstu jsou zakázány</string>
+    <!-- Fingerprint unlock keystore -->
+    <string name="fp_unlock_keystore_title">Odemknutí otiskem prstu</string>
+    <string name="fp_unlock_keystore_summary">Odemknutí zařízení pomocí otisku prstu po restartu bez zadání PINu/hesla/Vzoru\nUpozornění: na vlastní nebezpečí!</string>
+    <!-- Quick QS scroller -->
+    <string name="qqs_scroll_title">Rychlé rolování malých dlaždic</string>
+    <string name="qqs_scroll_summary">Umožňuje rolování malých dlaždic QS</string>
+    <!-- Data Disabled Icon -->
+    <string name="data_disabled_icon_title">Zobrazit ikonu při vypnutí dat</string>
+    <string name="data_disabled_icon_summary">Pokud jsou data zakázána, zobrazí se vedle stavové lišty křížek</string>
+    <!-- Gestures -->
+    <string name="use_bottom_gesture_title">Gesta přejetím nahoru</string>
+    <string name="use_bottom_gesture_summary">Nejdříve deaktivujte navigační panel.\nPotáhněte prstem zleva doprava pro návrat zpět. Přejeďte uprostřed obrazovky pro nabídku Domů. Přejeďte nahoru a podržte, pokud chcete otevřít nabídku Nedávné</string>
+    <!-- Toggle navigation bar -->
+    <string name="navigation_bar_enabled_title">Povolit navigační panel</string>
 </resources>
