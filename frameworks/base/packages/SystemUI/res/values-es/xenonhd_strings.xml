@@ -15,40 +15,65 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Screenshot Delete Toast -->
-  <string name="delete_screenshot_toast">Captura de pantalla eliminada</string>
-  <!-- Partial Screenshot -->
-  <string name="screenshot_abort_title">No se tomó la captura de pantalla</string>
-  <string name="screenshot_abort_text">Operación cancelada</string>
-  <!-- QS Tiles -->
-  <string name="quick_settings_screenshot_label">Captura de pantalla</string>
-  <string name="quick_settings_region_screenshot_label">Captura de pantalla parcial</string>
-  <!-- Always on Display Tile -->
-  <!-- Content description of the ambient display tile in quick settings when off (not shown on the screen). [CHAR LIMIT=NONE] -->
-  <!-- Content description of the ambient display tile in quick settings when on (not shown on the screen). [CHAR LIMIT=NONE] -->
-  <!-- Announcement made when ambient display changes to off (not shown on the screen). [CHAR LIMIT=NONE] -->
-  <!-- Announcement made when ambient display changes to on (not shown on the screen). [CHAR LIMIT=NONE] -->
-  <!-- Language toggle tile -->
-  <string name="quick_settings_locale_label">Escoger idioma</string>
-  <string name="quick_settings_locale_more_locales_toast">Por favor configure varios idiomas para habilitar el interruptor</string>
-  <!-- PiP Tile -->
-  <string name="quick_settings_pip_label">PiP</string>
-  <string name="quick_settings_pip_tile_app_na">La aplicación no soporta PiP</string>
-  <!-- Reboot/Recovery QS Tile -->
-  <string name="quick_settings_reboot_label">Reiniciar</string>
-  <string name="quick_settings_reboot_recovery_label">Reiniciar en modo recuperación</string>
-  <!-- Sound QS Tile -->
-  <string name="quick_settings_sound_label">Sonido</string>
-  <string name="quick_settings_sound_ring">Timbre</string>
-  <string name="quick_settings_sound_vibrate">Vibración</string>
-  <string name="quick_settings_sound_dnd">No molestar</string>
-  <!-- volte icon switch -->
-  <string name="status_bar_volte">VoLTE</string>
-  <!-- Smart pixels QS tile -->
-  <!-- Screenrecord Notification Ticker -->
-  <!-- Screenrecord notification title -->
-  <!-- Screenrecord notification action: Stop -->
-  <!-- Screenrecord notification action: show/hide pointer -->
-  <!-- Screen record notification error title -->
-  <!-- Screenrecord tile -->
+    <!-- Screenshot Delete Toast -->
+    <string name="delete_screenshot_toast">Captura de pantalla eliminada</string>
+    <!-- Partial Screenshot -->
+    <string name="screenshot_abort_title">No se tomó la captura de pantalla</string>
+    <string name="screenshot_abort_text">Operación cancelada</string>
+    <!-- QS Tiles -->
+    <string name="quick_settings_screenshot_label">Captura de pantalla</string>
+    <string name="quick_settings_region_screenshot_label">Captura de pantalla parcial</string>
+    <!-- Always on Display Tile -->
+    <string name="quick_settings_always_on_display_label">Pantalla ambiente</string>
+    <!-- Content description of the ambient display tile in quick settings when off (not shown on the screen). [CHAR LIMIT=NONE] -->
+    <string name="accessibility_quick_settings_always_on_display_off">Pantalla ambiente apagada.</string>
+    <!-- Content description of the ambient display tile in quick settings when on (not shown on the screen). [CHAR LIMIT=NONE] -->
+    <string name="accessibility_quick_settings_always_on_display_on">Pantalla ambiente encendida.</string>
+    <!-- Announcement made when ambient display changes to off (not shown on the screen). [CHAR LIMIT=NONE] -->
+    <string name="accessibility_quick_settings_always_on_display_changed_off">Se ha desactivado la pantalla ambiente.</string>
+    <!-- Announcement made when ambient display changes to on (not shown on the screen). [CHAR LIMIT=NONE] -->
+    <string name="accessibility_quick_settings_always_on_display_changed_on">Se ha activado la pantalla ambiente.</string>
+    <!-- Language toggle tile -->
+    <string name="quick_settings_locale_label">Escoger idioma</string>
+    <string name="quick_settings_locale_more_locales_toast">Por favor configure varios idiomas para habilitar el interruptor</string>
+    <!-- PiP Tile -->
+    <string name="quick_settings_pip_label">PiP</string>
+    <string name="quick_settings_pip_tile_app_na">La aplicación no soporta PiP</string>
+    <!-- Reboot/Recovery QS Tile -->
+    <string name="quick_settings_reboot_label">Reiniciar</string>
+    <string name="quick_settings_reboot_recovery_label">Reiniciar en modo recuperación</string>
+    <!-- Sound QS Tile -->
+    <string name="quick_settings_sound_label">Sonido</string>
+    <string name="quick_settings_sound_ring">Timbre</string>
+    <string name="quick_settings_sound_vibrate">Vibración</string>
+    <string name="quick_settings_sound_dnd">No molestar</string>
+    <!-- volte icon switch -->
+    <string name="status_bar_volte">VoLTE</string>
+    <!-- Smart pixels QS tile -->
+    <string name="quick_settings_smart_pixels">Pixeles inteligentes</string>
+    <string name="quick_settings_smart_pixels_on_power_save">Habilitar píxeles inteligentes automáticamente</string>
+    <!-- Screenrecord Notification Ticker -->
+    <string name="screenrecord_notif_ticker">La pantalla está siendo grabada</string>
+    <string name="screenrecord_notif_final_ticker">Grabación de pantalla guardada con éxito</string>
+    <!-- Screenrecord notification title -->
+    <string name="screenrecord_notif_title">Grabando pantalla</string>
+    <!-- Screenrecord notification action: Stop -->
+    <string name="screenrecord_notif_stop">Detener</string>
+    <string name="screenrecord_notif_completed">Grabación de pantalla guardada con éxito</string>
+    <string name="screenrecord_notif_description">Toca para ver la grabación de pantalla</string>
+    <!-- Screenrecord notification action: show/hide pointer -->
+    <string name="screenrecord_notif_pointer_on">Mostrar puntero</string>
+    <string name="screenrecord_notif_pointer_off">Ocultar puntero</string>
+    <!-- Screen record notification error title -->
+    <string name="screenrecord_notif_error">No se puede grabar la pantalla</string>
+    <string name="notification_channel_screenrecord">Grabaciones de pantalla</string>
+    <string name="screenrecord_hide_hint">Ocultar notificación</string>
+    <string name="screenrecord_show_hint">Mostrar notificación</string>
+    <!-- Screenrecord tile -->
+    <string name="quick_settings_screenrecord">Grabar la pantalla</string>
+    <string name="quick_settings_screenrecord_on">Grabando ...</string>
+    <string name="quick_settings_screenrecord_label">Grabar la pantalla</string>
+    <string name="quick_settings_screenrecord_lq_label">Grabación de pantalla a 480p</string>
+    <string name="quick_settings_screenrecord_mq_label">Grabación de pantalla a 720p</string>
+    <string name="quick_settings_screenrecord_hq_label">Grabación de pantalla a 720p+</string>
 </resources>
