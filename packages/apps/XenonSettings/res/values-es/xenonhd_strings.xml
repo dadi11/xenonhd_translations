@@ -18,14 +18,22 @@
     <!-- App Title -->
     <string name="xenonhd_settings_title">Spanish</string>
     <!-- Categories -->
+    <string name="buttons_title">Botones</string>
     <string name="gestures_title">Gestos</string>
     <string name="lockscreen_title">Pantalla de bloqueo</string>
     <string name="misc_title">Varios</string>
+    <string name="navigation_title">Barra de navegación</string>
+    <string name="power_title">Menú de apagado</string>
+    <string name="qs_title">Configuración rápida</string>
+    <string name="recents_title">Aplicaciones recientes</string>
+    <string name="statusbar_title">Barra de estado</string>
+    <string name="notifications_title">Notificaciones</string>
     <string name="xenonhd_title">Interfaz XenonHD</string>
     <string name="xenonsettings_title">Spanish</string>
     <!-- Changelog -->
     <string name="changelog_xenonhd_title">Lista de cambios</string>
     <string name="changelog_xenonhd_error">No es posible mostrar la lista de cambios</string>
+    <string name="changelog_xenonhd_summary">Ver cambios de la versión actual</string>
     <!-- General strings -->
     <string name="ok">Aceptar</string>
     <string name="reset">Resetear</string>
@@ -38,12 +46,24 @@
     <string name="set">Establecer</string>
     <string name="color_default">Por defecto</string>
     <!-- Seekbar -->
+    <string name="seekbar_no_default_value">Sin valor predeterminado</string>
+    <string name="seekbar_default_value_set">Establecido valor por defecto de <xliff:g id="number">%d </xliff:g></string>
+    <string name="seekbar_default_value_already_set">Valor predeterminado ya establecido</string>
     <string name="seekbar_default_string">Por defecto</string>
     <!-- XenonOTA -->
     <string name="xenonota_title">Actualización Xenon</string>
+    <string name="xenonota_summary">Comprobrobar actualizaciones de XenonHD</string>
     <!-- Launch music player when headset is connected -->
+    <string name="headset_connect_player_title">Abrir aplicación de música al conectar auriculares</string>
     <string name="headset_connect_player_disabled">Deshabilitado</string>
+    <string name="headset_connect_player_wired">Auricular con cable conectado</string>
+    <string name="headset_connect_player_bt_no_carkit">Auricular BT (sin carkit) conectado</string>
+    <string name="headset_connect_player_bt">Auricular BT conectado</string>
+    <string name="headset_connect_player_both_no_carkit">Cualquier auricular (sin carkit) enchufado</string>
+    <string name="headset_connect_player_both">Cualquier auricular conectado</string>
     <!-- Power menu on secure lockscreen -->
+    <string name="lockscreen_power_menu_disabled_title">Deshabilitar menú de apagado en pantalla de bloqueo</string>
+    <string name="lockscreen_power_menu_disabled_summary">Desactiva el menú de apagado en la pantalla de bloqueo segura</string>
     <!-- QS rows and columns -->
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Desbloqueo rápido</string>
