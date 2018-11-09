@@ -167,6 +167,7 @@
     <string name="data_disabled_icon_summary">Zobraziť znak X na ikone signálu siete, keď sú dáta zakázané</string>
     <!-- Gestures -->
     <string name="use_bottom_gesture_title">Gestá potiahnutím prsta</string>
+    <string name="use_bottom_gesture_summary">Najskôr deaktivujte navigačný panel.\nPotiahnite prstom zľava doprava pre návrat späť. Potiahnite prstom v strede obrazovky pre ponuku Domov. Potiahnite prstom nahor a podržte, ak chcete otvoriť ponuku Nedávne</string>
     <!-- Toggle navigation bar -->
     <string name="navigation_bar_enabled_title">Povoliť navigačný panel</string>
 </resources>
