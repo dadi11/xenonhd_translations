@@ -25,20 +25,32 @@
     <string name="dialog_message">Sprawdzam aktualizacje, proszę czekać...</string>
     <string name="download_cancelled_msg">Pobieranie zostało anulowane</string>
     <string name="download_cancelled_title">Pobieranie anulowane</string>
+    <string name="download_complete_msg_gapps">Pomyślnie pobrano GApps. Zainstaluj GApps wraz z ROMem, wybierając opcję GApps w oknie dialogowym instalacji</string>
+    <string name="download_complete_msg_magisk">Pomyślnie pobrano Magisk. Zainstaluj Magisk wraz z ROMem, wybierając opcję Magisk w oknie dialogowym instalacji</string>
+    <string name="download_complete_msg_ota">Aktualizacja została pomyślnie pobrana. Naciśnij \"Zainstaluj\", aby ponownie uruchomić i zainstalować przez recovery</string>
     <string name="download_complete_title">Zakończono pobieranie</string>
+    <string name="download_confirm_msg">Proszę potwierdzić przed pobraniem:\n\nWersja Androida\t\t:\t%1$s\nPlatforma CPU\t\t\t:\t%2$s\nWariant\t\t:\t%3$s</string>
     <string name="download_interrupted_msg">Pobieranie zostało przerwane z powodu %1$s</string>
     <string name="download_interrupted_title">Pobieranie przerwane</string>
     <string name="failed">Niepowodzenie</string>
+    <string name="flash_message">Czy chcesz zrestartować i zainstalować pobrany plik ZIP?</string>
+    <string name="magisk_check">Sprawdzanie najnowszej wersji Magisk…</string>
+    <string name="magisk_download_completed">Magisk został pobrany pomyślnie. Możesz teraz zainstalować go wraz z ROMem</string>
+    <string name="magisk_message">Magisk v%1$s dostępny.\nCzy chcesz go pobrać?</string>
     <string name="open_in_browser">Otwórz w przeglądarce</string>
+    <string name="reboot_warning">Czy chcesz uruchomić tryb recovery?</string>
     <string name="verification_failed">Weryfikacja nie powiodła się</string>
     <string name="verifying_package">Weryfikowanie pliku…</string>
     <!-- Downloader -->
     <string name="downloading">Pobieranie…</string>
     <!-- Dropdowns -->
+    <string name="choose_gapps_zip">Wybierz istniejący plik GApps</string>
     <string name="download_magisk">Pobierz Magisk</string>
     <string name="reboot_recovery">Restart do recovery</string>
     <!-- GApps -->
     <string name="gapps_ok">GApps zostały zainstalowane!</string>
+    <string name="gapps_warning">Nie zainstalowano GApps!</string>
+    <string name="latest_release_msg">Najnowsza wersja dla %1$s %2$s</string>
     <string name="loading">Wczytywanie…</string>
     <!-- Navigation -->
     <string name="title_gapps">GApps</string>
@@ -63,6 +75,7 @@
     <string name="xenonhd_version">XenonHD %s</string>
     <!-- Settings -->
     <string name="disabled">Wyłączony</string>
+    <string name="experimental">Najnowsze (Eksperymentalne i Oficjalne)</string>
     <string name="gapps_variant">Wariant GApps</string>
     <string name="hour">Co godzinę</string>
     <string name="interval_title">Harmonogram sprawdzania aktualizacji</string>
@@ -72,7 +85,12 @@
     <string name="twelve_hours">Co 12 godzin</string>
     <string name="twentyfour_hours">Co 24 godziny</string>
     <!-- Toast -->
+    <string name="autoupdate_disabled">Wyłączono automatyczne sprawdzanie aktualizacji</string>
+    <string name="autoupdate_enabled">Włączono automatyczne sprawdzanie aktualizacji</string>
     <string name="check_update_failed">Nie można sprawdzić aktualizacji. Sprawdź połączenie z Internetem i czy Twoje urządzenie jest oficjalnie wspierane</string>
     <string name="gapps_set">Ścieżka GApps ustawiona na %s</string>
+    <string name="magisk_error">Nie można uzyskać linku najnowszego Magisk</string>
+    <string name="permission_not_enabled">XenonOTA nie ma uprawnień do zapisywania plików. Najpierw zezwól na dostęp do pamięci wewnętrznej</string>
+    <string name="toast_message">Brak zainstalowanej przeglądarki</string>
     <string name="update_available">Aktualizacja jest dostępna!</string>
 </resources>
