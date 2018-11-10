@@ -20,7 +20,14 @@
     <string name="app_title">Aktualizacje XenonHD</string>
     <!-- Dialogs -->
     <string name="cancel">Anuluj</string>
+    <string name="close">Zamknij</string>
+    <string name="confirm">Potwierdź</string>
     <string name="dialog_message">Sprawdzam aktualizacje, proszę czekać...</string>
+    <string name="download_cancelled_msg">Pobieranie zostało anulowane</string>
+    <string name="download_cancelled_title">Pobieranie anulowane</string>
+    <string name="download_interrupted_msg">Pobieranie zostało przerwane z powodu %1$s</string>
+    <string name="download_interrupted_title">Pobieranie przerwane</string>
+    <string name="failed">Niepowodzenie</string>
     <!-- Downloader -->
     <!-- Dropdowns -->
     <string name="reboot_recovery">Restart do recovery</string>
