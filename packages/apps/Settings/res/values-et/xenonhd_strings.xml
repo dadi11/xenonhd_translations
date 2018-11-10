@@ -15,55 +15,55 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- About phone screen -->
-  <string name="xenonhd_version">XenonHD versioon</string>
-  <string name="xenonhd_maintainer">Hooldaja</string>
-  <string name="device_info_title">Telefoni teave</string>
-  <!-- XenonHD Settings -->
-  <string name="xenonhd_settings_title">XenonHD keskus</string>
-  <string name="xenonhd_settings_summary">Täiendavad sätted</string>
-  <!-- Volume Steps -->
-  <string name="volume_steps_title">Heli astmed</string>
-  <string name="volume_steps_alarm_title">Äratus</string>
-  <string name="volume_steps_dtmf_title">DTMF</string>
-  <string name="volume_steps_music_title">Muusika</string>
-  <string name="volume_steps_notification_title">Teavitus</string>
-  <string name="volume_steps_ring_title">Kõlisti</string>
-  <string name="volume_steps_system_title">Süsteem</string>
-  <string name="volume_steps_voice_call_title">Helikõne</string>
-  <string name="volume_steps_bluetooth_sco_title">Bluetooth kõne</string>
-  <string name="volume_steps_reset">Lähtesta</string>
-  <!-- Vendor version -->
-  <string name="vendor_version">Hankija versioon</string>
-  <string name="vendor_version_default">Tundmatu</string>
-  <!-- Screenshot sound -->
-  <string name="screenshot_sound_title">Kuvatõmmise heli</string>
-  <string name="screenshot_sound_summary">Esitab heli, kui kuvatõmmis on võetud</string>
-  <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
-  <string name="local_backup_password_title">Töölaua varunduse parool</string>
-  <!-- Format string for fingerprint location message -->
-  <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">Leidke telefonil sõrmejäljelugemis andur <xliff:g id="sensor_location">%1$s</xliff:g></string>
-  <!-- Fingerprint sensor locations -->
-  <string name="security_settings_fingerprint_sensor_location_back">taga</string>
-  <string name="security_settings_fingerprint_sensor_location_front">ees</string>
-  <string name="security_settings_fingerprint_sensor_location_left">vasak külg</string>
-  <string name="security_settings_fingerprint_sensor_location_right">parem külg</string>
-  <!-- Encryption and credential -->
-  <string name="custom_encryption_and_credential_settings_summary_on">Seade on krüptitud</string>
-  <string name="custom_encryption_and_credential_settings_summary_off">Seade ei ole krüpteeritud</string>
-  <!-- AmbientDisplay music ticker -->
-  <string name="ambient_display_media_cat">Praegu esitamisel</string>
-  <string name="force_ambient_for_media_pref_title">Ambientne Muusika Vajutaja</string>
-  <string name="force_ambient_for_media_off">Keelatud</string>
-  <string name="force_ambient_for_media_on">Lubatud</string>
-  <string name="force_ambient_for_media_on_forced">Lubatud ja sunnitud</string>
-  <string name="force_ambient_for_media_on_forced_clean">Lubatud ja sunnitud minimaalselt</string>
-  <string name="ambient_ticker_footer">Ambientne Muusika Vajutaja lubab võimaldada näidata hetkel mängiva pala informatsiooni lukustuskuval koos või ilma ambientse ekraani kasutamisega.\nTe saate valita kahe paigutuse vahel, normaalne ja minimaalne. Kuigi funktsioon kasutab ambientse ekraani eeliseid, ei sõltu funktsioon sellest.</string>
-  <!-- Force authorize substratum packages -->
-  <string name="force_authorize_substratum_packages_title">Teema rakendusi jõuga autoriseerima</string>
-  <string name="force_authorize_substratum_packages_summary">Luba teemarakendusi tundmatutelt allikatelt</string>
-  <!-- Manage applications: show substratum overlays -->
-  <string name="filter_substratum_apps">Substratumi ülekatted</string>
-  <string name="menu_show_substratum">Näita ülekatteid</string>
-  <string name="menu_hide_substratum">Peida ülekatted</string>
+    <!-- About phone screen -->
+    <string name="xenonhd_version">XenonHD versioon</string>
+    <string name="xenonhd_maintainer">Hooldaja</string>
+    <string name="device_info_title">Telefoni teave</string>
+    <!-- XenonHD Settings -->
+    <string name="xenonhd_settings_title">XenonHD keskus</string>
+    <string name="xenonhd_settings_summary">Täiendavad sätted</string>
+    <!-- Volume Steps -->
+    <string name="volume_steps_title">Heli astmed</string>
+    <string name="volume_steps_alarm_title">Äratus</string>
+    <string name="volume_steps_dtmf_title">DTMF</string>
+    <string name="volume_steps_music_title">Muusika</string>
+    <string name="volume_steps_notification_title">Teavitus</string>
+    <string name="volume_steps_ring_title">Kõlisti</string>
+    <string name="volume_steps_system_title">Süsteem</string>
+    <string name="volume_steps_voice_call_title">Helikõne</string>
+    <string name="volume_steps_bluetooth_sco_title">Bluetooth kõne</string>
+    <string name="volume_steps_reset">Lähtesta</string>
+    <!-- Vendor version -->
+    <string name="vendor_version">Hankija versioon</string>
+    <string name="vendor_version_default">Tundmatu</string>
+    <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">Kuvatõmmise heli</string>
+    <string name="screenshot_sound_summary">Esitab heli, kui kuvatõmmis on võetud</string>
+    <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+    <string name="local_backup_password_title">Töölaua varunduse parool</string>
+    <!-- Format string for fingerprint location message -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">Leidke telefonil sõrmejäljelugemis andur <xliff:g id="sensor_location">%1$s</xliff:g></string>
+    <!-- Fingerprint sensor locations -->
+    <string name="security_settings_fingerprint_sensor_location_back">taga</string>
+    <string name="security_settings_fingerprint_sensor_location_front">ees</string>
+    <string name="security_settings_fingerprint_sensor_location_left">vasak külg</string>
+    <string name="security_settings_fingerprint_sensor_location_right">parem külg</string>
+    <!-- Encryption and credential -->
+    <string name="custom_encryption_and_credential_settings_summary_on">Seade on krüptitud</string>
+    <string name="custom_encryption_and_credential_settings_summary_off">Seade ei ole krüpteeritud</string>
+    <!-- AmbientDisplay music ticker -->
+    <string name="ambient_display_media_cat">Praegu esitamisel</string>
+    <string name="force_ambient_for_media_pref_title">Ambientne Muusika Vajutaja</string>
+    <string name="force_ambient_for_media_off">Keelatud</string>
+    <string name="force_ambient_for_media_on">Lubatud</string>
+    <string name="force_ambient_for_media_on_forced">Lubatud ja sunnitud</string>
+    <string name="force_ambient_for_media_on_forced_clean">Lubatud ja sunnitud minimaalselt</string>
+    <string name="ambient_ticker_footer">Ambientne Muusika Vajutaja lubab võimaldada näidata hetkel mängiva pala informatsiooni lukustuskuval koos või ilma ambientse ekraani kasutamisega.\nTe saate valita kahe paigutuse vahel, normaalne ja minimaalne. Kuigi funktsioon kasutab ambientse ekraani eeliseid, ei sõltu funktsioon sellest.</string>
+    <!-- Force authorize substratum packages -->
+    <string name="force_authorize_substratum_packages_title">Teema rakendusi jõuga autoriseerima</string>
+    <string name="force_authorize_substratum_packages_summary">Luba teemarakendusi tundmatutelt allikatelt</string>
+    <!-- Manage applications: show substratum overlays -->
+    <string name="filter_substratum_apps">Substratumi ülekatted</string>
+    <string name="menu_show_substratum">Näita ülekatteid</string>
+    <string name="menu_hide_substratum">Peida ülekatted</string>
 </resources>
