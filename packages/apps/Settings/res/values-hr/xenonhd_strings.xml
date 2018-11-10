@@ -15,33 +15,33 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- About phone screen -->
-  <string name="xenonhd_maintainer">Održavatelj</string>
-  <string name="device_info_title">Informacije o telefonu</string>
-  <!-- XenonHD Settings -->
-  <!-- Volume Steps -->
-  <string name="volume_steps_title">Koraci glasnoće</string>
-  <string name="volume_steps_alarm_title">Alarm</string>
-  <string name="volume_steps_music_title">Glazba</string>
-  <string name="volume_steps_notification_title">Obavijest</string>
-  <string name="volume_steps_ring_title">Zvonjenje</string>
-  <string name="volume_steps_system_title">Sustav</string>
-  <string name="volume_steps_voice_call_title">Glasovni poziv</string>
-  <string name="volume_steps_reset">Ponovno pokreni</string>
-  <!-- Vendor version -->
-  <string name="vendor_version_default">Nepoznato</string>
-  <!-- Screenshot sound -->
-  <string name="screenshot_sound_title">Zvuk snimanja zaslona</string>
-  <string name="screenshot_sound_summary">Reprodukcija zvučnog efekta dok snimate zaslon</string>
-  <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
-  <string name="local_backup_password_title">Lozinka pozadinske kopije</string>
-  <!-- Format string for fingerprint location message -->
-  <!-- Fingerprint sensor locations -->
-  <!-- Encryption and credential -->
-  <!-- AmbientDisplay music ticker -->
-  <!-- Force authorize substratum packages -->
-  <!-- Manage applications: show substratum overlays -->
-  <string name="filter_substratum_apps">Substratum slojevi</string>
-  <string name="menu_show_substratum">Prikaži slojeve</string>
-  <string name="menu_hide_substratum">Sakrij slojeve</string>
+    <!-- About phone screen -->
+    <string name="xenonhd_maintainer">Održavatelj</string>
+    <string name="device_info_title">Informacije o telefonu</string>
+    <!-- XenonHD Settings -->
+    <!-- Volume Steps -->
+    <string name="volume_steps_title">Koraci glasnoće</string>
+    <string name="volume_steps_alarm_title">Alarm</string>
+    <string name="volume_steps_music_title">Glazba</string>
+    <string name="volume_steps_notification_title">Obavijest</string>
+    <string name="volume_steps_ring_title">Zvonjenje</string>
+    <string name="volume_steps_system_title">Sustav</string>
+    <string name="volume_steps_voice_call_title">Glasovni poziv</string>
+    <string name="volume_steps_reset">Ponovno pokreni</string>
+    <!-- Vendor version -->
+    <string name="vendor_version_default">Nepoznato</string>
+    <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">Zvuk snimanja zaslona</string>
+    <string name="screenshot_sound_summary">Reprodukcija zvučnog efekta dok snimate zaslon</string>
+    <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+    <string name="local_backup_password_title">Lozinka pozadinske kopije</string>
+    <!-- Format string for fingerprint location message -->
+    <!-- Fingerprint sensor locations -->
+    <!-- Encryption and credential -->
+    <!-- AmbientDisplay music ticker -->
+    <!-- Force authorize substratum packages -->
+    <!-- Manage applications: show substratum overlays -->
+    <string name="filter_substratum_apps">Substratum slojevi</string>
+    <string name="menu_show_substratum">Prikaži slojeve</string>
+    <string name="menu_hide_substratum">Sakrij slojeve</string>
 </resources>
