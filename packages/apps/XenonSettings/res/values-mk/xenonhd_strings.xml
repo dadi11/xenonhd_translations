@@ -15,45 +15,45 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- App Title -->
-  <!-- Categories -->
-  <string name="lockscreen_title">Заклучен екран</string>
-  <string name="misc_title">Разно</string>
-  <!-- Changelog -->
-  <!-- General strings -->
-  <string name="reset">Ресетирај</string>
-  <string name="save">Зачувај</string>
-  <!-- Color Picker -->
-  <string name="dialog_color_picker">Бирач на боја</string>
-  <string name="press_color_to_apply">Притиснете на бојата подолу за да ја поставите</string>
-  <string name="hex">Hex:</string>
-  <string name="set">Постави</string>
-  <string name="color_default">Стандардно</string>
-  <!-- Seekbar -->
-  <string name="seekbar_default_string">Стандардно</string>
-  <!-- XenonOTA -->
-  <!-- Launch music player when headset is connected -->
-  <string name="headset_connect_player_disabled">Оневозможено</string>
-  <!-- Power menu on secure lockscreen -->
-  <!-- QS rows and columns -->
-  <!-- Quick unlock -->
-  <!-- Recents Membar -->
-  <!-- Clear all recents -->
-  <!-- Battery Styles -->
-  <!-- Quick Settings brightness icon -->
-  <!-- Option to show brightness bar in quick settings -->
-  <string name="show_brightness_title">Лизгач за осветленост</string>
-  <!-- Advanced restart options -->
-  <!-- Show 4G instead of LTE -->
-  <!-- Smart Pixels -->
-  <!-- Gestures -->
-  <!-- Carbon gestures -->
-  <string name="carbon_gesture_disabled">Оневозможено</string>
-  <string name="carbon_gesture_screenshot">Слика од екранот</string>
-  <!-- Fingerprint authentication vibration -->
-  <!-- Fingerprint unlock keystore -->
-  <!-- Quick QS scroller -->
-  <!-- Data Disabled Icon -->
-  <!-- Gestures -->
-  <!-- Toggle navigation bar -->
+    <!-- App Title -->
+    <!-- Categories -->
+    <string name="lockscreen_title">Заклучен екран</string>
+    <string name="misc_title">Разно</string>
+    <!-- Changelog -->
+    <!-- General strings -->
+    <string name="reset">Ресетирај</string>
+    <string name="save">Зачувај</string>
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Бирач на боја</string>
+    <string name="press_color_to_apply">Притиснете на бојата подолу за да ја поставите</string>
+    <string name="hex">Hex:</string>
+    <string name="set">Постави</string>
+    <string name="color_default">Стандардно</string>
+    <!-- Seekbar -->
+    <string name="seekbar_default_string">Стандардно</string>
+    <!-- XenonOTA -->
+    <!-- Launch music player when headset is connected -->
+    <string name="headset_connect_player_disabled">Оневозможено</string>
+    <!-- Power menu on secure lockscreen -->
+    <!-- QS rows and columns -->
+    <!-- Quick unlock -->
+    <!-- Recents Membar -->
+    <!-- Clear all recents -->
+    <!-- Battery Styles -->
+    <!-- Quick Settings brightness icon -->
+    <!-- Option to show brightness bar in quick settings -->
+    <string name="show_brightness_title">Лизгач за осветленост</string>
+    <!-- Advanced restart options -->
+    <!-- Show 4G instead of LTE -->
+    <!-- Smart Pixels -->
+    <!-- Gestures -->
+    <!-- Carbon gestures -->
+    <string name="carbon_gesture_disabled">Оневозможено</string>
+    <string name="carbon_gesture_screenshot">Слика од екранот</string>
+    <!-- Fingerprint authentication vibration -->
+    <!-- Fingerprint unlock keystore -->
+    <!-- Quick QS scroller -->
+    <!-- Data Disabled Icon -->
+    <!-- Gestures -->
+    <!-- Toggle navigation bar -->
 </resources>
