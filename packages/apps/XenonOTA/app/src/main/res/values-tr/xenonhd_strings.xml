@@ -15,50 +15,30 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- App -->
-  <string name="app_name">Xenon Güncellemeleri</string>
-  <string name="app_title">XenonHD güncellemeleri</string>
-  <!-- Categories -->
-  <string name="ota_category">Güncelleme bölümü</string>
-  <string name="links_category">İndirme bölümü</string>
-  <!-- Dialog -->
-  <string name="dialog_message">Güncellemeler kontrol ediliyor, lütfen bekleyin…</string>
-  <string name="reboot_recovery">Kurtarma modunda başlat</string>
-  <!-- ROM info -->
-  <string name="latest_version">Güncelleme mevcut!\nYeni sürüm: %1$s</string>
-  <string name="unknown">Bilinmiyor</string>
-  <string name="system_uptodate">Sisteminiz güncel</string>
-  <!-- Check update -->
-  <string name="check_update_title">Güncellemeleri kontrol et</string>
-  <string name="last_check_summary">Son kontrol: %1$s</string>
-  <string name="last_check_never">Hiçbir Zaman</string>
-  <string name="check_update_failed">Güncellemeleri kontrol edilmiyor. İnternet bağlantınızı ve cihazınızın resmi olarak desteklenip desteklenmediğini kontrol edin</string>
-  <string name="update_available">Güncelleme mevcut!</string>
-  <string name="no_update_available">Kullanılabilir güncelleme yok</string>
-  <!-- Notification -->
-  <string name="notification_title">XenonHD Güncellemeleri</string>
-  <string name="notification_message">Yeni bir sürüm kullanılabilir!</string>
-  <string name="xenonota_channel">Xenon bildirimleri</string>
-  <string name="xenonota_channel_description">Yeni XenonHD güncellemeleri ile ilgili bildirimler</string>
-  <!-- Toast -->
-  <string name="toast_message">Tarayıcı yüklü değil\nTarayıcı yükleyici uygulamasını kontrol edin</string>
-  <!-- Update interval -->
-  <string name="interval_title">Güncellemeleri otomatik kontrol et</string>
-  <string name="autoupdate_enabled">Otomatik güncelleme kontrolu etkin</string>
-  <string name="autoupdate_disabled">Otomatik güncelleme kontrolu devre dışı</string>
-  <string name="disabled">Devre dışı</string>
-  <string name="hour">Saat başı </string>
-  <string name="twelve_hours">12 saatte bir</string>
-  <string name="twentyfour_hours">24 saatte bir</string>
-  <!-- Links -->
-  <string name="links_rom_title">ROM</string>
-  <string name="links_rom_summary">En son yapıyı indirin</string>
-  <string name="links_md5_title">MD5</string>
-  <string name="links_md5_summary">En son yapının sağlama toplamını indirin</string>
-  <string name="links_gapps_title">Gapps</string>
-  <string name="links_gapps_summary">Google gapps paketi indirin</string>
-  <string name="links_changelog_title">Değişiklikler</string>
-  <string name="links_changelog_summary">En son değişiklikleri görüntüle</string>
-  <string name="links_donate_title">Bağış yap</string>
-  <string name="links_donate_summary">Cihazına destek olan geliştiriciye katkıda bulun</string>
+    <!-- App -->
+    <string name="app_name">Xenon Güncellemeleri</string>
+    <string name="app_title">XenonHD güncellemeleri</string>
+    <!-- Dialogs -->
+    <string name="cancel">İptal</string>
+    <string name="dialog_message">Güncellemeler kontrol ediliyor, lütfen bekleyin…</string>
+    <!-- Downloader -->
+    <!-- Dropdowns -->
+    <string name="reboot_recovery">Kurtarma modunda başlat</string>
+    <!-- GApps -->
+    <!-- Navigation -->
+    <string name="title_rom">ROM</string>
+    <!-- Notifications -->
+    <string name="xenonota_channel">Xenon bildirimleri</string>
+    <string name="xenonota_channel_description">Yeni XenonHD güncellemeleri ile ilgili bildirimler</string>
+    <!-- ROM -->
+    <string name="changelog_title">Değişiklikler</string>
+    <string name="check_update_title">Güncellemeleri kontrol et</string>
+    <!-- Settings -->
+    <string name="disabled">Devre dışı</string>
+    <string name="hour">Saat başı </string>
+    <string name="twelve_hours">12 saatte bir</string>
+    <string name="twentyfour_hours">24 saatte bir</string>
+    <!-- Toast -->
+    <string name="check_update_failed">Güncellemeleri kontrol edilmiyor. İnternet bağlantınızı ve cihazınızın resmi olarak desteklenip desteklenmediğini kontrol edin</string>
+    <string name="update_available">Güncelleme mevcut!</string>
 </resources>
