@@ -102,7 +102,7 @@
     <string name="gapps_tvstock" translatable="false">tvstock</string>
     <string name="gapps_variant">GApps variant</string>
     <string name="hour">Every hour</string>
-    <string name="interval_title">Check for updates schedule</string>
+    <string name="interval_title">Scheduled check for updates</string>
     <string name="official">Official only</string>
     <string name="onboot">On boot</string>
     <string name="preferred_type">Preferred build type</string>
