@@ -15,157 +15,158 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- App Title -->
-  <string name="xenonhd_settings_title">Настройки XenonHD</string>
-  <!-- Categories -->
-  <string name="buttons_title">Кнопки</string>
-  <string name="gestures_title">Жесты</string>
-  <string name="lockscreen_title">Экран блокировки</string>
-  <string name="misc_title">Разное</string>
-  <string name="navigation_title">Панель навигации</string>
-  <string name="power_title">Меню выключения</string>
-  <string name="qs_title">Быстрые настройки</string>
-  <string name="recents_title">Недавние приложения</string>
-  <string name="statusbar_title">Статус бар</string>
-  <string name="notifications_title">Уведомления</string>
-  <string name="xenonhd_title">XenonHD Hub</string>
-  <string name="xenonsettings_title">Настройки XenonHD</string>
-  <!-- Changelog -->
-  <string name="changelog_xenonhd_title">Список изменений</string>
-  <string name="changelog_xenonhd_error">Невозможно загрузить список изменений</string>
-  <string name="changelog_xenonhd_summary">Посмотреть изменения в текущем релизе</string>
-  <!-- General strings -->
-  <string name="ok">ОК</string>
-  <string name="reset">Сброс</string>
-  <string name="cancel">Отмена</string>
-  <string name="save">Сохранить</string>
-  <!-- Color Picker -->
-  <string name="dialog_color_picker">Выбор цвета</string>
-  <string name="press_color_to_apply">Нажмите на цвет ниже, чтобы применить</string>
-  <string name="hex">Hex код:</string>
-  <string name="set">Применить</string>
-  <string name="color_default">По умолчанию</string>
-  <!-- Seekbar -->
-  <string name="seekbar_no_default_value">Значение по умолчанию не установлено</string>
-  <string name="seekbar_default_value_set">Значение, установленное по умолчанию - <xliff:g id="number">%d</xliff:g></string>
-  <string name="seekbar_default_value_already_set">Значение по умолчанию уже установлено</string>
-  <string name="seekbar_default_string">По умолчанию</string>
-  <!-- XenonOTA -->
-  <string name="xenonota_title">XenonOTA</string>
-  <string name="xenonota_summary">Проверить обновление XenonHD</string>
-  <!-- Launch music player when headset is connected -->
-  <string name="headset_connect_player_title">Запускать музыкальное приложение при подключении наушников</string>
-  <string name="headset_connect_player_disabled">Отключено</string>
-  <string name="headset_connect_player_wired">Когда проводные наушники подключены</string>
-  <string name="headset_connect_player_bt_no_carkit">Когда BT наушники (не автомобиль) подключены</string>
-  <string name="headset_connect_player_bt">Когда BT наушники подключены</string>
-  <string name="headset_connect_player_both_no_carkit">Когда любые наушники (не автомобиль) подключены</string>
-  <string name="headset_connect_player_both">Когда любые наушники подключены</string>
-  <!-- Power menu on secure lockscreen -->
-  <string name="lockscreen_power_menu_disabled_title">Меню питания на заблокированном экране</string>
-  <string name="lockscreen_power_menu_disabled_summary">Отключить меню питания на заблокированном экране</string>
-  <!-- QS rows and columns -->
-  <string name="qs_category">Плитки быстрых настроек</string>
-  <string name="qs_columns_landscape_title">Колонки (ландшафтный режим)</string>
-  <string name="qs_columns_portrait_title">Колонки (портретный режим)</string>
-  <string name="qs_rows_columns_title">Строки и столбцы</string>
-  <string name="qs_rows_columns_summary">Выберите количество строк и столбцов</string>
-  <string name="qs_rows_landscape_title">Строки (ландшафтный режим)</string>
-  <string name="qs_rows_portrait_title">Строки (портретный режим)</string>
-  <string name="sysui_qqs_count_title">Маленькие плитки в панели быстрых настроек</string>
-  <!-- Quick unlock -->
-  <string name="unlock_quick_unlock_control_title">Быстрая разблокировка</string>
-  <string name="unlock_quick_unlock_control_summary">Автоматическая разблокировка при вводе правильного пароля или PIN-кода</string>
-  <!-- Recents Membar -->
-  <string name="systemui_recents_mem_display_title">Включение строки поиска</string>
-  <string name="systemui_recents_mem_display_summary">Показать использование оперативной памяти</string>
-  <!-- Clear all recents -->
-  <string name="show_clear_all_recents_button_title">Настроить кнопку «Очистить всё»</string>
-  <string name="show_clear_all_recents_button_summary">Настроить кнопку «Очистить всё»</string>
-  <string name="recents_clear_all_location_title">Расположение кнопки \"Очистить всё\"</string>
-  <string name="recents_clear_all_location_top_right">Вверху справа</string>
-  <string name="recents_clear_all_location_top_left">Вверху слева</string>
-  <string name="recents_clear_all_location_top_center">Вверху по центру</string>
-  <string name="recents_clear_all_location_bottom_right">Внизу справа</string>
-  <string name="recents_clear_all_location_bottom_left">Внизу слева</string>
-  <string name="recents_clear_all_location_bottom_center">Внизу по центру</string>
-  <!-- Battery Styles -->
-  <string name="status_bar_battery_style_title">Стиль значка батареи в строке состояния</string>
-  <string name="battery_style_title">Стиль значка батареи</string>
-  <string name="battery_style_port">Портретная</string>
-  <string name="battery_style_land">Альбомная</string>
-  <string name="battery_style_circle">Круг</string>
-  <string name="battery_style_dotted_circle">Пунктирный круг</string>
-  <string name="battery_style_big_circle">Большой круг</string>
-  <string name="battery_style_big_dotted_circle">Большой пунктирный круг</string>
-  <string name="battery_style_square">Квадрат</string>
-  <string name="battery_style_text">Текст</string>
-  <string name="battery_style_hidden">Скрыто</string>
-  <string name="show_battery_percent_title">Показывать процент заряда</string>
-  <string name="battery_percent_none">Не отображать</string>
-  <string name="battery_percent_outside">Показать значок рядом</string>
-  <string name="battery_percent_inside">Показывать внутри значка</string>
-  <!-- Quick Settings brightness icon -->
-  <string name="brightness_icon_title">Значок авто-яркости</string>
-  <string name="brightness_icon_summary">Показать значок включения авто-яркости справа от слайдера</string>
-  <!-- Option to show brightness bar in quick settings -->
-  <string name="show_brightness_title">Слайдер яркости</string>
-  <string name="show_brightness_summary">Показать ползунок регулировки яркости в панели быстрых настроек</string>
-  <!-- Advanced restart options -->
-  <string name="advanced_reboot_title">Варианты перезагрузки</string>
-  <string name="advanced_reboot_summary">Когда устройство разблокировано, в меню питания доступны опции перезагрузки в режим восстановления и в загрузчик</string>
-  <!-- Show 4G instead of LTE -->
-  <string name="show_4g_title">Показывать 4G</string>
-  <string name="show_4g_summary">Показывать 4G вместо LTE в значках сети</string>
-  <!-- Smart Pixels -->
-  <string name="smart_pixels_title">Smart Pixels</string>
-  <string name="smart_pixels_summary">Экономить заряд батареи, выключая дополнительные пиксели</string>
-  <string name="smart_pixels_enable_title">Включить Smart Pixels</string>
-  <string name="smart_pixels_enable_summary">Выключить пиксели для снижения расхода заряда батареи</string>
-  <string name="smart_pixels_on_power_save_title">Включать автоматически при экономии заряда</string>
-  <string name="smart_pixels_on_power_save_summary">Включить умные пиксели, когда включен режим экономии заряда</string>
-  <string name="smart_pixels_percent">Процент выключаемых пикселей</string>
-  <string name="smart_pixels_shift_title">Защита от выгорания</string>
-  <string name="smart_pixels_shift_summary">Предотвращение выгорания на OLED устройствах благодаря перемещению пикселей с такой частотой</string>
-  <!-- Gestures -->
-  <string name="gestures_preference_title">Жесты</string>
-  <!-- Carbon gestures -->
-  <string name="carbon_gesture_preference_title">Жесты</string>
-  <string name="carbon_gestures_summary">Настройка пользовательских глобальных жестов</string>
-  <string name="carbon_gestures_fingers_title">Пальцы, используемые для жестов (по умолчанию 2)</string>
-  <string name="carbon_gestures_fingers_unit">пальцы</string>
-  <string name="carbon_gestures_right_title">Жест вправо</string>
-  <string name="carbon_gestures_left_title">Жест влево</string>
-  <string name="carbon_gestures_up_title">Жест вверх</string>
-  <string name="carbon_gestures_down_title">Жест вниз</string>
-  <string name="carbon_gesture_disabled">Отключено</string>
-  <string name="carbon_gesture_back">Назад</string>
-  <string name="carbon_gesture_home">Домой</string>
-  <string name="carbon_gesture_recents">Недавние</string>
-  <string name="carbon_gesture_power">Питание</string>
-  <string name="carbon_gesture_volume_down">Уменьшить громкость</string>
-  <string name="carbon_gesture_volume_up">Увеличить громкость</string>
-  <string name="carbon_gesture_volume_mute">Отключить звук</string>
-  <string name="carbon_gesture_screenshot">Скриншот</string>
-  <string name="carbon_gesture_media_play_pause">Воспроизв./пауза</string>
-  <string name="carbon_gesture_media_skip">Пропустить трек</string>
-  <string name="carbon_gesture_media_previous">Предыдущий трек</string>
-  <string name="carbon_gesture_customapp">Запустить приложение</string>
-  <string name="carbon_gesture_launch">Запустить</string>
-  <!-- Fingerprint authentication vibration -->
-  <string name="fprint_sucess_vib_title">Вибрация при распознавании отпечатка пальца</string>
-  <string name="fprint_sucess_vib_summary_on">Вибрировать при удачном распознавании отпечатка пальца</string>
-  <string name="fprint_sucess_vib_summary_off">Не вибрировать при удачном распознавании отпечатка пальца</string>
-  <!-- Fingerprint unlock keystore -->
-  <string name="fp_unlock_keystore_title">Разблокировка отпечатком</string>
-  <string name="fp_unlock_keystore_summary">Разблокировка устройства после перезагрузки с помощью отпечатка пальца без использования PIN-кода/Пароля/Графического ключа\nПримечание: используйте на свой страх и риск!</string>
-  <!-- Quick QS scroller -->
-  <string name="qqs_scroll_title">Прокрутка маленьких плиток</string>
-  <string name="qqs_scroll_summary">Разрешить прокрутку маленьких плиток быстрых настроек</string>
-  <!-- Data Disabled Icon -->
-  <string name="data_disabled_icon_title">Показывать значок отключенной передачи данных</string>
-  <string name="data_disabled_icon_summary">Показывать крест над значком сети, когда передача данных отключена</string>
-  <!-- Gestures -->
-  <!-- Toggle navigation bar -->
-  <string name="navigation_bar_enabled_title">Включить панель навигации</string>
+    <!-- App Title -->
+    <string name="xenonhd_settings_title">Настройки XenonHD</string>
+    <!-- Categories -->
+    <string name="buttons_title">Кнопки</string>
+    <string name="gestures_title">Жесты</string>
+    <string name="lockscreen_title">Экран блокировки</string>
+    <string name="misc_title">Разное</string>
+    <string name="navigation_title">Панель навигации</string>
+    <string name="power_title">Меню выключения</string>
+    <string name="qs_title">Быстрые настройки</string>
+    <string name="recents_title">Недавние приложения</string>
+    <string name="statusbar_title">Статус бар</string>
+    <string name="notifications_title">Уведомления</string>
+    <string name="xenonhd_title">XenonHD Hub</string>
+    <string name="xenonsettings_title">Настройки XenonHD</string>
+    <!-- Changelog -->
+    <string name="changelog_xenonhd_title">Список изменений</string>
+    <string name="changelog_xenonhd_error">Невозможно загрузить список изменений</string>
+    <string name="changelog_xenonhd_summary">Посмотреть изменения в текущем релизе</string>
+    <!-- General strings -->
+    <string name="ok">ОК</string>
+    <string name="reset">Сброс</string>
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранить</string>
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Выбор цвета</string>
+    <string name="press_color_to_apply">Нажмите на цвет ниже, чтобы применить</string>
+    <string name="hex">Hex код:</string>
+    <string name="set">Применить</string>
+    <string name="color_default">По умолчанию</string>
+    <!-- Seekbar -->
+    <string name="seekbar_no_default_value">Значение по умолчанию не установлено</string>
+    <string name="seekbar_default_value_set">Значение, установленное по умолчанию - <xliff:g id="number">%d</xliff:g></string>
+    <string name="seekbar_default_value_already_set">Значение по умолчанию уже установлено</string>
+    <string name="seekbar_default_string">По умолчанию</string>
+    <!-- XenonOTA -->
+    <string name="xenonota_title">XenonOTA</string>
+    <string name="xenonota_summary">Проверить обновление XenonHD</string>
+    <!-- Launch music player when headset is connected -->
+    <string name="headset_connect_player_title">Запускать музыкальное приложение при подключении наушников</string>
+    <string name="headset_connect_player_disabled">Отключено</string>
+    <string name="headset_connect_player_wired">Когда проводные наушники подключены</string>
+    <string name="headset_connect_player_bt_no_carkit">Когда BT наушники (не автомобиль) подключены</string>
+    <string name="headset_connect_player_bt">Когда BT наушники подключены</string>
+    <string name="headset_connect_player_both_no_carkit">Когда любые наушники (не автомобиль) подключены</string>
+    <string name="headset_connect_player_both">Когда любые наушники подключены</string>
+    <!-- Power menu on secure lockscreen -->
+    <string name="lockscreen_power_menu_disabled_title">Меню питания на заблокированном экране</string>
+    <string name="lockscreen_power_menu_disabled_summary">Отключить меню питания на заблокированном экране</string>
+    <!-- QS rows and columns -->
+    <string name="qs_category">Плитки быстрых настроек</string>
+    <string name="qs_columns_landscape_title">Колонки (ландшафтный режим)</string>
+    <string name="qs_columns_portrait_title">Колонки (портретный режим)</string>
+    <string name="qs_rows_columns_title">Строки и столбцы</string>
+    <string name="qs_rows_columns_summary">Выберите количество строк и столбцов</string>
+    <string name="qs_rows_landscape_title">Строки (ландшафтный режим)</string>
+    <string name="qs_rows_portrait_title">Строки (портретный режим)</string>
+    <string name="sysui_qqs_count_title">Маленькие плитки в панели быстрых настроек</string>
+    <!-- Quick unlock -->
+    <string name="unlock_quick_unlock_control_title">Быстрая разблокировка</string>
+    <string name="unlock_quick_unlock_control_summary">Автоматическая разблокировка при вводе правильного пароля или PIN-кода</string>
+    <!-- Recents Membar -->
+    <string name="systemui_recents_mem_display_title">Включение строки поиска</string>
+    <string name="systemui_recents_mem_display_summary">Показать использование оперативной памяти</string>
+    <!-- Clear all recents -->
+    <string name="show_clear_all_recents_button_title">Настроить кнопку «Очистить всё»</string>
+    <string name="show_clear_all_recents_button_summary">Настроить кнопку «Очистить всё»</string>
+    <string name="recents_clear_all_location_title">Расположение кнопки \"Очистить всё\"</string>
+    <string name="recents_clear_all_location_top_right">Вверху справа</string>
+    <string name="recents_clear_all_location_top_left">Вверху слева</string>
+    <string name="recents_clear_all_location_top_center">Вверху по центру</string>
+    <string name="recents_clear_all_location_bottom_right">Внизу справа</string>
+    <string name="recents_clear_all_location_bottom_left">Внизу слева</string>
+    <string name="recents_clear_all_location_bottom_center">Внизу по центру</string>
+    <!-- Battery Styles -->
+    <string name="status_bar_battery_style_title">Стиль значка батареи в строке состояния</string>
+    <string name="battery_style_title">Стиль значка батареи</string>
+    <string name="battery_style_port">Портретная</string>
+    <string name="battery_style_land">Альбомная</string>
+    <string name="battery_style_circle">Круг</string>
+    <string name="battery_style_dotted_circle">Пунктирный круг</string>
+    <string name="battery_style_big_circle">Большой круг</string>
+    <string name="battery_style_big_dotted_circle">Большой пунктирный круг</string>
+    <string name="battery_style_square">Квадрат</string>
+    <string name="battery_style_text">Текст</string>
+    <string name="battery_style_hidden">Скрыто</string>
+    <string name="show_battery_percent_title">Показывать процент заряда</string>
+    <string name="battery_percent_none">Не отображать</string>
+    <string name="battery_percent_outside">Показать значок рядом</string>
+    <string name="battery_percent_inside">Показывать внутри значка</string>
+    <!-- Quick Settings brightness icon -->
+    <string name="brightness_icon_title">Значок авто-яркости</string>
+    <string name="brightness_icon_summary">Показать значок включения авто-яркости справа от слайдера</string>
+    <!-- Option to show brightness bar in quick settings -->
+    <string name="show_brightness_title">Слайдер яркости</string>
+    <string name="show_brightness_summary">Показать ползунок регулировки яркости в панели быстрых настроек</string>
+    <!-- Advanced restart options -->
+    <string name="advanced_reboot_title">Варианты перезагрузки</string>
+    <string name="advanced_reboot_summary">Когда устройство разблокировано, в меню питания доступны опции перезагрузки в режим восстановления и в загрузчик</string>
+    <!-- Show 4G instead of LTE -->
+    <string name="show_4g_title">Показывать 4G</string>
+    <string name="show_4g_summary">Показывать 4G вместо LTE в значках сети</string>
+    <!-- Smart Pixels -->
+    <string name="smart_pixels_title">Smart Pixels</string>
+    <string name="smart_pixels_summary">Экономить заряд батареи, выключая дополнительные пиксели</string>
+    <string name="smart_pixels_enable_title">Включить Smart Pixels</string>
+    <string name="smart_pixels_enable_summary">Выключить пиксели для снижения расхода заряда батареи</string>
+    <string name="smart_pixels_on_power_save_title">Включать автоматически при экономии заряда</string>
+    <string name="smart_pixels_on_power_save_summary">Включить умные пиксели, когда включен режим экономии заряда</string>
+    <string name="smart_pixels_percent">Процент выключаемых пикселей</string>
+    <string name="smart_pixels_shift_title">Защита от выгорания</string>
+    <string name="smart_pixels_shift_summary">Предотвращение выгорания на OLED устройствах благодаря перемещению пикселей с такой частотой</string>
+    <!-- Gestures -->
+    <string name="gestures_preference_title">Жесты</string>
+    <!-- Carbon gestures -->
+    <string name="carbon_gesture_preference_title">Жесты</string>
+    <string name="carbon_gestures_summary">Настройка пользовательских глобальных жестов</string>
+    <string name="carbon_gestures_fingers_title">Пальцы, используемые для жестов (по умолчанию 2)</string>
+    <string name="carbon_gestures_fingers_unit">пальцы</string>
+    <string name="carbon_gestures_right_title">Жест вправо</string>
+    <string name="carbon_gestures_left_title">Жест влево</string>
+    <string name="carbon_gestures_up_title">Жест вверх</string>
+    <string name="carbon_gestures_down_title">Жест вниз</string>
+    <string name="carbon_gesture_disabled">Отключено</string>
+    <string name="carbon_gesture_back">Назад</string>
+    <string name="carbon_gesture_home">Домой</string>
+    <string name="carbon_gesture_recents">Недавние</string>
+    <string name="carbon_gesture_power">Питание</string>
+    <string name="carbon_gesture_volume_down">Уменьшить громкость</string>
+    <string name="carbon_gesture_volume_up">Увеличить громкость</string>
+    <string name="carbon_gesture_volume_mute">Отключить звук</string>
+    <string name="carbon_gesture_screenshot">Скриншот</string>
+    <string name="carbon_gesture_media_play_pause">Воспроизв./пауза</string>
+    <string name="carbon_gesture_media_skip">Пропустить трек</string>
+    <string name="carbon_gesture_media_previous">Предыдущий трек</string>
+    <string name="carbon_gesture_customapp">Запустить приложение</string>
+    <string name="carbon_gesture_launch">Запустить</string>
+    <!-- Fingerprint authentication vibration -->
+    <string name="fprint_sucess_vib_title">Вибрация при распознавании отпечатка пальца</string>
+    <string name="fprint_sucess_vib_summary_on">Вибрировать при удачном распознавании отпечатка пальца</string>
+    <string name="fprint_sucess_vib_summary_off">Не вибрировать при удачном распознавании отпечатка пальца</string>
+    <!-- Fingerprint unlock keystore -->
+    <string name="fp_unlock_keystore_title">Разблокировка отпечатком</string>
+    <string name="fp_unlock_keystore_summary">Разблокировка устройства после перезагрузки с помощью отпечатка пальца без использования PIN-кода/Пароля/Графического ключа\nПримечание: используйте на свой страх и риск!</string>
+    <!-- Quick QS scroller -->
+    <string name="qqs_scroll_title">Прокрутка маленьких плиток</string>
+    <string name="qqs_scroll_summary">Разрешить прокрутку маленьких плиток быстрых настроек</string>
+    <!-- Data Disabled Icon -->
+    <string name="data_disabled_icon_title">Показывать значок отключенной передачи данных</string>
+    <string name="data_disabled_icon_summary">Показывать крест над значком сети, когда передача данных отключена</string>
+    <!-- Gestures -->
+    <string name="use_bottom_gesture_title">Жесты вверх</string>
+    <!-- Toggle navigation bar -->
+    <string name="navigation_bar_enabled_title">Включить панель навигации</string>
 </resources>
