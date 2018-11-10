@@ -105,4 +105,7 @@
     <string name="summary_dashboard_conditions_disabled">Las condiciones en el panel de ajustes están deshabilitadas</string>
     <string name="summary_dashboard_suggestions_enabled">Sugerencias habilitadas en la pantalla de ajustes</string>
     <string name="summary_dashboard_suggestions_disabled">Sugerencias deshabilitadas en la pantalla de ajustes</string>
+    <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">Sonido de captura de pantalla</string>
+    <string name="screenshot_sound_summary">Reproducir sonido cuando se hace una captura de pantalla</string>
 </resources>
