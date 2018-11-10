@@ -15,98 +15,98 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- App Title -->
-  <string name="xenonhd_settings_title">Configurações XenonHD</string>
-  <!-- Categories -->
-  <string name="buttons_title">Botões</string>
-  <string name="gestures_title">Gestos</string>
-  <string name="lockscreen_title">Ecrã de bloqueio</string>
-  <string name="misc_title">Diversos</string>
-  <string name="navigation_title">Barra de navegação</string>
-  <string name="power_title">Menu de energia</string>
-  <string name="qs_title">Configurações Rápidas</string>
-  <string name="recents_title">Aplicações recentes</string>
-  <string name="statusbar_title">Barra de estado</string>
-  <string name="notifications_title">Notificações</string>
-  <string name="xenonhd_title">Hub XenonHD</string>
-  <string name="xenonsettings_title">Configurações XenonHD</string>
-  <!-- Changelog -->
-  <string name="changelog_xenonhd_title">Registo de alterações</string>
-  <string name="changelog_xenonhd_error">Não foi possível carregar a lista de alterações</string>
-  <!-- General strings -->
-  <string name="ok">OK</string>
-  <string name="reset">Repor</string>
-  <string name="cancel">Cancelar</string>
-  <string name="save">Guardar</string>
-  <!-- Color Picker -->
-  <string name="dialog_color_picker">Paleta de cores</string>
-  <string name="press_color_to_apply">Prima numa cor para aplicar</string>
-  <string name="hex">Hex:</string>
-  <string name="set">Definir</string>
-  <string name="color_default">Predefinida</string>
-  <!-- Seekbar -->
-  <string name="seekbar_default_string">Predefinida</string>
-  <!-- XenonOTA -->
-  <string name="xenonota_title">OTA Xenon</string>
-  <!-- Launch music player when headset is connected -->
-  <string name="headset_connect_player_disabled">Desactivado</string>
-  <!-- Power menu on secure lockscreen -->
-  <!-- QS rows and columns -->
-  <string name="qs_columns_landscape_title">Colunas - paisagem</string>
-  <string name="qs_columns_portrait_title">Colunas - retrato</string>
-  <string name="qs_rows_columns_title">Linhas e colunas</string>
-  <string name="qs_rows_landscape_title">Linhas - paisagem</string>
-  <string name="qs_rows_portrait_title">Linhas - retrato</string>
-  <!-- Quick unlock -->
-  <string name="unlock_quick_unlock_control_title">Desbloqueio rápido</string>
-  <string name="unlock_quick_unlock_control_summary">Desbloquear automaticamente quando o PIN/palavra-passe corretos forem introduzidos</string>
-  <!-- Recents Membar -->
-  <string name="systemui_recents_mem_display_title">Ativar a barra de memória</string>
-  <string name="systemui_recents_mem_display_summary">Mostrar barra de utilização de memória nos recentes</string>
-  <!-- Clear all recents -->
-  <string name="show_clear_all_recents_button_title">Botão de limpar todas personalizado</string>
-  <string name="show_clear_all_recents_button_summary">Botão de limpar todas personalizado</string>
-  <string name="recents_clear_all_location_title">Posição do botão de \"Limpar Tudo\"</string>
-  <string name="recents_clear_all_location_top_right">Superior direito</string>
-  <string name="recents_clear_all_location_top_left">Superior esquerdo</string>
-  <string name="recents_clear_all_location_top_center">Superior ao centro</string>
-  <string name="recents_clear_all_location_bottom_right">Inferior direito</string>
-  <string name="recents_clear_all_location_bottom_left">Inferior esquerdo</string>
-  <string name="recents_clear_all_location_bottom_center">Inferior ao Centro</string>
-  <!-- Battery Styles -->
-  <string name="status_bar_battery_style_title">Estilo da bateria na barra de estado</string>
-  <string name="battery_style_title">Estilo do indicador da bateria</string>
-  <string name="battery_style_port">Retrato</string>
-  <string name="battery_style_land">Paisagem</string>
-  <string name="battery_style_circle">Círculo</string>
-  <string name="battery_style_dotted_circle">Círculo pontilhado</string>
-  <string name="battery_style_big_circle">Círculo grande</string>
-  <string name="battery_style_big_dotted_circle">Círculo pontilhado grande</string>
-  <string name="battery_style_square">Quadrado</string>
-  <string name="battery_style_text">Texto</string>
-  <string name="battery_style_hidden">Oculto</string>
-  <string name="show_battery_percent_title">Mostrar a percentagem da bateria</string>
-  <string name="battery_percent_none">Não mostrar</string>
-  <string name="battery_percent_outside">Mostrar junto ao ícone</string>
-  <string name="battery_percent_inside">Mostrar dentro do ícone</string>
-  <!-- Quick Settings brightness icon -->
-  <string name="brightness_icon_title">Ícone de luminosidade adaptável</string>
-  <!-- Option to show brightness bar in quick settings -->
-  <string name="show_brightness_title">Controlo do brilho</string>
-  <string name="show_brightness_summary">Mostrar o controlo deslizante de brilho</string>
-  <!-- Advanced restart options -->
-  <!-- Show 4G instead of LTE -->
-  <!-- Smart Pixels -->
-  <!-- Gestures -->
-  <string name="gestures_preference_title">Gestos</string>
-  <!-- Carbon gestures -->
-  <string name="carbon_gesture_disabled">Desactivado</string>
-  <string name="carbon_gesture_screenshot">Captura de ecrã</string>
-  <!-- Fingerprint authentication vibration -->
-  <string name="fprint_sucess_vib_title">Vibração na autenticação de impressão digital</string>
-  <!-- Fingerprint unlock keystore -->
-  <!-- Quick QS scroller -->
-  <!-- Data Disabled Icon -->
-  <!-- Gestures -->
-  <!-- Toggle navigation bar -->
+    <!-- App Title -->
+    <string name="xenonhd_settings_title">Configurações XenonHD</string>
+    <!-- Categories -->
+    <string name="buttons_title">Botões</string>
+    <string name="gestures_title">Gestos</string>
+    <string name="lockscreen_title">Ecrã de bloqueio</string>
+    <string name="misc_title">Diversos</string>
+    <string name="navigation_title">Barra de navegação</string>
+    <string name="power_title">Menu de energia</string>
+    <string name="qs_title">Configurações Rápidas</string>
+    <string name="recents_title">Aplicações recentes</string>
+    <string name="statusbar_title">Barra de estado</string>
+    <string name="notifications_title">Notificações</string>
+    <string name="xenonhd_title">Hub XenonHD</string>
+    <string name="xenonsettings_title">Configurações XenonHD</string>
+    <!-- Changelog -->
+    <string name="changelog_xenonhd_title">Registo de alterações</string>
+    <string name="changelog_xenonhd_error">Não foi possível carregar a lista de alterações</string>
+    <!-- General strings -->
+    <string name="ok">OK</string>
+    <string name="reset">Repor</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Paleta de cores</string>
+    <string name="press_color_to_apply">Prima numa cor para aplicar</string>
+    <string name="hex">Hex:</string>
+    <string name="set">Definir</string>
+    <string name="color_default">Predefinida</string>
+    <!-- Seekbar -->
+    <string name="seekbar_default_string">Predefinida</string>
+    <!-- XenonOTA -->
+    <string name="xenonota_title">OTA Xenon</string>
+    <!-- Launch music player when headset is connected -->
+    <string name="headset_connect_player_disabled">Desactivado</string>
+    <!-- Power menu on secure lockscreen -->
+    <!-- QS rows and columns -->
+    <string name="qs_columns_landscape_title">Colunas - paisagem</string>
+    <string name="qs_columns_portrait_title">Colunas - retrato</string>
+    <string name="qs_rows_columns_title">Linhas e colunas</string>
+    <string name="qs_rows_landscape_title">Linhas - paisagem</string>
+    <string name="qs_rows_portrait_title">Linhas - retrato</string>
+    <!-- Quick unlock -->
+    <string name="unlock_quick_unlock_control_title">Desbloqueio rápido</string>
+    <string name="unlock_quick_unlock_control_summary">Desbloquear automaticamente quando o PIN/palavra-passe corretos forem introduzidos</string>
+    <!-- Recents Membar -->
+    <string name="systemui_recents_mem_display_title">Ativar a barra de memória</string>
+    <string name="systemui_recents_mem_display_summary">Mostrar barra de utilização de memória nos recentes</string>
+    <!-- Clear all recents -->
+    <string name="show_clear_all_recents_button_title">Botão de limpar todas personalizado</string>
+    <string name="show_clear_all_recents_button_summary">Botão de limpar todas personalizado</string>
+    <string name="recents_clear_all_location_title">Posição do botão de \"Limpar Tudo\"</string>
+    <string name="recents_clear_all_location_top_right">Superior direito</string>
+    <string name="recents_clear_all_location_top_left">Superior esquerdo</string>
+    <string name="recents_clear_all_location_top_center">Superior ao centro</string>
+    <string name="recents_clear_all_location_bottom_right">Inferior direito</string>
+    <string name="recents_clear_all_location_bottom_left">Inferior esquerdo</string>
+    <string name="recents_clear_all_location_bottom_center">Inferior ao Centro</string>
+    <!-- Battery Styles -->
+    <string name="status_bar_battery_style_title">Estilo da bateria na barra de estado</string>
+    <string name="battery_style_title">Estilo do indicador da bateria</string>
+    <string name="battery_style_port">Retrato</string>
+    <string name="battery_style_land">Paisagem</string>
+    <string name="battery_style_circle">Círculo</string>
+    <string name="battery_style_dotted_circle">Círculo pontilhado</string>
+    <string name="battery_style_big_circle">Círculo grande</string>
+    <string name="battery_style_big_dotted_circle">Círculo pontilhado grande</string>
+    <string name="battery_style_square">Quadrado</string>
+    <string name="battery_style_text">Texto</string>
+    <string name="battery_style_hidden">Oculto</string>
+    <string name="show_battery_percent_title">Mostrar a percentagem da bateria</string>
+    <string name="battery_percent_none">Não mostrar</string>
+    <string name="battery_percent_outside">Mostrar junto ao ícone</string>
+    <string name="battery_percent_inside">Mostrar dentro do ícone</string>
+    <!-- Quick Settings brightness icon -->
+    <string name="brightness_icon_title">Ícone de luminosidade adaptável</string>
+    <!-- Option to show brightness bar in quick settings -->
+    <string name="show_brightness_title">Controlo do brilho</string>
+    <string name="show_brightness_summary">Mostrar o controlo deslizante de brilho</string>
+    <!-- Advanced restart options -->
+    <!-- Show 4G instead of LTE -->
+    <!-- Smart Pixels -->
+    <!-- Gestures -->
+    <string name="gestures_preference_title">Gestos</string>
+    <!-- Carbon gestures -->
+    <string name="carbon_gesture_disabled">Desactivado</string>
+    <string name="carbon_gesture_screenshot">Captura de ecrã</string>
+    <!-- Fingerprint authentication vibration -->
+    <string name="fprint_sucess_vib_title">Vibração na autenticação de impressão digital</string>
+    <!-- Fingerprint unlock keystore -->
+    <!-- Quick QS scroller -->
+    <!-- Data Disabled Icon -->
+    <!-- Gestures -->
+    <!-- Toggle navigation bar -->
 </resources>
