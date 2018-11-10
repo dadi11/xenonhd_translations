@@ -15,40 +15,40 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Screenshot Delete Toast -->
-  <string name="delete_screenshot_toast">Το στιγμιότυπο οθόνης διαγράφηκε</string>
-  <!-- Partial Screenshot -->
-  <string name="screenshot_abort_title">Δεν λήφθηκε στιγμιότυπο οθόνης</string>
-  <string name="screenshot_abort_text">Η διαδικασία ματαιώθηκε</string>
-  <!-- QS Tiles -->
-  <string name="quick_settings_screenshot_label">Στιγμιότυπο οθόνης</string>
-  <string name="quick_settings_region_screenshot_label">Μερικό στιγμιότυπο οθόνης</string>
-  <!-- Always on Display Tile -->
-  <!-- Content description of the ambient display tile in quick settings when off (not shown on the screen). [CHAR LIMIT=NONE] -->
-  <!-- Content description of the ambient display tile in quick settings when on (not shown on the screen). [CHAR LIMIT=NONE] -->
-  <!-- Announcement made when ambient display changes to off (not shown on the screen). [CHAR LIMIT=NONE] -->
-  <!-- Announcement made when ambient display changes to on (not shown on the screen). [CHAR LIMIT=NONE] -->
-  <!-- Language toggle tile -->
-  <string name="quick_settings_locale_label">Γλώσσα</string>
-  <string name="quick_settings_locale_more_locales_toast">Παρακαλούμε επιλέξετε πάνω από μια γλώσσα για να ενεργοποιηθεί η λειτουργία αναδιάταξης</string>
-  <!-- PiP Tile -->
-  <string name="quick_settings_pip_label">Picture in Picture (PiP)/ Εικόνα σε εικονα</string>
-  <string name="quick_settings_pip_tile_app_na">Η εφαρμογή δεν υποστηρίζει λειτουργία picture in Picture</string>
-  <!-- Reboot/Recovery QS Tile -->
-  <string name="quick_settings_reboot_label">Επανεκκίνηση</string>
-  <string name="quick_settings_reboot_recovery_label">Επαναφορά</string>
-  <!-- Sound QS Tile -->
-  <string name="quick_settings_sound_label">Ήχος</string>
-  <string name="quick_settings_sound_ring">Κουδούνισμα</string>
-  <string name="quick_settings_sound_vibrate">Δόνηση</string>
-  <string name="quick_settings_sound_dnd">Μην ενοχλείτε</string>
-  <!-- volte icon switch -->
-  <string name="status_bar_volte">Φωνητικές κλήσεις μέσω Δεδομένων (VoLTE)</string>
-  <!-- Smart pixels QS tile -->
-  <!-- Screenrecord Notification Ticker -->
-  <!-- Screenrecord notification title -->
-  <!-- Screenrecord notification action: Stop -->
-  <!-- Screenrecord notification action: show/hide pointer -->
-  <!-- Screen record notification error title -->
-  <!-- Screenrecord tile -->
+    <!-- Screenshot Delete Toast -->
+    <string name="delete_screenshot_toast">Το στιγμιότυπο οθόνης διαγράφηκε</string>
+    <!-- Partial Screenshot -->
+    <string name="screenshot_abort_title">Δεν λήφθηκε στιγμιότυπο οθόνης</string>
+    <string name="screenshot_abort_text">Η διαδικασία ματαιώθηκε</string>
+    <!-- QS Tiles -->
+    <string name="quick_settings_screenshot_label">Στιγμιότυπο οθόνης</string>
+    <string name="quick_settings_region_screenshot_label">Μερικό στιγμιότυπο οθόνης</string>
+    <!-- Always on Display Tile -->
+    <!-- Content description of the ambient display tile in quick settings when off (not shown on the screen). [CHAR LIMIT=NONE] -->
+    <!-- Content description of the ambient display tile in quick settings when on (not shown on the screen). [CHAR LIMIT=NONE] -->
+    <!-- Announcement made when ambient display changes to off (not shown on the screen). [CHAR LIMIT=NONE] -->
+    <!-- Announcement made when ambient display changes to on (not shown on the screen). [CHAR LIMIT=NONE] -->
+    <!-- Language toggle tile -->
+    <string name="quick_settings_locale_label">Γλώσσα</string>
+    <string name="quick_settings_locale_more_locales_toast">Παρακαλούμε επιλέξετε πάνω από μια γλώσσα για να ενεργοποιηθεί η λειτουργία αναδιάταξης</string>
+    <!-- PiP Tile -->
+    <string name="quick_settings_pip_label">Picture in Picture (PiP)/ Εικόνα σε εικονα</string>
+    <string name="quick_settings_pip_tile_app_na">Η εφαρμογή δεν υποστηρίζει λειτουργία picture in Picture</string>
+    <!-- Reboot/Recovery QS Tile -->
+    <string name="quick_settings_reboot_label">Επανεκκίνηση</string>
+    <string name="quick_settings_reboot_recovery_label">Επαναφορά</string>
+    <!-- Sound QS Tile -->
+    <string name="quick_settings_sound_label">Ήχος</string>
+    <string name="quick_settings_sound_ring">Κουδούνισμα</string>
+    <string name="quick_settings_sound_vibrate">Δόνηση</string>
+    <string name="quick_settings_sound_dnd">Μην ενοχλείτε</string>
+    <!-- volte icon switch -->
+    <string name="status_bar_volte">Φωνητικές κλήσεις μέσω Δεδομένων (VoLTE)</string>
+    <!-- Smart pixels QS tile -->
+    <!-- Screenrecord Notification Ticker -->
+    <!-- Screenrecord notification title -->
+    <!-- Screenrecord notification action: Stop -->
+    <!-- Screenrecord notification action: show/hide pointer -->
+    <!-- Screen record notification error title -->
+    <!-- Screenrecord tile -->
 </resources>
