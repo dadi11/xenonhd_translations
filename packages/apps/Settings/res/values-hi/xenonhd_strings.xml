@@ -15,17 +15,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- About phone screen -->
-  <!-- XenonHD Settings -->
-  <!-- Volume Steps -->
-  <string name="volume_steps_music_title">संगीत</string>
-  <!-- Vendor version -->
-  <!-- Screenshot sound -->
-  <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
-  <!-- Format string for fingerprint location message -->
-  <!-- Fingerprint sensor locations -->
-  <!-- Encryption and credential -->
-  <!-- AmbientDisplay music ticker -->
-  <!-- Force authorize substratum packages -->
-  <!-- Manage applications: show substratum overlays -->
+    <!-- About phone screen -->
+    <!-- XenonHD Settings -->
+    <!-- Volume Steps -->
+    <string name="volume_steps_music_title">संगीत</string>
+    <!-- Vendor version -->
+    <!-- Screenshot sound -->
+    <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+    <!-- Format string for fingerprint location message -->
+    <!-- Fingerprint sensor locations -->
+    <!-- Encryption and credential -->
+    <!-- AmbientDisplay music ticker -->
+    <!-- Force authorize substratum packages -->
+    <!-- Manage applications: show substratum overlays -->
 </resources>
