@@ -15,43 +15,43 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- App Title -->
-  <!-- Categories -->
-  <!-- Changelog -->
-  <string name="changelog_xenonhd_error">Kan changelog niet laden</string>
-  <!-- General strings -->
-  <string name="save">Opslaan</string>
-  <!-- Color Picker -->
-  <string name="dialog_color_picker">Kleur Kiezer</string>
-  <string name="press_color_to_apply">Druk op kleur hieronder om toe te passen</string>
-  <string name="set">Instellen</string>
-  <string name="color_default">Standaard</string>
-  <!-- Seekbar -->
-  <string name="seekbar_default_string">Standaard</string>
-  <!-- XenonOTA -->
-  <string name="xenonota_title">XenonOTA</string>
-  <!-- Launch music player when headset is connected -->
-  <string name="headset_connect_player_disabled">Uitgeschakeld</string>
-  <!-- Power menu on secure lockscreen -->
-  <!-- QS rows and columns -->
-  <!-- Quick unlock -->
-  <!-- Recents Membar -->
-  <!-- Clear all recents -->
-  <!-- Battery Styles -->
-  <!-- Quick Settings brightness icon -->
-  <!-- Option to show brightness bar in quick settings -->
-  <string name="show_brightness_title">Helderheid schuifregelaar</string>
-  <!-- Advanced restart options -->
-  <!-- Show 4G instead of LTE -->
-  <!-- Smart Pixels -->
-  <!-- Gestures -->
-  <!-- Carbon gestures -->
-  <string name="carbon_gesture_disabled">Uitgeschakeld</string>
-  <string name="carbon_gesture_screenshot">Schermafdruk</string>
-  <!-- Fingerprint authentication vibration -->
-  <!-- Fingerprint unlock keystore -->
-  <!-- Quick QS scroller -->
-  <!-- Data Disabled Icon -->
-  <!-- Gestures -->
-  <!-- Toggle navigation bar -->
+    <!-- App Title -->
+    <!-- Categories -->
+    <!-- Changelog -->
+    <string name="changelog_xenonhd_error">Kan changelog niet laden</string>
+    <!-- General strings -->
+    <string name="save">Opslaan</string>
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Kleur Kiezer</string>
+    <string name="press_color_to_apply">Druk op kleur hieronder om toe te passen</string>
+    <string name="set">Instellen</string>
+    <string name="color_default">Standaard</string>
+    <!-- Seekbar -->
+    <string name="seekbar_default_string">Standaard</string>
+    <!-- XenonOTA -->
+    <string name="xenonota_title">XenonOTA</string>
+    <!-- Launch music player when headset is connected -->
+    <string name="headset_connect_player_disabled">Uitgeschakeld</string>
+    <!-- Power menu on secure lockscreen -->
+    <!-- QS rows and columns -->
+    <!-- Quick unlock -->
+    <!-- Recents Membar -->
+    <!-- Clear all recents -->
+    <!-- Battery Styles -->
+    <!-- Quick Settings brightness icon -->
+    <!-- Option to show brightness bar in quick settings -->
+    <string name="show_brightness_title">Helderheid schuifregelaar</string>
+    <!-- Advanced restart options -->
+    <!-- Show 4G instead of LTE -->
+    <!-- Smart Pixels -->
+    <!-- Gestures -->
+    <!-- Carbon gestures -->
+    <string name="carbon_gesture_disabled">Uitgeschakeld</string>
+    <string name="carbon_gesture_screenshot">Schermafdruk</string>
+    <!-- Fingerprint authentication vibration -->
+    <!-- Fingerprint unlock keystore -->
+    <!-- Quick QS scroller -->
+    <!-- Data Disabled Icon -->
+    <!-- Gestures -->
+    <!-- Toggle navigation bar -->
 </resources>
