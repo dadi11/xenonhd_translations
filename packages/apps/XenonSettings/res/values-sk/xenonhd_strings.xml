@@ -116,4 +116,7 @@
     <string name="dashboard_suggestions_title">Návrhy na hlavnom paneli</string>
     <string name="summary_dashboard_suggestions_enabled">Návrhy hlavného panela sú povolené</string>
     <string name="summary_dashboard_suggestions_disabled">Návrhy hlavného panela sú zakázané</string>
+    <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">Zvuk pri snímke obrazovky</string>
+    <string name="screenshot_sound_summary">Prehrá zvukový efekt pri snímke obrazovky</string>
 </resources>
