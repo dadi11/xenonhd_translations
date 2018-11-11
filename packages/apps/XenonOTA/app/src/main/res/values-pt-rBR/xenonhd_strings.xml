@@ -20,25 +20,76 @@
     <string name="app_title">Atualizações XenonHD</string>
     <!-- Dialogs -->
     <string name="cancel">Cancelar</string>
+    <string name="close">Fechar</string>
+    <string name="confirm">Confirmar</string>
     <string name="dialog_message">Verificando atualizações, aguarde…</string>
+    <string name="download_cancelled_msg">O download foi cancelado</string>
+    <string name="download_cancelled_title">Download cancelado</string>
+    <string name="download_complete_msg_gapps">GApps baixado com sucesso. Faça flash do GApps junto com a ROM selecionando a opção GApps no diálogo de Flash</string>
+    <string name="download_complete_msg_magisk">Magisk baixado com sucesso. Faça flash do Magisk junto com a ROM selecionando a opção Magisk no diálogo de Flash</string>
+    <string name="download_complete_msg_ota">Atualização baixada com sucesso. Pressione \"Flash\" para reiniciar e instalar no recovery</string>
+    <string name="download_complete_title">Download concluído</string>
+    <string name="download_confirm_msg">Por favor, confirme antes de baixar: \n\nVersão Android\t\t:\t%1$s\nProcessador\t\t\t:\t%2$s\nVariante do pacote\t\t:\t%3$s</string>
+    <string name="download_interrupted_msg">Download foi interrompido devido a %1$s</string>
+    <string name="download_interrupted_title">Download interrompido</string>
+    <string name="failed">Falhou</string>
+    <string name="flash_message">Você deseja reiniciar e instalar o zip baixado?</string>
+    <string name="magisk_check">Verificando a última versão do Magisk…</string>
+    <string name="magisk_download_completed">Magisk baixado com sucesso. Você pode fazer flash com a ROM agora</string>
+    <string name="magisk_message">Magisk v%1$s disponível.\nVocê deseja fazer o download?</string>
+    <string name="open_in_browser">Abrir no navegador</string>
+    <string name="reboot_warning">Você deseja reiniciar para o recovery?</string>
+    <string name="verification_failed">A verificação falhou</string>
+    <string name="verifying_package">Verificando pacote…</string>
     <!-- Downloader -->
+    <string name="downloading">Baixando…</string>
     <!-- Dropdowns -->
+    <string name="choose_gapps_zip">Escolha um arquivo zip do GApps</string>
+    <string name="download_magisk">Baixar Magisk</string>
     <string name="reboot_recovery">Reiniciar para recuperação</string>
     <!-- GApps -->
+    <string name="gapps_ok">GApps foi instalado!</string>
+    <string name="gapps_warning">GApps não foi instalado!</string>
+    <string name="latest_release_msg">Última versão para %1$s %2$s</string>
+    <string name="loading">Carregando…</string>
     <!-- Navigation -->
+    <string name="title_gapps">GApps</string>
     <string name="title_rom">ROM</string>
+    <string name="title_settings">Configurações</string>
     <!-- Notifications -->
+    <string name="notification_message">Uma nova versão está disponível!</string>
+    <string name="notification_title">Atualização XenonHD</string>
     <string name="xenonota_channel">Notificações XenonOTA</string>
     <string name="xenonota_channel_description">Notificações sobre novas atualizações XenonHD</string>
     <!-- ROM -->
     <string name="changelog_title">Registro de mudanças</string>
     <string name="check_update_title">Verificar atualizações</string>
+    <string name="current_version">Versão atual:</string>
+    <string name="download">Download</string>
+    <string name="flash">Flash</string>
+    <string name="flash_gapps">Flash GApps</string>
+    <string name="flash_magisk">Flash Magisk</string>
+    <string name="my_device">Dispositivo</string>
+    <string name="no_update_available">Não há atualizações disponíveis</string>
+    <string name="update_available1">Atualização disponível!\n%s</string>
+    <string name="xenonhd_version">XenonHD %s</string>
     <!-- Settings -->
     <string name="disabled">Desativado</string>
+    <string name="experimental">Última (Experimental &amp; Oficial)</string>
+    <string name="gapps_variant">Variante do GApps</string>
     <string name="hour">De hora em hora</string>
+    <string name="official">Somente oficial</string>
+    <string name="onboot">Na inicialização</string>
+    <string name="preferred_type">Tipo de compilação preferencial</string>
     <string name="twelve_hours">De 12 em 12 horas</string>
     <string name="twentyfour_hours">A cada 24 horas</string>
     <!-- Toast -->
+    <string name="autoupdate_disabled">Verificação automática de atualizações desabilitada</string>
+    <string name="autoupdate_enabled">Verificação automática de atualizações habilitada</string>
     <string name="check_update_failed">Não é possível verificar se há atualizações. Verifique a sua ligação à Internet e se o seu dispositivo é oficialmente suportado</string>
+    <string name="gapps_set">Pasta do GApps definida para %s</string>
+    <string name="magisk_error">Não foi possível obter o link mais recente do Magisk</string>
+    <string name="permission_not_enabled">XenonOTA não possui permissão para salvar arquivos. Por favor, autorize o acesso ao armazenamento</string>
+    <string name="toast_message">Não há nenhum navegador instalado</string>
     <string name="update_available">Atualização disponível!</string>
 </resources>
