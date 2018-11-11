@@ -42,15 +42,15 @@
     <string name="reboot_warning">Do you want to boot into recovery?</string>
     <string name="verification_failed">Verification failed</string>
     <string name="verifying_package">Verifying package…</string>
-    <string name="openfiledialog_titile" translatable="false">...%s</string>
+    <string name="openfiledialog_titile">...%s</string>
 
     <!-- Downloader -->
     <string name="downloading">Downloading…</string>
-    <string name="prog" translatable="false">%1$d%%</string>
-    <string name="progress_size" translatable="false">%1$s / %2$s</string>
-    <string name="size_bytes" translatable="false">%1$d B</string>
-    <string name="size_kb" translatable="false">%1$s KB</string>
-    <string name="size_mb" translatable="false">%1$s MB</string>
+    <string name="prog">%1$d%%</string>
+    <string name="progress_size">%1$s / %2$s</string>
+    <string name="size_bytes">%1$d B</string>
+    <string name="size_kb">%1$s KB</string>
+    <string name="size_mb">%1$s MB</string>
 
     <!-- Dropdowns -->
     <string name="choose_gapps_zip">Choose existing GApps zip file</string>
@@ -80,13 +80,14 @@
     <string name="current_version">Current version:</string>
     <string name="download">Download</string>
     <string name="flash">Flash</string>
+    <string name="flash_clean">Clean Flash</string>
     <string name="flash_gapps">Flash GApps</string>
     <string name="flash_magisk">Flash Magisk</string>
     <string name="my_device">Device</string>
     <string name="no_update_available">No updates available</string>
     <string name="update_available1">Update available!\n%s</string>
     <string name="xenonhd_version">XenonHD %s</string>
-    <string name="device_name" translatable="false">%1$s (%2$s)</string>
+    <string name="device_name">%1$s (%2$s)</string>
 
     <!-- Settings -->
     <string name="disabled">Disabled</string>
@@ -101,8 +102,12 @@
     <string name="gapps_super" translatable="false">super</string>
     <string name="gapps_tvstock" translatable="false">tvstock</string>
     <string name="gapps_variant">GApps variant</string>
+    <string name="magisk_variant">Magisk variant</string>
+    <string name="magisk_latest">Latest (Stable &amp; Beta)</string>
+    <string name="magisk_stable">Stable Only</string>
+    <string name="magisk_beta">Beta Only</string>
     <string name="hour">Every hour</string>
-    <string name="interval_title">Scheduled check for updates</string>
+    <string name="interval_title">Check for updates schedule</string>
     <string name="official">Official only</string>
     <string name="onboot">On boot</string>
     <string name="preferred_type">Preferred build type</string>
