@@ -46,6 +46,8 @@
     <string name="xenonota_title">XenonOTA</string>
     <string name="xenonota_summary">Έλεγχος για ενημερωμένες εκδόσεις XenonHD</string>
     <!-- Advanced restart options -->
+    <string name="advanced_reboot_title">Προχωρημένες επιλογές επανεκκίνησης</string>
+    <string name="advanced_reboot_summary">Όταν είναι ενεργή, περιλαμβάνονται στο μενού πλήκτρου απενεργοποίησης οι επιλογές επανεκκίνησης σε λειτουργία recovery ή bootloader</string>
     <!-- Face Unlock -->
     <!-- Tuners -->
     <!-- Recents panel settings -->
@@ -60,9 +62,17 @@
     <!-- Quick Settings brightness slider -->
     <string name="qs_show_brightness_title">Ρυθμιστής φωτεινότητας</string>
     <!-- Navigation gestures -->
+    <string name="use_bottom_gesture_title">Χειρονομίες ολίσθησης προς τα πάνω</string>
     <!-- QS footer warnings -->
     <!-- Toggle navigation bar -->
+    <string name="navigation_bar_enabled_title">Ενεργοποίηση γραμμή περιήγησης</string>
     <!-- Smart Pixels -->
+    <string name="smart_pixels_title">Έξυπνα Πίξελ</string>
+    <string name="smart_pixels_enable_title">Ενεργοποίηση Έξυπνων Πίξελ</string>
+    <string name="smart_pixels_enable_summary">Κλείσιμο των πίξελ για μείωση κατανάλωσης ενέργειας</string>
+    <string name="smart_pixels_on_power_save_title">Αυτόματη ενεργοποίηση στην εξοικονόμηση ενέργειας</string>
+    <string name="smart_pixels_on_power_save_summary">Ενεργοποίηση των Έξυπνων Πίξελ όταν η εξοικονόμηση μπαταρίας είναι ενεργοποιημένη</string>
+    <string name="smart_pixels_percent">Ποσοστό των πίξελ για απενεργοποίηση</string>
     <string name="smart_pixels_shift_times_30s">30 δευτερόλεπτα</string>
     <string name="smart_pixels_shift_times_1min">1 λεπτό</string>
     <string name="smart_pixels_shift_times_5min">5 λεπτά</string>
