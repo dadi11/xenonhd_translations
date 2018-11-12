@@ -20,7 +20,11 @@
     <string name="app_title">XenonHDの更新</string>
     <!-- Dialogs -->
     <string name="cancel">キャンセル</string>
+    <string name="close">閉じる</string>
+    <string name="confirm">確認</string>
     <string name="dialog_message">更新を確認しています。 しばらくお待ち下さい...</string>
+    <string name="download_cancelled_msg">ダウンロードが取り消されました</string>
+    <string name="download_cancelled_title">ダウンロードがキャンセルされました</string>
     <!-- Downloader -->
     <!-- Dropdowns -->
     <string name="reboot_recovery">リカバリーへ再起動</string>
