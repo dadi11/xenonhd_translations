@@ -78,7 +78,6 @@
     <string name="experimental">Najnowsze (Eksperymentalne i Oficjalne)</string>
     <string name="gapps_variant">Wariant GApps</string>
     <string name="hour">Co godzinę</string>
-    <string name="interval_title">Harmonogram sprawdzania aktualizacji</string>
     <string name="official">Tylko Oficjalne</string>
     <string name="onboot">Przy starcie</string>
     <string name="preferred_type">Preferowany typ kompilacji</string>
