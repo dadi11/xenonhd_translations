@@ -23,4 +23,5 @@
     <string name="quick_settings_screenshot_label">Στιγμιότυπο οθόνης</string>
     <string name="quick_settings_region_screenshot_label">Μερικό στιγμιότυπο οθόνης</string>
     <!-- Smart Pixels QS Tile -->
+    <string name="quick_settings_smart_pixels">Έξυπνα Πίξελ</string>
 </resources>
