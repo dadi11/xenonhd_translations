@@ -16,5 +16,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Accent colors -->
+    <string name="accent_amber">Ανοικτό πορτοκαλί</string>
     <string name="accent_black">Μαύρο</string>
+    <string name="accent_brown">Καφέ</string>
+    <string name="accent_cyan">Κυανό</string>
 </resources>
