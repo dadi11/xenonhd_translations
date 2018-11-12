@@ -167,5 +167,7 @@
     <string name="data_disabled_icon_summary">Εμφάνιση του σημαδιού σταυρού δίπλα στη μπάρα σήματος όταν τα δεδομένα είναι ανενεργά</string>
     <!-- Gestures -->
     <string name="use_bottom_gesture_title">Χειρονομίες ολίσθησης προς τα πάνω</string>
+    <string name="use_bottom_gesture_summary">Απενεργοποιήστε πρώτα τα navbar. \nSwipe προς τα επάνω από αριστερά/δεξιά για να επιστρέψετε. Σαρώστε προς τα επάνω στη μέση για την αρχική. Σαρώστε προς τα πάνω και κρατήστε για να ανοίξετε το μενού \"πρόσφατα\"</string>
     <!-- Toggle navigation bar -->
+    <string name="navigation_bar_enabled_title">Ενεργοποίηση γραμμή περιήγησης</string>
 </resources>
