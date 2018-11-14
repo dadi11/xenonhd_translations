@@ -76,7 +76,6 @@
     <string name="xenonhd_version">XenonHD %s</string>
     <!-- Settings -->
     <string name="disabled">Wyłączony</string>
-    <string name="experimental">Najnowsze (Eksperymentalne i Oficjalne)</string>
     <string name="gapps_variant">Wariant GApps</string>
     <string name="magisk_variant">Wariant Magisk</string>
     <string name="magisk_latest">Najnowsze (Stabilne i Beta)</string>
@@ -84,7 +83,6 @@
     <string name="magisk_beta">Tylko beta</string>
     <string name="hour">Co godzinę</string>
     <string name="interval_title">Harmonogram sprawdzania aktualizacji</string>
-    <string name="official">Tylko Oficjalne</string>
     <string name="onboot">Przy starcie</string>
     <string name="preferred_type">Preferowany typ kompilacji</string>
     <string name="twelve_hours">Co 12 godzin</string>
