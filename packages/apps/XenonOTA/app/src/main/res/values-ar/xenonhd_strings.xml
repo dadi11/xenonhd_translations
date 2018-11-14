@@ -76,7 +76,6 @@
     <string name="xenonhd_version">XenonHD %s</string>
     <!-- Settings -->
     <string name="disabled">غير مفعل</string>
-    <string name="experimental">الأحدث (تجريبي و رسمي)</string>
     <string name="gapps_variant">نوع GApps</string>
     <string name="magisk_variant">نوع Magisk</string>
     <string name="magisk_latest">الأحدث (مستقر و بيتا)</string>
@@ -84,7 +83,6 @@
     <string name="magisk_beta">بيتا فقط</string>
     <string name="hour">كل ساعة</string>
     <string name="interval_title">جدول تحقق من وجود التحديثات</string>
-    <string name="official">الرسمية فقط</string>
     <string name="onboot">في التمهيد</string>
     <string name="preferred_type">نوع البناء المفضل</string>
     <string name="twelve_hours">كل 12 ساعة</string>
