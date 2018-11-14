@@ -79,8 +79,11 @@
     <!-- Quick Settings brightness slider -->
     <string name="qs_show_brightness_title">Слайдер яркости</string>
     <string name="qs_show_brightness_summary">Показывать регулятор яркости в панели быстрых настроек</string>
+    <string name="qs_brightness_position_bottom_title">Регулятор яркости в панели быстрых настроек</string>
+    <string name="qs_brightness_position_bottom_summary">Показывать регулятор яркости в панели быстрых настроек</string>
     <!-- Navigation gestures -->
     <string name="gesture_settings_title">Жесты навигации</string>
+    <string name="gesture_settings_summary">Свайп вверх для навигации</string>
     <string name="use_bottom_gesture_title">Жесты вверх</string>
     <!-- QS footer warnings -->
     <string name="qs_footer_warnings_title">Предупреждение в нижней части быстрых настроек</string>
@@ -94,6 +97,7 @@
     <string name="smart_pixels_on_power_save_title">Включать автоматически при экономии заряда</string>
     <string name="smart_pixels_on_power_save_summary">Включить умные пиксели, когда включен режим экономии заряда</string>
     <string name="smart_pixels_percent">Процент выключаемых пикселей</string>
+    <string name="smart_pixels_shift">Предотвратить выгорание, сдвигая пиксели каждые</string>
     <string name="smart_pixels_shift_times_15s">15 секунд</string>
     <string name="smart_pixels_shift_times_30s">30 секунд</string>
     <string name="smart_pixels_shift_times_1min">1 минута</string>
@@ -107,6 +111,7 @@
     <string name="dashboard_conditions_title">Действия в главном меню</string>
     <string name="summary_dashboard_conditions_enabled">Уведомления в главном меню включены</string>
     <string name="summary_dashboard_conditions_disabled">Уведомления в главном меню выключены</string>
+    <string name="dashboard_suggestions_title">Подсказки в главном меню</string>
     <string name="summary_dashboard_suggestions_enabled">Подсказки меню настроек включены</string>
     <string name="summary_dashboard_suggestions_disabled">Подсказки меню настроек выключены</string>
     <!-- Screenshot sound -->
