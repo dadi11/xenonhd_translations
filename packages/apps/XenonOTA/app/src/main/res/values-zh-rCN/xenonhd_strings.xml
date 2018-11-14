@@ -76,7 +76,6 @@
     <string name="xenonhd_version">XenonHD %s</string>
     <!-- Settings -->
     <string name="disabled">已禁用</string>
-    <string name="experimental">最新 (实验版和官方版)</string>
     <string name="gapps_variant">GApps版本</string>
     <string name="magisk_variant">Magisk版本</string>
     <string name="magisk_latest">最新 (稳定版和测试版)</string>
@@ -84,7 +83,6 @@
     <string name="magisk_beta">仅测试版</string>
     <string name="hour">每小时</string>
     <string name="interval_title">定期检查更新</string>
-    <string name="official">仅官方版</string>
     <string name="onboot">启动时</string>
     <string name="preferred_type">首选构建版本</string>
     <string name="twelve_hours">每12小时</string>
