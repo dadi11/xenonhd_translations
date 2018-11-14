@@ -75,10 +75,8 @@
     <string name="xenonhd_version">XenonHD %s</string>
     <!-- Settings -->
     <string name="disabled">Desativado</string>
-    <string name="experimental">Última (Experimental &amp; Oficial)</string>
     <string name="gapps_variant">Variante do GApps</string>
     <string name="hour">De hora em hora</string>
-    <string name="official">Somente oficial</string>
     <string name="onboot">Na inicialização</string>
     <string name="preferred_type">Tipo de compilação preferencial</string>
     <string name="twelve_hours">De 12 em 12 horas</string>

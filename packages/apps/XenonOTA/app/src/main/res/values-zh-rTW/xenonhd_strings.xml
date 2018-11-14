@@ -75,10 +75,8 @@
     <string name="xenonhd_version">XenonHD %s</string>
     <!-- Settings -->
     <string name="disabled">已停用</string>
-    <string name="experimental">最新 (實驗和官方)</string>
     <string name="gapps_variant">GApps 變數</string>
     <string name="hour">每小時</string>
-    <string name="official">僅官方</string>
     <string name="onboot">啟動時</string>
     <string name="preferred_type">偏好構建類型</string>
     <string name="twelve_hours">每 12 小時</string>
