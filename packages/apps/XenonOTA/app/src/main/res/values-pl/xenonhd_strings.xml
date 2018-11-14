@@ -76,6 +76,9 @@
     <string name="xenonhd_version">XenonHD %s</string>
     <!-- Settings -->
     <string name="disabled">Wyłączony</string>
+    <string name="rom_latest">Najnowsze (Oficjalne i Eksperymentalne)</string>
+    <string name="rom_official">Tylko Oficjalne</string>
+    <string name="rom_experimental">Tylko Eksperymentalne</string>
     <string name="gapps_variant">Wariant GApps</string>
     <string name="magisk_variant">Wariant Magisk</string>
     <string name="magisk_latest">Najnowsze (Stabilne i Beta)</string>
