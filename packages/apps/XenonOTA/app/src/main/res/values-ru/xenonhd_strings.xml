@@ -76,6 +76,9 @@
     <string name="xenonhd_version">XenonHD %s</string>
     <!-- Settings -->
     <string name="disabled">Отключено</string>
+    <string name="rom_latest">Последние (официальные &amp; экспериментальные)</string>
+    <string name="rom_official">Только официальные</string>
+    <string name="rom_experimental">Только экспериментальные</string>
     <string name="gapps_variant">Варианты GApps</string>
     <string name="magisk_variant">Варианты Magisk</string>
     <string name="magisk_latest">Последняя (Стабильная &amp; Бета)</string>
