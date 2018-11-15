@@ -15,65 +15,65 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Screenshot Delete Toast -->
-  <string name="delete_screenshot_toast">تم حذف لقطة الشاشة</string>
-  <!-- Partial Screenshot -->
-  <string name="screenshot_abort_title">لم يتم تصورير الشاشة</string>
-  <string name="screenshot_abort_text">تم قطع العملية</string>
-  <!-- QS Tiles -->
-  <string name="quick_settings_screenshot_label">لقطة للشاشة</string>
-  <string name="quick_settings_region_screenshot_label">صورة جزئية للشاشة</string>
-  <!-- Always on Display Tile -->
-  <string name="quick_settings_always_on_display_label">دائما على الشاشة</string>
-  <!-- Content description of the ambient display tile in quick settings when off (not shown on the screen). [CHAR LIMIT=NONE] -->
-  <string name="accessibility_quick_settings_always_on_display_off">ميزة دائما على الشاشة مغلقة.</string>
-  <!-- Content description of the ambient display tile in quick settings when on (not shown on the screen). [CHAR LIMIT=NONE] -->
-  <string name="accessibility_quick_settings_always_on_display_on">ميزة دائما على الشاشة مفعلة.</string>
-  <!-- Announcement made when ambient display changes to off (not shown on the screen). [CHAR LIMIT=NONE] -->
-  <string name="accessibility_quick_settings_always_on_display_changed_off">تم ايقاف ميزة دائماً على الشاشة.</string>
-  <!-- Announcement made when ambient display changes to on (not shown on the screen). [CHAR LIMIT=NONE] -->
-  <string name="accessibility_quick_settings_always_on_display_changed_on">تم تفعيل ميزة دائماً على الشاشة.</string>
-  <!-- Language toggle tile -->
-  <string name="quick_settings_locale_label">اللّغة</string>
-  <string name="quick_settings_locale_more_locales_toast">الرجاء إعداد تعدد اللغات لتمكين وظيفة مفتاح التبديل</string>
-  <!-- PiP Tile -->
-  <string name="quick_settings_pip_label">صورة في صورة</string>
-  <string name="quick_settings_pip_tile_app_na">التطبيق لا يدعم خاصية صورة في صورة</string>
-  <!-- Reboot/Recovery QS Tile -->
-  <string name="quick_settings_reboot_label">إعادة التشغيل</string>
-  <string name="quick_settings_reboot_recovery_label">الريكفري</string>
-  <!-- Sound QS Tile -->
-  <string name="quick_settings_sound_label">الصوت</string>
-  <string name="quick_settings_sound_ring">رنين</string>
-  <string name="quick_settings_sound_vibrate">إهتزاز</string>
-  <string name="quick_settings_sound_dnd">عدم الإزعاج</string>
-  <!-- volte icon switch -->
-  <string name="status_bar_volte">VoLTE</string>
-  <!-- Smart pixels QS tile -->
-  <string name="quick_settings_smart_pixels">الدقة الذكية</string>
-  <string name="quick_settings_smart_pixels_on_power_save">تمكين الدقة الذكية تلقائياً</string>
-  <!-- Screenrecord Notification Ticker -->
-  <string name="screenrecord_notif_ticker">يتم تسجيل الشاشة</string>
-  <string name="screenrecord_notif_final_ticker">تم تسجيل الشاشة بنجاح</string>
-  <!-- Screenrecord notification title -->
-  <string name="screenrecord_notif_title">جارٍ تسجيل الشاشة</string>
-  <!-- Screenrecord notification action: Stop -->
-  <string name="screenrecord_notif_stop">إيقاف</string>
-  <string name="screenrecord_notif_completed">تم تسجيل الشاشة بنجاح</string>
-  <string name="screenrecord_notif_description">انقر لعرض تسجيل الشاشة الخاصة بك</string>
-  <!-- Screenrecord notification action: show/hide pointer -->
-  <string name="screenrecord_notif_pointer_on">اظهر المؤشر</string>
-  <string name="screenrecord_notif_pointer_off">إخفاء المؤشر</string>
-  <!-- Screen record notification error title -->
-  <string name="screenrecord_notif_error">غير قادر على تسجيل الشاشة</string>
-  <string name="notification_channel_screenrecord">تسجيلات الشاشة</string>
-  <string name="screenrecord_hide_hint">إخفاء التلميح</string>
-  <string name="screenrecord_show_hint">إظهار التلميح</string>
-  <!-- Screenrecord tile -->
-  <string name="quick_settings_screenrecord">تسجيل الشاشة</string>
-  <string name="quick_settings_screenrecord_on">جار التسجيل...</string>
-  <string name="quick_settings_screenrecord_label">تسجيل الشاشة</string>
-  <string name="quick_settings_screenrecord_lq_label">تسجيل الشاشة بجودة 480p</string>
-  <string name="quick_settings_screenrecord_mq_label">تسجيل الشاشة بجودة 720p</string>
-  <string name="quick_settings_screenrecord_hq_label">تسجيل الشاشة بجودة 720p+</string>
+    <!-- Screenshot Delete Toast -->
+    <string name="delete_screenshot_toast">تم حذف لقطة الشاشة</string>
+    <!-- Partial Screenshot -->
+    <string name="screenshot_abort_title">لم يتم تصورير الشاشة</string>
+    <string name="screenshot_abort_text">تم قطع العملية</string>
+    <!-- QS Tiles -->
+    <string name="quick_settings_screenshot_label">لقطة للشاشة</string>
+    <string name="quick_settings_region_screenshot_label">صورة جزئية للشاشة</string>
+    <!-- Always on Display Tile -->
+    <string name="quick_settings_always_on_display_label">دائما على الشاشة</string>
+    <!-- Content description of the ambient display tile in quick settings when off (not shown on the screen). [CHAR LIMIT=NONE] -->
+    <string name="accessibility_quick_settings_always_on_display_off">ميزة دائما على الشاشة مغلقة.</string>
+    <!-- Content description of the ambient display tile in quick settings when on (not shown on the screen). [CHAR LIMIT=NONE] -->
+    <string name="accessibility_quick_settings_always_on_display_on">ميزة دائما على الشاشة مفعلة.</string>
+    <!-- Announcement made when ambient display changes to off (not shown on the screen). [CHAR LIMIT=NONE] -->
+    <string name="accessibility_quick_settings_always_on_display_changed_off">تم ايقاف ميزة دائماً على الشاشة.</string>
+    <!-- Announcement made when ambient display changes to on (not shown on the screen). [CHAR LIMIT=NONE] -->
+    <string name="accessibility_quick_settings_always_on_display_changed_on">تم تفعيل ميزة دائماً على الشاشة.</string>
+    <!-- Language toggle tile -->
+    <string name="quick_settings_locale_label">اللّغة</string>
+    <string name="quick_settings_locale_more_locales_toast">الرجاء إعداد تعدد اللغات لتمكين وظيفة مفتاح التبديل</string>
+    <!-- PiP Tile -->
+    <string name="quick_settings_pip_label">صورة في صورة</string>
+    <string name="quick_settings_pip_tile_app_na">التطبيق لا يدعم خاصية صورة في صورة</string>
+    <!-- Reboot/Recovery QS Tile -->
+    <string name="quick_settings_reboot_label">إعادة التشغيل</string>
+    <string name="quick_settings_reboot_recovery_label">الريكفري</string>
+    <!-- Sound QS Tile -->
+    <string name="quick_settings_sound_label">الصوت</string>
+    <string name="quick_settings_sound_ring">رنين</string>
+    <string name="quick_settings_sound_vibrate">إهتزاز</string>
+    <string name="quick_settings_sound_dnd">عدم الإزعاج</string>
+    <!-- volte icon switch -->
+    <string name="status_bar_volte">VoLTE</string>
+    <!-- Smart pixels QS tile -->
+    <string name="quick_settings_smart_pixels">الدقة الذكية</string>
+    <string name="quick_settings_smart_pixels_on_power_save">تمكين الدقة الذكية تلقائياً</string>
+    <!-- Screenrecord Notification Ticker -->
+    <string name="screenrecord_notif_ticker">يتم تسجيل الشاشة</string>
+    <string name="screenrecord_notif_final_ticker">تم تسجيل الشاشة بنجاح</string>
+    <!-- Screenrecord notification title -->
+    <string name="screenrecord_notif_title">جارٍ تسجيل الشاشة</string>
+    <!-- Screenrecord notification action: Stop -->
+    <string name="screenrecord_notif_stop">إيقاف</string>
+    <string name="screenrecord_notif_completed">تم تسجيل الشاشة بنجاح</string>
+    <string name="screenrecord_notif_description">انقر لعرض تسجيل الشاشة الخاصة بك</string>
+    <!-- Screenrecord notification action: show/hide pointer -->
+    <string name="screenrecord_notif_pointer_on">اظهر المؤشر</string>
+    <string name="screenrecord_notif_pointer_off">إخفاء المؤشر</string>
+    <!-- Screen record notification error title -->
+    <string name="screenrecord_notif_error">غير قادر على تسجيل الشاشة</string>
+    <string name="notification_channel_screenrecord">تسجيلات الشاشة</string>
+    <string name="screenrecord_hide_hint">إخفاء التلميح</string>
+    <string name="screenrecord_show_hint">إظهار التلميح</string>
+    <!-- Screenrecord tile -->
+    <string name="quick_settings_screenrecord">تسجيل الشاشة</string>
+    <string name="quick_settings_screenrecord_on">جار التسجيل...</string>
+    <string name="quick_settings_screenrecord_label">تسجيل الشاشة</string>
+    <string name="quick_settings_screenrecord_lq_label">تسجيل الشاشة بجودة 480p</string>
+    <string name="quick_settings_screenrecord_mq_label">تسجيل الشاشة بجودة 720p</string>
+    <string name="quick_settings_screenrecord_hq_label">تسجيل الشاشة بجودة 720p+</string>
 </resources>

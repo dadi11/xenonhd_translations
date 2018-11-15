@@ -15,159 +15,159 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- App Title -->
-  <string name="xenonhd_settings_title">إعدادات XenonHD</string>
-  <!-- Categories -->
-  <string name="buttons_title">الازرار</string>
-  <string name="gestures_title">الإيماءات</string>
-  <string name="lockscreen_title">شاشة القفل</string>
-  <string name="misc_title">خيارات متنوعة</string>
-  <string name="navigation_title">شريط التنقل</string>
-  <string name="power_title">قائمة التشغيل</string>
-  <string name="qs_title">الإعدادات السريعة</string>
-  <string name="recents_title">التطبيقات الأخيرة</string>
-  <string name="statusbar_title">شريط الحالة</string>
-  <string name="notifications_title">الإشعارات</string>
-  <string name="xenonhd_title">مركز XenonHD</string>
-  <string name="xenonsettings_title">إعدادات XenonHD</string>
-  <!-- Changelog -->
-  <string name="changelog_xenonhd_title">سجل التغيرات</string>
-  <string name="changelog_xenonhd_error">غير قادر على تحميل سجل التغييرات</string>
-  <string name="changelog_xenonhd_summary">عرض التغييرات في الإصدار الحالي</string>
-  <!-- General strings -->
-  <string name="ok">حسناً</string>
-  <string name="reset">إعادة ضبط</string>
-  <string name="cancel">إلغاء</string>
-  <string name="save">حفظ</string>
-  <!-- Color Picker -->
-  <string name="dialog_color_picker">منتقي الألوان</string>
-  <string name="press_color_to_apply">اضغط على اللون أدناه لتطبيق</string>
-  <string name="hex">ست عشري:</string>
-  <string name="set">تعيين</string>
-  <string name="color_default">الوضع الأصلي</string>
-  <!-- Seekbar -->
-  <string name="seekbar_no_default_value">لم يتم تعيين القيمة الافتراضية</string>
-  <string name="seekbar_default_value_set">تعيين القيمة الافتراضية <xliff:g id="number">%d</xliff:g></string>
-  <string name="seekbar_default_value_already_set">تم بالفعل تعيين القيمة الافتراضية</string>
-  <string name="seekbar_default_string">الوضع الأصلي</string>
-  <!-- XenonOTA -->
-  <string name="xenonota_title">تحديث الزينون على الهواء</string>
-  <string name="xenonota_summary">تحقق من وجود تحديثات XenonHD</string>
-  <!-- Launch music player when headset is connected -->
-  <string name="headset_connect_player_title">تشغيل مشغل الموسيقى عند توصيل السماعات</string>
-  <string name="headset_connect_player_disabled">غير مفعل</string>
-  <string name="headset_connect_player_wired">تم توصيل سماعات الصوت السلكية</string>
-  <string name="headset_connect_player_bt_no_carkit">تم توصيل سماعة بلوتوث (ليس جهاز سيارة)</string>
-  <string name="headset_connect_player_bt">تم توصيل سماعات البلوتوث</string>
-  <string name="headset_connect_player_both_no_carkit">تم توصيل سماعة خارجية (ليس جهاز سيارة)</string>
-  <string name="headset_connect_player_both">تم توصيل السماعات</string>
-  <!-- Power menu on secure lockscreen -->
-  <string name="lockscreen_power_menu_disabled_title">عدم عرض قائمة الطاقة عند القفل</string>
-  <string name="lockscreen_power_menu_disabled_summary">تعطيل قائمة الطاقة في شاشة القفل</string>
-  <!-- QS rows and columns -->
-  <string name="qs_category">مربعات الإعدادات السريعة</string>
-  <string name="qs_columns_landscape_title">الأعمدة - أفقي</string>
-  <string name="qs_columns_portrait_title">الأعمدة - عمودي</string>
-  <string name="qs_rows_columns_title">الصفوف والأعمدة</string>
-  <string name="qs_rows_columns_summary">اضبط عدد صفوف المربعات وأعمدتها</string>
-  <string name="qs_rows_landscape_title">الصفوف - أفقي</string>
-  <string name="qs_rows_portrait_title">الصفوف - عمودي</string>
-  <string name="sysui_qqs_count_title">مربعات صغيرة</string>
-  <!-- Quick unlock -->
-  <string name="unlock_quick_unlock_control_title">إلغاء قفل سريع</string>
-  <string name="unlock_quick_unlock_control_summary">فتح تلقائياً عندما يتم إدخال PIN/كلمة السر صحيحة</string>
-  <!-- Recents Membar -->
-  <string name="systemui_recents_mem_display_title">تمكين شريط الذاكرة</string>
-  <string name="systemui_recents_mem_display_summary">إظهار استخدام الذاكرة في التطبيقات الحديثة</string>
-  <!-- Clear all recents -->
-  <string name="show_clear_all_recents_button_title">تخصيص زر مسح كل شيء</string>
-  <string name="show_clear_all_recents_button_summary">استخدم زر مسح كل شيء مخصص</string>
-  <string name="recents_clear_all_location_title">موقع زر مسح كل شيء</string>
-  <string name="recents_clear_all_location_top_right">أعلى اليمين</string>
-  <string name="recents_clear_all_location_top_left">اعلي اليسار</string>
-  <string name="recents_clear_all_location_top_center">أعلى الوسط</string>
-  <string name="recents_clear_all_location_bottom_right">اسفل اليمين</string>
-  <string name="recents_clear_all_location_bottom_left">اسفل اليسار</string>
-  <string name="recents_clear_all_location_bottom_center">اسفل الوسط</string>
-  <!-- Battery Styles -->
-  <string name="status_bar_battery_style_title">نمط بطارية شريط الحالة</string>
-  <string name="battery_style_title">نمط رمز البطارية</string>
-  <string name="battery_style_port">عمودي</string>
-  <string name="battery_style_land">أفقي</string>
-  <string name="battery_style_circle">دائرة</string>
-  <string name="battery_style_dotted_circle">دائرة منقطة</string>
-  <string name="battery_style_big_circle">دائرة كبيرة</string>
-  <string name="battery_style_big_dotted_circle">دائرة منقطة كبيرة</string>
-  <string name="battery_style_square">مربع</string>
-  <string name="battery_style_text">نص</string>
-  <string name="battery_style_hidden">مخفي</string>
-  <string name="show_battery_percent_title">إظهار النسبة المئوية للبطارية</string>
-  <string name="battery_percent_none">عدم الإظهار</string>
-  <string name="battery_percent_outside">إظهار بجانب الأيقونة</string>
-  <string name="battery_percent_inside">إظهار داخل الأيقونة</string>
-  <!-- Quick Settings brightness icon -->
-  <string name="brightness_icon_title">رمز السطوع التلقائي</string>
-  <string name="brightness_icon_summary">أظهر رمز السطوع على يمين مزلاق السطوع لضبط السطوع التلقائي</string>
-  <!-- Option to show brightness bar in quick settings -->
-  <string name="show_brightness_title">مزلاق السطوع</string>
-  <string name="show_brightness_summary">إظهار شريط التحكم في السطوع</string>
-  <!-- Advanced restart options -->
-  <string name="advanced_reboot_title">إعادة تشغيل متقدمة</string>
-  <string name="advanced_reboot_summary">عند إلغاء القفل، ستتضمن خيارات قائمة إعادة التشغيل الذهاب الى وضع الريكوفري او وضع البوت لودر</string>
-  <!-- Show 4G instead of LTE -->
-  <string name="show_4g_title">إظهار 4G</string>
-  <string name="show_4g_summary">إظهار 4g بدلا من LTE في أيقونات الإشارة</string>
-  <!-- Smart Pixels -->
-  <string name="smart_pixels_title">الدقة الذكية</string>
-  <string name="smart_pixels_summary">توفير الطاقة بإيقاف الدقة العالية</string>
-  <string name="smart_pixels_enable_title">تمكين الدقة الذكية</string>
-  <string name="smart_pixels_enable_summary">إيقاف الدقة لتقليل أستهلاك الطاقة</string>
-  <string name="smart_pixels_on_power_save_title">تشغيل تلقائي لتوفير الطاقة</string>
-  <string name="smart_pixels_on_power_save_summary">تمكين الدقة الذكية عندما يكون وضع توفير الطاقة قيد التشغيل</string>
-  <string name="smart_pixels_percent">نسبة الدقة لإيقافها</string>
-  <string name="smart_pixels_shift_title">حماية الاحتراق</string>
-  <string name="smart_pixels_shift_summary">منع الاحتراق في اجهزة OLED عن طريق نقل وحدات البكسل في كل مرة</string>
-  <!-- Gestures -->
-  <string name="gestures_preference_title">الإيماءات</string>
-  <!-- Carbon gestures -->
-  <string name="carbon_gesture_preference_title">إيماءات السحب</string>
-  <string name="carbon_gestures_summary">تكوين إيماءات عالمية مخصصة</string>
-  <string name="carbon_gestures_fingers_title">أصابع تستخدم للايماء (الافتراضي 2)</string>
-  <string name="carbon_gestures_fingers_unit">الأصابع</string>
-  <string name="carbon_gestures_right_title">ايماء لليمين</string>
-  <string name="carbon_gestures_left_title">ايماء لليسار</string>
-  <string name="carbon_gestures_up_title">ايماء للأعلى</string>
-  <string name="carbon_gestures_down_title">ايماء للأسفل</string>
-  <string name="carbon_gesture_disabled">غير مفعل</string>
-  <string name="carbon_gesture_back">رجوع</string>
-  <string name="carbon_gesture_home">الصفحة الرئيسية</string>
-  <string name="carbon_gesture_recents">الحديثة</string>
-  <string name="carbon_gesture_power">الطاقة</string>
-  <string name="carbon_gesture_volume_down">خفض الصوت</string>
-  <string name="carbon_gesture_volume_up">رفع الصوت</string>
-  <string name="carbon_gesture_volume_mute">كتم الصوت</string>
-  <string name="carbon_gesture_screenshot">لقطة للشاشة</string>
-  <string name="carbon_gesture_media_play_pause">تشغيل/إيقاف الوسائط</string>
-  <string name="carbon_gesture_media_skip">تخطي الوسائط</string>
-  <string name="carbon_gesture_media_previous">الوسائط السابقة</string>
-  <string name="carbon_gesture_customapp">تشغيل التطبيق</string>
-  <string name="carbon_gesture_launch">بدء</string>
-  <!-- Fingerprint authentication vibration -->
-  <string name="fprint_sucess_vib_title">إهتزاز تصريح البصمة</string>
-  <string name="fprint_sucess_vib_summary_on">الاهتزاز عند نجاح المصادقة على بصمة الاصبع المفعلة</string>
-  <string name="fprint_sucess_vib_summary_off">الاهتزاز عند نجاح المصادقة على بصمة الاصبع معطل</string>
-  <!-- Fingerprint unlock keystore -->
-  <string name="fp_unlock_keystore_title">فك القفل بالبصمة</string>
-  <string name="fp_unlock_keystore_summary">فك قفل الجهاز بالبصمة بعد إعادة التشغيل بدون رمز/كلمة مرور/نقش\nملاحظة: على مسؤوليتك الخاصة!</string>
-  <!-- Quick QS scroller -->
-  <string name="qqs_scroll_title">التمرير السريع للمربعات الصغيرة</string>
-  <string name="qqs_scroll_summary">السماح بالتمرير خلال الأزرار الصغيرة للإعدادات السريعة</string>
-  <!-- Data Disabled Icon -->
-  <string name="data_disabled_icon_title">إظهار رمز تعطيل بيانات الهاتف</string>
-  <string name="data_disabled_icon_summary">عرض إشارة التقاطع بجانب شريط الحالة عندما تكون البيانات معطّلة</string>
-  <!-- Gestures -->
-  <string name="use_bottom_gesture_title">إيماءات السحب للاعلى</string>
-  <string name="use_bottom_gesture_summary">تعطيل شريط التنقل أولاً. \n يمكنك التمرير لأعلى من اليسار / اليمين للرجوع. اسحب لأعلى في الوسط للرئيسية. مرّر سريعاً لأعلى مع الاستمرار لفتح قائمة التطبيقات الحديثة</string>
-  <!-- Toggle navigation bar -->
-  <string name="navigation_bar_enabled_title">تمكين شريط التنقل</string>
+    <!-- App Title -->
+    <string name="xenonhd_settings_title">إعدادات XenonHD</string>
+    <!-- Categories -->
+    <string name="buttons_title">الازرار</string>
+    <string name="gestures_title">الإيماءات</string>
+    <string name="lockscreen_title">شاشة القفل</string>
+    <string name="misc_title">خيارات متنوعة</string>
+    <string name="navigation_title">شريط التنقل</string>
+    <string name="power_title">قائمة التشغيل</string>
+    <string name="qs_title">الإعدادات السريعة</string>
+    <string name="recents_title">التطبيقات الأخيرة</string>
+    <string name="statusbar_title">شريط الحالة</string>
+    <string name="notifications_title">الإشعارات</string>
+    <string name="xenonhd_title">مركز XenonHD</string>
+    <string name="xenonsettings_title">إعدادات XenonHD</string>
+    <!-- Changelog -->
+    <string name="changelog_xenonhd_title">سجل التغيرات</string>
+    <string name="changelog_xenonhd_error">غير قادر على تحميل سجل التغييرات</string>
+    <string name="changelog_xenonhd_summary">عرض التغييرات في الإصدار الحالي</string>
+    <!-- General strings -->
+    <string name="ok">حسناً</string>
+    <string name="reset">إعادة ضبط</string>
+    <string name="cancel">إلغاء</string>
+    <string name="save">حفظ</string>
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">منتقي الألوان</string>
+    <string name="press_color_to_apply">اضغط على اللون أدناه لتطبيق</string>
+    <string name="hex">ست عشري:</string>
+    <string name="set">تعيين</string>
+    <string name="color_default">الوضع الأصلي</string>
+    <!-- Seekbar -->
+    <string name="seekbar_no_default_value">لم يتم تعيين القيمة الافتراضية</string>
+    <string name="seekbar_default_value_set">تعيين القيمة الافتراضية <xliff:g id="number">%d</xliff:g></string>
+    <string name="seekbar_default_value_already_set">تم بالفعل تعيين القيمة الافتراضية</string>
+    <string name="seekbar_default_string">الوضع الأصلي</string>
+    <!-- XenonOTA -->
+    <string name="xenonota_title">تحديث الزينون على الهواء</string>
+    <string name="xenonota_summary">تحقق من وجود تحديثات XenonHD</string>
+    <!-- Launch music player when headset is connected -->
+    <string name="headset_connect_player_title">تشغيل مشغل الموسيقى عند توصيل السماعات</string>
+    <string name="headset_connect_player_disabled">غير مفعل</string>
+    <string name="headset_connect_player_wired">تم توصيل سماعات الصوت السلكية</string>
+    <string name="headset_connect_player_bt_no_carkit">تم توصيل سماعة بلوتوث (ليس جهاز سيارة)</string>
+    <string name="headset_connect_player_bt">تم توصيل سماعات البلوتوث</string>
+    <string name="headset_connect_player_both_no_carkit">تم توصيل سماعة خارجية (ليس جهاز سيارة)</string>
+    <string name="headset_connect_player_both">تم توصيل السماعات</string>
+    <!-- Power menu on secure lockscreen -->
+    <string name="lockscreen_power_menu_disabled_title">عدم عرض قائمة الطاقة عند القفل</string>
+    <string name="lockscreen_power_menu_disabled_summary">تعطيل قائمة الطاقة في شاشة القفل</string>
+    <!-- QS rows and columns -->
+    <string name="qs_category">مربعات الإعدادات السريعة</string>
+    <string name="qs_columns_landscape_title">الأعمدة - أفقي</string>
+    <string name="qs_columns_portrait_title">الأعمدة - عمودي</string>
+    <string name="qs_rows_columns_title">الصفوف والأعمدة</string>
+    <string name="qs_rows_columns_summary">اضبط عدد صفوف المربعات وأعمدتها</string>
+    <string name="qs_rows_landscape_title">الصفوف - أفقي</string>
+    <string name="qs_rows_portrait_title">الصفوف - عمودي</string>
+    <string name="sysui_qqs_count_title">مربعات صغيرة</string>
+    <!-- Quick unlock -->
+    <string name="unlock_quick_unlock_control_title">إلغاء قفل سريع</string>
+    <string name="unlock_quick_unlock_control_summary">فتح تلقائياً عندما يتم إدخال PIN/كلمة السر صحيحة</string>
+    <!-- Recents Membar -->
+    <string name="systemui_recents_mem_display_title">تمكين شريط الذاكرة</string>
+    <string name="systemui_recents_mem_display_summary">إظهار استخدام الذاكرة في التطبيقات الحديثة</string>
+    <!-- Clear all recents -->
+    <string name="show_clear_all_recents_button_title">تخصيص زر مسح كل شيء</string>
+    <string name="show_clear_all_recents_button_summary">استخدم زر مسح كل شيء مخصص</string>
+    <string name="recents_clear_all_location_title">موقع زر مسح كل شيء</string>
+    <string name="recents_clear_all_location_top_right">أعلى اليمين</string>
+    <string name="recents_clear_all_location_top_left">اعلي اليسار</string>
+    <string name="recents_clear_all_location_top_center">أعلى الوسط</string>
+    <string name="recents_clear_all_location_bottom_right">اسفل اليمين</string>
+    <string name="recents_clear_all_location_bottom_left">اسفل اليسار</string>
+    <string name="recents_clear_all_location_bottom_center">اسفل الوسط</string>
+    <!-- Battery Styles -->
+    <string name="status_bar_battery_style_title">نمط بطارية شريط الحالة</string>
+    <string name="battery_style_title">نمط رمز البطارية</string>
+    <string name="battery_style_port">عمودي</string>
+    <string name="battery_style_land">أفقي</string>
+    <string name="battery_style_circle">دائرة</string>
+    <string name="battery_style_dotted_circle">دائرة منقطة</string>
+    <string name="battery_style_big_circle">دائرة كبيرة</string>
+    <string name="battery_style_big_dotted_circle">دائرة منقطة كبيرة</string>
+    <string name="battery_style_square">مربع</string>
+    <string name="battery_style_text">نص</string>
+    <string name="battery_style_hidden">مخفي</string>
+    <string name="show_battery_percent_title">إظهار النسبة المئوية للبطارية</string>
+    <string name="battery_percent_none">عدم الإظهار</string>
+    <string name="battery_percent_outside">إظهار بجانب الأيقونة</string>
+    <string name="battery_percent_inside">إظهار داخل الأيقونة</string>
+    <!-- Quick Settings brightness icon -->
+    <string name="brightness_icon_title">رمز السطوع التلقائي</string>
+    <string name="brightness_icon_summary">أظهر رمز السطوع على يمين مزلاق السطوع لضبط السطوع التلقائي</string>
+    <!-- Option to show brightness bar in quick settings -->
+    <string name="show_brightness_title">مزلاق السطوع</string>
+    <string name="show_brightness_summary">إظهار شريط التحكم في السطوع</string>
+    <!-- Advanced restart options -->
+    <string name="advanced_reboot_title">إعادة تشغيل متقدمة</string>
+    <string name="advanced_reboot_summary">عند إلغاء القفل، ستتضمن خيارات قائمة إعادة التشغيل الذهاب الى وضع الريكوفري او وضع البوت لودر</string>
+    <!-- Show 4G instead of LTE -->
+    <string name="show_4g_title">إظهار 4G</string>
+    <string name="show_4g_summary">إظهار 4g بدلا من LTE في أيقونات الإشارة</string>
+    <!-- Smart Pixels -->
+    <string name="smart_pixels_title">الدقة الذكية</string>
+    <string name="smart_pixels_summary">توفير الطاقة بإيقاف الدقة العالية</string>
+    <string name="smart_pixels_enable_title">تمكين الدقة الذكية</string>
+    <string name="smart_pixels_enable_summary">إيقاف الدقة لتقليل أستهلاك الطاقة</string>
+    <string name="smart_pixels_on_power_save_title">تشغيل تلقائي لتوفير الطاقة</string>
+    <string name="smart_pixels_on_power_save_summary">تمكين الدقة الذكية عندما يكون وضع توفير الطاقة قيد التشغيل</string>
+    <string name="smart_pixels_percent">نسبة الدقة لإيقافها</string>
+    <string name="smart_pixels_shift_title">حماية الاحتراق</string>
+    <string name="smart_pixels_shift_summary">منع الاحتراق في اجهزة OLED عن طريق نقل وحدات البكسل في كل مرة</string>
+    <!-- Gestures -->
+    <string name="gestures_preference_title">الإيماءات</string>
+    <!-- Carbon gestures -->
+    <string name="carbon_gesture_preference_title">إيماءات السحب</string>
+    <string name="carbon_gestures_summary">تكوين إيماءات عالمية مخصصة</string>
+    <string name="carbon_gestures_fingers_title">أصابع تستخدم للايماء (الافتراضي 2)</string>
+    <string name="carbon_gestures_fingers_unit">الأصابع</string>
+    <string name="carbon_gestures_right_title">ايماء لليمين</string>
+    <string name="carbon_gestures_left_title">ايماء لليسار</string>
+    <string name="carbon_gestures_up_title">ايماء للأعلى</string>
+    <string name="carbon_gestures_down_title">ايماء للأسفل</string>
+    <string name="carbon_gesture_disabled">غير مفعل</string>
+    <string name="carbon_gesture_back">رجوع</string>
+    <string name="carbon_gesture_home">الصفحة الرئيسية</string>
+    <string name="carbon_gesture_recents">الحديثة</string>
+    <string name="carbon_gesture_power">الطاقة</string>
+    <string name="carbon_gesture_volume_down">خفض الصوت</string>
+    <string name="carbon_gesture_volume_up">رفع الصوت</string>
+    <string name="carbon_gesture_volume_mute">كتم الصوت</string>
+    <string name="carbon_gesture_screenshot">لقطة للشاشة</string>
+    <string name="carbon_gesture_media_play_pause">تشغيل/إيقاف الوسائط</string>
+    <string name="carbon_gesture_media_skip">تخطي الوسائط</string>
+    <string name="carbon_gesture_media_previous">الوسائط السابقة</string>
+    <string name="carbon_gesture_customapp">تشغيل التطبيق</string>
+    <string name="carbon_gesture_launch">بدء</string>
+    <!-- Fingerprint authentication vibration -->
+    <string name="fprint_sucess_vib_title">إهتزاز تصريح البصمة</string>
+    <string name="fprint_sucess_vib_summary_on">الاهتزاز عند نجاح المصادقة على بصمة الاصبع المفعلة</string>
+    <string name="fprint_sucess_vib_summary_off">الاهتزاز عند نجاح المصادقة على بصمة الاصبع معطل</string>
+    <!-- Fingerprint unlock keystore -->
+    <string name="fp_unlock_keystore_title">فك القفل بالبصمة</string>
+    <string name="fp_unlock_keystore_summary">فك قفل الجهاز بالبصمة بعد إعادة التشغيل بدون رمز/كلمة مرور/نقش\nملاحظة: على مسؤوليتك الخاصة!</string>
+    <!-- Quick QS scroller -->
+    <string name="qqs_scroll_title">التمرير السريع للمربعات الصغيرة</string>
+    <string name="qqs_scroll_summary">السماح بالتمرير خلال الأزرار الصغيرة للإعدادات السريعة</string>
+    <!-- Data Disabled Icon -->
+    <string name="data_disabled_icon_title">إظهار رمز تعطيل بيانات الهاتف</string>
+    <string name="data_disabled_icon_summary">عرض إشارة التقاطع بجانب شريط الحالة عندما تكون البيانات معطّلة</string>
+    <!-- Gestures -->
+    <string name="use_bottom_gesture_title">إيماءات السحب للاعلى</string>
+    <string name="use_bottom_gesture_summary">تعطيل شريط التنقل أولاً. \n يمكنك التمرير لأعلى من اليسار / اليمين للرجوع. اسحب لأعلى في الوسط للرئيسية. مرّر سريعاً لأعلى مع الاستمرار لفتح قائمة التطبيقات الحديثة</string>
+    <!-- Toggle navigation bar -->
+    <string name="navigation_bar_enabled_title">تمكين شريط التنقل</string>
 </resources>

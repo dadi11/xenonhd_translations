@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Title of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
-  <!-- Description of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
-  <!-- Label for item that screenrecords in power menu options dialog -->
+    <!-- Title of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
+    <!-- Description of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
+    <!-- Label for item that screenrecords in power menu options dialog -->
 </resources>

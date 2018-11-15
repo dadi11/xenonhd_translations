@@ -15,154 +15,159 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- App Title -->
-  <string name="xenonhd_settings_title">XenonHD 设置</string>
-  <!-- Categories -->
-  <string name="buttons_title">按键</string>
-  <string name="gestures_title">手势</string>
-  <string name="lockscreen_title">锁屏</string>
-  <string name="misc_title">其他</string>
-  <string name="navigation_title">导航栏</string>
-  <string name="power_title">电源菜单</string>
-  <string name="qs_title">快速设置</string>
-  <string name="recents_title">最近应用</string>
-  <string name="statusbar_title">状态栏</string>
-  <string name="notifications_title">通知</string>
-  <string name="xenonhd_title">XenonHD 中心</string>
-  <string name="xenonsettings_title">XenonHD 设置</string>
-  <!-- Changelog -->
-  <string name="changelog_xenonhd_title">更新日志</string>
-  <string name="changelog_xenonhd_error">无法加载更新日志</string>
-  <string name="changelog_xenonhd_summary">查看当前版本的更改</string>
-  <!-- General strings -->
-  <string name="ok">确定</string>
-  <string name="reset">重置</string>
-  <string name="cancel">取消</string>
-  <string name="save">保存</string>
-  <!-- Color Picker -->
-  <string name="dialog_color_picker">颜色选择</string>
-  <string name="press_color_to_apply">按选颜色以应用</string>
-  <string name="hex">十六进制：</string>
-  <string name="set">应用</string>
-  <string name="color_default">默认</string>
-  <!-- Seekbar -->
-  <string name="seekbar_no_default_value">未设置任何默认选项</string>
-  <string name="seekbar_default_value_set">设定预设值为<xliff:g id="number">%d</xliff:g></string>
-  <string name="seekbar_default_value_already_set">已设置默认值</string>
-  <string name="seekbar_default_string">默认</string>
-  <!-- XenonOTA -->
-  <string name="xenonota_title">Xenon更新</string>
-  <string name="xenonota_summary">检查 XenonHD 更新</string>
-  <!-- Launch music player when headset is connected -->
-  <string name="headset_connect_player_title">耳机连接后打开音乐播放器</string>
-  <string name="headset_connect_player_disabled">已禁用</string>
-  <string name="headset_connect_player_wired">当有线耳机接入时</string>
-  <string name="headset_connect_player_bt_no_carkit">当蓝牙耳机(非车载) 接入时</string>
-  <string name="headset_connect_player_bt">当蓝牙耳机接入时</string>
-  <string name="headset_connect_player_both_no_carkit">当任何耳机(非车载) 接入时</string>
-  <string name="headset_connect_player_both">当任何耳机接入时</string>
-  <!-- Power menu on secure lockscreen -->
-  <string name="lockscreen_power_menu_disabled_title">锁屏时不显示电源菜单</string>
-  <string name="lockscreen_power_menu_disabled_summary">安全锁屏时禁用电源菜单</string>
-  <!-- QS rows and columns -->
-  <string name="qs_category">快速设置瓷块</string>
-  <string name="qs_columns_landscape_title">横屏列数</string>
-  <string name="qs_columns_portrait_title">竖屏列数</string>
-  <string name="qs_rows_columns_title">快速设置行和列</string>
-  <string name="qs_rows_columns_summary">选择快速设置行数和列数</string>
-  <string name="qs_rows_landscape_title">横屏行数</string>
-  <string name="qs_rows_portrait_title">竖屏行数</string>
-  <string name="sysui_qqs_count_title">小块平铺</string>
-  <!-- Quick unlock -->
-  <string name="unlock_quick_unlock_control_title">快速解锁</string>
-  <string name="unlock_quick_unlock_control_summary">当输入正确的 PIN 或密码后自动解锁</string>
-  <!-- Recents Membar -->
-  <string name="systemui_recents_mem_display_title">启用内存条</string>
-  <string name="systemui_recents_mem_display_summary">在最近任务中显示内存使用情况</string>
-  <!-- Clear all recents -->
-  <string name="show_clear_all_recents_button_title">“一键清理”按钮</string>
-  <string name="show_clear_all_recents_button_summary">显示“一键清理”按钮</string>
-  <string name="recents_clear_all_location_title">\"一键清理\"位置</string>
-  <string name="recents_clear_all_location_top_right">屏幕右上方</string>
-  <string name="recents_clear_all_location_top_left">屏幕左上方</string>
-  <string name="recents_clear_all_location_top_center">顶部居中</string>
-  <string name="recents_clear_all_location_bottom_right">右下角</string>
-  <string name="recents_clear_all_location_bottom_left">左下方</string>
-  <string name="recents_clear_all_location_bottom_center">底部居中</string>
-  <!-- Battery Styles -->
-  <string name="status_bar_battery_style_title">状态栏电池图标样式</string>
-  <string name="battery_style_title">电池图标样式</string>
-  <string name="battery_style_port">纵向</string>
-  <string name="battery_style_land">横向</string>
-  <string name="battery_style_circle">圆圈</string>
-  <string name="battery_style_dotted_circle">虚线圆圈</string>
-  <string name="battery_style_big_circle">大圆圈</string>
-  <string name="battery_style_big_dotted_circle">大虚线圆圈</string>
-  <string name="battery_style_square">正方形</string>
-  <string name="battery_style_text">文本</string>
-  <string name="battery_style_hidden">隐藏</string>
-  <string name="show_battery_percent_title">显示电量百分比</string>
-  <string name="battery_percent_none">隐藏</string>
-  <string name="battery_percent_outside">在图标旁显示</string>
-  <string name="battery_percent_inside">在图标内显示</string>
-  <!-- Quick Settings brightness icon -->
-  <string name="brightness_icon_title">自动亮度图标</string>
-  <string name="brightness_icon_summary">在亮度滑块右侧显示自动亮度图标以更改自动亮度</string>
-  <!-- Option to show brightness bar in quick settings -->
-  <string name="show_brightness_title">亮度滑块</string>
-  <string name="show_brightness_summary">显示亮度滑块</string>
-  <!-- Advanced restart options -->
-  <string name="advanced_reboot_title">高级重启</string>
-  <string name="advanced_reboot_summary">设备已解锁时，在电源菜单的重启选项下加入重启至 Recovery 与 Bootloader 的选项</string>
-  <!-- Show 4G instead of LTE -->
-  <string name="show_4g_title">显示 4G</string>
-  <string name="show_4g_summary">使用 4G 图标以替换 LTE 图标</string>
-  <!-- Smart Pixels -->
-  <string name="smart_pixels_title">智能像素</string>
-  <string name="smart_pixels_summary">通过关闭额外的像素来节省电量</string>
-  <string name="smart_pixels_enable_title">自动启用智能像素</string>
-  <string name="smart_pixels_enable_summary">减少像素以降低功耗</string>
-  <string name="smart_pixels_on_power_save_title">省电模式时自动启用</string>
-  <string name="smart_pixels_on_power_save_summary">开启省电模式时自动启用智能像素</string>
-  <string name="smart_pixels_percent">禁用的像素数量</string>
-  <string name="smart_pixels_shift_title">烧屏保护</string>
-  <string name="smart_pixels_shift_summary">通过经常移动像素来防止 OLED 屏幕的设备发生烧屏</string>
-  <!-- Gestures -->
-  <string name="gestures_preference_title">手势</string>
-  <!-- Carbon gestures -->
-  <string name="carbon_gesture_preference_title">滑动手势</string>
-  <string name="carbon_gestures_summary">配置自定义全局手势</string>
-  <string name="carbon_gestures_fingers_title">用于手势的手指 (默认为 2)</string>
-  <string name="carbon_gestures_fingers_unit">手指</string>
-  <string name="carbon_gestures_right_title">右划</string>
-  <string name="carbon_gestures_left_title">左划</string>
-  <string name="carbon_gestures_up_title">上划</string>
-  <string name="carbon_gestures_down_title">下划</string>
-  <string name="carbon_gesture_disabled">已禁用</string>
-  <string name="carbon_gesture_back">后退</string>
-  <string name="carbon_gesture_home">主页</string>
-  <string name="carbon_gesture_recents">最近应用</string>
-  <string name="carbon_gesture_power">电源</string>
-  <string name="carbon_gesture_volume_down">调低音量</string>
-  <string name="carbon_gesture_volume_up">调高音量</string>
-  <string name="carbon_gesture_volume_mute">静音</string>
-  <string name="carbon_gesture_screenshot">屏幕截图</string>
-  <string name="carbon_gesture_media_play_pause">播放或暂停媒体</string>
-  <string name="carbon_gesture_media_skip">跳过媒体</string>
-  <string name="carbon_gesture_media_previous">上一个媒体</string>
-  <string name="carbon_gesture_customapp">启动应用程序</string>
-  <string name="carbon_gesture_launch">启动</string>
-  <!-- Fingerprint authentication vibration -->
-  <string name="fprint_sucess_vib_title">验证指纹时震动</string>
-  <string name="fprint_sucess_vib_summary_on">已启用指纹验证成功时振动</string>
-  <string name="fprint_sucess_vib_summary_off">已禁用指纹验证成功时振动</string>
-  <!-- Fingerprint unlock keystore -->
-  <string name="fp_unlock_keystore_title">指纹解锁</string>
-  <string name="fp_unlock_keystore_summary">重新启动后, 用指纹解锁设备, 无需密码/密码/模式\n注意: 风险自负！</string>
-  <!-- Quick QS scroller -->
-  <string name="qqs_scroll_title">快速滚动磁块</string>
-  <string name="qqs_scroll_summary">允许滚动小型快速设置瓷贴</string>
-  <!-- Data Disabled Icon -->
-  <!-- Gestures -->
-  <!-- Toggle navigation bar -->
+    <!-- App Title -->
+    <string name="xenonhd_settings_title">XenonHD 设置</string>
+    <!-- Categories -->
+    <string name="buttons_title">按键</string>
+    <string name="gestures_title">手势</string>
+    <string name="lockscreen_title">锁屏</string>
+    <string name="misc_title">其他</string>
+    <string name="navigation_title">导航栏</string>
+    <string name="power_title">电源菜单</string>
+    <string name="qs_title">快速设置</string>
+    <string name="recents_title">最近应用</string>
+    <string name="statusbar_title">状态栏</string>
+    <string name="notifications_title">通知</string>
+    <string name="xenonhd_title">XenonHD 中心</string>
+    <string name="xenonsettings_title">XenonHD 设置</string>
+    <!-- Changelog -->
+    <string name="changelog_xenonhd_title">更新日志</string>
+    <string name="changelog_xenonhd_error">无法加载更新日志</string>
+    <string name="changelog_xenonhd_summary">查看当前版本的更改</string>
+    <!-- General strings -->
+    <string name="ok">确定</string>
+    <string name="reset">重置</string>
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">颜色选择</string>
+    <string name="press_color_to_apply">按选颜色以应用</string>
+    <string name="hex">十六进制：</string>
+    <string name="set">应用</string>
+    <string name="color_default">默认</string>
+    <!-- Seekbar -->
+    <string name="seekbar_no_default_value">未设置任何默认选项</string>
+    <string name="seekbar_default_value_set">设定预设值为<xliff:g id="number">%d</xliff:g></string>
+    <string name="seekbar_default_value_already_set">已设置默认值</string>
+    <string name="seekbar_default_string">默认</string>
+    <!-- XenonOTA -->
+    <string name="xenonota_title">Xenon更新</string>
+    <string name="xenonota_summary">检查 XenonHD 更新</string>
+    <!-- Launch music player when headset is connected -->
+    <string name="headset_connect_player_title">耳机连接后打开音乐播放器</string>
+    <string name="headset_connect_player_disabled">已禁用</string>
+    <string name="headset_connect_player_wired">当有线耳机接入时</string>
+    <string name="headset_connect_player_bt_no_carkit">当蓝牙耳机(非车载) 接入时</string>
+    <string name="headset_connect_player_bt">当蓝牙耳机接入时</string>
+    <string name="headset_connect_player_both_no_carkit">当任何耳机(非车载) 接入时</string>
+    <string name="headset_connect_player_both">当任何耳机接入时</string>
+    <!-- Power menu on secure lockscreen -->
+    <string name="lockscreen_power_menu_disabled_title">锁屏时不显示电源菜单</string>
+    <string name="lockscreen_power_menu_disabled_summary">安全锁屏时禁用电源菜单</string>
+    <!-- QS rows and columns -->
+    <string name="qs_category">快速设置瓷块</string>
+    <string name="qs_columns_landscape_title">横屏列数</string>
+    <string name="qs_columns_portrait_title">竖屏列数</string>
+    <string name="qs_rows_columns_title">快速设置行和列</string>
+    <string name="qs_rows_columns_summary">选择快速设置行数和列数</string>
+    <string name="qs_rows_landscape_title">横屏行数</string>
+    <string name="qs_rows_portrait_title">竖屏行数</string>
+    <string name="sysui_qqs_count_title">小块平铺</string>
+    <!-- Quick unlock -->
+    <string name="unlock_quick_unlock_control_title">快速解锁</string>
+    <string name="unlock_quick_unlock_control_summary">当输入正确的 PIN 或密码后自动解锁</string>
+    <!-- Recents Membar -->
+    <string name="systemui_recents_mem_display_title">启用内存条</string>
+    <string name="systemui_recents_mem_display_summary">在最近任务中显示内存使用情况</string>
+    <!-- Clear all recents -->
+    <string name="show_clear_all_recents_button_title">“一键清理”按钮</string>
+    <string name="show_clear_all_recents_button_summary">显示“一键清理”按钮</string>
+    <string name="recents_clear_all_location_title">\"一键清理\"位置</string>
+    <string name="recents_clear_all_location_top_right">屏幕右上方</string>
+    <string name="recents_clear_all_location_top_left">屏幕左上方</string>
+    <string name="recents_clear_all_location_top_center">顶部居中</string>
+    <string name="recents_clear_all_location_bottom_right">右下角</string>
+    <string name="recents_clear_all_location_bottom_left">左下方</string>
+    <string name="recents_clear_all_location_bottom_center">底部居中</string>
+    <!-- Battery Styles -->
+    <string name="status_bar_battery_style_title">状态栏电池图标样式</string>
+    <string name="battery_style_title">电池图标样式</string>
+    <string name="battery_style_port">纵向</string>
+    <string name="battery_style_land">横向</string>
+    <string name="battery_style_circle">圆圈</string>
+    <string name="battery_style_dotted_circle">虚线圆圈</string>
+    <string name="battery_style_big_circle">大圆圈</string>
+    <string name="battery_style_big_dotted_circle">大虚线圆圈</string>
+    <string name="battery_style_square">正方形</string>
+    <string name="battery_style_text">文本</string>
+    <string name="battery_style_hidden">隐藏</string>
+    <string name="show_battery_percent_title">显示电量百分比</string>
+    <string name="battery_percent_none">隐藏</string>
+    <string name="battery_percent_outside">在图标旁显示</string>
+    <string name="battery_percent_inside">在图标内显示</string>
+    <!-- Quick Settings brightness icon -->
+    <string name="brightness_icon_title">自动亮度图标</string>
+    <string name="brightness_icon_summary">在亮度滑块右侧显示自动亮度图标以更改自动亮度</string>
+    <!-- Option to show brightness bar in quick settings -->
+    <string name="show_brightness_title">亮度滑块</string>
+    <string name="show_brightness_summary">显示亮度滑块</string>
+    <!-- Advanced restart options -->
+    <string name="advanced_reboot_title">高级重启</string>
+    <string name="advanced_reboot_summary">设备已解锁时，在电源菜单的重启选项下加入重启至 Recovery 与 Bootloader 的选项</string>
+    <!-- Show 4G instead of LTE -->
+    <string name="show_4g_title">显示 4G</string>
+    <string name="show_4g_summary">使用 4G 图标以替换 LTE 图标</string>
+    <!-- Smart Pixels -->
+    <string name="smart_pixels_title">智能像素</string>
+    <string name="smart_pixels_summary">通过关闭额外的像素来节省电量</string>
+    <string name="smart_pixels_enable_title">自动启用智能像素</string>
+    <string name="smart_pixels_enable_summary">减少像素以降低功耗</string>
+    <string name="smart_pixels_on_power_save_title">省电模式时自动启用</string>
+    <string name="smart_pixels_on_power_save_summary">开启省电模式时自动启用智能像素</string>
+    <string name="smart_pixels_percent">禁用的像素数量</string>
+    <string name="smart_pixels_shift_title">烧屏保护</string>
+    <string name="smart_pixels_shift_summary">通过经常移动像素来防止 OLED 屏幕的设备发生烧屏</string>
+    <!-- Gestures -->
+    <string name="gestures_preference_title">手势</string>
+    <!-- Carbon gestures -->
+    <string name="carbon_gesture_preference_title">滑动手势</string>
+    <string name="carbon_gestures_summary">配置自定义全局手势</string>
+    <string name="carbon_gestures_fingers_title">用于手势的手指 (默认为 2)</string>
+    <string name="carbon_gestures_fingers_unit">手指</string>
+    <string name="carbon_gestures_right_title">右划</string>
+    <string name="carbon_gestures_left_title">左划</string>
+    <string name="carbon_gestures_up_title">上划</string>
+    <string name="carbon_gestures_down_title">下划</string>
+    <string name="carbon_gesture_disabled">已禁用</string>
+    <string name="carbon_gesture_back">后退</string>
+    <string name="carbon_gesture_home">主页</string>
+    <string name="carbon_gesture_recents">最近应用</string>
+    <string name="carbon_gesture_power">电源</string>
+    <string name="carbon_gesture_volume_down">调低音量</string>
+    <string name="carbon_gesture_volume_up">调高音量</string>
+    <string name="carbon_gesture_volume_mute">静音</string>
+    <string name="carbon_gesture_screenshot">屏幕截图</string>
+    <string name="carbon_gesture_media_play_pause">播放或暂停媒体</string>
+    <string name="carbon_gesture_media_skip">跳过媒体</string>
+    <string name="carbon_gesture_media_previous">上一个媒体</string>
+    <string name="carbon_gesture_customapp">启动应用程序</string>
+    <string name="carbon_gesture_launch">启动</string>
+    <!-- Fingerprint authentication vibration -->
+    <string name="fprint_sucess_vib_title">验证指纹时震动</string>
+    <string name="fprint_sucess_vib_summary_on">已启用指纹验证成功时振动</string>
+    <string name="fprint_sucess_vib_summary_off">已禁用指纹验证成功时振动</string>
+    <!-- Fingerprint unlock keystore -->
+    <string name="fp_unlock_keystore_title">指纹解锁</string>
+    <string name="fp_unlock_keystore_summary">重新启动后, 用指纹解锁设备, 无需密码/密码/模式\n注意: 风险自负！</string>
+    <!-- Quick QS scroller -->
+    <string name="qqs_scroll_title">快速滚动磁块</string>
+    <string name="qqs_scroll_summary">允许滚动小型快速设置瓷贴</string>
+    <!-- Data Disabled Icon -->
+    <string name="data_disabled_icon_title">显示数据已禁用图标</string>
+    <string name="data_disabled_icon_summary">当数据禁用时，显示图标旁边的 “×“ 图标</string>
+    <!-- Gestures -->
+    <string name="use_bottom_gesture_title">滑动手势</string>
+    <string name="use_bottom_gesture_summary">首先禁用导航栏. \n从屏幕左滑或者右滑返回上一级。在中间向上滑动返回主页。向上滑动并停止以打开 \"最近\" 菜单</string>
+    <!-- Toggle navigation bar -->
+    <string name="navigation_bar_enabled_title">启用导航栏</string>
 </resources>

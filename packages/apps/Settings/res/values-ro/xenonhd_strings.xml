@@ -15,18 +15,18 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- About phone screen -->
-  <string name="xenonhd_maintainer">Sustinator</string>
-  <!-- XenonHD Settings -->
-  <!-- Volume Steps -->
-  <!-- Vendor version -->
-  <string name="vendor_version_default">Necunoscut</string>
-  <!-- Screenshot sound -->
-  <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
-  <!-- Format string for fingerprint location message -->
-  <!-- Fingerprint sensor locations -->
-  <!-- Encryption and credential -->
-  <!-- AmbientDisplay music ticker -->
-  <!-- Force authorize substratum packages -->
-  <!-- Manage applications: show substratum overlays -->
+    <!-- About phone screen -->
+    <string name="xenonhd_maintainer">Sustinator</string>
+    <!-- XenonHD Settings -->
+    <!-- Volume Steps -->
+    <!-- Vendor version -->
+    <string name="vendor_version_default">Necunoscut</string>
+    <!-- Screenshot sound -->
+    <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+    <!-- Format string for fingerprint location message -->
+    <!-- Fingerprint sensor locations -->
+    <!-- Encryption and credential -->
+    <!-- AmbientDisplay music ticker -->
+    <!-- Force authorize substratum packages -->
+    <!-- Manage applications: show substratum overlays -->
 </resources>

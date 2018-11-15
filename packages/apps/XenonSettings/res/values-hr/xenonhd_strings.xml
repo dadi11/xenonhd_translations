@@ -15,38 +15,38 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- App Title -->
-  <!-- Categories -->
-  <string name="lockscreen_title">Zaključavanje zaslona</string>
-  <string name="misc_title">Razno</string>
-  <!-- Changelog -->
-  <string name="changelog_xenonhd_title">Lista promjena</string>
-  <string name="changelog_xenonhd_error">Nije moguće učitati popis promjena</string>
-  <!-- General strings -->
-  <string name="reset">Ponovno pokreni</string>
-  <!-- Color Picker -->
-  <!-- Seekbar -->
-  <!-- XenonOTA -->
-  <string name="xenonota_title">XenonOTA</string>
-  <!-- Launch music player when headset is connected -->
-  <!-- Power menu on secure lockscreen -->
-  <!-- QS rows and columns -->
-  <!-- Quick unlock -->
-  <!-- Recents Membar -->
-  <!-- Clear all recents -->
-  <!-- Battery Styles -->
-  <!-- Quick Settings brightness icon -->
-  <!-- Option to show brightness bar in quick settings -->
-  <!-- Advanced restart options -->
-  <!-- Show 4G instead of LTE -->
-  <!-- Smart Pixels -->
-  <!-- Gestures -->
-  <!-- Carbon gestures -->
-  <string name="carbon_gesture_screenshot">Snimka zaslona</string>
-  <!-- Fingerprint authentication vibration -->
-  <!-- Fingerprint unlock keystore -->
-  <!-- Quick QS scroller -->
-  <!-- Data Disabled Icon -->
-  <!-- Gestures -->
-  <!-- Toggle navigation bar -->
+    <!-- App Title -->
+    <!-- Categories -->
+    <string name="lockscreen_title">Zaključavanje zaslona</string>
+    <string name="misc_title">Razno</string>
+    <!-- Changelog -->
+    <string name="changelog_xenonhd_title">Lista promjena</string>
+    <string name="changelog_xenonhd_error">Nije moguće učitati popis promjena</string>
+    <!-- General strings -->
+    <string name="reset">Ponovno pokreni</string>
+    <!-- Color Picker -->
+    <!-- Seekbar -->
+    <!-- XenonOTA -->
+    <string name="xenonota_title">XenonOTA</string>
+    <!-- Launch music player when headset is connected -->
+    <!-- Power menu on secure lockscreen -->
+    <!-- QS rows and columns -->
+    <!-- Quick unlock -->
+    <!-- Recents Membar -->
+    <!-- Clear all recents -->
+    <!-- Battery Styles -->
+    <!-- Quick Settings brightness icon -->
+    <!-- Option to show brightness bar in quick settings -->
+    <!-- Advanced restart options -->
+    <!-- Show 4G instead of LTE -->
+    <!-- Smart Pixels -->
+    <!-- Gestures -->
+    <!-- Carbon gestures -->
+    <string name="carbon_gesture_screenshot">Snimka zaslona</string>
+    <!-- Fingerprint authentication vibration -->
+    <!-- Fingerprint unlock keystore -->
+    <!-- Quick QS scroller -->
+    <!-- Data Disabled Icon -->
+    <!-- Gestures -->
+    <!-- Toggle navigation bar -->
 </resources>

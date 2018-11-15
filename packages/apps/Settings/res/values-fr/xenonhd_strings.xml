@@ -15,37 +15,37 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- About phone screen -->
-  <string name="xenonhd_maintainer">Mainteneur</string>
-  <string name="device_info_title">Informations sur l\'appareil</string>
-  <!-- XenonHD Settings -->
-  <!-- Volume Steps -->
-  <string name="volume_steps_title">Niveaux du volume</string>
-  <string name="volume_steps_alarm_title">Alarme</string>
-  <string name="volume_steps_music_title">Musique</string>
-  <string name="volume_steps_notification_title">Notification</string>
-  <string name="volume_steps_ring_title">Sonnerie</string>
-  <string name="volume_steps_system_title">Système</string>
-  <string name="volume_steps_voice_call_title">Appel vocal</string>
-  <string name="volume_steps_reset">Remise à zéro</string>
-  <!-- Vendor version -->
-  <string name="vendor_version_default">Inconnue</string>
-  <!-- Screenshot sound -->
-  <string name="screenshot_sound_title">Son de capture d\'écran</string>
-  <string name="screenshot_sound_summary">Émettre un son lors de la capture d\'écran</string>
-  <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
-  <string name="local_backup_password_title">Mot de passe de sauvegarde du bureau d\'accueil</string>
-  <!-- Format string for fingerprint location message -->
-  <!-- Fingerprint sensor locations -->
-  <!-- Encryption and credential -->
-  <!-- AmbientDisplay music ticker -->
-  <string name="force_ambient_for_media_off">Désactivé</string>
-  <string name="force_ambient_for_media_on">Activé</string>
-  <!-- Force authorize substratum packages -->
-  <string name="force_authorize_substratum_packages_title">Forcer l’autorisation de chaque thème d\'application</string>
-  <string name="force_authorize_substratum_packages_summary">Autorise les applications de thème à partir de sources inconnues</string>
-  <!-- Manage applications: show substratum overlays -->
-  <string name="filter_substratum_apps">Surcouches Substratum</string>
-  <string name="menu_show_substratum">Afficher les surcouches</string>
-  <string name="menu_hide_substratum">Masquer les surcouches</string>
+    <!-- About phone screen -->
+    <string name="xenonhd_maintainer">Mainteneur</string>
+    <string name="device_info_title">Informations sur l\'appareil</string>
+    <!-- XenonHD Settings -->
+    <!-- Volume Steps -->
+    <string name="volume_steps_title">Niveaux du volume</string>
+    <string name="volume_steps_alarm_title">Alarme</string>
+    <string name="volume_steps_music_title">Musique</string>
+    <string name="volume_steps_notification_title">Notification</string>
+    <string name="volume_steps_ring_title">Sonnerie</string>
+    <string name="volume_steps_system_title">Système</string>
+    <string name="volume_steps_voice_call_title">Appel vocal</string>
+    <string name="volume_steps_reset">Remise à zéro</string>
+    <!-- Vendor version -->
+    <string name="vendor_version_default">Inconnue</string>
+    <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">Son de capture d\'écran</string>
+    <string name="screenshot_sound_summary">Émettre un son lors de la capture d\'écran</string>
+    <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+    <string name="local_backup_password_title">Mot de passe de sauvegarde du bureau d\'accueil</string>
+    <!-- Format string for fingerprint location message -->
+    <!-- Fingerprint sensor locations -->
+    <!-- Encryption and credential -->
+    <!-- AmbientDisplay music ticker -->
+    <string name="force_ambient_for_media_off">Désactivé</string>
+    <string name="force_ambient_for_media_on">Activé</string>
+    <!-- Force authorize substratum packages -->
+    <string name="force_authorize_substratum_packages_title">Forcer l’autorisation de chaque thème d\'application</string>
+    <string name="force_authorize_substratum_packages_summary">Autorise les applications de thème à partir de sources inconnues</string>
+    <!-- Manage applications: show substratum overlays -->
+    <string name="filter_substratum_apps">Surcouches Substratum</string>
+    <string name="menu_show_substratum">Afficher les surcouches</string>
+    <string name="menu_hide_substratum">Masquer les surcouches</string>
 </resources>

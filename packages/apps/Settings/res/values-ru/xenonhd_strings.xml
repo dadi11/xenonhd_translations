@@ -15,56 +15,56 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- About phone screen -->
-  <string name="xenonhd_version">Версия XenonHD</string>
-  <string name="xenonhd_maintainer">Сопровождающий</string>
-  <string name="device_info_title">Информация об устройстве</string>
-  <!-- XenonHD Settings -->
-  <string name="xenonhd_settings_title">XenonHD Hub</string>
-  <string name="xenonhd_settings_summary">Дополнительные параметры</string>
-  <!-- Volume Steps -->
-  <string name="volume_steps_title">Уровни громкости</string>
-  <string name="volume_steps_alarm_title">Будильник</string>
-  <string name="volume_steps_dtmf_title">DTMF</string>
-  <string name="volume_steps_music_title">Музыка</string>
-  <string name="volume_steps_notification_title">Уведомления</string>
-  <string name="volume_steps_ring_title">Звонок</string>
-  <string name="volume_steps_system_title">Система</string>
-  <string name="volume_steps_voice_call_title">Голосовой вызов</string>
-  <string name="volume_steps_bluetooth_sco_title">Bluetooth звонок</string>
-  <string name="volume_steps_reset">Сброс</string>
-  <!-- Vendor version -->
-  <string name="vendor_version">Версия ПО производителя</string>
-  <string name="vendor_version_default">Неизвестно</string>
-  <!-- Screenshot sound -->
-  <string name="screenshot_sound_title">Звук скриншота</string>
-  <string name="screenshot_sound_summary">Проигрывать звук при скриншоте</string>
-  <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
-  <string name="local_backup_password_title">Пароль для резервного копирования</string>
-  <!-- Format string for fingerprint location message -->
-  <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">Найдите сканер отпечатков пальцев на <xliff:g id="sensor_location">%1$s</xliff:g> телефона.</string>
-  <!-- Fingerprint sensor locations -->
-  <string name="security_settings_fingerprint_sensor_location_back">задней панели</string>
-  <string name="security_settings_fingerprint_sensor_location_front">передней панели</string>
-  <string name="security_settings_fingerprint_sensor_location_left">левом торце</string>
-  <string name="security_settings_fingerprint_sensor_location_right">правом торце</string>
-  <!-- Encryption and credential -->
-  <string name="custom_encryption_and_credential_settings_summary_on">Устройство зашифровано</string>
-  <string name="custom_encryption_and_credential_settings_summary_off">Устройство не зашифровано</string>
-  <!-- AmbientDisplay music ticker -->
-  <string name="ambient_display_media_cat">Воспроизводится</string>
-  <string name="force_ambient_for_media_pref_title">Ambient Music Ticker</string>
-  <string name="force_ambient_for_media_off">Отключено</string>
-  <string name="force_ambient_for_media_on">Включено</string>
-  <string name="force_ambient_for_media_on_forced">Включен принудительно</string>
-  <string name="force_ambient_for_media_on_forced_clean">Принудительная минимизация включена</string>
-  <string name="ambient_ticker_footer">Ambient Music Ticker позволяет отображать текущую информацию музыкальной дорожки на экране блокировки с включенным или включенным дисплеем Ambient.
+    <!-- About phone screen -->
+    <string name="xenonhd_version">Версия XenonHD</string>
+    <string name="xenonhd_maintainer">Сопровождающий</string>
+    <string name="device_info_title">Информация об устройстве</string>
+    <!-- XenonHD Settings -->
+    <string name="xenonhd_settings_title">XenonHD Hub</string>
+    <string name="xenonhd_settings_summary">Дополнительные параметры</string>
+    <!-- Volume Steps -->
+    <string name="volume_steps_title">Уровни громкости</string>
+    <string name="volume_steps_alarm_title">Будильник</string>
+    <string name="volume_steps_dtmf_title">DTMF</string>
+    <string name="volume_steps_music_title">Музыка</string>
+    <string name="volume_steps_notification_title">Уведомления</string>
+    <string name="volume_steps_ring_title">Звонок</string>
+    <string name="volume_steps_system_title">Система</string>
+    <string name="volume_steps_voice_call_title">Голосовой вызов</string>
+    <string name="volume_steps_bluetooth_sco_title">Bluetooth звонок</string>
+    <string name="volume_steps_reset">Сброс</string>
+    <!-- Vendor version -->
+    <string name="vendor_version">Версия ПО производителя</string>
+    <string name="vendor_version_default">Неизвестно</string>
+    <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">Звук скриншота</string>
+    <string name="screenshot_sound_summary">Проигрывать звук при скриншоте</string>
+    <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+    <string name="local_backup_password_title">Пароль для резервного копирования</string>
+    <!-- Format string for fingerprint location message -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">Найдите сканер отпечатков пальцев на <xliff:g id="sensor_location">%1$s</xliff:g> телефона.</string>
+    <!-- Fingerprint sensor locations -->
+    <string name="security_settings_fingerprint_sensor_location_back">задней панели</string>
+    <string name="security_settings_fingerprint_sensor_location_front">передней панели</string>
+    <string name="security_settings_fingerprint_sensor_location_left">левом торце</string>
+    <string name="security_settings_fingerprint_sensor_location_right">правом торце</string>
+    <!-- Encryption and credential -->
+    <string name="custom_encryption_and_credential_settings_summary_on">Устройство зашифровано</string>
+    <string name="custom_encryption_and_credential_settings_summary_off">Устройство не зашифровано</string>
+    <!-- AmbientDisplay music ticker -->
+    <string name="ambient_display_media_cat">Воспроизводится</string>
+    <string name="force_ambient_for_media_pref_title">Ambient Music Ticker</string>
+    <string name="force_ambient_for_media_off">Отключено</string>
+    <string name="force_ambient_for_media_on">Включено</string>
+    <string name="force_ambient_for_media_on_forced">Включен принудительно</string>
+    <string name="force_ambient_for_media_on_forced_clean">Принудительная минимизация включена</string>
+    <string name="ambient_ticker_footer">Ambient Music Ticker позволяет отображать текущую информацию музыкальной дорожки на экране блокировки с включенным или включенным дисплеем Ambient.
 Вы можете выбрать один из двух макетов, нормальный и минимальный. Хотя эта функция использует внешний дисплей, он не зависит от него.</string>
-  <!-- Force authorize substratum packages -->
-  <string name="force_authorize_substratum_packages_title">Принудительно запрашивать разрешения для каждой темы</string>
-  <string name="force_authorize_substratum_packages_summary">Разрешить установку тем из неизвестных источников</string>
-  <!-- Manage applications: show substratum overlays -->
-  <string name="filter_substratum_apps">Слои Substratum</string>
-  <string name="menu_show_substratum">Показывать слои</string>
-  <string name="menu_hide_substratum">Скрыть слои</string>
+    <!-- Force authorize substratum packages -->
+    <string name="force_authorize_substratum_packages_title">Принудительно запрашивать разрешения для каждой темы</string>
+    <string name="force_authorize_substratum_packages_summary">Разрешить установку тем из неизвестных источников</string>
+    <!-- Manage applications: show substratum overlays -->
+    <string name="filter_substratum_apps">Слои Substratum</string>
+    <string name="menu_show_substratum">Показывать слои</string>
+    <string name="menu_hide_substratum">Скрыть слои</string>
 </resources>

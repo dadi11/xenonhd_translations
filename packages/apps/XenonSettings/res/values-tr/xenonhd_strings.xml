@@ -15,162 +15,162 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- App Title -->
-  <string name="xenonhd_settings_title">XenonHD Ayarları</string>
-  <!-- Categories -->
-  <string name="buttons_title">Tuşlar</string>
-  <string name="gestures_title">Hareketler</string>
-  <string name="lockscreen_title">Kilit ekranı</string>
-  <string name="misc_title">Çeşitli</string>
-  <string name="navigation_title">Gezinme çubuğu</string>
-  <string name="power_title">Güç menüsü</string>
-  <string name="qs_title">Hızlı ayarlar</string>
-  <string name="recents_title">Son uygulamalar</string>
-  <string name="statusbar_title">Durum çubuğu</string>
-  <string name="notifications_title">Bildirimler</string>
-  <string name="xenonhd_title">XenonHD Hub</string>
-  <string name="xenonsettings_title">XenonHD Ayarları</string>
-  <!-- Changelog -->
-  <string name="changelog_xenonhd_title">Değişiklikler</string>
-  <string name="changelog_xenonhd_error">Değişiklikler yüklenemiyor</string>
-  <string name="changelog_xenonhd_summary">Geçerli sürümdeki değişiklikleri görüntüle</string>
-  <!-- General strings -->
-  <string name="ok">Tamam</string>
-  <string name="reset">Sıfırla</string>
-  <string name="cancel">İptal</string>
-  <string name="save">Kaydet</string>
-  <!-- Color Picker -->
-  <string name="dialog_color_picker">Renk seçin</string>
-  <string name="press_color_to_apply">Uygulamak istediğiniz rengin üzerine dokunun</string>
-  <string name="arrow_right">→</string>
-  <string name="arrow_down">↓</string>
-  <string name="hex">Hex:</string>
-  <string name="hex_hint">#ff000000</string>
-  <string name="set">Ayarla</string>
-  <string name="color_default">Varsayılan</string>
-  <!-- Seekbar -->
-  <string name="seekbar_no_default_value">Varsayılan değer ayarlanmadı</string>
-  <string name="seekbar_default_value_set">Değer <xliff:g id="number">%d</xliff:g> varsayılana değerine ayarlandı</string>
-  <string name="seekbar_default_value_already_set">Varsayılan değer zaten var</string>
-  <string name="seekbar_default_string">Varsayılan</string>
-  <!-- XenonOTA -->
-  <string name="xenonota_title">Güncellemeler</string>
-  <string name="xenonota_summary">XenonHD güncellemelerini kontrol et</string>
-  <!-- Launch music player when headset is connected -->
-  <string name="headset_connect_player_title">Müzik uygulamasını başlat</string>
-  <string name="headset_connect_player_disabled">Devre dışı</string>
-  <string name="headset_connect_player_wired">Kablolu kulaklık takıldığında</string>
-  <string name="headset_connect_player_bt_no_carkit">BT kulaklık takıldığında (araç kiti değil)</string>
-  <string name="headset_connect_player_bt">Bluetooth kulaklık takıldığında</string>
-  <string name="headset_connect_player_both_no_carkit">Herhangi bir kulaklık takıldığında (araç kiti değil)</string>
-  <string name="headset_connect_player_both">Herhangi bir kulaklık takıldığında</string>
-  <!-- Power menu on secure lockscreen -->
-  <string name="lockscreen_power_menu_disabled_title">Güç menüsü</string>
-  <string name="lockscreen_power_menu_disabled_summary">Güvenli kilit ekranında güç menüsünü devre dışı bırak</string>
-  <!-- QS rows and columns -->
-  <string name="qs_category">Hızlı ayarlar kareleri</string>
-  <string name="qs_columns_landscape_title">Sütunlar - yatay</string>
-  <string name="qs_columns_portrait_title">Sütunlar - dikey</string>
-  <string name="qs_rows_columns_title">Satırlar ve sütunlar</string>
-  <string name="qs_rows_columns_summary">Satır ve sütun sayısı seçin</string>
-  <string name="qs_rows_landscape_title">Satırlar - yatay</string>
-  <string name="qs_rows_portrait_title">Satırlar - dikey</string>
-  <string name="sysui_qqs_count_title">Küçük kareler</string>
-  <!-- Quick unlock -->
-  <string name="unlock_quick_unlock_control_title">Hızlı kilit açma</string>
-  <string name="unlock_quick_unlock_control_summary">Doğru PIN/Şifre girildiğinde otomatik olarak kilidi aç</string>
-  <!-- Recents Membar -->
-  <string name="systemui_recents_mem_display_title">Bellek çubuğu</string>
-  <string name="systemui_recents_mem_display_summary">Son uygulamalar ekranında bellek çubuğunu göster</string>
-  <!-- Clear all recents -->
-  <string name="show_clear_all_recents_button_title">Tümünü temizle tuşu</string>
-  <string name="show_clear_all_recents_button_summary">Son uygulamalar ekranında tümünü temizleme tuşunu göster</string>
-  <string name="recents_clear_all_location_title">Tuş konumu</string>
-  <string name="recents_clear_all_location_top_right">Sağ üst</string>
-  <string name="recents_clear_all_location_top_left">Sol üst</string>
-  <string name="recents_clear_all_location_top_center">Üst orta</string>
-  <string name="recents_clear_all_location_bottom_right">Sağ alt</string>
-  <string name="recents_clear_all_location_bottom_left">Sol alt</string>
-  <string name="recents_clear_all_location_bottom_center">Alt orta</string>
-  <!-- Battery Styles -->
-  <string name="status_bar_battery_style_title">Durum çubuğu pil stili</string>
-  <string name="battery_style_title">Pil simge stili</string>
-  <string name="battery_style_port">Dikey</string>
-  <string name="battery_style_land">Yatay</string>
-  <string name="battery_style_circle">Daire</string>
-  <string name="battery_style_dotted_circle">Noktalı daire</string>
-  <string name="battery_style_big_circle">Büyük daire</string>
-  <string name="battery_style_big_dotted_circle">Büyük noktalı daire</string>
-  <string name="battery_style_square">Kare</string>
-  <string name="battery_style_text">Metin</string>
-  <string name="battery_style_hidden">Gizle</string>
-  <string name="show_battery_percent_title">Pil yüzdesini göster</string>
-  <string name="battery_percent_none">Gösterme</string>
-  <string name="battery_percent_outside">Simge yanında göster</string>
-  <string name="battery_percent_inside">Simge içinde göster</string>
-  <!-- Quick Settings brightness icon -->
-  <string name="brightness_icon_title">Otomatik parlaklık simgesi</string>
-  <string name="brightness_icon_summary">Hızlı ayarlar panelinde otomatik parlaklık simgesini göster</string>
-  <!-- Option to show brightness bar in quick settings -->
-  <string name="show_brightness_title">Parlaklık kaydırıcısı</string>
-  <string name="show_brightness_summary">Hızlı ayarlar panelinde parlaklık kaydırıcısını göster</string>
-  <!-- Advanced restart options -->
-  <string name="advanced_reboot_title">Gelişmiş yeniden başlatma</string>
-  <string name="advanced_reboot_summary">Kilit açıldığında kurtarma veya ön yükleyici modunda yeniden başlatmak için güç menüsüne seçenekler ekler</string>
-  <!-- Show 4G instead of LTE -->
-  <string name="show_4g_title">4G simgesi</string>
-  <string name="show_4g_summary">LTE yerine 4G simgesini göster</string>
-  <!-- Smart Pixels -->
-  <string name="smart_pixels_title">Akıllı pikseller</string>
-  <string name="smart_pixels_summary">Fazladan pikselleri kapatarak pil tasarrufu sağlayın</string>
-  <string name="smart_pixels_enable_title">Akıllı pikselleri etkinleştir</string>
-  <string name="smart_pixels_enable_summary">Güç tüketimini azaltmak için pikselleri kapatın</string>
-  <string name="smart_pixels_on_power_save_title">Pil tasarrufu için otomatik etkinleştir</string>
-  <string name="smart_pixels_on_power_save_summary">Pil tasarrufu etkinleştirildiğinde akıllı pikseli etkinleştir</string>
-  <string name="smart_pixels_percent">Devre dışı bırakılan piksel yüzdesi</string>
-  <string name="smart_pixels_shift_title">Yanma koruması</string>
-  <string name="smart_pixels_shift_summary">OLED cihazlarda yanmaları önler ve sık sık pikselleri kaydırır</string>
-  <!-- Gestures -->
-  <string name="gestures_preference_title">Hareketler</string>
-  <!-- Carbon gestures -->
-  <string name="carbon_gesture_preference_title">Kaydırma hareketleri</string>
-  <string name="carbon_gestures_summary">Özel genel hareketleri yapılandır</string>
-  <string name="carbon_gestures_fingers_title">Hareketler için kullanılan parmaklar (varsayılan 2)</string>
-  <string name="carbon_gestures_fingers_unit">parmaklar</string>
-  <string name="carbon_gestures_right_title">Sağ hareket</string>
-  <string name="carbon_gestures_left_title">Sol hareket</string>
-  <string name="carbon_gestures_up_title">Yukarı haraket</string>
-  <string name="carbon_gestures_down_title">Aşağı hareket</string>
-  <string name="carbon_gesture_disabled">Devre dışı</string>
-  <string name="carbon_gesture_back">Geri</string>
-  <string name="carbon_gesture_home">Ana ekran</string>
-  <string name="carbon_gesture_recents">Son uygulamalar</string>
-  <string name="carbon_gesture_power">Güç</string>
-  <string name="carbon_gesture_volume_down">Sesi azalt</string>
-  <string name="carbon_gesture_volume_up">Sesi yükselt</string>
-  <string name="carbon_gesture_volume_mute">Sesi kes</string>
-  <string name="carbon_gesture_screenshot">Ekran görüntüsü</string>
-  <string name="carbon_gesture_media_play_pause">Medyayı oynat/duraklat</string>
-  <string name="carbon_gesture_media_skip">Medyayı atla</string>
-  <string name="carbon_gesture_media_previous">Önceki medya</string>
-  <string name="carbon_gesture_customapp">Uygulamayı başlat</string>
-  <string name="carbon_gesture_launch">Başlat</string>
-  <!-- Fingerprint authentication vibration -->
-  <string name="fprint_sucess_vib_title">Parmak izi doğrulama titreşimi</string>
-  <string name="fprint_sucess_vib_summary_on">Başarılı parmak izi kimlik doğrulamasında titreşim etkin</string>
-  <string name="fprint_sucess_vib_summary_off">Başarılı parmak izi kimlik doğrulamasında titreşim devre dışı</string>
-  <!-- Fingerprint unlock keystore -->
-  <string name="fp_unlock_keystore_title">Parmak iziyle kilit açma</string>
-  <string name="fp_unlock_keystore_summary">Yeniden başlattıktan sonra PIN/Şifre/Desen olmadan parmak iziyle cihazın kilidini açın\nNot: kendi sorumluluğunuzdadır!</string>
-  <!-- Quick QS scroller -->
-  <string name="qqs_scroll_title">Kareleri kaydır</string>
-  <string name="qqs_scroll_summary">Hızlı ayarlar kısayol karelerini kaydırmaya izin ver</string>
-  <!-- Data Disabled Icon -->
-  <string name="data_disabled_icon_title">Devre dışı simgesi</string>
-  <string name="data_disabled_icon_summary">Mobil veri devre dışı bırakıldığında sinyal çubuğunda çarpı işareti göster</string>
-  <!-- Gestures -->
-  <string name="use_bottom_gesture_title">Kaydırma hareketleri</string>
-  <string name="use_bottom_gesture_summary">Önce gezinme çubuğunu devre dışı bırakın.\nGeri dönmek için sola/sağa kaydırın. Ana ekran için ortasından yukarı kaydırın. Hızlıca menüyü açmak için yukarı kaydırın ve basılı tutun</string>
-  <!-- Toggle navigation bar -->
-  <string name="navigation_bar_enabled_title">Gezinme çubuğunu etkinleştir</string>
+    <!-- App Title -->
+    <string name="xenonhd_settings_title">XenonHD Ayarları</string>
+    <!-- Categories -->
+    <string name="buttons_title">Tuşlar</string>
+    <string name="gestures_title">Hareketler</string>
+    <string name="lockscreen_title">Kilit ekranı</string>
+    <string name="misc_title">Çeşitli</string>
+    <string name="navigation_title">Gezinme çubuğu</string>
+    <string name="power_title">Güç menüsü</string>
+    <string name="qs_title">Hızlı ayarlar</string>
+    <string name="recents_title">Son uygulamalar</string>
+    <string name="statusbar_title">Durum çubuğu</string>
+    <string name="notifications_title">Bildirimler</string>
+    <string name="xenonhd_title">XenonHD Hub</string>
+    <string name="xenonsettings_title">XenonHD Ayarları</string>
+    <!-- Changelog -->
+    <string name="changelog_xenonhd_title">Değişiklikler</string>
+    <string name="changelog_xenonhd_error">Değişiklikler yüklenemiyor</string>
+    <string name="changelog_xenonhd_summary">Geçerli sürümdeki değişiklikleri görüntüle</string>
+    <!-- General strings -->
+    <string name="ok">Tamam</string>
+    <string name="reset">Sıfırla</string>
+    <string name="cancel">İptal</string>
+    <string name="save">Kaydet</string>
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Renk seçin</string>
+    <string name="press_color_to_apply">Uygulamak istediğiniz rengin üzerine dokunun</string>
+    <string name="arrow_right">→</string>
+    <string name="arrow_down">↓</string>
+    <string name="hex">Hex:</string>
+    <string name="hex_hint">#ff000000</string>
+    <string name="set">Ayarla</string>
+    <string name="color_default">Varsayılan</string>
+    <!-- Seekbar -->
+    <string name="seekbar_no_default_value">Varsayılan değer ayarlanmadı</string>
+    <string name="seekbar_default_value_set">Değer <xliff:g id="number">%d</xliff:g> varsayılana değerine ayarlandı</string>
+    <string name="seekbar_default_value_already_set">Varsayılan değer zaten var</string>
+    <string name="seekbar_default_string">Varsayılan</string>
+    <!-- XenonOTA -->
+    <string name="xenonota_title">Güncellemeler</string>
+    <string name="xenonota_summary">XenonHD güncellemelerini kontrol et</string>
+    <!-- Launch music player when headset is connected -->
+    <string name="headset_connect_player_title">Müzik uygulamasını başlat</string>
+    <string name="headset_connect_player_disabled">Devre dışı</string>
+    <string name="headset_connect_player_wired">Kablolu kulaklık takıldığında</string>
+    <string name="headset_connect_player_bt_no_carkit">BT kulaklık takıldığında (araç kiti değil)</string>
+    <string name="headset_connect_player_bt">Bluetooth kulaklık takıldığında</string>
+    <string name="headset_connect_player_both_no_carkit">Herhangi bir kulaklık takıldığında (araç kiti değil)</string>
+    <string name="headset_connect_player_both">Herhangi bir kulaklık takıldığında</string>
+    <!-- Power menu on secure lockscreen -->
+    <string name="lockscreen_power_menu_disabled_title">Güç menüsü</string>
+    <string name="lockscreen_power_menu_disabled_summary">Güvenli kilit ekranında güç menüsünü devre dışı bırak</string>
+    <!-- QS rows and columns -->
+    <string name="qs_category">Hızlı ayarlar kareleri</string>
+    <string name="qs_columns_landscape_title">Sütunlar - yatay</string>
+    <string name="qs_columns_portrait_title">Sütunlar - dikey</string>
+    <string name="qs_rows_columns_title">Satırlar ve sütunlar</string>
+    <string name="qs_rows_columns_summary">Satır ve sütun sayısı seçin</string>
+    <string name="qs_rows_landscape_title">Satırlar - yatay</string>
+    <string name="qs_rows_portrait_title">Satırlar - dikey</string>
+    <string name="sysui_qqs_count_title">Küçük kareler</string>
+    <!-- Quick unlock -->
+    <string name="unlock_quick_unlock_control_title">Hızlı kilit açma</string>
+    <string name="unlock_quick_unlock_control_summary">Doğru PIN/Şifre girildiğinde otomatik olarak kilidi aç</string>
+    <!-- Recents Membar -->
+    <string name="systemui_recents_mem_display_title">Bellek çubuğu</string>
+    <string name="systemui_recents_mem_display_summary">Son uygulamalar ekranında bellek çubuğunu göster</string>
+    <!-- Clear all recents -->
+    <string name="show_clear_all_recents_button_title">Tümünü temizle tuşu</string>
+    <string name="show_clear_all_recents_button_summary">Son uygulamalar ekranında tümünü temizleme tuşunu göster</string>
+    <string name="recents_clear_all_location_title">Tuş konumu</string>
+    <string name="recents_clear_all_location_top_right">Sağ üst</string>
+    <string name="recents_clear_all_location_top_left">Sol üst</string>
+    <string name="recents_clear_all_location_top_center">Üst orta</string>
+    <string name="recents_clear_all_location_bottom_right">Sağ alt</string>
+    <string name="recents_clear_all_location_bottom_left">Sol alt</string>
+    <string name="recents_clear_all_location_bottom_center">Alt orta</string>
+    <!-- Battery Styles -->
+    <string name="status_bar_battery_style_title">Durum çubuğu pil stili</string>
+    <string name="battery_style_title">Pil simge stili</string>
+    <string name="battery_style_port">Dikey</string>
+    <string name="battery_style_land">Yatay</string>
+    <string name="battery_style_circle">Daire</string>
+    <string name="battery_style_dotted_circle">Noktalı daire</string>
+    <string name="battery_style_big_circle">Büyük daire</string>
+    <string name="battery_style_big_dotted_circle">Büyük noktalı daire</string>
+    <string name="battery_style_square">Kare</string>
+    <string name="battery_style_text">Metin</string>
+    <string name="battery_style_hidden">Gizle</string>
+    <string name="show_battery_percent_title">Pil yüzdesini göster</string>
+    <string name="battery_percent_none">Gösterme</string>
+    <string name="battery_percent_outside">Simge yanında göster</string>
+    <string name="battery_percent_inside">Simge içinde göster</string>
+    <!-- Quick Settings brightness icon -->
+    <string name="brightness_icon_title">Otomatik parlaklık simgesi</string>
+    <string name="brightness_icon_summary">Hızlı ayarlar panelinde otomatik parlaklık simgesini göster</string>
+    <!-- Option to show brightness bar in quick settings -->
+    <string name="show_brightness_title">Parlaklık kaydırıcısı</string>
+    <string name="show_brightness_summary">Hızlı ayarlar panelinde parlaklık kaydırıcısını göster</string>
+    <!-- Advanced restart options -->
+    <string name="advanced_reboot_title">Gelişmiş yeniden başlatma</string>
+    <string name="advanced_reboot_summary">Kilit açıldığında kurtarma veya ön yükleyici modunda yeniden başlatmak için güç menüsüne seçenekler ekler</string>
+    <!-- Show 4G instead of LTE -->
+    <string name="show_4g_title">4G simgesi</string>
+    <string name="show_4g_summary">LTE yerine 4G simgesini göster</string>
+    <!-- Smart Pixels -->
+    <string name="smart_pixels_title">Akıllı pikseller</string>
+    <string name="smart_pixels_summary">Fazladan pikselleri kapatarak pil tasarrufu sağlayın</string>
+    <string name="smart_pixels_enable_title">Akıllı pikselleri etkinleştir</string>
+    <string name="smart_pixels_enable_summary">Güç tüketimini azaltmak için pikselleri kapatın</string>
+    <string name="smart_pixels_on_power_save_title">Pil tasarrufu için otomatik etkinleştir</string>
+    <string name="smart_pixels_on_power_save_summary">Pil tasarrufu etkinleştirildiğinde akıllı pikseli etkinleştir</string>
+    <string name="smart_pixels_percent">Devre dışı bırakılan piksel yüzdesi</string>
+    <string name="smart_pixels_shift_title">Yanma koruması</string>
+    <string name="smart_pixels_shift_summary">OLED cihazlarda yanmaları önler ve sık sık pikselleri kaydırır</string>
+    <!-- Gestures -->
+    <string name="gestures_preference_title">Hareketler</string>
+    <!-- Carbon gestures -->
+    <string name="carbon_gesture_preference_title">Kaydırma hareketleri</string>
+    <string name="carbon_gestures_summary">Özel genel hareketleri yapılandır</string>
+    <string name="carbon_gestures_fingers_title">Hareketler için kullanılan parmaklar (varsayılan 2)</string>
+    <string name="carbon_gestures_fingers_unit">parmaklar</string>
+    <string name="carbon_gestures_right_title">Sağ hareket</string>
+    <string name="carbon_gestures_left_title">Sol hareket</string>
+    <string name="carbon_gestures_up_title">Yukarı haraket</string>
+    <string name="carbon_gestures_down_title">Aşağı hareket</string>
+    <string name="carbon_gesture_disabled">Devre dışı</string>
+    <string name="carbon_gesture_back">Geri</string>
+    <string name="carbon_gesture_home">Ana ekran</string>
+    <string name="carbon_gesture_recents">Son uygulamalar</string>
+    <string name="carbon_gesture_power">Güç</string>
+    <string name="carbon_gesture_volume_down">Sesi azalt</string>
+    <string name="carbon_gesture_volume_up">Sesi yükselt</string>
+    <string name="carbon_gesture_volume_mute">Sesi kes</string>
+    <string name="carbon_gesture_screenshot">Ekran görüntüsü</string>
+    <string name="carbon_gesture_media_play_pause">Medyayı oynat/duraklat</string>
+    <string name="carbon_gesture_media_skip">Medyayı atla</string>
+    <string name="carbon_gesture_media_previous">Önceki medya</string>
+    <string name="carbon_gesture_customapp">Uygulamayı başlat</string>
+    <string name="carbon_gesture_launch">Başlat</string>
+    <!-- Fingerprint authentication vibration -->
+    <string name="fprint_sucess_vib_title">Parmak izi doğrulama titreşimi</string>
+    <string name="fprint_sucess_vib_summary_on">Başarılı parmak izi kimlik doğrulamasında titreşim etkin</string>
+    <string name="fprint_sucess_vib_summary_off">Başarılı parmak izi kimlik doğrulamasında titreşim devre dışı</string>
+    <!-- Fingerprint unlock keystore -->
+    <string name="fp_unlock_keystore_title">Parmak iziyle kilit açma</string>
+    <string name="fp_unlock_keystore_summary">Yeniden başlattıktan sonra PIN/Şifre/Desen olmadan parmak iziyle cihazın kilidini açın\nNot: kendi sorumluluğunuzdadır!</string>
+    <!-- Quick QS scroller -->
+    <string name="qqs_scroll_title">Kareleri kaydır</string>
+    <string name="qqs_scroll_summary">Hızlı ayarlar kısayol karelerini kaydırmaya izin ver</string>
+    <!-- Data Disabled Icon -->
+    <string name="data_disabled_icon_title">Devre dışı simgesi</string>
+    <string name="data_disabled_icon_summary">Mobil veri devre dışı bırakıldığında sinyal çubuğunda çarpı işareti göster</string>
+    <!-- Gestures -->
+    <string name="use_bottom_gesture_title">Kaydırma hareketleri</string>
+    <string name="use_bottom_gesture_summary">Önce gezinme çubuğunu devre dışı bırakın.\nGeri dönmek için sola/sağa kaydırın. Ana ekran için ortasından yukarı kaydırın. Hızlıca menüyü açmak için yukarı kaydırın ve basılı tutun</string>
+    <!-- Toggle navigation bar -->
+    <string name="navigation_bar_enabled_title">Gezinme çubuğunu etkinleştir</string>
 </resources>

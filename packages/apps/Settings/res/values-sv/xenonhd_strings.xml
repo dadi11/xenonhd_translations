@@ -15,28 +15,28 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- About phone screen -->
-  <string name="xenonhd_maintainer">Underhållare</string>
-  <string name="device_info_title">Telefoninfo</string>
-  <!-- XenonHD Settings -->
-  <!-- Volume Steps -->
-  <string name="volume_steps_title">Volymsteg</string>
-  <string name="volume_steps_alarm_title">Alarm</string>
-  <string name="volume_steps_music_title">Musik</string>
-  <string name="volume_steps_system_title">System</string>
-  <string name="volume_steps_reset">Återställ</string>
-  <!-- Vendor version -->
-  <string name="vendor_version_default">Okänd</string>
-  <!-- Screenshot sound -->
-  <string name="screenshot_sound_title">Skärmdumpsljud</string>
-  <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
-  <string name="local_backup_password_title">Lösenord för säkerhetskopia av datorn</string>
-  <!-- Format string for fingerprint location message -->
-  <!-- Fingerprint sensor locations -->
-  <!-- Encryption and credential -->
-  <!-- AmbientDisplay music ticker -->
-  <string name="force_ambient_for_media_off">Inaktiverad</string>
-  <string name="force_ambient_for_media_on">Aktiverad</string>
-  <!-- Force authorize substratum packages -->
-  <!-- Manage applications: show substratum overlays -->
+    <!-- About phone screen -->
+    <string name="xenonhd_maintainer">Underhållare</string>
+    <string name="device_info_title">Telefoninfo</string>
+    <!-- XenonHD Settings -->
+    <!-- Volume Steps -->
+    <string name="volume_steps_title">Volymsteg</string>
+    <string name="volume_steps_alarm_title">Alarm</string>
+    <string name="volume_steps_music_title">Musik</string>
+    <string name="volume_steps_system_title">System</string>
+    <string name="volume_steps_reset">Återställ</string>
+    <!-- Vendor version -->
+    <string name="vendor_version_default">Okänd</string>
+    <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">Skärmdumpsljud</string>
+    <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+    <string name="local_backup_password_title">Lösenord för säkerhetskopia av datorn</string>
+    <!-- Format string for fingerprint location message -->
+    <!-- Fingerprint sensor locations -->
+    <!-- Encryption and credential -->
+    <!-- AmbientDisplay music ticker -->
+    <string name="force_ambient_for_media_off">Inaktiverad</string>
+    <string name="force_ambient_for_media_on">Aktiverad</string>
+    <!-- Force authorize substratum packages -->
+    <!-- Manage applications: show substratum overlays -->
 </resources>

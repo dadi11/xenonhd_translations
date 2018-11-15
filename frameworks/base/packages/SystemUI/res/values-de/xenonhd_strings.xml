@@ -15,40 +15,40 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Screenshot Delete Toast -->
-  <string name="delete_screenshot_toast">Screenshot gelöscht</string>
-  <!-- Partial Screenshot -->
-  <string name="screenshot_abort_title">Kein Screenshot aufgenommen</string>
-  <string name="screenshot_abort_text">Vorgang abgebrochen</string>
-  <!-- QS Tiles -->
-  <string name="quick_settings_screenshot_label">Bildschirmfoto</string>
-  <string name="quick_settings_region_screenshot_label">Teilweiser Screenshot</string>
-  <!-- Always on Display Tile -->
-  <!-- Content description of the ambient display tile in quick settings when off (not shown on the screen). [CHAR LIMIT=NONE] -->
-  <!-- Content description of the ambient display tile in quick settings when on (not shown on the screen). [CHAR LIMIT=NONE] -->
-  <!-- Announcement made when ambient display changes to off (not shown on the screen). [CHAR LIMIT=NONE] -->
-  <!-- Announcement made when ambient display changes to on (not shown on the screen). [CHAR LIMIT=NONE] -->
-  <!-- Language toggle tile -->
-  <string name="quick_settings_locale_label">Sprache</string>
-  <string name="quick_settings_locale_more_locales_toast">Bitte fügen Sie mehr als eine Sprache hinzu, um die Umschaltfunktion zu aktivieren</string>
-  <!-- PiP Tile -->
-  <string name="quick_settings_pip_label">PiP</string>
-  <string name="quick_settings_pip_tile_app_na">Die App unterstützt kein PiP</string>
-  <!-- Reboot/Recovery QS Tile -->
-  <string name="quick_settings_reboot_label">Neustart</string>
-  <string name="quick_settings_reboot_recovery_label">Recovery</string>
-  <!-- Sound QS Tile -->
-  <string name="quick_settings_sound_label">Ton</string>
-  <string name="quick_settings_sound_ring">Klingeln</string>
-  <string name="quick_settings_sound_vibrate">Vibrieren</string>
-  <string name="quick_settings_sound_dnd">Nicht stören</string>
-  <!-- volte icon switch -->
-  <string name="status_bar_volte">VoLTE</string>
-  <!-- Smart pixels QS tile -->
-  <!-- Screenrecord Notification Ticker -->
-  <!-- Screenrecord notification title -->
-  <!-- Screenrecord notification action: Stop -->
-  <!-- Screenrecord notification action: show/hide pointer -->
-  <!-- Screen record notification error title -->
-  <!-- Screenrecord tile -->
+    <!-- Screenshot Delete Toast -->
+    <string name="delete_screenshot_toast">Screenshot gelöscht</string>
+    <!-- Partial Screenshot -->
+    <string name="screenshot_abort_title">Kein Screenshot aufgenommen</string>
+    <string name="screenshot_abort_text">Vorgang abgebrochen</string>
+    <!-- QS Tiles -->
+    <string name="quick_settings_screenshot_label">Bildschirmfoto</string>
+    <string name="quick_settings_region_screenshot_label">Teilweiser Screenshot</string>
+    <!-- Always on Display Tile -->
+    <!-- Content description of the ambient display tile in quick settings when off (not shown on the screen). [CHAR LIMIT=NONE] -->
+    <!-- Content description of the ambient display tile in quick settings when on (not shown on the screen). [CHAR LIMIT=NONE] -->
+    <!-- Announcement made when ambient display changes to off (not shown on the screen). [CHAR LIMIT=NONE] -->
+    <!-- Announcement made when ambient display changes to on (not shown on the screen). [CHAR LIMIT=NONE] -->
+    <!-- Language toggle tile -->
+    <string name="quick_settings_locale_label">Sprache</string>
+    <string name="quick_settings_locale_more_locales_toast">Bitte fügen Sie mehr als eine Sprache hinzu, um die Umschaltfunktion zu aktivieren</string>
+    <!-- PiP Tile -->
+    <string name="quick_settings_pip_label">PiP</string>
+    <string name="quick_settings_pip_tile_app_na">Die App unterstützt kein PiP</string>
+    <!-- Reboot/Recovery QS Tile -->
+    <string name="quick_settings_reboot_label">Neustart</string>
+    <string name="quick_settings_reboot_recovery_label">Recovery</string>
+    <!-- Sound QS Tile -->
+    <string name="quick_settings_sound_label">Ton</string>
+    <string name="quick_settings_sound_ring">Klingeln</string>
+    <string name="quick_settings_sound_vibrate">Vibrieren</string>
+    <string name="quick_settings_sound_dnd">Nicht stören</string>
+    <!-- volte icon switch -->
+    <string name="status_bar_volte">VoLTE</string>
+    <!-- Smart pixels QS tile -->
+    <!-- Screenrecord Notification Ticker -->
+    <!-- Screenrecord notification title -->
+    <!-- Screenrecord notification action: Stop -->
+    <!-- Screenrecord notification action: show/hide pointer -->
+    <!-- Screen record notification error title -->
+    <!-- Screenrecord tile -->
 </resources>

@@ -15,6 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Accent colors -->
-  <string name="accent_black">Schwarz</string>
+    <!-- Accent colors -->
+    <string name="accent_black">Schwarz</string>
 </resources>

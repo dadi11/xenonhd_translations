@@ -15,50 +15,50 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- App Title -->
-  <!-- Categories -->
-  <string name="lockscreen_title">Užrakinti ekraną</string>
-  <!-- Changelog -->
-  <!-- General strings -->
-  <string name="reset">Atstatyti</string>
-  <string name="save">Išsaugoti</string>
-  <!-- Color Picker -->
-  <string name="dialog_color_picker">Spalvos parinkimas</string>
-  <string name="press_color_to_apply">Paspauskite žemiau pateiktą spalvą pritaikymui</string>
-  <string name="set">Nustatyti</string>
-  <string name="color_default">Numatyta</string>
-  <!-- Seekbar -->
-  <string name="seekbar_default_string">Numatyta</string>
-  <!-- XenonOTA -->
-  <string name="xenonota_title">XenonOTA</string>
-  <!-- Launch music player when headset is connected -->
-  <string name="headset_connect_player_disabled">Išjungta</string>
-  <!-- Power menu on secure lockscreen -->
-  <!-- QS rows and columns -->
-  <!-- Quick unlock -->
-  <string name="unlock_quick_unlock_control_title">Greitas atrakinimas</string>
-  <!-- Recents Membar -->
-  <!-- Clear all recents -->
-  <string name="recents_clear_all_location_top_right">Viršuje dešinėje</string>
-  <string name="recents_clear_all_location_top_left">Viršuje kairėje</string>
-  <string name="recents_clear_all_location_top_center">Viršuje per vidurį</string>
-  <string name="recents_clear_all_location_bottom_right">Apačioje dešinėje</string>
-  <string name="recents_clear_all_location_bottom_left">Apačioje kairėje</string>
-  <string name="recents_clear_all_location_bottom_center">Apačioje per vidurį</string>
-  <!-- Battery Styles -->
-  <!-- Quick Settings brightness icon -->
-  <!-- Option to show brightness bar in quick settings -->
-  <!-- Advanced restart options -->
-  <!-- Show 4G instead of LTE -->
-  <!-- Smart Pixels -->
-  <!-- Gestures -->
-  <!-- Carbon gestures -->
-  <string name="carbon_gesture_disabled">Išjungta</string>
-  <string name="carbon_gesture_screenshot">Ekrano kopija</string>
-  <!-- Fingerprint authentication vibration -->
-  <!-- Fingerprint unlock keystore -->
-  <!-- Quick QS scroller -->
-  <!-- Data Disabled Icon -->
-  <!-- Gestures -->
-  <!-- Toggle navigation bar -->
+    <!-- App Title -->
+    <!-- Categories -->
+    <string name="lockscreen_title">Užrakinti ekraną</string>
+    <!-- Changelog -->
+    <!-- General strings -->
+    <string name="reset">Atstatyti</string>
+    <string name="save">Išsaugoti</string>
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Spalvos parinkimas</string>
+    <string name="press_color_to_apply">Paspauskite žemiau pateiktą spalvą pritaikymui</string>
+    <string name="set">Nustatyti</string>
+    <string name="color_default">Numatyta</string>
+    <!-- Seekbar -->
+    <string name="seekbar_default_string">Numatyta</string>
+    <!-- XenonOTA -->
+    <string name="xenonota_title">XenonOTA</string>
+    <!-- Launch music player when headset is connected -->
+    <string name="headset_connect_player_disabled">Išjungta</string>
+    <!-- Power menu on secure lockscreen -->
+    <!-- QS rows and columns -->
+    <!-- Quick unlock -->
+    <string name="unlock_quick_unlock_control_title">Greitas atrakinimas</string>
+    <!-- Recents Membar -->
+    <!-- Clear all recents -->
+    <string name="recents_clear_all_location_top_right">Viršuje dešinėje</string>
+    <string name="recents_clear_all_location_top_left">Viršuje kairėje</string>
+    <string name="recents_clear_all_location_top_center">Viršuje per vidurį</string>
+    <string name="recents_clear_all_location_bottom_right">Apačioje dešinėje</string>
+    <string name="recents_clear_all_location_bottom_left">Apačioje kairėje</string>
+    <string name="recents_clear_all_location_bottom_center">Apačioje per vidurį</string>
+    <!-- Battery Styles -->
+    <!-- Quick Settings brightness icon -->
+    <!-- Option to show brightness bar in quick settings -->
+    <!-- Advanced restart options -->
+    <!-- Show 4G instead of LTE -->
+    <!-- Smart Pixels -->
+    <!-- Gestures -->
+    <!-- Carbon gestures -->
+    <string name="carbon_gesture_disabled">Išjungta</string>
+    <string name="carbon_gesture_screenshot">Ekrano kopija</string>
+    <!-- Fingerprint authentication vibration -->
+    <!-- Fingerprint unlock keystore -->
+    <!-- Quick QS scroller -->
+    <!-- Data Disabled Icon -->
+    <!-- Gestures -->
+    <!-- Toggle navigation bar -->
 </resources>

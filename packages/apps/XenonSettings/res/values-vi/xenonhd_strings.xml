@@ -15,62 +15,62 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- App Title -->
-  <string name="xenonhd_settings_title">Cài đặt XenonHD</string>
-  <!-- Categories -->
-  <string name="gestures_title">Cử chỉ</string>
-  <string name="lockscreen_title">Màn hình khóa</string>
-  <string name="misc_title">Chuyên sâu</string>
-  <string name="notifications_title">Thông báo</string>
-  <string name="xenonsettings_title">Cài đặt XenonHD</string>
-  <!-- Changelog -->
-  <string name="changelog_xenonhd_title">Nhật ký thay đổi</string>
-  <string name="changelog_xenonhd_error">Không thể tải nhật ký thay đổi</string>
-  <!-- General strings -->
-  <string name="ok">Đồng ý</string>
-  <string name="reset">Thiết lập lại</string>
-  <string name="cancel">Hủy bỏ</string>
-  <string name="save">Lưu</string>
-  <!-- Color Picker -->
-  <string name="dialog_color_picker">Bảng chọn màu</string>
-  <string name="press_color_to_apply">Bấm vào màu sắc để áp dụng</string>
-  <string name="hex">Hex:</string>
-  <string name="set">Thiết lập</string>
-  <string name="color_default">Mặc định</string>
-  <!-- Seekbar -->
-  <string name="seekbar_default_string">Mặc định</string>
-  <!-- XenonOTA -->
-  <string name="xenonota_title">XenonOTA</string>
-  <!-- Launch music player when headset is connected -->
-  <string name="headset_connect_player_disabled">Vô hiệu hóa</string>
-  <!-- Power menu on secure lockscreen -->
-  <!-- QS rows and columns -->
-  <string name="qs_category">Ô cài đặt nhanh</string>
-  <!-- Quick unlock -->
-  <!-- Recents Membar -->
-  <!-- Clear all recents -->
-  <string name="recents_clear_all_location_title">Vị trí phím Xóa tất cả</string>
-  <string name="recents_clear_all_location_top_right">Trên cùng bên phải</string>
-  <string name="recents_clear_all_location_top_left">Trên cùng bên trái</string>
-  <string name="recents_clear_all_location_top_center">Chính giữa phía trên</string>
-  <string name="recents_clear_all_location_bottom_right">Dưới cùng bên phải</string>
-  <string name="recents_clear_all_location_bottom_left">Dưới cùng bên trái</string>
-  <string name="recents_clear_all_location_bottom_center">Chính giữa phía dưới</string>
-  <!-- Battery Styles -->
-  <!-- Quick Settings brightness icon -->
-  <!-- Option to show brightness bar in quick settings -->
-  <!-- Advanced restart options -->
-  <!-- Show 4G instead of LTE -->
-  <!-- Smart Pixels -->
-  <!-- Gestures -->
-  <string name="gestures_preference_title">Cử chỉ</string>
-  <!-- Carbon gestures -->
-  <string name="carbon_gesture_disabled">Vô hiệu hóa</string>
-  <string name="carbon_gesture_screenshot">Ảnh chụp màn hình</string>
-  <!-- Fingerprint authentication vibration -->
-  <!-- Fingerprint unlock keystore -->
-  <!-- Quick QS scroller -->
-  <!-- Data Disabled Icon -->
-  <!-- Gestures -->
-  <!-- Toggle navigation bar -->
+    <!-- App Title -->
+    <string name="xenonhd_settings_title">Cài đặt XenonHD</string>
+    <!-- Categories -->
+    <string name="gestures_title">Cử chỉ</string>
+    <string name="lockscreen_title">Màn hình khóa</string>
+    <string name="misc_title">Chuyên sâu</string>
+    <string name="notifications_title">Thông báo</string>
+    <string name="xenonsettings_title">Cài đặt XenonHD</string>
+    <!-- Changelog -->
+    <string name="changelog_xenonhd_title">Nhật ký thay đổi</string>
+    <string name="changelog_xenonhd_error">Không thể tải nhật ký thay đổi</string>
+    <!-- General strings -->
+    <string name="ok">Đồng ý</string>
+    <string name="reset">Thiết lập lại</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="save">Lưu</string>
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Bảng chọn màu</string>
+    <string name="press_color_to_apply">Bấm vào màu sắc để áp dụng</string>
+    <string name="hex">Hex:</string>
+    <string name="set">Thiết lập</string>
+    <string name="color_default">Mặc định</string>
+    <!-- Seekbar -->
+    <string name="seekbar_default_string">Mặc định</string>
+    <!-- XenonOTA -->
+    <string name="xenonota_title">XenonOTA</string>
+    <!-- Launch music player when headset is connected -->
+    <string name="headset_connect_player_disabled">Vô hiệu hóa</string>
+    <!-- Power menu on secure lockscreen -->
+    <!-- QS rows and columns -->
+    <string name="qs_category">Ô cài đặt nhanh</string>
+    <!-- Quick unlock -->
+    <!-- Recents Membar -->
+    <!-- Clear all recents -->
+    <string name="recents_clear_all_location_title">Vị trí phím Xóa tất cả</string>
+    <string name="recents_clear_all_location_top_right">Trên cùng bên phải</string>
+    <string name="recents_clear_all_location_top_left">Trên cùng bên trái</string>
+    <string name="recents_clear_all_location_top_center">Chính giữa phía trên</string>
+    <string name="recents_clear_all_location_bottom_right">Dưới cùng bên phải</string>
+    <string name="recents_clear_all_location_bottom_left">Dưới cùng bên trái</string>
+    <string name="recents_clear_all_location_bottom_center">Chính giữa phía dưới</string>
+    <!-- Battery Styles -->
+    <!-- Quick Settings brightness icon -->
+    <!-- Option to show brightness bar in quick settings -->
+    <!-- Advanced restart options -->
+    <!-- Show 4G instead of LTE -->
+    <!-- Smart Pixels -->
+    <!-- Gestures -->
+    <string name="gestures_preference_title">Cử chỉ</string>
+    <!-- Carbon gestures -->
+    <string name="carbon_gesture_disabled">Vô hiệu hóa</string>
+    <string name="carbon_gesture_screenshot">Ảnh chụp màn hình</string>
+    <!-- Fingerprint authentication vibration -->
+    <!-- Fingerprint unlock keystore -->
+    <!-- Quick QS scroller -->
+    <!-- Data Disabled Icon -->
+    <!-- Gestures -->
+    <!-- Toggle navigation bar -->
 </resources>

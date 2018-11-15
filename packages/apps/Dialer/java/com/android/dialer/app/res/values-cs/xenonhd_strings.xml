@@ -15,25 +15,25 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- In-call vibrations -->
-  <string name="incall_vibration_category_title">Vibrace během hovoru</string>
-  <string name="incall_vibrate_outgoing_title">Vibrace při odpovědi</string>
-  <string name="incall_vibrate_call_waiting_title">Vibrace při dalším hovoru</string>
-  <string name="incall_vibrate_hangup_title">Vibrace po zavěšení</string>
-  <string name="incall_vibrate_45_title">Vibrace každou minutu</string>
-  <string name="incall_vibrate_45_summary">Vibrace každou 45. sekundu každé minuty při odchozím volání</string>
-  <!-- Smart Options -->
-  <string name="smart_category_title">Další možnosti</string>
-  <string name="smart_mute_title">Inteligentní ztlumení</string>
-  <string name="smart_mute_summary">Ztlumit vyzvánění příchozího hovoru otočením zařízení</string>
-  <!-- Proximity speaker -->
-  <string name="speaker_settings_label">Přiblížení reproduktoru</string>
-  <string name="prox_auto_speaker_title">Automatické přiblížení reproduktoru</string>
-  <string name="prox_auto_speaker_summary">Automaticky povolit hlasitý reproduktor při odebrání z ucha</string>
-  <string name="prox_auto_speaker_delay_title">Zpoždění hlasitého reproduktoru</string>
-  <string name="prox_auto_speaker_delay_dialog_title">Zpoždění hlasitého reporduktoru v (ms)</string>
-  <string name="prox_auto_speaker_delay_summary">Hlasitý reproduktor bude aktivován za <xliff:g id="number">%d </xliff:g> ms</string>
-  <string name="prox_auto_speaker_incall_only_title">Pouze při hovoru</string>
-  <string name="prox_auto_speaker_incall_only_summary_on">Při odchozích hovorech se reproduktor aktivuje při přijmutí hovoru protistranou</string>
-  <string name="prox_auto_speaker_incall_only_summary_off">Reproduktor bude aktivní vždy, i při vyzvánění (výchozí)</string>
+    <!-- In-call vibrations -->
+    <string name="incall_vibration_category_title">Vibrace během hovoru</string>
+    <string name="incall_vibrate_outgoing_title">Vibrace při odpovědi</string>
+    <string name="incall_vibrate_call_waiting_title">Vibrace při dalším hovoru</string>
+    <string name="incall_vibrate_hangup_title">Vibrace po zavěšení</string>
+    <string name="incall_vibrate_45_title">Vibrace každou minutu</string>
+    <string name="incall_vibrate_45_summary">Vibrace každou 45. sekundu každé minuty při odchozím volání</string>
+    <!-- Smart Options -->
+    <string name="smart_category_title">Další možnosti</string>
+    <string name="smart_mute_title">Inteligentní ztlumení</string>
+    <string name="smart_mute_summary">Ztlumit vyzvánění příchozího hovoru otočením zařízení</string>
+    <!-- Proximity speaker -->
+    <string name="speaker_settings_label">Přiblížení reproduktoru</string>
+    <string name="prox_auto_speaker_title">Automatické přiblížení reproduktoru</string>
+    <string name="prox_auto_speaker_summary">Automaticky povolit hlasitý reproduktor při odebrání z ucha</string>
+    <string name="prox_auto_speaker_delay_title">Zpoždění hlasitého reproduktoru</string>
+    <string name="prox_auto_speaker_delay_dialog_title">Zpoždění hlasitého reporduktoru v (ms)</string>
+    <string name="prox_auto_speaker_delay_summary">Hlasitý reproduktor bude aktivován za <xliff:g id="number">%d </xliff:g> ms</string>
+    <string name="prox_auto_speaker_incall_only_title">Pouze při hovoru</string>
+    <string name="prox_auto_speaker_incall_only_summary_on">Při odchozích hovorech se reproduktor aktivuje při přijmutí hovoru protistranou</string>
+    <string name="prox_auto_speaker_incall_only_summary_off">Reproduktor bude aktivní vždy, i při vyzvánění (výchozí)</string>
 </resources>

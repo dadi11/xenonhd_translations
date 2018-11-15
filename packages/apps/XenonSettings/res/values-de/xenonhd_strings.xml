@@ -15,90 +15,90 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- App Title -->
-  <string name="xenonhd_settings_title">XenonHD-Einstellungen</string>
-  <!-- Categories -->
-  <string name="buttons_title">Tasten</string>
-  <string name="gestures_title">Gesten</string>
-  <string name="lockscreen_title">Bildschirm sperren</string>
-  <string name="misc_title">Verschiedenes</string>
-  <string name="navigation_title">Navigationsleiste</string>
-  <string name="qs_title">Schnelleinstellungen</string>
-  <string name="recents_title">Kürzlich verwendete Anwendungen</string>
-  <string name="statusbar_title">Benachrichtigungsleiste</string>
-  <string name="notifications_title">Benachrichtigungen</string>
-  <string name="xenonhd_title">XenonHD Hub</string>
-  <string name="xenonsettings_title">XenonHD-Einstellungen</string>
-  <!-- Changelog -->
-  <string name="changelog_xenonhd_title">Änderungsprotokoll</string>
-  <string name="changelog_xenonhd_error">Änderungsprotokoll konnte nicht geladen werden</string>
-  <string name="changelog_xenonhd_summary">Zeige Änderungen der aktuellen Version</string>
-  <!-- General strings -->
-  <string name="ok">OK</string>
-  <string name="reset">Zurücksetzen</string>
-  <string name="cancel">Abbrechen</string>
-  <string name="save">Speichern</string>
-  <!-- Color Picker -->
-  <string name="dialog_color_picker">Farbauswahl</string>
-  <string name="press_color_to_apply">Berühren Sie eine der unten angezeigten Farben, um diese anzuwenden</string>
-  <string name="hex">Hex:</string>
-  <string name="set">Übernehmen</string>
-  <string name="color_default">Standard</string>
-  <!-- Seekbar -->
-  <string name="seekbar_no_default_value">Kein Standardwert festgelegt</string>
-  <string name="seekbar_default_value_set">Wert auf den Standard von <xliff:g id="number">%d</xliff:g> gesetzt</string>
-  <string name="seekbar_default_value_already_set">Standardwert ist bereits festgelegt</string>
-  <string name="seekbar_default_string">Standard</string>
-  <!-- XenonOTA -->
-  <string name="xenonota_title">XenonOTA</string>
-  <string name="xenonota_summary">Nach XenonHD-Updates suchen</string>
-  <!-- Launch music player when headset is connected -->
-  <string name="headset_connect_player_title">Musik-App beim Anschließen eines Kopfhörers starten</string>
-  <string name="headset_connect_player_disabled">Deaktiviert</string>
-  <string name="headset_connect_player_wired">Kabelgebundene Köpfhörer verbunden</string>
-  <string name="headset_connect_player_bt_no_carkit">Bluetooth-Kopfhörer (keine Freisprecheinrichtung) verbunden</string>
-  <string name="headset_connect_player_bt">Bluetooth-Kopfhörer verbunden</string>
-  <string name="headset_connect_player_both_no_carkit">Kopfhörer (keine Freisprecheinrichtung) verbunden</string>
-  <string name="headset_connect_player_both">Kopfhörer verbunden</string>
-  <!-- Power menu on secure lockscreen -->
-  <!-- QS rows and columns -->
-  <string name="qs_category">Schnelleinstellungs-Kacheln</string>
-  <string name="qs_columns_landscape_title">Spalten (Querformat)</string>
-  <string name="qs_columns_portrait_title">Spalten (Hochformat)</string>
-  <string name="qs_rows_columns_title">Zeilen und Spalten</string>
-  <string name="qs_rows_columns_summary">Anzahl der Zeilen und Spalten anpassen</string>
-  <string name="qs_rows_landscape_title">Zeilen (Querformat)</string>
-  <string name="qs_rows_portrait_title">Zeilen (Hochformat)</string>
-  <!-- Quick unlock -->
-  <string name="unlock_quick_unlock_control_title">Schnelles entsperren</string>
-  <string name="unlock_quick_unlock_control_summary">Automatisch entsperren, wenn PIN/Passwort korrekt eingegeben wird</string>
-  <!-- Recents Membar -->
-  <!-- Clear all recents -->
-  <string name="recents_clear_all_location_title">Position der Alle-Schließen Taste</string>
-  <string name="recents_clear_all_location_top_right">Oben rechts</string>
-  <string name="recents_clear_all_location_top_left">Oben links</string>
-  <string name="recents_clear_all_location_top_center">Oben in der Mitte</string>
-  <string name="recents_clear_all_location_bottom_right">Unten rechts</string>
-  <string name="recents_clear_all_location_bottom_left">Unten links</string>
-  <string name="recents_clear_all_location_bottom_center">Unten in der Mitte</string>
-  <!-- Battery Styles -->
-  <string name="battery_percent_none">Nicht anzeigen</string>
-  <!-- Quick Settings brightness icon -->
-  <!-- Option to show brightness bar in quick settings -->
-  <string name="show_brightness_title">Helligkeitsregler</string>
-  <!-- Advanced restart options -->
-  <!-- Show 4G instead of LTE -->
-  <!-- Smart Pixels -->
-  <!-- Gestures -->
-  <string name="gestures_preference_title">Gesten</string>
-  <!-- Carbon gestures -->
-  <string name="carbon_gesture_disabled">Deaktiviert</string>
-  <string name="carbon_gesture_screenshot">Bildschirmfoto</string>
-  <!-- Fingerprint authentication vibration -->
-  <string name="fprint_sucess_vib_title">Vibrieren bei Fingerabdruck-Authentifizierung</string>
-  <!-- Fingerprint unlock keystore -->
-  <!-- Quick QS scroller -->
-  <!-- Data Disabled Icon -->
-  <!-- Gestures -->
-  <!-- Toggle navigation bar -->
+    <!-- App Title -->
+    <string name="xenonhd_settings_title">XenonHD-Einstellungen</string>
+    <!-- Categories -->
+    <string name="buttons_title">Tasten</string>
+    <string name="gestures_title">Gesten</string>
+    <string name="lockscreen_title">Bildschirm sperren</string>
+    <string name="misc_title">Verschiedenes</string>
+    <string name="navigation_title">Navigationsleiste</string>
+    <string name="qs_title">Schnelleinstellungen</string>
+    <string name="recents_title">Kürzlich verwendete Anwendungen</string>
+    <string name="statusbar_title">Benachrichtigungsleiste</string>
+    <string name="notifications_title">Benachrichtigungen</string>
+    <string name="xenonhd_title">XenonHD Hub</string>
+    <string name="xenonsettings_title">XenonHD-Einstellungen</string>
+    <!-- Changelog -->
+    <string name="changelog_xenonhd_title">Änderungsprotokoll</string>
+    <string name="changelog_xenonhd_error">Änderungsprotokoll konnte nicht geladen werden</string>
+    <string name="changelog_xenonhd_summary">Zeige Änderungen der aktuellen Version</string>
+    <!-- General strings -->
+    <string name="ok">OK</string>
+    <string name="reset">Zurücksetzen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="save">Speichern</string>
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Farbauswahl</string>
+    <string name="press_color_to_apply">Berühren Sie eine der unten angezeigten Farben, um diese anzuwenden</string>
+    <string name="hex">Hex:</string>
+    <string name="set">Übernehmen</string>
+    <string name="color_default">Standard</string>
+    <!-- Seekbar -->
+    <string name="seekbar_no_default_value">Kein Standardwert festgelegt</string>
+    <string name="seekbar_default_value_set">Wert auf den Standard von <xliff:g id="number">%d</xliff:g> gesetzt</string>
+    <string name="seekbar_default_value_already_set">Standardwert ist bereits festgelegt</string>
+    <string name="seekbar_default_string">Standard</string>
+    <!-- XenonOTA -->
+    <string name="xenonota_title">XenonOTA</string>
+    <string name="xenonota_summary">Nach XenonHD-Updates suchen</string>
+    <!-- Launch music player when headset is connected -->
+    <string name="headset_connect_player_title">Musik-App beim Anschließen eines Kopfhörers starten</string>
+    <string name="headset_connect_player_disabled">Deaktiviert</string>
+    <string name="headset_connect_player_wired">Kabelgebundene Köpfhörer verbunden</string>
+    <string name="headset_connect_player_bt_no_carkit">Bluetooth-Kopfhörer (keine Freisprecheinrichtung) verbunden</string>
+    <string name="headset_connect_player_bt">Bluetooth-Kopfhörer verbunden</string>
+    <string name="headset_connect_player_both_no_carkit">Kopfhörer (keine Freisprecheinrichtung) verbunden</string>
+    <string name="headset_connect_player_both">Kopfhörer verbunden</string>
+    <!-- Power menu on secure lockscreen -->
+    <!-- QS rows and columns -->
+    <string name="qs_category">Schnelleinstellungs-Kacheln</string>
+    <string name="qs_columns_landscape_title">Spalten (Querformat)</string>
+    <string name="qs_columns_portrait_title">Spalten (Hochformat)</string>
+    <string name="qs_rows_columns_title">Zeilen und Spalten</string>
+    <string name="qs_rows_columns_summary">Anzahl der Zeilen und Spalten anpassen</string>
+    <string name="qs_rows_landscape_title">Zeilen (Querformat)</string>
+    <string name="qs_rows_portrait_title">Zeilen (Hochformat)</string>
+    <!-- Quick unlock -->
+    <string name="unlock_quick_unlock_control_title">Schnelles entsperren</string>
+    <string name="unlock_quick_unlock_control_summary">Automatisch entsperren, wenn PIN/Passwort korrekt eingegeben wird</string>
+    <!-- Recents Membar -->
+    <!-- Clear all recents -->
+    <string name="recents_clear_all_location_title">Position der Alle-Schließen Taste</string>
+    <string name="recents_clear_all_location_top_right">Oben rechts</string>
+    <string name="recents_clear_all_location_top_left">Oben links</string>
+    <string name="recents_clear_all_location_top_center">Oben in der Mitte</string>
+    <string name="recents_clear_all_location_bottom_right">Unten rechts</string>
+    <string name="recents_clear_all_location_bottom_left">Unten links</string>
+    <string name="recents_clear_all_location_bottom_center">Unten in der Mitte</string>
+    <!-- Battery Styles -->
+    <string name="battery_percent_none">Nicht anzeigen</string>
+    <!-- Quick Settings brightness icon -->
+    <!-- Option to show brightness bar in quick settings -->
+    <string name="show_brightness_title">Helligkeitsregler</string>
+    <!-- Advanced restart options -->
+    <!-- Show 4G instead of LTE -->
+    <!-- Smart Pixels -->
+    <!-- Gestures -->
+    <string name="gestures_preference_title">Gesten</string>
+    <!-- Carbon gestures -->
+    <string name="carbon_gesture_disabled">Deaktiviert</string>
+    <string name="carbon_gesture_screenshot">Bildschirmfoto</string>
+    <!-- Fingerprint authentication vibration -->
+    <string name="fprint_sucess_vib_title">Vibrieren bei Fingerabdruck-Authentifizierung</string>
+    <!-- Fingerprint unlock keystore -->
+    <!-- Quick QS scroller -->
+    <!-- Data Disabled Icon -->
+    <!-- Gestures -->
+    <!-- Toggle navigation bar -->
 </resources>

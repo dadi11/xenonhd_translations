@@ -15,25 +15,25 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- In-call vibrations -->
-  <string name="incall_vibration_category_title">Δόνηση κατά την κλήση</string>
-  <string name="incall_vibrate_outgoing_title">Δόνηση στην απάντηση</string>
-  <string name="incall_vibrate_call_waiting_title">Δόνηση στην αναμονή κλήσης</string>
-  <string name="incall_vibrate_hangup_title">Δόνηση στο κλείσιμο</string>
-  <string name="incall_vibrate_45_title">Δόνηση κάθε 1 λεπτό</string>
-  <string name="incall_vibrate_45_summary">Δόνηση στο 45ο δευτερόλεπτο κάθε λεπτού κατά τη διάρκεια εξερχόμενων κλήσεων</string>
-  <!-- Smart Options -->
-  <string name="smart_category_title">Άλλες επιλογές</string>
-  <string name="smart_mute_title">Έξυπνη σίγαση</string>
-  <string name="smart_mute_summary">Σιγήστε την εισερχόμενη κλήση αναποδογυρίζοντας την συσκευή σας</string>
-  <!-- Proximity speaker -->
-  <string name="speaker_settings_label">Εγγύτητα μεγαφώνου</string>
-  <string name="prox_auto_speaker_title">Αυτόματη εγγύτητα μεγαφώνου</string>
-  <string name="prox_auto_speaker_summary">Ενεργοποιήσετε το μεγάφωνο αυτόματα όταν το τηλέφωνό σας έχει απομακρυνθεί από το αυτί σας</string>
-  <string name="prox_auto_speaker_delay_title">Καθυστέρηση μεγαφώνου</string>
-  <string name="prox_auto_speaker_delay_dialog_title">Καθυστέρηση μεγαφώνου σε (ms)</string>
-  <string name="prox_auto_speaker_delay_summary">Το μεγάφωνο θα ενεργοποιηθεί σε <xliff:g id="number">%d</xliff:g> ms</string>
-  <string name="prox_auto_speaker_incall_only_title">Μόνο κατά την κλήση</string>
-  <string name="prox_auto_speaker_incall_only_summary_on">Για τις εξερχόμενες κλήσεις, το ακουστικό θα ενεργοποιηθεί μόνο όταν απαντηθεί η κλήση</string>
-  <string name="prox_auto_speaker_incall_only_summary_off">Το ακουστικό θα είναι ενεργό σε όλη τη διάρκεια της κλήσης σε ανοιχτή ακρόαση(προεπιλογή)</string>
+    <!-- In-call vibrations -->
+    <string name="incall_vibration_category_title">Δόνηση κατά την κλήση</string>
+    <string name="incall_vibrate_outgoing_title">Δόνηση στην απάντηση</string>
+    <string name="incall_vibrate_call_waiting_title">Δόνηση στην αναμονή κλήσης</string>
+    <string name="incall_vibrate_hangup_title">Δόνηση στο κλείσιμο</string>
+    <string name="incall_vibrate_45_title">Δόνηση κάθε 1 λεπτό</string>
+    <string name="incall_vibrate_45_summary">Δόνηση στο 45ο δευτερόλεπτο κάθε λεπτού κατά τη διάρκεια εξερχόμενων κλήσεων</string>
+    <!-- Smart Options -->
+    <string name="smart_category_title">Άλλες επιλογές</string>
+    <string name="smart_mute_title">Έξυπνη σίγαση</string>
+    <string name="smart_mute_summary">Σιγήστε την εισερχόμενη κλήση αναποδογυρίζοντας την συσκευή σας</string>
+    <!-- Proximity speaker -->
+    <string name="speaker_settings_label">Εγγύτητα μεγαφώνου</string>
+    <string name="prox_auto_speaker_title">Αυτόματη εγγύτητα μεγαφώνου</string>
+    <string name="prox_auto_speaker_summary">Ενεργοποιήσετε το μεγάφωνο αυτόματα όταν το τηλέφωνό σας έχει απομακρυνθεί από το αυτί σας</string>
+    <string name="prox_auto_speaker_delay_title">Καθυστέρηση μεγαφώνου</string>
+    <string name="prox_auto_speaker_delay_dialog_title">Καθυστέρηση μεγαφώνου σε (ms)</string>
+    <string name="prox_auto_speaker_delay_summary">Το μεγάφωνο θα ενεργοποιηθεί σε <xliff:g id="number">%d</xliff:g> ms</string>
+    <string name="prox_auto_speaker_incall_only_title">Μόνο κατά την κλήση</string>
+    <string name="prox_auto_speaker_incall_only_summary_on">Για τις εξερχόμενες κλήσεις, το ακουστικό θα ενεργοποιηθεί μόνο όταν απαντηθεί η κλήση</string>
+    <string name="prox_auto_speaker_incall_only_summary_off">Το ακουστικό θα είναι ενεργό σε όλη τη διάρκεια της κλήσης σε ανοιχτή ακρόαση(προεπιλογή)</string>
 </resources>

@@ -15,25 +15,25 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- In-call vibrations -->
-  <string name="incall_vibration_category_title">Vibration während eines Anrufs</string>
-  <string name="incall_vibrate_outgoing_title">Vibrieren beim Antworten</string>
-  <string name="incall_vibrate_call_waiting_title">Beim Anklopfen vibrieren</string>
-  <string name="incall_vibrate_hangup_title">Beim Auflegen vibrieren</string>
-  <string name="incall_vibrate_45_title">Vibriere jede Minute</string>
-  <string name="incall_vibrate_45_summary">Vibriert bei 45 Sekunden in jeder Minute bei ausgehenden Anrufen</string>
-  <!-- Smart Options -->
-  <string name="smart_category_title">Andere Optionen</string>
-  <string name="smart_mute_title">Intelligentes Stummschalten</string>
-  <string name="smart_mute_summary">Den eingehenden Anruf durch Umdrehen des Handys stumm schalten</string>
-  <!-- Proximity speaker -->
-  <string name="speaker_settings_label">Abstandsabhängige Freisprechfunktion</string>
-  <string name="prox_auto_speaker_title">Automatisches Freisprechen</string>
-  <string name="prox_auto_speaker_summary">Freisprechen automatisch aktivieren, wenn das Telefon vom Ohr genommen wird</string>
-  <string name="prox_auto_speaker_delay_title">Aktivierungsverzögerung</string>
-  <string name="prox_auto_speaker_delay_dialog_title">Verzögerung (in ms)</string>
-  <string name="prox_auto_speaker_delay_summary">Freisprecheinrichtung wird in <xliff:g id="number">%d</xliff:g> ms aktiviert</string>
-  <string name="prox_auto_speaker_incall_only_title">Nur während eines Anrufs</string>
-  <string name="prox_auto_speaker_incall_only_summary_on">Bei ausgehenden Anrufen wird der Hörer erst dann aktiv, wenn der Angerufene antwortet</string>
-  <string name="prox_auto_speaker_incall_only_summary_off">Der Hörer ist während des gesamten Telefonats aktiv (Standard)</string>
+    <!-- In-call vibrations -->
+    <string name="incall_vibration_category_title">Vibration während eines Anrufs</string>
+    <string name="incall_vibrate_outgoing_title">Vibrieren beim Antworten</string>
+    <string name="incall_vibrate_call_waiting_title">Beim Anklopfen vibrieren</string>
+    <string name="incall_vibrate_hangup_title">Beim Auflegen vibrieren</string>
+    <string name="incall_vibrate_45_title">Vibriere jede Minute</string>
+    <string name="incall_vibrate_45_summary">Vibriert bei 45 Sekunden in jeder Minute bei ausgehenden Anrufen</string>
+    <!-- Smart Options -->
+    <string name="smart_category_title">Andere Optionen</string>
+    <string name="smart_mute_title">Intelligentes Stummschalten</string>
+    <string name="smart_mute_summary">Den eingehenden Anruf durch Umdrehen des Handys stumm schalten</string>
+    <!-- Proximity speaker -->
+    <string name="speaker_settings_label">Abstandsabhängige Freisprechfunktion</string>
+    <string name="prox_auto_speaker_title">Automatisches Freisprechen</string>
+    <string name="prox_auto_speaker_summary">Freisprechen automatisch aktivieren, wenn das Telefon vom Ohr genommen wird</string>
+    <string name="prox_auto_speaker_delay_title">Aktivierungsverzögerung</string>
+    <string name="prox_auto_speaker_delay_dialog_title">Verzögerung (in ms)</string>
+    <string name="prox_auto_speaker_delay_summary">Freisprecheinrichtung wird in <xliff:g id="number">%d</xliff:g> ms aktiviert</string>
+    <string name="prox_auto_speaker_incall_only_title">Nur während eines Anrufs</string>
+    <string name="prox_auto_speaker_incall_only_summary_on">Bei ausgehenden Anrufen wird der Hörer erst dann aktiv, wenn der Angerufene antwortet</string>
+    <string name="prox_auto_speaker_incall_only_summary_off">Der Hörer ist während des gesamten Telefonats aktiv (Standard)</string>
 </resources>

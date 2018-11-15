@@ -15,9 +15,18 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- App name -->
-  <!-- Dialog -->
-  <!-- Main screen -->
-  <!-- Notifications -->
-  <!-- Welcome screen -->
+    <!-- App name -->
+    <string name="app_name">Instalador de navegador</string>
+    <!-- Dialog -->
+    <string name="alert">Navegador instalado con éxito</string>
+    <string name="help">Ahora puede desactivar esta aplicación en ajustes. ¿Quieres hacerlo?</string>
+    <!-- Main screen -->
+    <string name="instruction">Pulse en el icono de tu navegador favorito para descargarlo</string>
+    <!-- Notifications -->
+    <string name="notification">Descargando $</string>
+    <string name="bye">¡Disfrute de su navegador!</string>
+    <!-- Welcome screen -->
+    <string name="learn_more">Toque en el icono en la esquina superior derecha para saber más</string>
+    <string name="tutorial">Esta aplicación te permitirá elegir qué navegador que desea utilizar por defecto</string>
+    <string name="next">Continuar</string>
 </resources>

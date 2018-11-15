@@ -15,39 +15,39 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- App Title -->
-  <!-- Categories -->
-  <!-- Changelog -->
-  <string name="changelog_xenonhd_title">Istoricul schimbărilor</string>
-  <string name="changelog_xenonhd_error">Nu am putut încărca jurnalul cu schimbări</string>
-  <!-- General strings -->
-  <!-- Color Picker -->
-  <string name="set">Setaţi</string>
-  <string name="color_default">Prestabilit</string>
-  <!-- Seekbar -->
-  <string name="seekbar_default_string">Prestabilit</string>
-  <!-- XenonOTA -->
-  <string name="xenonota_title">XenonOTA</string>
-  <!-- Launch music player when headset is connected -->
-  <!-- Power menu on secure lockscreen -->
-  <!-- QS rows and columns -->
-  <!-- Quick unlock -->
-  <!-- Recents Membar -->
-  <!-- Clear all recents -->
-  <!-- Battery Styles -->
-  <!-- Quick Settings brightness icon -->
-  <!-- Option to show brightness bar in quick settings -->
-  <string name="show_brightness_title">Glisorul Luminozitati</string>
-  <!-- Advanced restart options -->
-  <!-- Show 4G instead of LTE -->
-  <!-- Smart Pixels -->
-  <!-- Gestures -->
-  <!-- Carbon gestures -->
-  <string name="carbon_gesture_screenshot">Captură ecran</string>
-  <!-- Fingerprint authentication vibration -->
-  <!-- Fingerprint unlock keystore -->
-  <!-- Quick QS scroller -->
-  <!-- Data Disabled Icon -->
-  <!-- Gestures -->
-  <!-- Toggle navigation bar -->
+    <!-- App Title -->
+    <!-- Categories -->
+    <!-- Changelog -->
+    <string name="changelog_xenonhd_title">Istoricul schimbărilor</string>
+    <string name="changelog_xenonhd_error">Nu am putut încărca jurnalul cu schimbări</string>
+    <!-- General strings -->
+    <!-- Color Picker -->
+    <string name="set">Setaţi</string>
+    <string name="color_default">Prestabilit</string>
+    <!-- Seekbar -->
+    <string name="seekbar_default_string">Prestabilit</string>
+    <!-- XenonOTA -->
+    <string name="xenonota_title">XenonOTA</string>
+    <!-- Launch music player when headset is connected -->
+    <!-- Power menu on secure lockscreen -->
+    <!-- QS rows and columns -->
+    <!-- Quick unlock -->
+    <!-- Recents Membar -->
+    <!-- Clear all recents -->
+    <!-- Battery Styles -->
+    <!-- Quick Settings brightness icon -->
+    <!-- Option to show brightness bar in quick settings -->
+    <string name="show_brightness_title">Glisorul Luminozitati</string>
+    <!-- Advanced restart options -->
+    <!-- Show 4G instead of LTE -->
+    <!-- Smart Pixels -->
+    <!-- Gestures -->
+    <!-- Carbon gestures -->
+    <string name="carbon_gesture_screenshot">Captură ecran</string>
+    <!-- Fingerprint authentication vibration -->
+    <!-- Fingerprint unlock keystore -->
+    <!-- Quick QS scroller -->
+    <!-- Data Disabled Icon -->
+    <!-- Gestures -->
+    <!-- Toggle navigation bar -->
 </resources>

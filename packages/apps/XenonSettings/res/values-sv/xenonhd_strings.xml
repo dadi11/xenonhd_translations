@@ -15,47 +15,47 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- App Title -->
-  <!-- Categories -->
-  <string name="lockscreen_title">Låsskärm</string>
-  <!-- Changelog -->
-  <string name="changelog_xenonhd_title">Ändringslogg</string>
-  <string name="changelog_xenonhd_error">Kan inte ladda ändringslogg</string>
-  <!-- General strings -->
-  <string name="reset">Återställ</string>
-  <string name="save">Spara</string>
-  <!-- Color Picker -->
-  <string name="dialog_color_picker">Färgväljare</string>
-  <string name="press_color_to_apply">Tryck på en färg nedan för att tillämpa</string>
-  <string name="hex">Hex:</string>
-  <string name="set">Ställ in</string>
-  <string name="color_default">Förvalt</string>
-  <!-- Seekbar -->
-  <string name="seekbar_default_string">Förvalt</string>
-  <!-- XenonOTA -->
-  <string name="xenonota_title">XenonOTA</string>
-  <!-- Launch music player when headset is connected -->
-  <string name="headset_connect_player_disabled">Inaktiverad</string>
-  <!-- Power menu on secure lockscreen -->
-  <!-- QS rows and columns -->
-  <!-- Quick unlock -->
-  <!-- Recents Membar -->
-  <!-- Clear all recents -->
-  <!-- Battery Styles -->
-  <!-- Quick Settings brightness icon -->
-  <!-- Option to show brightness bar in quick settings -->
-  <string name="show_brightness_title">Ljusstyrkereglage</string>
-  <!-- Advanced restart options -->
-  <!-- Show 4G instead of LTE -->
-  <!-- Smart Pixels -->
-  <!-- Gestures -->
-  <!-- Carbon gestures -->
-  <string name="carbon_gesture_disabled">Inaktiverad</string>
-  <string name="carbon_gesture_screenshot">Skärmdump</string>
-  <!-- Fingerprint authentication vibration -->
-  <!-- Fingerprint unlock keystore -->
-  <!-- Quick QS scroller -->
-  <!-- Data Disabled Icon -->
-  <!-- Gestures -->
-  <!-- Toggle navigation bar -->
+    <!-- App Title -->
+    <!-- Categories -->
+    <string name="lockscreen_title">Låsskärm</string>
+    <!-- Changelog -->
+    <string name="changelog_xenonhd_title">Ändringslogg</string>
+    <string name="changelog_xenonhd_error">Kan inte ladda ändringslogg</string>
+    <!-- General strings -->
+    <string name="reset">Återställ</string>
+    <string name="save">Spara</string>
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Färgväljare</string>
+    <string name="press_color_to_apply">Tryck på en färg nedan för att tillämpa</string>
+    <string name="hex">Hex:</string>
+    <string name="set">Ställ in</string>
+    <string name="color_default">Förvalt</string>
+    <!-- Seekbar -->
+    <string name="seekbar_default_string">Förvalt</string>
+    <!-- XenonOTA -->
+    <string name="xenonota_title">XenonOTA</string>
+    <!-- Launch music player when headset is connected -->
+    <string name="headset_connect_player_disabled">Inaktiverad</string>
+    <!-- Power menu on secure lockscreen -->
+    <!-- QS rows and columns -->
+    <!-- Quick unlock -->
+    <!-- Recents Membar -->
+    <!-- Clear all recents -->
+    <!-- Battery Styles -->
+    <!-- Quick Settings brightness icon -->
+    <!-- Option to show brightness bar in quick settings -->
+    <string name="show_brightness_title">Ljusstyrkereglage</string>
+    <!-- Advanced restart options -->
+    <!-- Show 4G instead of LTE -->
+    <!-- Smart Pixels -->
+    <!-- Gestures -->
+    <!-- Carbon gestures -->
+    <string name="carbon_gesture_disabled">Inaktiverad</string>
+    <string name="carbon_gesture_screenshot">Skärmdump</string>
+    <!-- Fingerprint authentication vibration -->
+    <!-- Fingerprint unlock keystore -->
+    <!-- Quick QS scroller -->
+    <!-- Data Disabled Icon -->
+    <!-- Gestures -->
+    <!-- Toggle navigation bar -->
 </resources>

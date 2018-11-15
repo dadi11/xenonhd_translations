@@ -15,38 +15,51 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- About phone screen -->
-  <string name="xenonhd_version">Spanish</string>
-  <string name="xenonhd_maintainer">Desarrollador</string>
-  <string name="device_info_title">Información del dispositivo</string>
-  <!-- XenonHD Settings -->
-  <!-- Volume Steps -->
-  <string name="volume_steps_title">Niveles de volumen</string>
-  <string name="volume_steps_alarm_title">Alarma</string>
-  <string name="volume_steps_music_title">Música</string>
-  <string name="volume_steps_notification_title">Notificación</string>
-  <string name="volume_steps_ring_title">Tono de llamada</string>
-  <string name="volume_steps_system_title">Sistema</string>
-  <string name="volume_steps_voice_call_title">Llamada de voz</string>
-  <string name="volume_steps_reset">Resetear</string>
-  <!-- Vendor version -->
-  <string name="vendor_version_default">Desconocido</string>
-  <!-- Screenshot sound -->
-  <string name="screenshot_sound_title">Sonido de captura de pantalla</string>
-  <string name="screenshot_sound_summary">Reproducir sonido cuando se hace una captura de pantalla</string>
-  <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
-  <string name="local_backup_password_title">Contraseña de copia de seguridad</string>
-  <!-- Format string for fingerprint location message -->
-  <!-- Fingerprint sensor locations -->
-  <!-- Encryption and credential -->
-  <!-- AmbientDisplay music ticker -->
-  <string name="force_ambient_for_media_off">Deshabilitado</string>
-  <string name="force_ambient_for_media_on">Habilitado</string>
-  <!-- Force authorize substratum packages -->
-  <string name="force_authorize_substratum_packages_title">Forzar autorización de cada aplicación de temas</string>
-  <string name="force_authorize_substratum_packages_summary">Permitir temas de origen desconocido</string>
-  <!-- Manage applications: show substratum overlays -->
-  <string name="filter_substratum_apps">Capas de Substratum</string>
-  <string name="menu_show_substratum">Mostrar capas</string>
-  <string name="menu_hide_substratum">Ocultar capas</string>
+    <!-- About phone screen -->
+    <string name="xenonhd_version">Spanish</string>
+    <string name="xenonhd_maintainer">Desarrollador</string>
+    <string name="device_info_title">Información del dispositivo</string>
+    <!-- XenonHD Settings -->
+    <string name="xenonhd_settings_title">Interfaz XenonHD</string>
+    <string name="xenonhd_settings_summary">Ajustes adicionales</string>
+    <!-- Volume Steps -->
+    <string name="volume_steps_title">Niveles de volumen</string>
+    <string name="volume_steps_alarm_title">Alarma</string>
+    <string name="volume_steps_dtmf_title">DTMF</string>
+    <string name="volume_steps_music_title">Música</string>
+    <string name="volume_steps_notification_title">Notificación</string>
+    <string name="volume_steps_ring_title">Tono de llamada</string>
+    <string name="volume_steps_system_title">Sistema</string>
+    <string name="volume_steps_voice_call_title">Llamada de voz</string>
+    <string name="volume_steps_reset">Resetear</string>
+    <!-- Vendor version -->
+    <string name="vendor_version">Versión de proveedor</string>
+    <string name="vendor_version_default">Desconocido</string>
+    <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">Sonido de captura de pantalla</string>
+    <string name="screenshot_sound_summary">Reproducir sonido cuando se hace una captura de pantalla</string>
+    <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+    <string name="local_backup_password_title">Contraseña de copia de seguridad</string>
+    <!-- Format string for fingerprint location message -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">Localiza el sersor de huella dactilar <xliff:g id="sensor_location">%1$s</xliff:g> de tu dispositivo</string>
+    <!-- Fingerprint sensor locations -->
+    <string name="security_settings_fingerprint_sensor_location_back">atrás</string>
+    <string name="security_settings_fingerprint_sensor_location_left">lado izquierdo</string>
+    <string name="security_settings_fingerprint_sensor_location_right">lado derecho</string>
+    <!-- Encryption and credential -->
+    <string name="custom_encryption_and_credential_settings_summary_on">El dispositivo está encriptado</string>
+    <string name="custom_encryption_and_credential_settings_summary_off">El dispositivo no está encriptado</string>
+    <!-- AmbientDisplay music ticker -->
+    <string name="ambient_display_media_cat">Reproduciendo</string>
+    <string name="force_ambient_for_media_pref_title">Mostrar canción en pantalla de ambiente</string>
+    <string name="force_ambient_for_media_off">Deshabilitado</string>
+    <string name="force_ambient_for_media_on">Habilitado</string>
+    <string name="force_ambient_for_media_on_forced">Habilitado y obligatorio</string>
+    <!-- Force authorize substratum packages -->
+    <string name="force_authorize_substratum_packages_title">Forzar autorización de cada aplicación de temas</string>
+    <string name="force_authorize_substratum_packages_summary">Permitir temas de origen desconocido</string>
+    <!-- Manage applications: show substratum overlays -->
+    <string name="filter_substratum_apps">Capas de Substratum</string>
+    <string name="menu_show_substratum">Mostrar capas</string>
+    <string name="menu_hide_substratum">Ocultar capas</string>
 </resources>
