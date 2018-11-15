@@ -76,6 +76,9 @@
     <string name="xenonhd_version">XenonHD %s</string>
     <!-- Settings -->
     <string name="disabled">已禁用</string>
+    <string name="rom_latest">最新 (官方版和试验版)</string>
+    <string name="rom_official">仅官方版</string>
+    <string name="rom_experimental">仅试验版</string>
     <string name="gapps_variant">GApps版本</string>
     <string name="magisk_variant">Magisk版本</string>
     <string name="magisk_latest">最新 (稳定版和测试版)</string>
