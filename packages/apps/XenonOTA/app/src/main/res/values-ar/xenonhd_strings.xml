@@ -76,6 +76,9 @@
     <string name="xenonhd_version">XenonHD %s</string>
     <!-- Settings -->
     <string name="disabled">غير مفعل</string>
+    <string name="rom_latest">الأحدث (الرسمي و التجريبي)</string>
+    <string name="rom_official">الرسمي فقط</string>
+    <string name="rom_experimental">تجريبي فقط</string>
     <string name="gapps_variant">نوع GApps</string>
     <string name="magisk_variant">نوع Magisk</string>
     <string name="magisk_latest">الأحدث (مستقر و بيتا)</string>
