@@ -72,6 +72,7 @@
     <string name="qs_rows_columns_summary">Seadista kiirsätete plaatide ridade ja veergude arv</string>
     <string name="qs_rows_landscape_title">Veerud - horisontaalpaigutus</string>
     <string name="qs_rows_portrait_title">Veerud - vertikaalpaigutus</string>
+    <string name="sysui_qqs_count_title">Väiksed plaadid</string>
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Kiiravamine</string>
     <string name="unlock_quick_unlock_control_summary">Ava automaatselt kui õige PIN/parool on sisestatud</string>
