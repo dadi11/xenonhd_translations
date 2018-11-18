@@ -72,6 +72,7 @@
     <string name="qs_rows_columns_summary">Seadista kiirsätete plaatide ridade ja veergude arv</string>
     <string name="qs_rows_landscape_title">Veerud - horisontaalpaigutus</string>
     <string name="qs_rows_portrait_title">Veerud - vertikaalpaigutus</string>
+    <string name="sysui_qqs_count_title">Väiksed plaadid</string>
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Kiiravamine</string>
     <string name="unlock_quick_unlock_control_summary">Ava automaatselt kui õige PIN/parool on sisestatud</string>
@@ -106,8 +107,10 @@
     <string name="battery_percent_inside">Näita ikooni sees</string>
     <!-- Quick Settings brightness icon -->
     <string name="brightness_icon_title">Automaatse heleduse ikoon</string>
+    <string name="brightness_icon_summary">Kuva automaatse heleduse ikoon vasakul pool heleduse liugurit, et muuta automaatset heleduse reguleerimist</string>
     <!-- Option to show brightness bar in quick settings -->
     <string name="show_brightness_title">Ereduse liugur</string>
+    <string name="show_brightness_summary">Kuva heleduse liugurit</string>
     <!-- Advanced restart options -->
     <string name="advanced_reboot_title">Täiustatud alglaadimine</string>
     <!-- Show 4G instead of LTE -->

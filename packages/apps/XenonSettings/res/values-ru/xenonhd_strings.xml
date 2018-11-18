@@ -167,6 +167,7 @@
     <string name="data_disabled_icon_summary">Показывать крест над значком сети, когда передача данных отключена</string>
     <!-- Gestures -->
     <string name="use_bottom_gesture_title">Жесты вверх</string>
+    <string name="use_bottom_gesture_summary">Панель навигации должна быть отключена! Свайп вверх слева и справа - \"Назад\". Свайп вверх от середины - \"Домой\". Свайп вверх и удержание - \"Последние приложения\"</string>
     <!-- Toggle navigation bar -->
     <string name="navigation_bar_enabled_title">Включить панель навигации</string>
 </resources>
