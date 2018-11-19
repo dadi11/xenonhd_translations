@@ -50,6 +50,7 @@
     <string name="advanced_reboot_summary">Όταν είναι ενεργή, περιλαμβάνονται στο μενού πλήκτρου απενεργοποίησης οι επιλογές επανεκκίνησης σε λειτουργία recovery ή bootloader</string>
     <!-- Face Unlock -->
     <!-- Tuners -->
+    <string name="lockscreen_tuner_title">Συντομεύσεις οθόνης κλειδώματος</string>
     <!-- Recents panel settings -->
     <string name="recents_clear_all_location_top_right">Πάνω δεξιά</string>
     <string name="recents_clear_all_location_top_left">Πάνω αριστερά</string>
