@@ -67,6 +67,7 @@
     <string name="current_version">目前版本：</string>
     <string name="download">下載</string>
     <string name="flash">刷入</string>
+    <string name="flash_clean">清除刷入</string>
     <string name="flash_gapps">刷入 GApps</string>
     <string name="flash_magisk">刷入 Magisk</string>
     <string name="my_device">裝置</string>
@@ -75,8 +76,16 @@
     <string name="xenonhd_version">XenonHD %s</string>
     <!-- Settings -->
     <string name="disabled">已停用</string>
+    <string name="rom_latest">最新 (官方版和實驗版)</string>
+    <string name="rom_official">僅官方版</string>
+    <string name="rom_experimental">僅實驗版</string>
     <string name="gapps_variant">GApps 變數</string>
+    <string name="magisk_variant">Magisk 變數</string>
+    <string name="magisk_latest">最新 (穩定版和測試版)</string>
+    <string name="magisk_stable">僅穩定版</string>
+    <string name="magisk_beta">僅測試版</string>
     <string name="hour">每小時</string>
+    <string name="interval_title">檢查更新計劃</string>
     <string name="onboot">啟動時</string>
     <string name="preferred_type">偏好構建類型</string>
     <string name="twelve_hours">每 12 小時</string>
