@@ -36,7 +36,6 @@
     <string name="flash_message">Θέλετε να κάνετε επανεκκίνηση και να εγκαταστήσετε το κατεβασμένο zip;</string>
     <string name="magisk_check">Έλεγχος για την τελευταία έκδοση του Magisk…</string>
     <string name="magisk_download_completed">Το Magisk κατέβηκε με επιτυχία. Μπορείτε τώρα να το εγκαταστήσετε μαζι με τη ROM</string>
-    <string name="magisk_message">Μία νέα έκδοση v%1$s είναι διαθέσιμη. \nΕπιθυμείτε τη μεταφόρτωση;</string>
     <string name="open_in_browser">Άνοιξε στον περιηγητή</string>
     <string name="reboot_warning">Θέλετε να εκκινήσετε στη recovery;</string>
     <string name="verification_failed">Αποτυχία επαλήθευσης</string>
@@ -72,7 +71,6 @@
     <string name="flash_magisk">Εγκατάσταση Magisk</string>
     <string name="my_device">Συσκευή</string>
     <string name="no_update_available">Δεν υπάρχουν διαθέσιμες ενημερώσεις</string>
-    <string name="update_available1">Διαθέσιμη ενημέρωση!\n%s</string>
     <string name="xenonhd_version">XenonHD %s</string>
     <!-- Settings -->
     <string name="disabled">Απενεργοποιημένο</string>

@@ -119,4 +119,6 @@
     <!-- Screenshot sound -->
     <string name="screenshot_sound_title">Som de captura de tela</string>
     <string name="screenshot_sound_summary">Tocar efeito de som ao capturar tela</string>
+    <!-- Screenrecord -->
+    <string name="global_actions_screenrecord_title">Gravação de tela</string>
 </resources>

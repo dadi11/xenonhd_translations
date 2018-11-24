@@ -38,4 +38,11 @@
     <!-- Smart Pixels QS Tile -->
     <string name="quick_settings_smart_pixels">Pixels Inteligentes</string>
     <string name="quick_settings_smart_pixels_on_power_save">Auto-ativação dos Pixels Inteligentes</string>
+    <!-- Screenrecord Notification Ticker -->
+    <!-- Screenrecord notification title -->
+    <!-- Screenrecord notification action: Stop -->
+    <!-- Screenrecord notification action: show/hide pointer -->
+    <!-- Screen record notification error title -->
+    <!-- Label for item that screenrecords in power menu options dialog -->
+    <string name="global_action_screenrecord">Gravação de tela</string>
 </resources>

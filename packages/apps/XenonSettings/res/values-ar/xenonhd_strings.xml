@@ -119,4 +119,6 @@
     <!-- Screenshot sound -->
     <string name="screenshot_sound_title">صوت التقاط صورة للشاشة</string>
     <string name="screenshot_sound_summary">تشغيل صوت عند التقاط صورة للشاشة</string>
+    <!-- Screenrecord -->
+    <string name="global_actions_screenrecord_title">تسجيل الشاشة</string>
 </resources>

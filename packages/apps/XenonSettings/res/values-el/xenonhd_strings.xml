@@ -111,4 +111,6 @@
     <!-- Screenshot sound -->
     <string name="screenshot_sound_title">Ηχος στιγμιότυπου οθόνης</string>
     <string name="screenshot_sound_summary">Αναπαραγωγή ήχου όταν λαμβάνεται στιγμιότυπο οθόνης</string>
+    <!-- Screenrecord -->
+    <string name="global_actions_screenrecord_title">Βιντεοσκόπηση Οθόνης</string>
 </resources>
