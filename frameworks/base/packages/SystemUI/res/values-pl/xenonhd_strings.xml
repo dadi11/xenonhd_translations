@@ -46,6 +46,7 @@
     <!-- Screenrecord notification action: Stop -->
     <string name="screenrecord_notif_stop">Zatrzymaj</string>
     <string name="screenrecord_notif_completed">Nagrywanie ekranu zakończone powodzeniem</string>
+    <string name="screenrecord_notif_duration">W sumie:</string>
     <!-- Screenrecord notification action: show/hide pointer -->
     <string name="screenrecord_notif_pointer_on">Pokaż wskaźnik</string>
     <string name="screenrecord_notif_pointer_off">Ukryj wskaźnik</string>
