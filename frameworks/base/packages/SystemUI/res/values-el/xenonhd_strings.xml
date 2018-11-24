@@ -38,4 +38,22 @@
     <!-- Smart Pixels QS Tile -->
     <string name="quick_settings_smart_pixels">Έξυπνα Πίξελ</string>
     <string name="quick_settings_smart_pixels_on_power_save">Αυτόματη ενεργοποίηση Έξυπνων Pixels</string>
+    <!-- Screenrecord Notification Ticker -->
+    <string name="screenrecord_notif_ticker">Η οθόνη καταγράφεται</string>
+    <string name="screenrecord_notif_final_ticker">Η οθόνη καταγράφηκε με επιτυχία</string>
+    <!-- Screenrecord notification title -->
+    <string name="screenrecord_notif_title">Καταγραφή οθόνης</string>
+    <!-- Screenrecord notification action: Stop -->
+    <string name="screenrecord_notif_stop">Διακοπή</string>
+    <string name="screenrecord_notif_completed">Η οθόνη καταγράφηκε με επιτυχία</string>
+    <!-- Screenrecord notification action: show/hide pointer -->
+    <string name="screenrecord_notif_pointer_on">Εμφάνιση δείκτη</string>
+    <string name="screenrecord_notif_pointer_off">Απόκρυψη δείκτη</string>
+    <!-- Screen record notification error title -->
+    <string name="screenrecord_notif_error">Αδυναμία καταγραφής της οθόνης</string>
+    <string name="notification_channel_screenrecord">Συλλογή εγγεγραμμένων βίντεο οθόνης</string>
+    <!-- Label for item that screenrecords in power menu options dialog -->
+    <string name="global_action_screenrecord">Βιντεοσκόπηση Οθόνης</string>
+    <string name="screenrecord_hide_hint">Απόκρυψη υποδείξεων</string>
+    <string name="screenrecord_show_hint">Εμφάνιση υπόδειξης</string>
 </resources>
