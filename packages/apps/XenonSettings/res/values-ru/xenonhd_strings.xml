@@ -119,4 +119,6 @@
     <!-- Screenshot sound -->
     <string name="screenshot_sound_title">Звук скриншота</string>
     <string name="screenshot_sound_summary">Проигрывать звук при скриншоте</string>
+    <!-- Screenrecord -->
+    <string name="global_actions_screenrecord_title">Запись экрана</string>
 </resources>
