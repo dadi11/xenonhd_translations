@@ -22,6 +22,8 @@
     <string name="xenonhd_settings_title">XenonHD Cubo</string>
     <string name="xenonhd_settings_summary">Configurações adicionais</string>
     <!-- Ambient Play -->
+    <string name="ambient_play_summary">Mostrar músicas próximas</string>
+    <string name="ambient_play_lockscreen_title">Mostrar músicas na tela de bloqueio</string>
     <string name="ambient_play_notifications_title">Notificações</string>
     <!-- Battery stats reset -->
     <string name="battery_stats_reset">Repor estatísticas</string>
