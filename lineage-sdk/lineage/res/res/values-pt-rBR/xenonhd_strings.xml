@@ -16,6 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Accent colors -->
+    <string name="accent_amber">Âmbar</string>
     <string name="accent_black">Preto</string>
     <string name="accent_brown">Marrom</string>
     <string name="accent_cyan">Ciano</string>
