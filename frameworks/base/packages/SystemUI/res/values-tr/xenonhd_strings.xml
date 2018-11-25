@@ -46,6 +46,7 @@
     <!-- Screenrecord notification action: Stop -->
     <string name="screenrecord_notif_stop">Durdur</string>
     <string name="screenrecord_notif_completed">Ekran başarıyla kaydedildi</string>
+    <string name="screenrecord_notif_duration">Toplam:</string>
     <!-- Screenrecord notification action: show/hide pointer -->
     <string name="screenrecord_notif_pointer_on">İşaretçiyi göster</string>
     <string name="screenrecord_notif_pointer_off">İşaretçiyi gizle</string>
