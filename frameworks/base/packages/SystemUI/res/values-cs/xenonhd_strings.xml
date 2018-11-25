@@ -46,6 +46,7 @@
     <!-- Screenrecord notification action: Stop -->
     <string name="screenrecord_notif_stop">Zastavit</string>
     <string name="screenrecord_notif_completed">Obrazovka byla úspěšně zaznamenána</string>
+    <string name="screenrecord_notif_duration">Celkem:</string>
     <!-- Screenrecord notification action: show/hide pointer -->
     <string name="screenrecord_notif_pointer_on">Zobrazit ukazatel</string>
     <string name="screenrecord_notif_pointer_off">Skrýt ukazatel</string>
