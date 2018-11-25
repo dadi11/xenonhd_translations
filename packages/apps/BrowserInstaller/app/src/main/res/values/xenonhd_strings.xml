@@ -14,23 +14,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- App name -->
     <string name="app_name">Browser Installer</string>
-
-    <!-- Dialog -->
-    <string name="alert">Browser installed successfully</string>
-    <string name="help">Now you can disable this app in Settings. Do you want to do it?</string>
-
-    <!-- Main screen -->
-    <string name="instruction">Tap on the icon of your favorite browser to download it</string>
+    <string name="tutorial">Select which browser you want to install from the menu below</string>
+    <string name="install">Install</string>
+    <string-array name="browsers_array">
+        <item>Chrome</item>
+        <item>Firefox</item>
+        <item>Opera</item>
+        <item>Via</item>
+    </string-array>
 
     <!-- Notifications -->
     <string name="notification">Downloading $</string>
     <string name="bye">Enjoy your browser!</string>
-
-    <!-- Welcome screen -->
-    <string name="welcome">Welcome to BrowserInstaller</string>
-    <string name="learn_more">Tap the icon in top right corner to learn more</string>
-    <string name="tutorial">This app will let you choose which browser you want to use by default</string>
-    <string name="next">Continue</string>
 </resources>
