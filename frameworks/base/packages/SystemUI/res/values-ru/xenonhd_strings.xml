@@ -46,6 +46,7 @@
     <!-- Screenrecord notification action: Stop -->
     <string name="screenrecord_notif_stop">Остановить</string>
     <string name="screenrecord_notif_completed">Экран успешно записан</string>
+    <string name="screenrecord_notif_duration">Всего:</string>
     <!-- Screenrecord notification action: show/hide pointer -->
     <string name="screenrecord_notif_pointer_on">Показать указатель</string>
     <string name="screenrecord_notif_pointer_off">Скрыть указатель</string>

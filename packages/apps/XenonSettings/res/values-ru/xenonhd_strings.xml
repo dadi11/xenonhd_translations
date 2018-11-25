@@ -30,6 +30,8 @@
     <string name="notifications_title">Уведомления</string>
     <string name="xenonhd_title">XenonHD Hub</string>
     <string name="xenonsettings_title">Настройки XenonHD</string>
+    <string name="themes_title">Темы</string>
+    <string name="themes_summary">Изменить стиль</string>
     <!-- Changelog -->
     <string name="changelog_xenonhd_title">Список изменений</string>
     <string name="changelog_xenonhd_error">Невозможно загрузить список изменений</string>
@@ -121,4 +123,5 @@
     <string name="screenshot_sound_summary">Проигрывать звук при скриншоте</string>
     <!-- Screenrecord -->
     <string name="global_actions_screenrecord_title">Запись экрана</string>
+    <string name="global_actions_screenrecord_summary">Добавить Запись экрана в меню выключения</string>
 </resources>
