@@ -46,6 +46,7 @@
     <!-- Screenrecord notification action: Stop -->
     <string name="screenrecord_notif_stop">إيقاف</string>
     <string name="screenrecord_notif_completed">تم تسجيل الشاشة بنجاح</string>
+    <string name="screenrecord_notif_duration">الإجمالي:</string>
     <!-- Screenrecord notification action: show/hide pointer -->
     <string name="screenrecord_notif_pointer_on">اظهر المؤشر</string>
     <string name="screenrecord_notif_pointer_off">إخفاء المؤشر</string>
