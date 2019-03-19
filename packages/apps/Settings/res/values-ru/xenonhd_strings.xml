@@ -22,6 +22,7 @@
     <string name="xenonhd_settings_title">XenonHD Hub</string>
     <string name="xenonhd_settings_summary">Дополнительные параметры</string>
     <!-- Ambient Play -->
+    <string name="ambient_play_summary">Показать песни звучащие рядом</string>
     <string name="ambient_play_lockscreen_title">Показывать песни на экране блокировки</string>
     <string name="ambient_play_notifications_title">Уведомления</string>
     <string name="ambient_play_switch_bar_on">Вкл</string>

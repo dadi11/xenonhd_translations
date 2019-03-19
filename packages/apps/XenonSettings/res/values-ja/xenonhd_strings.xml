@@ -30,6 +30,8 @@
     <string name="notifications_title">通知</string>
     <string name="xenonhd_title">XenonHDハブ</string>
     <string name="xenonsettings_title">XenonHDの設定</string>
+    <string name="themes_title">テーマ</string>
+    <string name="themes_summary">UI スタイルの変更</string>
     <!-- Changelog -->
     <string name="changelog_xenonhd_title">更新履歴</string>
     <string name="changelog_xenonhd_error">更新履歴を読み込めませんでした</string>
@@ -121,4 +123,5 @@
     <string name="screenshot_sound_summary">スクリーンショットを取得した際に効果音を鳴らす</string>
     <!-- Screenrecord -->
     <string name="global_actions_screenrecord_title">画面の録画</string>
+    <string name="global_actions_screenrecord_summary">電源メニューに画面録画の項目を追加する</string>
 </resources>

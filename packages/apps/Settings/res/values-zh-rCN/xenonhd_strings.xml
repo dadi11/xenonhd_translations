@@ -22,7 +22,12 @@
     <string name="xenonhd_settings_title">XenonHD 中心</string>
     <string name="xenonhd_settings_summary">附加设置</string>
     <!-- Ambient Play -->
+    <string name="ambient_play_summary">显示附近歌曲</string>
+    <string name="ambient_play_lockscreen_title">在锁屏界面显示歌曲</string>
     <string name="ambient_play_notifications_title">通知</string>
+    <string name="ambient_play_switch_bar_on">开启</string>
+    <string name="ambient_play_switch_bar_off">关闭</string>
+    <string name="ambient_play_help_text">自动识别附近播放的歌曲，你可以看到歌曲名称及作者。启用时，电池及数据的使用可能会受到影响。</string>
     <!-- Battery stats reset -->
     <string name="battery_stats_reset">重置统计数据</string>
     <string name="battery_stats_message">电池的历史统计数据将被重置</string>

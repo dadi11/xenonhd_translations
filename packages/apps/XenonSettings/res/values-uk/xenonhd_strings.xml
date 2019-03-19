@@ -20,7 +20,10 @@
     <!-- Categories -->
     <string name="lockscreen_title">Екран блокування</string>
     <string name="misc_title">Різне</string>
+    <string name="statusbar_title">Панель стану</string>
     <string name="xenonsettings_title">Параметри XenonHD</string>
+    <string name="themes_title">Теми</string>
+    <string name="themes_summary">Змінити стиль інтерфейсу</string>
     <!-- Changelog -->
     <string name="changelog_xenonhd_title">Список змін</string>
     <string name="changelog_xenonhd_error">Помилка завантаження списку змін</string>
@@ -37,7 +40,9 @@
     <string name="xenonota_title">XenonOTA</string>
     <!-- Advanced restart options -->
     <!-- Face Unlock -->
+    <string name="face_auto_unlock_title">Автоматичне розблокування обличчям</string>
     <!-- Tuners -->
+    <string name="statusbar_items_title">Іконки панелі стану</string>
     <!-- Recents panel settings -->
     <!-- ADB debugging notifications -->
     <!-- QuickSettings Panel Transparency -->
@@ -57,4 +62,5 @@
     <string name="screenshot_sound_title">Звук скріншота</string>
     <string name="screenshot_sound_summary">Програвати звук при скріншоті</string>
     <!-- Screenrecord -->
+    <string name="global_actions_screenrecord_title">Запис з екрану</string>
 </resources>
