@@ -16,6 +16,14 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">瀏覽器安裝程式</string>
+    <string name="tutorial">從下面的選單中選擇要安裝的瀏覽器</string>
+    <string name="install">安裝</string>
+    <string-array name="browsers_array">
+        <item>Chrome</item>
+        <item>Firefox</item>
+        <item>Opera</item>
+        <item>Via</item>
+    </string-array>
     <!-- Notifications -->
     <string name="notification">正在下載 $</string>
     <string name="bye">享受您的瀏覽器！</string>
