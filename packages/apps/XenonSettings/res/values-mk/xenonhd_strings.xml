@@ -18,6 +18,11 @@
     <!-- App Title -->
     <!-- Categories -->
     <string name="misc_title">Разно</string>
+    <string name="navigation_title">Navigácia</string>
+    <string name="recents_title">Nedávne aplikácie</string>
+    <string name="statusbar_title">Stavový riadok</string>
+    <string name="themes_title">Motywy</string>
+    <string name="themes_summary">Zmiana stylu interfejsu użytkownika</string>
     <!-- Changelog -->
     <!-- General strings -->
     <string name="reset">Ресетирај</string>
@@ -31,22 +36,52 @@
     <!-- XenonOTA -->
     <!-- Advanced restart options -->
     <!-- Face Unlock -->
+    <string name="face_auto_unlock_title">Automatické odomknutie pomocou tváre</string>
+    <string name="face_auto_unlock_summary">Nezobraziť obrazovku uzamknutia po odomknutí pomocou tváre</string>
     <!-- Tuners -->
+    <string name="statusbar_items_title">Ikony v stavovom riadku</string>
+    <string name="navbar_tuner_title">Tlačidlá navigačného panela</string>
+    <string name="gesture_preference">Pôvodné gestá</string>
+    <string name="buttons_settings">Nastavenia tlačítok</string>
+    <string name="statusbar_settings">Nastavenia stavového riadku</string>
     <!-- Recents panel settings -->
+    <string name="show_clear_all_recents_button_title">Tlačidlo \"Vyčistiť všetko\"</string>
+    <string name="show_clear_all_recents_button_summary">Zobraziť tlačidlo \"Vyčistiť všetko\"</string>
+    <string name="recents_clear_all_location_title">Poloha tlačidla Vyčistiť všetko</string>
     <!-- ADB debugging notifications -->
+    <string name="adb_notify">ADB upozornenia</string>
+    <string name="adb_notify_summary">Zobraziť upozornenie, ak je povolené ladenie sytému Android</string>
     <!-- QuickSettings Panel Transparency -->
+    <string name="qs_panel_alpha_title">Priehľadnosť</string>
     <!-- Quick Settings brightness slider -->
     <string name="qs_show_brightness_title">Лизгач за осветленост</string>
+    <string name="qs_show_brightness_summary">Zobraziť posuvník jasu na paneli rýchlych nastavení</string>
+    <string name="qs_brightness_position_bottom_title">Posuvník jasu v spodnej časti</string>
+    <string name="qs_brightness_position_bottom_summary">Zobraziť posuvník jasu v dolnej časti panela rýchlych nastavení</string>
     <!-- Navigation gestures -->
+    <string name="gesture_settings_title">Navigačné gestá</string>
+    <string name="gesture_settings_summary">Pre navigáciu použiť gesto potiahnutia zospodu nahor</string>
+    <string name="gesture_settings_info">Navigačný panel musí byť vypnutý!\n\nDostupné gestá:\n\nSpäť\n- Potiahnite prstom na ľavej alebo pravej strane\n\nDomov\n- Potiahnite prstom nahor\n\nNedávne aplikácie\n- Potiahnite prstom nahor a podržte\n\nPosledná aplikácia\n- Krátko potiahnite prstom nahor a podržte v strede</string>
     <!-- QS footer warnings -->
+    <string name="qs_footer_warnings_title">Výstrahy v spodnej časti panela rýchlych nastavení</string>
+    <string name="qs_footer_warnings_summary">Zobraziť varovanie v spodnej časti panela rýchlych nastavení, keď je sieť monitorovaná externými aplikáciami alebo VPN</string>
     <!-- Toggle navigation bar -->
     <!-- Smart Pixels -->
+    <string name="smart_pixels_info">Vykresľuje nad ďalšie aplikácie a môže spôsobiť problémy so službou Google Pay atď.\n\nDeaktivujte pred pridaním platobných kariet alebo povoľte/zakážte v správcovi zariadení</string>
+    <string name="smart_pixels_shift">Zabraňuje vypaľovaniu častým prepínaním pixelov</string>
+    <string name="smart_pixels_shift_times_15s">15 sekúnd</string>
     <string name="smart_pixels_shift_times_30s">30 секунди</string>
     <string name="smart_pixels_shift_times_1min">1 минута</string>
+    <string name="smart_pixels_shift_times_2min">2 minúty</string>
     <string name="smart_pixels_shift_times_5min">5 минути</string>
     <string name="smart_pixels_shift_times_10min">10 минути</string>
+    <string name="smart_pixels_shift_times_20min">20 minút</string>
     <string name="smart_pixels_shift_times_30min">30 минути</string>
+    <string name="smart_pixels_shift_times_1h">1 hodina</string>
     <!-- Dashboard -->
+    <string name="dashboard_conditions_title">Upozornenia na hlavnom paneli</string>
+    <string name="dashboard_suggestions_title">Návrhy na hlavnom paneli</string>
     <!-- Screenshot sound -->
     <!-- Screenrecord -->
+    <string name="global_actions_screenrecord_summary">Dodaj przełącznik Nagrywania Ekranu do Menu Zasilania</string>
 </resources>
