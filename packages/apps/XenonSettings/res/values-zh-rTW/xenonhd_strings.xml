@@ -30,6 +30,8 @@
     <string name="notifications_title">通知</string>
     <string name="xenonhd_title">XenonHD 中心</string>
     <string name="xenonsettings_title">XenonHD 設定</string>
+    <string name="themes_title">主題</string>
+    <string name="themes_summary">變更 UI 樣式</string>
     <!-- Changelog -->
     <string name="changelog_xenonhd_title">更新日誌</string>
     <string name="changelog_xenonhd_error">無法讀取更新日誌</string>
@@ -121,4 +123,5 @@
     <string name="screenshot_sound_summary">擷取螢幕畫面時播放音效</string>
     <!-- Screenrecord -->
     <string name="global_actions_screenrecord_title">螢幕錄製</string>
+    <string name="global_actions_screenrecord_summary">將螢幕錄製切換新增至電源選單</string>
 </resources>
