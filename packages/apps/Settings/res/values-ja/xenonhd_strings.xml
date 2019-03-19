@@ -22,7 +22,12 @@
     <string name="xenonhd_settings_title">XenonHDハブ</string>
     <string name="xenonhd_settings_summary">その他の設定</string>
     <!-- Ambient Play -->
+    <string name="ambient_play_summary">近隣の曲を表示</string>
+    <string name="ambient_play_lockscreen_title">ロック画面に曲を表示する</string>
     <string name="ambient_play_notifications_title">通知</string>
+    <string name="ambient_play_switch_bar_on">ON</string>
+    <string name="ambient_play_switch_bar_off">OFF</string>
+    <string name="ambient_play_help_text">近隣で音楽が再生中の時に曲名とアーティスト名を表示できます。この機能を有効にするとバッテリー消費とデータ通信が増加することがあります。</string>
     <!-- Battery stats reset -->
     <string name="battery_stats_reset">統計をリセット</string>
     <string name="battery_stats_message">バッテリの使用履歴はリセットされます</string>
