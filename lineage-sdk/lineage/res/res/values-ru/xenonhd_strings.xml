@@ -16,14 +16,16 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="accent_xenonhd_amber">Янтарный</string>
+    <string name="accent_xenonhd_bluelight">Синий цвет</string>
     <string name="accent_xenonhd_cyan">Бирюзовый</string>
     <string name="accent_xenonhd_denim">Джинса</string>
     <string name="accent_xenonhd_gold">Золотой</string>
+    <string name="accent_xenonhd_greenlight">Зелёный цвет</string>
     <string name="accent_xenonhd_lime">Лаймовый</string>
     <string name="accent_xenonhd_orange">Оранжевый</string>
     <string name="accent_xenonhd_oxygen">Кислород</string>
     <string name="accent_xenonhd_pink">Розовый</string>
-    <string name="accent_xenonhd_pixel">Pixel</string>
+    <string name="accent_xenonhd_pixel">Пиксель</string>
     <string name="accent_xenonhd_purple">Фиолетовый</string>
     <string name="accent_xenonhd_red">Красный</string>
     <string name="accent_xenonhd_teal">Морской волны</string>
