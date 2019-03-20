@@ -87,7 +87,7 @@
     <string name="gesture_settings_title">Gezinme hareketleri</string>
     <string name="gesture_settings_summary">Gezinme için yukarı kaydırma hareketlerini kullan</string>
     <string name="use_bottom_gesture_title">Kaydırma hareketleri</string>
-    <string name="gesture_settings_info">Gezinme çubuğu devre dışı bırakılmalıdır!\n\nKullanılabilir hareketler:\n\nGeri\n- Soldan veya sağdan hızlıca kaydırın\n\nAna ekran\n- Kaydırma merkezi\n\nYeni uygulamalar\n- Merkezinizi hızlıca kaydırın ve tutun\n\nSon uygulamalar\n- Kısa hızlı yukarı kaydırıp merkezde tutun</string>
+    <string name="gesture_settings_info">Gezinme çubuğu devre dışı bırakılmalıdır!\n\nKullanılabilir hareketler:\n\nGeri\n- Soldan veya sağdan hızlıca kaydırın\n\nAna ekran\n- Kaydırma merkezi\n\nYeni uygulamalar\n- Ortadan yukarı kaydırın ve tutun\n\nSon uygulamalar\n- Kısa hızlı yukarı kaydırıp merkezde tutun</string>
     <!-- QS footer warnings -->
     <string name="qs_footer_warnings_title">Bilgi uyarıları</string>
     <string name="qs_footer_warnings_summary">Ağ harici uygulamalar veya VPN ile izlendiğinde hızlı ayarlar panelinin altına bir uyarı göster</string>
@@ -119,8 +119,8 @@
     <string name="summary_dashboard_suggestions_enabled">Ayarlar menüsü önerileri etkin</string>
     <string name="summary_dashboard_suggestions_disabled">Ayarlar menüsü önerileri devre dışı</string>
     <!-- Screenshot sound -->
-    <string name="screenshot_sound_title">Ekran görüntü sesi</string>
-    <string name="screenshot_sound_summary">Ekran görüntüsü alındığında ses efekti çıkar</string>
+    <string name="screenshot_sound_title">Ekran görüntüsü sesi</string>
+    <string name="screenshot_sound_summary">Ekran görüntüsü alınırken ses çıkar</string>
     <!-- Screenrecord -->
     <string name="global_actions_screenrecord_title">Ekran kaydı</string>
     <string name="global_actions_screenrecord_summary">Güç menüsüne ekran kaydı geçişi ekle</string>
