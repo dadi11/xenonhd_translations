@@ -21,7 +21,7 @@
     <string name="buttons_title">Tuşlar</string>
     <string name="gestures_title">Hareketler</string>
     <string name="lockscreen_title">Kilit ekranı</string>
-    <string name="misc_title">Çeşitler</string>
+    <string name="misc_title">Çeşitli</string>
     <string name="navigation_title">Gezinme</string>
     <string name="power_title">Güç menüsü</string>
     <string name="qs_title">Hızlı ayarlar</string>
@@ -43,19 +43,19 @@
     <string name="save">Kaydet</string>
     <!-- Color Picker -->
     <string name="dialog_color_picker">Renk seçici</string>
-    <string name="press_color_to_apply">Uygulamak İstediğiniz renge basın</string>
+    <string name="press_color_to_apply">Uygulamak istediniz rengin üzerine dokunun</string>
     <string name="hex">Hex:</string>
     <string name="set">Ayarla</string>
     <string name="color_default">Varsayılan</string>
     <!-- XenonOTA -->
-    <string name="xenonota_title">Xenon Güncellemeleri</string>
+    <string name="xenonota_title">Xenon güncellemeleri</string>
     <string name="xenonota_summary">XenonHD güncellemelerini kontrol et</string>
     <!-- Advanced restart options -->
     <string name="advanced_reboot_title">Gelişmiş yeniden başlatma</string>
     <string name="advanced_reboot_summary">Kilit açıldığında kurtarma veya ön yükleyici modunda yeniden başlatmak için güç menüsüne seçenekler ekler</string>
     <!-- Face Unlock -->
     <string name="face_auto_unlock_title">Otomatik kilit açma</string>
-    <string name="face_auto_unlock_summary">Yüz kilidini açtıktan sonra kilit ekranını kapat</string>
+    <string name="face_auto_unlock_summary">Yüz kilidini açtıktan sonra kilit ekranını otomatik kapat</string>
     <!-- Tuners -->
     <string name="statusbar_items_title">Durum çubuğu simgeleri</string>
     <string name="lockscreen_tuner_title">Kilit ekranı kısayolları</string>
@@ -81,7 +81,7 @@
     <!-- Quick Settings brightness slider -->
     <string name="qs_show_brightness_title">Parlaklık kaydırıcı</string>
     <string name="qs_show_brightness_summary">Hızlı ayarlar panelinde parlaklık kaydırıcısını göster</string>
-    <string name="qs_brightness_position_bottom_title">Alt parlaklık kaydırıcısı</string>
+    <string name="qs_brightness_position_bottom_title">Alt parlaklık kaydırıcı</string>
     <string name="qs_brightness_position_bottom_summary">Hızlı ayarlar alt panelinde parlaklık kaydırıcısını göster</string>
     <!-- Navigation gestures -->
     <string name="gesture_settings_title">Gezinme hareketleri</string>
