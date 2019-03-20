@@ -25,8 +25,8 @@
     <string name="dialog_message">Güncellemeler kontrol ediliyor, lütfen bekleyin…</string>
     <string name="download_cancelled_msg">İndirme işlemi iptal edildi</string>
     <string name="download_cancelled_title">İndirme iptal edildi</string>
-    <string name="download_complete_msg_gapps">GApps başarıyla indirildi. Yükleme iletişim kutusunda GApps seçeneğini seçerek ROM ile birlikte yükleyebilirsiniz</string>
-    <string name="download_complete_msg_magisk">Magisk başarıyla indirildi. Yükleme iletişim kutusunda Magisk seçeneğini seçerek ROM ile birlikte Magisk yükleyebilirsiniz</string>
+    <string name="download_complete_msg_gapps">Gapps başarıyla indirildi. Yükleme iletişim kutusunda gapps seçeneğini seçerek rom ile birlikte yükleyebilirsiniz</string>
+    <string name="download_complete_msg_magisk">Magisk başarıyla indirildi. Yükleme iletişim kutusunda magisk seçeneğini seçerek rom ile birlikte magisk yükleyebilirsiniz</string>
     <string name="download_complete_msg_ota">Güncelleme başarıyla indirildi. Kurtarma işlemini yeniden başlatmak ve yüklemek için \"Yükleye\" basın</string>
     <string name="download_complete_title">İndirme tamamlandı</string>
     <string name="download_confirm_msg">İndirmeden önce lütfen olanylayın:\n\nAndroid sürümü\t\t:\t%1$s\nCPU platformu\t\t\t:\t%2$s\nPaket variant\t\t:\t%3$s</string>
@@ -35,7 +35,7 @@
     <string name="failed">Başarısız</string>
     <string name="flash_message">İndirilen zip\'i yeniden yüklemek mi istiyorsunuz?</string>
     <string name="magisk_check">En son magisk sürümü kontrol ediliyor…</string>
-    <string name="magisk_download_completed">Magisk başarıyla indirildi. Şimdi ROM ile birlikte yükleme yapabilirsiniz</string>
+    <string name="magisk_download_completed">Magisk başarıyla indirildi. Şimdi rom ile birlikte yükleme yapabilirsiniz</string>
     <string name="magisk_message">Magisk v%1$s (%2$s) kullanılabilir.\nBunu indirmek istiyor musunuz?</string>
     <string name="open_in_browser">Tarayıcıda aç</string>
     <string name="reboot_warning">Kurtarma modunda başlatmak istiyormusunuz?</string>
@@ -60,7 +60,7 @@
     <string name="loading">Yükleniyor…</string>
     <!-- Navigation -->
     <string name="title_gapps">Gapps</string>
-    <string name="title_rom">ROM</string>
+    <string name="title_rom">Rom</string>
     <string name="title_settings">Ayarlar</string>
     <!-- Notifications -->
     <string name="notification_message">Kullanılabilir yeni sürüm mevcut!</string>
