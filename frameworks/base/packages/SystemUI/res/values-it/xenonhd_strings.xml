@@ -27,9 +27,20 @@
     <!-- Smart Pixels QS Tile -->
     <string name="quick_settings_smart_pixels">Smart Pixels</string>
     <!-- Screenrecord Notification Ticker -->
+    <string name="screenrecord_notif_ticker">Schermo in fase di registrazione</string>
+    <string name="screenrecord_notif_final_ticker">Lo schermo è stato registrato con successo</string>
     <!-- Screenrecord notification title -->
+    <string name="screenrecord_notif_title">Registrazione schermo</string>
     <!-- Screenrecord notification action: Stop -->
+    <string name="screenrecord_notif_stop">Stop</string>
+    <string name="screenrecord_notif_completed">Lo schermo è stato registrato con successo</string>
     <!-- Screenrecord notification action: show/hide pointer -->
+    <string name="screenrecord_notif_pointer_on">Mostra puntatore</string>
+    <string name="screenrecord_notif_pointer_off">Nascondi puntatore</string>
     <!-- Screen record notification error title -->
+    <string name="screenrecord_notif_error">Impossibile registrare lo schermo</string>
+    <string name="notification_channel_screenrecord">Registrazioni schermo</string>
     <!-- Label for item that screenrecords in power menu options dialog -->
+    <string name="screenrecord_hide_hint">Nascondi suggerimento</string>
+    <string name="screenrecord_show_hint">Mostra suggerimento</string>
 </resources>
