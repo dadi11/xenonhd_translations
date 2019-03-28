@@ -29,7 +29,26 @@
     <string name="download_complete_msg_magisk">Magisk scaricato con successo. Installa Magisk insieme alla ROM selezionando l\'opzione Magisk nella finestra del Flash</string>
     <string name="download_complete_msg_ota">Aggiornamento scaricato con successo. Premi \"Flash\" per riavviare e installare in recovery</string>
     <string name="download_complete_title">Download completato</string>
+    <string name="download_confirm_msg">Conferma prima di scaricare:\n\nversione Android\t\t:\t%1$s\npiattaforma Cpu\t\t\t:\t%2$s\nvariante pacchetto\t\t:\t%3$s</string>
+    <string name="download_interrupted_msg">Il download è stato interrotto a causa di %1$s</string>
+    <string name="download_interrupted_title">Download interrotto</string>
+    <string name="failed">Non riuscito</string>
+    <string name="flash_message">Vuoi riavviare e installare lo zip scaricato?</string>
+    <string name="magisk_check">Controllo dell\'ultima versione di Magisk…</string>
+    <string name="magisk_download_completed">Magisk scaricato con successo. Puoi flasharlo con la ROM ora</string>
+    <string name="magisk_message">Magisk v%1$s (%2$s) disponibile.\nVuoi scaricarlo?</string>
+    <string name="open_in_browser">Apri nel browser</string>
+    <string name="reboot_warning">Vuoi avviare in recovery?</string>
+    <string name="verification_failed">Verifica non riuscita</string>
+    <string name="verifying_package">Verifica pacchetto…</string>
+    <string name="openfiledialog_titile">...%s</string>
     <!-- Downloader -->
+    <string name="downloading">Download in Corso…</string>
+    <string name="prog">%1$d%%</string>
+    <string name="progress_size">%1$s / %2$s</string>
+    <string name="size_bytes">%1$d B</string>
+    <string name="size_kb">%1$s KB</string>
+    <string name="size_mb">%1$s MB</string>
     <!-- Dropdowns -->
     <string name="choose_gapps_zip">Scegli file zip GApps esistente</string>
     <string name="download_magisk">Scarica Magisk</string>
@@ -61,6 +80,7 @@
     <string name="no_update_available">Nessun aggiornamento disponibile</string>
     <string name="update_available1">Aggiornamento disponibile!\n%s (%s)</string>
     <string name="xenonhd_version">XenonHD %s</string>
+    <string name="device_name">%1$s (%2$s)</string>
     <!-- Settings -->
     <string name="disabled">Disabilitato</string>
     <string name="rom_latest">Ultima ( &amp; Sperimentale ufficiale)</string>
