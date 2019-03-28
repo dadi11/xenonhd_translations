@@ -23,19 +23,50 @@
     <string name="dialog_message">Controllo degli aggiornamenti, si prega di attendere…</string>
     <!-- Downloader -->
     <!-- Dropdowns -->
+    <string name="choose_gapps_zip">Scegli file zip GApps esistente</string>
+    <string name="download_magisk">Scarica Magisk</string>
     <string name="reboot_recovery">Riavvia in recovery</string>
     <!-- GApps -->
+    <string name="gapps_ok">Le GApps sono state installate!</string>
+    <string name="gapps_warning">Le GApps non sono state installate!</string>
+    <string name="latest_release_msg">Ultima versione per %1$s %2$s</string>
+    <string name="loading">Caricamento…</string>
     <!-- Navigation -->
+    <string name="title_gapps">Gapps</string>
     <string name="title_rom">ROM</string>
+    <string name="title_settings">Impostazioni</string>
     <!-- Notifications -->
+    <string name="notification_message">Una nuova versione è disponibile!</string>
+    <string name="notification_title">Aggiornamento XenonHD</string>
     <string name="xenonota_channel">Notifiche di XenonOTA</string>
     <string name="xenonota_channel_description">Notifiche sui nuovi aggiornamenti di XenonHD</string>
     <!-- ROM -->
     <string name="changelog_title">Modifiche</string>
     <string name="check_update_title">Cerca aggiornamenti</string>
+    <string name="current_version">Versione attuale:</string>
+    <string name="download">Scarica</string>
+    <string name="flash">Flash</string>
+    <string name="flash_clean">Clean flash</string>
+    <string name="flash_gapps">Flash GApps</string>
+    <string name="flash_magisk">Flash Magisk</string>
+    <string name="my_device">Dispositivo</string>
+    <string name="no_update_available">Nessun aggiornamento disponibile</string>
+    <string name="update_available1">Aggiornamento disponibile!\n%s (%s)</string>
+    <string name="xenonhd_version">XenonHD %s</string>
     <!-- Settings -->
     <string name="disabled">Disabilitato</string>
+    <string name="rom_latest">Ultima ( &amp; Sperimentale ufficiale)</string>
+    <string name="rom_official">Solo official</string>
+    <string name="rom_experimental">Solo experimental</string>
+    <string name="gapps_variant">Versione GApps</string>
+    <string name="magisk_variant">Versione Magisk</string>
+    <string name="magisk_latest">Ultima (Stable &amp; Beta)</string>
+    <string name="magisk_stable">Solo stabile</string>
+    <string name="magisk_beta">Solo Beta</string>
     <string name="hour">Ogni ora</string>
+    <string name="interval_title">Controlla la programmazione degli aggiornamenti</string>
+    <string name="onboot">All\'avvio</string>
+    <string name="preferred_type">Tipo di build preferita</string>
     <string name="twelve_hours">Ogni 12 ore</string>
     <string name="twentyfour_hours">Ogni 24 ore</string>
     <!-- Toast -->
