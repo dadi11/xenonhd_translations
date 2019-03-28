@@ -20,7 +20,15 @@
     <string name="app_title">Aggiornamenti XenonHD</string>
     <!-- Dialogs -->
     <string name="cancel">Annulla</string>
+    <string name="close">Chiudi</string>
+    <string name="confirm">Conferma</string>
     <string name="dialog_message">Controllo degli aggiornamenti, si prega di attendere…</string>
+    <string name="download_cancelled_msg">Il download è stato annullato</string>
+    <string name="download_cancelled_title">Download annullato</string>
+    <string name="download_complete_msg_gapps">GApps scaricate con successo. Installa le GApps insieme alla ROM selezionando l\'opzione GApps nella finestra del Flash</string>
+    <string name="download_complete_msg_magisk">Magisk scaricato con successo. Installa Magisk insieme alla ROM selezionando l\'opzione Magisk nella finestra del Flash</string>
+    <string name="download_complete_msg_ota">Aggiornamento scaricato con successo. Premi \"Flash\" per riavviare e installare in recovery</string>
+    <string name="download_complete_title">Download completato</string>
     <!-- Downloader -->
     <!-- Dropdowns -->
     <string name="choose_gapps_zip">Scegli file zip GApps esistente</string>
@@ -70,6 +78,12 @@
     <string name="twelve_hours">Ogni 12 ore</string>
     <string name="twentyfour_hours">Ogni 24 ore</string>
     <!-- Toast -->
+    <string name="autoupdate_disabled">Il controllo automatico degli aggiornamenti è disattivato</string>
+    <string name="autoupdate_enabled">Il controllo automatico degli aggiornamenti è attivato</string>
     <string name="check_update_failed">Impossibile controllare gli aggiornamenti. Controlla la connessione internet e se il dispositivo è ufficialmente supportato</string>
+    <string name="gapps_set">Percorso Gapps impostato a %s</string>
+    <string name="magisk_error">Impossibile ottenere l\'ultimo link di Magisk</string>
+    <string name="permission_not_enabled">XenonOTA non ha i permessi per salvare i file. Si prega di consentire prima l\'accesso all\'archiviazione</string>
+    <string name="toast_message">Nessun browser installato</string>
     <string name="update_available">Aggiornamento disponibile!</string>
 </resources>
