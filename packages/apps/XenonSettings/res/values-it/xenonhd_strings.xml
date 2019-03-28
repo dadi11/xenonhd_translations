@@ -75,8 +75,12 @@
     <!-- Quick Settings brightness slider -->
     <string name="qs_show_brightness_title">Cursore luminosità</string>
     <!-- Navigation gestures -->
+    <string name="gesture_settings_title">Gesti di navigazione</string>
+    <string name="gesture_settings_summary">Scorri verso l\'alto dalla parte inferiore dello schermo per navigare</string>
     <string name="use_bottom_gesture_title">Gesture di scorrimento verso l\'alto</string>
+    <string name="gesture_settings_info">La navbar deve essere disabilitata!\n\nGesture disponibili:\n\nIndietro\nSwipe verso l\'alto nella parte destra o sinistra\n\nHome\nSwipe verso l\'alto al centro\n\nApp recenti\nSwipe verso l\'alto al centro tenendo premuto\n\nUltima app usata\nBreve swipe verso l\'alto tenendo premuto al centro</string>
     <!-- QS footer warnings -->
+    <string name="qs_footer_warnings_title">Avvisi di piè di pagina delle impostazioni rapide</string>
     <!-- Toggle navigation bar -->
     <string name="navigation_bar_enabled_title">Abilita barra di navigazione</string>
     <!-- Smart Pixels -->
