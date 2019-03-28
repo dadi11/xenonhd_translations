@@ -22,11 +22,16 @@
     <string name="gestures_title">Gesti</string>
     <string name="lockscreen_title">Schermata di blocco</string>
     <string name="misc_title">Varie</string>
+    <string name="navigation_title">Navigazione</string>
     <string name="power_title">Menù di spegnimento</string>
     <string name="qs_title">Impostazioni rapide</string>
+    <string name="recents_title">App recenti</string>
+    <string name="statusbar_title">Barra di stato</string>
     <string name="notifications_title">Notifiche</string>
     <string name="xenonhd_title">XenonHD Hub</string>
     <string name="xenonsettings_title">Impostazioni XenonHD</string>
+    <string name="themes_title">Temi</string>
+    <string name="themes_summary">Cambia lo stile UI</string>
     <!-- Changelog -->
     <string name="changelog_xenonhd_title">Modifiche</string>
     <string name="changelog_xenonhd_error">Impossibile caricare le modifiche</string>
@@ -49,8 +54,15 @@
     <string name="advanced_reboot_title">Riavvio avanzato</string>
     <string name="advanced_reboot_summary">Quando selezionato, include nel menù di spegnimento le opzioni per riavviare in modalitá recovery o bootloader</string>
     <!-- Face Unlock -->
+    <string name="face_auto_unlock_title">Sblocco automatico con viso</string>
+    <string name="face_auto_unlock_summary">Esci dalla schermata di blocco dopo aver sbloccato col viso</string>
     <!-- Tuners -->
+    <string name="statusbar_items_title">Icone barra di stato</string>
     <string name="lockscreen_tuner_title">Scorciatoie schermata di sblocco</string>
+    <string name="navbar_tuner_title">Pulsanti barra di navigazione</string>
+    <string name="gesture_preference">Gesti nativi</string>
+    <string name="buttons_settings">Impostazioni pulsanti</string>
+    <string name="statusbar_settings">Impostazioni barra di stato</string>
     <!-- Recents panel settings -->
     <string name="recents_clear_all_location_top_right">In alto a destra</string>
     <string name="recents_clear_all_location_top_left">In alto a sinistra</string>
