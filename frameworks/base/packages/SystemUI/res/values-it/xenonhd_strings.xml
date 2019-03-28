@@ -18,6 +18,10 @@
     <string name="statusbar_items_title">Icona barra di stato</string>
     <string name="lockscreen_tuner_title">Scorciatoie schermata di sblocco</string>
     <string name="lockscreen_default">Predefinito</string>
+    <string name="lockscreen_hidden">Nessuno</string>
+    <string name="custom_hint">Scorri dall\'icona per avviare</string>
+    <string name="status_bar_vpn">VPN</string>
+    <string name="status_bar_roaming">Roaming</string>
     <string name="status_bar_data_saver">Risparmio dati</string>
     <!-- QS Config -->
     <string name="qs_menu_item_columns">Colonne</string>
