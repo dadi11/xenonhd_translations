@@ -101,7 +101,7 @@
     <string name="smart_pixels_on_power_save_summary">Attiva Smart Pixel quando la funzione \"Risparmio energetico\" viene attivata</string>
     <string name="smart_pixels_percent">Percentuale di pixel da disattivare</string>
     <string name="smart_pixels_info">Si scarica sulle app e può causare qualche problema con Google Pay ecc.\n\nDisabilitalo prima di aggiungere carte di pagamento o abilitare/disabilitare gli amministratori del dispositivo</string>
-    <string name="smart_pixels_shift">Previene burn-in spostando i pixel</string>
+    <string name="smart_pixels_shift">Previene burn-in spostando i pixel ogni</string>
     <string name="smart_pixels_shift_times_15s">15 secondi</string>
     <string name="smart_pixels_shift_times_30s">30 secondi</string>
     <string name="smart_pixels_shift_times_1min">1 minuto</string>
