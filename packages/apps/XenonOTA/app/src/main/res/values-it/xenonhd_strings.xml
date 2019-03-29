@@ -83,7 +83,7 @@
     <string name="device_name">%1$s (%2$s)</string>
     <!-- Settings -->
     <string name="disabled">Disabilitato</string>
-    <string name="rom_latest">Ultima ( &amp; Sperimentale ufficiale)</string>
+    <string name="rom_latest">Ultima (Official &amp; Experimental)</string>
     <string name="rom_official">Solo official</string>
     <string name="rom_experimental">Solo experimental</string>
     <string name="gapps_variant">Versione GApps</string>
@@ -92,7 +92,7 @@
     <string name="magisk_stable">Solo stabile</string>
     <string name="magisk_beta">Solo Beta</string>
     <string name="hour">Ogni ora</string>
-    <string name="interval_title">Controlla la programmazione degli aggiornamenti</string>
+    <string name="interval_title">Controlla l\'intervallo degli aggiornamenti</string>
     <string name="onboot">All\'avvio</string>
     <string name="preferred_type">Tipo di build preferita</string>
     <string name="twelve_hours">Ogni 12 ore</string>
