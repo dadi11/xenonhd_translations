@@ -25,6 +25,6 @@
         <item>Via</item>
     </string-array>
     <!-- Notifications -->
-    <string name="notification">Download</string>
-    <string name="bye">Godetevi il vostro browser!</string>
+    <string name="notification">Download in corso $</string>
+    <string name="bye">Goditi il tuo browser!</string>
 </resources>
