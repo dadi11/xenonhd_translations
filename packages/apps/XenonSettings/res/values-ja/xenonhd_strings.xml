@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="xenonhd_settings_title">XenonHDの設定</string>
+    <string name="xenonhd_settings_title">XenonHD の設定</string>
     <!-- Categories -->
     <string name="buttons_title">ボタン</string>
     <string name="gestures_title">ジェスチャー</string>
@@ -28,8 +28,8 @@
     <string name="recents_title">アプリ履歴</string>
     <string name="statusbar_title">ステータスバー</string>
     <string name="notifications_title">通知</string>
-    <string name="xenonhd_title">XenonHDハブ</string>
-    <string name="xenonsettings_title">XenonHDの設定</string>
+    <string name="xenonhd_title">XenonHD ハブ</string>
+    <string name="xenonsettings_title">XenonHD の設定</string>
     <string name="themes_title">テーマ</string>
     <string name="themes_summary">UI スタイルの変更</string>
     <!-- Changelog -->
@@ -49,7 +49,7 @@
     <string name="color_default">既定</string>
     <!-- XenonOTA -->
     <string name="xenonota_title">XenonOTA</string>
-    <string name="xenonota_summary">XenonHDの更新を確認する</string>
+    <string name="xenonota_summary">XenonHD の更新を確認する</string>
     <!-- Advanced restart options -->
     <string name="advanced_reboot_title">高度な再起動</string>
     <string name="advanced_reboot_summary">ロック解除時にリカバリーやブートローダーで再起動するオプションを電源メニューに含める</string>
