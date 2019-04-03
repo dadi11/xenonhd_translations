@@ -19,7 +19,7 @@
     <string name="xenonhd_version">XenonHD バージョン</string>
     <string name="xenonhd_maintainer">メンテナ</string>
     <!-- XenonHD Hub -->
-    <string name="xenonhd_settings_title">XenonHDハブ</string>
+    <string name="xenonhd_settings_title">XenonHD ハブ</string>
     <string name="xenonhd_settings_summary">その他の設定</string>
     <!-- Ambient Play -->
     <string name="ambient_play_summary">近隣の曲を表示</string>
