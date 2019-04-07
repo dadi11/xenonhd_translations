@@ -18,5 +18,8 @@
     <!-- MicroG -->
     <string name="permlab_fakePackageSignature">Imitazione firma del pacchetto</string>
     <!-- Description of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
+    <string name="permdesc_fakePackageSignature">Consenti all\'app di fingersi un\'altra app. Le applicazioni dannose potrebbero essere in grado di usare questo metodo per accedere ai dati privati delle applicazioni. Un uso legittimo include un emulatore che pretende di essere ciò che emula. Concedi questo permesso solo con cautela!</string>
     <!-- AmbientPlay: The contents of the displayed recognition. -->
+    <string name="ambient_recognition_notification">In riproduzione</string>
+    <string name="ambient_recognition_information">%1$s da %2$s</string>
 </resources>
