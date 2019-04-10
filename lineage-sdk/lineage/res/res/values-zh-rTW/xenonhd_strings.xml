@@ -16,10 +16,14 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="accent_xenonhd_amber">琥珀色</string>
+    <string name="accent_xenonhd_black">黑體</string>
+    <string name="accent_xenonhd_blue">藍色</string>
     <string name="accent_xenonhd_bluelight">藍光</string>
+    <string name="accent_xenonhd_brown">棕色</string>
     <string name="accent_xenonhd_cyan">青色</string>
     <string name="accent_xenonhd_denim">牛仔色</string>
     <string name="accent_xenonhd_gold">金色</string>
+    <string name="accent_xenonhd_green">綠色</string>
     <string name="accent_xenonhd_greenlight">綠光</string>
     <string name="accent_xenonhd_lime">淺綠色</string>
     <string name="accent_xenonhd_orange">橘黃色</string>
