@@ -16,9 +16,12 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="accent_xenonhd_amber">Ανοικτό πορτοκαλί</string>
+    <string name="accent_xenonhd_black">Μαύρο</string>
+    <string name="accent_xenonhd_brown">Καφέ</string>
     <string name="accent_xenonhd_cyan">Κυανό</string>
     <string name="accent_xenonhd_denim">Ντένιμ</string>
     <string name="accent_xenonhd_gold">Χρυσό</string>
+    <string name="accent_xenonhd_green">Πράσινο</string>
     <string name="accent_xenonhd_orange">Πορτοκαλί</string>
     <string name="accent_xenonhd_oxygen">Οξυγόνο</string>
     <string name="accent_xenonhd_pink">Ροζ</string>
