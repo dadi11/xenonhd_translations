@@ -15,10 +15,14 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="accent_xenonhd_amber">Amber</string>
+    <string name="accent_xenonhd_black">Black</string>
+    <string name="accent_xenonhd_blue">Blue</string>
     <string name="accent_xenonhd_bluelight">BlueLight</string>
+    <string name="accent_xenonhd_brown">Brown</string>
     <string name="accent_xenonhd_cyan">Cyan</string>
     <string name="accent_xenonhd_denim">Denim</string>
     <string name="accent_xenonhd_gold">Gold</string>
+    <string name="accent_xenonhd_green">Green</string>
     <string name="accent_xenonhd_greenlight">GreenLight</string>
     <string name="accent_xenonhd_lime">Lime</string>
     <string name="accent_xenonhd_orange">Orange</string>
