@@ -16,9 +16,12 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="accent_xenonhd_amber">Merevaigukollane</string>
+    <string name="accent_xenonhd_black">Must</string>
+    <string name="accent_xenonhd_brown">Pruun</string>
     <string name="accent_xenonhd_cyan">Erksinine</string>
     <string name="accent_xenonhd_denim">Denim</string>
     <string name="accent_xenonhd_gold">Kuldne</string>
+    <string name="accent_xenonhd_green">Roheline</string>
     <string name="accent_xenonhd_orange">Oranž</string>
     <string name="accent_xenonhd_pink">Roosa</string>
     <string name="accent_xenonhd_purple">Lilla</string>
