@@ -105,5 +105,5 @@
     <string name="magisk_error">最新版の Magisk リンクを取得できません</string>
     <string name="permission_not_enabled">XenonOTA にファイル保存の許可がありません。最初にストレージアクセスを許可して下さい。</string>
     <string name="toast_message">ブラウザがインストールされていません</string>
-    <string name="update_available">更新があります！</string>
+    <string name="update_available">更新があります!</string>
 </resources>
