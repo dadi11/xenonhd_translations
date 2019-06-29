@@ -16,10 +16,14 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="accent_xenonhd_amber">Koyu sarı</string>
+    <string name="accent_xenonhd_black">Siyah</string>
+    <string name="accent_xenonhd_blue">Mavi</string>
     <string name="accent_xenonhd_bluelight">Açık mavi</string>
+    <string name="accent_xenonhd_brown">Kahverengi</string>
     <string name="accent_xenonhd_cyan">Camgöbeği</string>
     <string name="accent_xenonhd_denim">Denim</string>
     <string name="accent_xenonhd_gold">Altın sarısı</string>
+    <string name="accent_xenonhd_green">Yeşil</string>
     <string name="accent_xenonhd_greenlight">Açık yeşil</string>
     <string name="accent_xenonhd_lime">Limon yeşili</string>
     <string name="accent_xenonhd_orange">Turuncu</string>

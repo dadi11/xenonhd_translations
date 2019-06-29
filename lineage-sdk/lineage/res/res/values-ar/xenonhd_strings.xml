@@ -16,10 +16,14 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="accent_xenonhd_amber">كهرماني</string>
+    <string name="accent_xenonhd_black">أسود</string>
+    <string name="accent_xenonhd_blue">أزرق</string>
     <string name="accent_xenonhd_bluelight">ضوء أزرق</string>
+    <string name="accent_xenonhd_brown">بني</string>
     <string name="accent_xenonhd_cyan">سماوي</string>
     <string name="accent_xenonhd_denim">دنيم</string>
     <string name="accent_xenonhd_gold">ذهبي</string>
+    <string name="accent_xenonhd_green">أخضر</string>
     <string name="accent_xenonhd_greenlight">ضوء أخضر</string>
     <string name="accent_xenonhd_lime">ليموني</string>
     <string name="accent_xenonhd_orange">برتقالي</string>
